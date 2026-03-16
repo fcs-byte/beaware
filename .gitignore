@@ -1,0 +1,17 @@
+# macOS system files
+.DS_Store
+
+# Node modules
+node_modules/
+
+# Logs
+*.log
+nohup.out
+
+# Potential secrets
+.env
+*.key
+config.json (if contains passwords)
+
+# Agent temporary files
+*_backup.html
