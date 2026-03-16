@@ -1,0 +1,24 @@
+const fs = require('fs');
+const intelligence = JSON.parse(fs.readFileSync('latest_intelligence.json', 'utf8'));
+const monitoringFact = intelligence.find(i => i.source === 'HackerNews')?.title || '隱私法案動態觀測中';
+
+const content = `
+<article style="max-width:800px;margin:auto;border:10px solid #000;padding:40px;background:#fff;font-family:sans-serif;">
+  <header style="background:#FF3131;color:#fff;padding:20px;border-bottom:5px solid #000;">
+    <h1 style="margin:0;">🤖 AI 進化論：監控浪潮下的技術覺醒</h1>
+    <p>BEAWARE OBSERVATORY | 2026-03-17 SPECIAL REPORT</p>
+  </header>
+  <section style="padding:30px 0;">
+    <h2>觀測事實：元數據監控的制度化</h2>
+    <p>今日偵察發現，${monitoringFact.replace(/&#x27;/g, "'")} 標誌著數位國界的進一步限縮。當國家機器開始強制擷取通訊特徵，AI 的發展也正面臨分叉路：是成為監視的工具，還是防禦的盾？</p>
+    <div style="background:#FFF9E3;padding:20px;border:2px solid #000;margin:20px 0;">
+      <h3>📖 知識轉譯：元數據 (Metadata)</h3>
+      <p>不包含訊息內容，但包含通訊時間、地點、對象。它是數位世界裡的『足跡軌跡』，在 AI 聚類分析下，能比訊息內容暴露更多個人隱私。</p>
+    </div>
+    <h2>我們的賦能建議：</h2>
+    <p>面對制度化的監控，讀者應優先考慮採用『端到端加密』與『本地運行模型』。讓數據在產生的一刻即被物理封鎖在您的私有算力中。</p>
+  </section>
+</article>`;
+
+const html = `<!DOCTYPE html><html lang="zh-TW"><head><meta charset="UTF-8"><title>beaware | AI Evolution</title></head><body style="background:#eee;padding:20px;">${content}</body></html>`;
+fs.writeFileSync('index.html', html);

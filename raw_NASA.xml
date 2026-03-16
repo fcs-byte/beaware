@@ -1,0 +1,1458 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	xmlns:media="http://search.yahoo.com/mrss/" >
+
+<channel>
+	<title>NASA</title>
+	<atom:link href="https://www.nasa.gov/news-release/feed/" rel="self" type="application/rss+xml" />
+	<link>https://www.nasa.gov</link>
+	<description>Official National Aeronautics and Space Administration Website</description>
+	<lastBuildDate>Fri, 13 Mar 2026 22:07:28 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.8.5</generator>
+	<item>
+		<title>Volunteers Find Oddly High Solar Flare Rates</title>
+		<link>https://science.nasa.gov/get-involved/citizen-science/volunteers-find-oddly-high-solar-flare-rates/</link>
+		
+		<dc:creator><![CDATA[]]></dc:creator>
+		<pubDate>Fri, 13 Mar 2026 22:07:28 +0000</pubDate>
+				<category><![CDATA[Citizen Science]]></category>
+		<category><![CDATA[Heliophysics Division]]></category>
+		<category><![CDATA[Solar Flares]]></category>
+		<guid isPermaLink="false">https://science.nasa.gov/get-involved/citizen-science/volunteers-find-oddly-high-solar-flare-rates/</guid>
+
+					<description><![CDATA[Patches of the Sun’s surface often show strong magnetic fields. These fields can emerge within a matter of hours, and can decay slowly or quickly, sometimes over days, weeks, or even months. Thanks to a new study about these long-lived active regions, we now know much more about the patches where these strong magnetic fields […]]]></description>
+										<content:encoded><![CDATA[<div id="" class="padding-top-5 padding-bottom-3 width-full maxw-full hds-module hds-module-full alignfull wp-block-nasa-blocks-article-intro">
+<div class="width-full maxw-full article-header">
+<div class="margin-bottom-2 width-full maxw-full">
+<p class="label carbon-60 margin-0 margin-bottom-3 padding-0">2 min read</p>
+<h1 class="display-48 margin-bottom-2">Volunteers Find Oddly High Solar Flare Rates</h1>
+</div>
+</div>
+</div>
+<p>Patches of the Sun’s surface often show strong magnetic fields. These fields can emerge within a matter of hours, and can decay slowly or quickly, sometimes over days, weeks, or even months. Thanks to a <a href="https://iopscience.iop.org/article/10.3847/1538-4357/ae197d" rel="noopener">new study about these long-lived active regions</a>, we now know much more about the patches where these strong magnetic fields take at least a month to decay.</p>
+<p>This study relied on inputs from NASA’s Solar Active Region Spotter citizen science project, which asked volunteers to answer a series of questions about pairs of active region images from NASA’s Solar Dynamics Observatory.</p>
+<p>Project leads Emily Mason (Predictive Science Inc.) and Kara Kniezewski (Air Force Institute of Technology) looked at the data and the analysis done by volunteers. They found that the long-lived active regions produce disproportionately more flares than the shorter-lived regions and are 3-6 times more likely than other active regions to be the source of the most intense kinds of solar flares. These results are a strong indication that long-lived active regions are crucial for predicting space weather and could provide critical information on magnetic fields deeper inside the Sun. </p>
+<p>The Solar Active Region Spotter project is now complete, but you can learn more about the results here: <a href="https://www.zooniverse.org/projects/eimason/solar-active-region-spotter/about/results" rel="noopener">https://www.zooniverse.org/projects/eimason/solar-active-region-spotter/about/results</a></p>
+<p>Explore NASA Citizen Science projects you can join today to help advance our understanding of space weather: <a href="https://go.nasa.gov/3ZK6nvE" rel="noopener">https://go.nasa.gov/3ZK6nvE.</a></p>
+<div id="" class="hds-media hds-module wp-block-image">
+<div class="margin-left-auto margin-right-auto nasa-block-align-inline">
+<div class="hds-media-wrapper margin-left-auto margin-right-auto">
+<figure class="hds-media-inner hds-cover-wrapper hds-media-ratio-fit " style="--hds-image-contain-bg:#ffffff;"><a href="https://assets.science.nasa.gov/dynamicimage/assets/science/cds/citizen-science/highlights/2026/Solar_Active_Region_Spotter.png?w=1600&#038;h=1048&#038;fit=clip&#038;crop=faces%2Cfocalpoint" rel="noopener"><img fetchpriority="high" decoding="async" width="1600" height="1048" src="https://assets.science.nasa.gov/dynamicimage/assets/science/cds/citizen-science/highlights/2026/Solar_Active_Region_Spotter.png?w=1600&#038;h=1048&#038;fit=clip&#038;crop=faces%2Cfocalpoint" class="attachment-2048x2048 size-2048x2048" alt="An example of the data citizen scientists categorized for this project." style="transform: scale(1); transform-origin: 50% 50%; object-position: 50% 50%; object-fit: cover;" block_context="nasa-block" loading="eager" srcset="https://assets.science.nasa.gov/dynamicimage/assets/science/cds/citizen-science/highlights/2026/Solar_Active_Region_Spotter.png?w=1600&#038;h=1048&#038;fit=crop&#038;crop=faces%2Cfocalpoint 1600w, https://assets.science.nasa.gov/dynamicimage/assets/science/cds/citizen-science/highlights/2026/Solar_Active_Region_Spotter.png?w=300&#038;h=197&#038;fit=crop&#038;crop=faces%2Cfocalpoint 300w, https://assets.science.nasa.gov/dynamicimage/assets/science/cds/citizen-science/highlights/2026/Solar_Active_Region_Spotter.png?w=768&#038;h=503&#038;fit=crop&#038;crop=faces%2Cfocalpoint 768w, https://assets.science.nasa.gov/dynamicimage/assets/science/cds/citizen-science/highlights/2026/Solar_Active_Region_Spotter.png?w=1024&#038;h=671&#038;fit=crop&#038;crop=faces%2Cfocalpoint 1024w, https://assets.science.nasa.gov/dynamicimage/assets/science/cds/citizen-science/highlights/2026/Solar_Active_Region_Spotter.png?w=1536&#038;h=1006&#038;fit=crop&#038;crop=faces%2Cfocalpoint 1536w, https://assets.science.nasa.gov/dynamicimage/assets/science/cds/citizen-science/highlights/2026/Solar_Active_Region_Spotter.png?w=400&#038;h=262&#038;fit=crop&#038;crop=faces%2Cfocalpoint 400w, https://assets.science.nasa.gov/dynamicimage/assets/science/cds/citizen-science/highlights/2026/Solar_Active_Region_Spotter.png?w=600&#038;h=393&#038;fit=crop&#038;crop=faces%2Cfocalpoint 600w, https://assets.science.nasa.gov/dynamicimage/assets/science/cds/citizen-science/highlights/2026/Solar_Active_Region_Spotter.png?w=900&#038;h=590&#038;fit=crop&#038;crop=faces%2Cfocalpoint 900w, https://assets.science.nasa.gov/dynamicimage/assets/science/cds/citizen-science/highlights/2026/Solar_Active_Region_Spotter.png?w=1200&#038;h=786&#038;fit=crop&#038;crop=faces%2Cfocalpoint 1200w" sizes="auto, (max-width: 1600px) 100vw, 1600px" /></a></figure><figcaption class="hds-caption padding-y-2">
+<div class="hds-caption-text p-sm margin-0">An example of the data citizen scientists categorized for this project.</div>
+<div class="hds-credits">NASA</div>
+</figcaption></div>
+</div>
+</div>
+<div id="" class="hds-featured-link-list bg-spacesuit-white padding-x-2 tablet:padding-x-3 desktop:padding-x-4 padding-y-5 desktop:padding-y-6 hds-module hds-module-full alignfull wp-block-nasa-blocks-featured-link-list">
+<div class="grid-container grid-container-block padding-0">
+<div class="margin-bottom-4">
+<h2 class="heading-22">
+				Learn More and Get Involved			</h2>
+</p></div>
+<div class="grid-row padding-y-2 border-top-1px border-color-carbon-30-important">
+<div class="grid-row featured-link-list-row width-full flex-align-center">
+<div class="grid-col-2 desktop:grid-col-1 tablet:padding-right-3 desktop:padding-right-5">
+<div class="width-full">
+<div class="hds-cover-wrapper width-full ratio-1x1 radius-pill overflow-hidden">
+<figure class="hds-media-background  "><img decoding="async" width="480" height="480" src="https://assets.science.nasa.gov/dynamicimage/assets/science/cds/general/images/2023/06/ActiveRegionSpotters.jpg?w=480&#038;h=480&#038;fit=clip&#038;crop=faces%2Cfocalpoint" class="attachment-thumbnail size-thumbnail" alt="An image of the sun's atmosphere which has green eruptive areas on it. Overlaying the sun is an illustration of a crosshairs with a white center filled with red and purple dots representing data. The text Solar Active Region Spotter follows the arc of the top hemisphere of the sun." style="transform: scale(1); transform-origin: 5% 0%; object-position: 5% 0%; object-fit: cover;" block_context="nasa-block" loading="lazy" srcset="https://assets.science.nasa.gov/dynamicimage/assets/science/cds/general/images/2023/06/ActiveRegionSpotters.jpg?w=480&#038;h=480&#038;fit=crop&#038;crop=faces%2Cfocalpoint 480w, https://assets.science.nasa.gov/dynamicimage/assets/science/cds/general/images/2023/06/ActiveRegionSpotters.jpg?w=150&#038;h=150&#038;fit=crop&#038;crop=faces%2Cfocalpoint 150w, https://assets.science.nasa.gov/dynamicimage/assets/science/cds/general/images/2023/06/ActiveRegionSpotters.jpg?w=300&#038;h=300&#038;fit=crop&#038;crop=faces%2Cfocalpoint 300w, https://assets.science.nasa.gov/dynamicimage/assets/science/cds/general/images/2023/06/ActiveRegionSpotters.jpg?w=50&#038;h=50&#038;fit=crop&#038;crop=faces%2Cfocalpoint 50w, https://assets.science.nasa.gov/dynamicimage/assets/science/cds/general/images/2023/06/ActiveRegionSpotters.jpg?w=100&#038;h=100&#038;fit=crop&#038;crop=faces%2Cfocalpoint 100w, https://assets.science.nasa.gov/dynamicimage/assets/science/cds/general/images/2023/06/ActiveRegionSpotters.jpg?w=200&#038;h=200&#038;fit=crop&#038;crop=faces%2Cfocalpoint 200w, https://assets.science.nasa.gov/dynamicimage/assets/science/cds/general/images/2023/06/ActiveRegionSpotters.jpg?w=400&#038;h=400&#038;fit=crop&#038;crop=faces%2Cfocalpoint 400w" sizes="auto, (max-width: 480px) 100vw, 480px" /></figure>
+</p></div>
+</p></div>
+</p></div>
+<div class="grid-col-8 desktop:grid-col-10 padding-left-3 desktop:padding-left-0">
+<div class="grid-row flex-align-center">
+<div class="grid-col-12 desktop:grid-col-6">
+<h2 class="heading-36 margin-0">Solar Active Region Spotter</h2>
+</p></div>
+<div class="grid-col-12 desktop:grid-col-6">
+<p class="p-md margin-0 color-carbon-black">Help track active regions as they evolve across solar rotations!</p>
+</p></div>
+</p></div>
+</p></div>
+<div class="grid-col-2 desktop:grid-col-1 display-flex flex-justify-end">
+						<a href="https://www.zooniverse.org/projects/eimason/solar-active-region-spotter" target="_blank" aria-label="" class="link-external-true" rel="noopener"><br />
+                            <svg class="hds-featured-link-list-button margin-left-auto margin-right-0" viewBox="0 0 32 32" fill="none">
+                                <circle class="color-nasa-red" cx="16" cy="16" r="16"></circle><path d="M8 16.956h12.604l-3.844 4.106 1.252 1.338L24 16l-5.988-6.4-1.252 1.338 3.844 4.106H8v1.912z" class="color-spacesuit-white"></path>
+                            </svg><br />
+						</a>
+					</div>
+</p></div>
+</p></div>
+</p></div>
+</p></div>
+<div id="" class="hds-social-media hds-social-media--horizontal grid-container grid-container-block nasa-gb-align- margin-y-0 padding-y-5 padding-x-3 desktop:padding-x-0 font-weight-bold hds-module align wp-block-nasa-blocks-social-media-links">
+<div class="display-flex flex-align-center padding-y-1" id="social-facebook">
+<div class="circle-4 minw-4 display-flex flex-align-center flex-justify-center" style="background-color: #4267B2;">
+				<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" aria-labelledby="facebookIconTitle"><title id="facebookIconTitle">Facebook logo</title><path d="M9 8h-3v4h3v12h5v-12h3.642l.358-4h-4v-1.667c0-.955.192-1.333 1.115-1.333h2.885v-5h-3.808c-3.596 0-5.192 1.583-5.192 4.615v3.385z"/></svg>			</div>
+<div class="hds-social-media-items padding-left-2">
+				<a target="_blank" class="margin-right-2" href="https://facebook.com/nasascience_" aria-label="Go to @nasascience_ on facebook" rel="noopener">@nasascience_</a>			</div>
+</p></div>
+<div class="display-flex flex-align-center padding-y-1" id="social-twitter">
+<div class="circle-4 minw-4 display-flex flex-align-center flex-justify-center" style="background-color: #1DA1F2;">
+				<svg width="1200" height="1227" viewBox="0 0 1200 1227" fill="none" xmlns="http://www.w3.org/2000/svg"><path d="M714.163 519.284L1160.89 0H1055.03L667.137 450.887L357.328 0H0L468.492 681.821L0 1226.37H105.866L515.491 750.218L842.672 1226.37H1200L714.137 519.284H714.163ZM569.165 687.828L521.697 619.934L144.011 79.6944H306.615L611.412 515.685L658.88 583.579L1055.08 1150.3H892.476L569.165 687.854V687.828Z" fill="white"/></svg>			</div>
+<div class="hds-social-media-items padding-left-2">
+				<a target="_blank" class="margin-right-2" href="https://x.com/nasascience_" aria-label="Go to @nasascience_ on twitter">@nasascience_</a>			</div>
+</p></div>
+<div class="display-flex flex-align-center padding-y-1" id="social-instagram">
+<div class="circle-4 minw-4 display-flex flex-align-center flex-justify-center" style="background-color: #833AB4;">
+				<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="169.063px" height="169.063px" viewBox="0 0 169.063 169.063" style="enable-background:new 0 0 169.063 169.063;" xml:space="preserve" aria-labelledby="instagramIconTitle"><title id="instagramIconTitle">Instagram logo</title><g> <path d="M122.406,0H46.654C20.929,0,0,20.93,0,46.655v75.752c0,25.726,20.929,46.655,46.654,46.655h75.752 c25.727,0,46.656-20.93,46.656-46.655V46.655C169.063,20.93,148.133,0,122.406,0z M154.063,122.407 c0,17.455-14.201,31.655-31.656,31.655H46.654C29.2,154.063,15,139.862,15,122.407V46.655C15,29.201,29.2,15,46.654,15h75.752 c17.455,0,31.656,14.201,31.656,31.655V122.407z"/> <path d="M84.531,40.97c-24.021,0-43.563,19.542-43.563,43.563c0,24.02,19.542,43.561,43.563,43.561s43.563-19.541,43.563-43.561 C128.094,60.512,108.552,40.97,84.531,40.97z M84.531,113.093c-15.749,0-28.563-12.812-28.563-28.561 c0-15.75,12.813-28.563,28.563-28.563s28.563,12.813,28.563,28.563C113.094,100.281,100.28,113.093,84.531,113.093z"/> <path d="M129.921,28.251c-2.89,0-5.729,1.17-7.77,3.22c-2.051,2.04-3.23,4.88-3.23,7.78c0,2.891,1.18,5.73,3.23,7.78 c2.04,2.04,4.88,3.22,7.77,3.22c2.9,0,5.73-1.18,7.78-3.22c2.05-2.05,3.22-4.89,3.22-7.78c0-2.9-1.17-5.74-3.22-7.78 C135.661,29.421,132.821,28.251,129.921,28.251z"/></g></svg>			</div>
+<div class="hds-social-media-items padding-left-2">
+				<a target="_blank" class="margin-right-2" href="https://instagram.com/nasascience_" aria-label="Go to @nasascience_ on instagram" rel="noopener">@nasascience_</a>			</div>
+</p></div>
+<div class="display-flex flex-align-center padding-y-1" id="social-linkedin">
+<div class="circle-4 minw-4 display-flex flex-align-center flex-justify-center" style="background-color: #0072b1;">
+				<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" aria-labelledby="linkedinIconTitle"><title id="linkedinIconTitle">Linkedin logo</title><path d="M4.98 3.5c0 1.381-1.11 2.5-2.48 2.5s-2.48-1.119-2.48-2.5c0-1.38 1.11-2.5 2.48-2.5s2.48 1.12 2.48 2.5zm.02 4.5h-5v16h5v-16zm7.982 0h-4.968v16h4.969v-8.399c0-4.67 6.029-5.052 6.029 0v8.399h4.988v-10.131c0-7.88-8.922-7.593-11.018-3.714v-2.155z"/></svg>			</div>
+<div class="hds-social-media-items padding-left-2">
+				<a target="_blank" class="margin-right-2" href="https://linkedin.com/company/nasascience_" aria-label="Go to @nasascience_ on linkedin" rel="noopener">@nasascience_</a>			</div>
+</p></div>
+</p></div>
+<div id="" class="nasa-gb-align-full width-full maxw-full padding-x-3 padding-y-0 article_a hds-module hds-module-full alignfull wp-block-nasa-blocks-credits-and-details">
+<section class="padding-x-0 padding-top-5 padding-bottom-2 desktop:padding-top-7 desktop:padding-bottom-9">
+<div class="grid-row grid-container maxw-widescreen padding-0">
+<div class="grid-col-12 desktop:grid-col-2 padding-right-4 margin-bottom-5 desktop:margin-bottom-0">
+<div class="padding-top-3 border-top-1px border-color-carbon-black">
+<div class="margin-bottom-2">
+<h2 class="heading-14">Share</h2>
+</p></div>
+<div class="padding-bottom-2">
+<ul class="social-icons social-icons-round">
+<li class="social-icon social-icon-x">
+							<a href="https://x.com/intent/tweet?via=NASA&#038;text=Volunteers%20Find%20Oddly%20High%20Solar%20Flare%20Rates&#038;url=https%3A%2F%2Fscience.nasa.gov%2Fget-involved%2Fcitizen-science%2Fvolunteers-find-oddly-high-solar-flare-rates%2F" aria-label="Share on X."><br />
+								<svg width="1200" height="1227" viewBox="0 0 1200 1227" fill="none" xmlns="http://www.w3.org/2000/svg"><path d="M714.163 519.284L1160.89 0H1055.03L667.137 450.887L357.328 0H0L468.492 681.821L0 1226.37H105.866L515.491 750.218L842.672 1226.37H1200L714.137 519.284H714.163ZM569.165 687.828L521.697 619.934L144.011 79.6944H306.615L611.412 515.685L658.88 583.579L1055.08 1150.3H892.476L569.165 687.854V687.828Z" fill="white"/></svg><br />
+							</a>
+						</li>
+<li class="social-icon social-icon-facebook">
+							<a href="https://www.facebook.com/sharer.php?u=https%3A%2F%2Fscience.nasa.gov%2Fget-involved%2Fcitizen-science%2Fvolunteers-find-oddly-high-solar-flare-rates%2F" aria-label="Share on Facebook." rel="noopener"><br />
+								<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" aria-hidden="true"><path d="M9 8h-3v4h3v12h5v-12h3.642l.358-4h-4v-1.667c0-.955.192-1.333 1.115-1.333h2.885v-5h-3.808c-3.596 0-5.192 1.583-5.192 4.615v3.385z"/></svg><br />
+							</a>
+						</li>
+<li class="social-icon social-icon-linkedin">
+							<a href="https://www.linkedin.com/shareArticle?mini=true&#038;url=https%3A%2F%2Fscience.nasa.gov%2Fget-involved%2Fcitizen-science%2Fvolunteers-find-oddly-high-solar-flare-rates%2F" aria-label="Share on LinkedIn." rel="noopener"><br />
+								<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" aria-hidden="true"><path d="M4.98 3.5c0 1.381-1.11 2.5-2.48 2.5s-2.48-1.119-2.48-2.5c0-1.38 1.11-2.5 2.48-2.5s2.48 1.12 2.48 2.5zm.02 4.5h-5v16h5v-16zm7.982 0h-4.968v16h4.969v-8.399c0-4.67 6.029-5.052 6.029 0v8.399h4.988v-10.131c0-7.88-8.922-7.593-11.018-3.714v-2.155z"/></svg><br />
+							</a>
+						</li>
+<li class="social-icon social-icon-rss">
+							<a href="/feed/" aria-label="Subscribe to RSS feed."><br />
+								<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 800" aria-hidden="true"><path d="M493 652H392c0-134-111-244-244-244V307c189 0 345 156 345 345zm71 0c0-228-188-416-416-416V132c285 0 520 235 520 520z"/><circle cx="219" cy="581" r="71"/></svg><br />
+							</a>
+						</li>
+</ul></div>
+</p></div>
+</p></div>
+<div class="grid-col-12 desktop:grid-col-5 padding-right-4 margin-bottom-5 desktop:margin-bottom-0">
+<div class="padding-top-3 border-top-1px border-color-carbon-black">
+<div class="margin-bottom-2">
+<h2 class="heading-14">Details</h2>
+</p></div>
+<div class="grid-row margin-bottom-3">
+<div class="grid-col-4">
+<div class="subheading">Last Updated</div>
+</p></div>
+<div class="grid-col-8">Mar 13, 2026</div>
+</p></div>
+<div class="grid-row margin-bottom-3">
+<div class="grid-col-4">
+<div class="subheading">Editor</div>
+</div>
+<div class="grid-col-8">NASA Science Editorial Team</div>
+</div></div>
+</p></div>
+<div class="grid-col-12 desktop:grid-col-5 padding-right-4 margin-bottom-5 desktop:margin-bottom-0">
+<div class="padding-top-3 border-top-1px border-color-carbon-black ">
+<div class="margin-bottom-2">
+<h2 class="heading-14">Related Terms</h2>
+</div>
+<ul class="article-tags">
+<li class="article-tag"><a href="https://science.nasa.gov/citizen-science/" rel="noopener">Citizen Science</a></li>
+<li class="article-tag"><a href="https://science.nasa.gov/heliophysics/" rel="noopener">Heliophysics Division</a></li>
+<li class="article-tag"><a href="https://science.nasa.gov/category/science-research/heliophysics/space-weather/solar-flares/" rel="noopener">Solar Flares</a></li>
+</ul>
+</div>
+</div></div>
+</section></div>
+<div id="" class="nasa-gb-align-full width-full maxw-full padding-x-3 padding-y-0 hds-module hds-module-full alignfull wp-block-nasa-blocks-related-articles">
+<section class="hds-related-articles padding-x-0 padding-y-3 desktop:padding-top-7 desktop:padding-bottom-9">
+<div class="w-100 grid-row grid-container maxw-widescreen padding-0 text-align-left">
+<div class="margin-bottom-4">
+<h2 style="max-width: 100%;" class="width-full w-full maxw-full">Explore More</h2>
+</div></div>
+<div class="grid-row grid-container maxw-widescreen padding-0">
+<div class="grid-col-12 desktop:grid-col-4 margin-bottom-4 desktop:margin-bottom-0 desktop:padding-right-3">
+						<a href="https://science.nasa.gov/get-involved/citizen-science/extra-extra-extra-data-stream-added-to-the-daily-minor-planet/" class="color-carbon-black" rel="noopener"></p>
+<div class="margin-bottom-2">
+<div class="hds-cover-wrapper cover-hover-zoom bg-carbon-black minh-mobile">
+<figure class="hds-media-background  "><img decoding="async" width="1600" height="1488" src="https://assets.science.nasa.gov/dynamicimage/assets/science/cds/citizen-science/highlights/2026/Bok.jpg?w=1600&#038;h=1488&#038;fit=clip&#038;crop=faces%2Cfocalpoint" class="attachment-medium size-medium" alt="" style="transform: scale(1); transform-origin: 50% 50%; object-position: 50% 50%; object-fit: cover;" block_context="nasa-block" loading="lazy" srcset="https://assets.science.nasa.gov/dynamicimage/assets/science/cds/citizen-science/highlights/2026/Bok.jpg?w=1600&#038;h=1488&#038;fit=crop&#038;crop=faces%2Cfocalpoint 1600w, https://assets.science.nasa.gov/dynamicimage/assets/science/cds/citizen-science/highlights/2026/Bok.jpg?w=300&#038;h=279&#038;fit=crop&#038;crop=faces%2Cfocalpoint 300w, https://assets.science.nasa.gov/dynamicimage/assets/science/cds/citizen-science/highlights/2026/Bok.jpg?w=768&#038;h=714&#038;fit=crop&#038;crop=faces%2Cfocalpoint 768w, https://assets.science.nasa.gov/dynamicimage/assets/science/cds/citizen-science/highlights/2026/Bok.jpg?w=1024&#038;h=952&#038;fit=crop&#038;crop=faces%2Cfocalpoint 1024w, https://assets.science.nasa.gov/dynamicimage/assets/science/cds/citizen-science/highlights/2026/Bok.jpg?w=1536&#038;h=1428&#038;fit=crop&#038;crop=faces%2Cfocalpoint 1536w, https://assets.science.nasa.gov/dynamicimage/assets/science/cds/citizen-science/highlights/2026/Bok.jpg?w=400&#038;h=372&#038;fit=crop&#038;crop=faces%2Cfocalpoint 400w, https://assets.science.nasa.gov/dynamicimage/assets/science/cds/citizen-science/highlights/2026/Bok.jpg?w=600&#038;h=558&#038;fit=crop&#038;crop=faces%2Cfocalpoint 600w, https://assets.science.nasa.gov/dynamicimage/assets/science/cds/citizen-science/highlights/2026/Bok.jpg?w=900&#038;h=837&#038;fit=crop&#038;crop=faces%2Cfocalpoint 900w, https://assets.science.nasa.gov/dynamicimage/assets/science/cds/citizen-science/highlights/2026/Bok.jpg?w=1200&#038;h=1116&#038;fit=crop&#038;crop=faces%2Cfocalpoint 1200w" sizes="auto, (max-width: 1600px) 100vw, 1600px" /></figure>
+</p></div>
+</p></div>
+<div class="padding-right-0 desktop:padding-right-10">
+<div class="subheading margin-bottom-1">2 min read</div>
+<div class="margin-bottom-1">
+<h3 class="related-article-title">Extra Extra! Extra Data Stream Added to the Daily Minor Planet!</h3>
+</div>
+<div class="display-flex flex-align-center label related-article-label margin-bottom-1 color-carbon-60">
+									<span class="display-flex flex-align-center margin-right-2"><br />
+										<svg version="1.1" class="square-2 margin-right-1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="16px" height="16px" viewBox="0 0 16 16" style="enable-background:new 0 0 16 16;" xml:space="preserve"><g><g><path d="M8,0C3.5,0-0.1,3.7,0,8.2C0.1,12.5,3.6,16,8,16c4.4,0,8-3.6,8-8C16,3.5,12.4,0,8,0z M8,15.2 C4,15.2,0.8,12,0.8,8C0.8,4,4,0.8,8,0.8c3.9,0,7.2,3.2,7.2,7.1C15.2,11.9,12,15.2,8,15.2z"/><path d="M5.6,12c0.8-0.8,1.6-1.6,2.4-2.4c0.8,0.8,1.6,1.6,2.4,2.4c0-2.7,0-5.3,0-8C8.8,4,7.2,4,5.6,4 C5.6,6.7,5.6,9.3,5.6,12z"/></g></g></svg><br />
+										<span>Article</span><br />
+									</span><br />
+									<span class=""><br />
+										1 hour ago									</span>
+								</div>
+</p></div>
+<p>						</a>
+					</div>
+<div class="grid-col-12 desktop:grid-col-4 margin-bottom-4 desktop:margin-bottom-0 desktop:padding-right-3">
+						<a href="https://science.nasa.gov/get-involved/citizen-science/nasa-volunteers-study-biofilm-adaptability-in-space/" class="color-carbon-black" rel="noopener"></p>
+<div class="margin-bottom-2">
+<div class="hds-cover-wrapper cover-hover-zoom bg-carbon-black minh-mobile">
+<figure class="hds-media-background  "><img decoding="async" width="732" height="726" src="https://assets.science.nasa.gov/dynamicimage/assets/science/cds/citizen-science/projects/OSDR_AWD_Logo.png?w=732&#038;h=726&#038;fit=clip&#038;crop=faces%2Cfocalpoint" class="attachment-medium size-medium" alt="" style="transform: scale(1); transform-origin: 50% 50%; object-position: 50% 50%; object-fit: cover;" block_context="nasa-block" loading="lazy" srcset="https://assets.science.nasa.gov/dynamicimage/assets/science/cds/citizen-science/projects/OSDR_AWD_Logo.png?w=732&#038;h=726&#038;fit=crop&#038;crop=faces%2Cfocalpoint 732w, https://assets.science.nasa.gov/dynamicimage/assets/science/cds/citizen-science/projects/OSDR_AWD_Logo.png?w=150&#038;h=149&#038;fit=crop&#038;crop=faces%2Cfocalpoint 150w, https://assets.science.nasa.gov/dynamicimage/assets/science/cds/citizen-science/projects/OSDR_AWD_Logo.png?w=300&#038;h=298&#038;fit=crop&#038;crop=faces%2Cfocalpoint 300w, https://assets.science.nasa.gov/dynamicimage/assets/science/cds/citizen-science/projects/OSDR_AWD_Logo.png?w=50&#038;h=50&#038;fit=crop&#038;crop=faces%2Cfocalpoint 50w, https://assets.science.nasa.gov/dynamicimage/assets/science/cds/citizen-science/projects/OSDR_AWD_Logo.png?w=100&#038;h=99&#038;fit=crop&#038;crop=faces%2Cfocalpoint 100w, https://assets.science.nasa.gov/dynamicimage/assets/science/cds/citizen-science/projects/OSDR_AWD_Logo.png?w=400&#038;h=397&#038;fit=crop&#038;crop=faces%2Cfocalpoint 400w, https://assets.science.nasa.gov/dynamicimage/assets/science/cds/citizen-science/projects/OSDR_AWD_Logo.png?w=600&#038;h=595&#038;fit=crop&#038;crop=faces%2Cfocalpoint 600w" sizes="auto, (max-width: 732px) 100vw, 732px" /></figure>
+</p></div>
+</p></div>
+<div class="padding-right-0 desktop:padding-right-10">
+<div class="subheading margin-bottom-1">2 min read</div>
+<div class="margin-bottom-1">
+<h3 class="related-article-title">NASA Volunteers Study Biofilm Adaptability in Space</h3>
+</div>
+<p class="p-md color-carbon-60">Biofilms are communities of microorganisms that stick to one another and also adhere to a…</p>
+<div class="display-flex flex-align-center label related-article-label margin-bottom-1 color-carbon-60">
+									<span class="display-flex flex-align-center margin-right-2"><br />
+										<svg version="1.1" class="square-2 margin-right-1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="16px" height="16px" viewBox="0 0 16 16" style="enable-background:new 0 0 16 16;" xml:space="preserve"><g><g><path d="M8,0C3.5,0-0.1,3.7,0,8.2C0.1,12.5,3.6,16,8,16c4.4,0,8-3.6,8-8C16,3.5,12.4,0,8,0z M8,15.2 C4,15.2,0.8,12,0.8,8C0.8,4,4,0.8,8,0.8c3.9,0,7.2,3.2,7.2,7.1C15.2,11.9,12,15.2,8,15.2z"/><path d="M5.6,12c0.8-0.8,1.6-1.6,2.4-2.4c0.8,0.8,1.6,1.6,2.4,2.4c0-2.7,0-5.3,0-8C8.8,4,7.2,4,5.6,4 C5.6,6.7,5.6,9.3,5.6,12z"/></g></g></svg><br />
+										<span>Article</span><br />
+									</span><br />
+									<span class=""><br />
+										6 hours ago									</span>
+								</div>
+</p></div>
+<p>						</a>
+					</div>
+<div class="grid-col-12 desktop:grid-col-4 margin-bottom-4 desktop:margin-bottom-0 desktop:padding-right-3">
+						<a href="https://science.nasa.gov/get-involved/citizen-science/help-galaxy-zoo-tidal-tales-open-cosmic-storybook/" class="color-carbon-black" rel="noopener"></p>
+<div class="margin-bottom-2">
+<div class="hds-cover-wrapper cover-hover-zoom bg-carbon-black minh-mobile">
+<figure class="hds-media-background  "><img decoding="async" width="274" height="274" src="https://assets.science.nasa.gov/dynamicimage/assets/science/cds/citizen-science/projects/TidalTales_logo.png?w=274&#038;h=274&#038;fit=clip&#038;crop=faces%2Cfocalpoint" class="attachment-medium size-medium" alt="" style="transform: scale(1); transform-origin: 50% 50%; object-position: 50% 50%; object-fit: cover;" block_context="nasa-block" loading="lazy" srcset="https://assets.science.nasa.gov/dynamicimage/assets/science/cds/citizen-science/projects/TidalTales_logo.png?w=274&#038;h=274&#038;fit=crop&#038;crop=faces%2Cfocalpoint 274w, https://assets.science.nasa.gov/dynamicimage/assets/science/cds/citizen-science/projects/TidalTales_logo.png?w=150&#038;h=150&#038;fit=crop&#038;crop=faces%2Cfocalpoint 150w, https://assets.science.nasa.gov/dynamicimage/assets/science/cds/citizen-science/projects/TidalTales_logo.png?w=50&#038;h=50&#038;fit=crop&#038;crop=faces%2Cfocalpoint 50w, https://assets.science.nasa.gov/dynamicimage/assets/science/cds/citizen-science/projects/TidalTales_logo.png?w=100&#038;h=100&#038;fit=crop&#038;crop=faces%2Cfocalpoint 100w, https://assets.science.nasa.gov/dynamicimage/assets/science/cds/citizen-science/projects/TidalTales_logo.png?w=200&#038;h=200&#038;fit=crop&#038;crop=faces%2Cfocalpoint 200w" sizes="auto, (max-width: 274px) 100vw, 274px" /></figure>
+</p></div>
+</p></div>
+<div class="padding-right-0 desktop:padding-right-10">
+<div class="subheading margin-bottom-1">1 min read</div>
+<div class="margin-bottom-1">
+<h3 class="related-article-title">Help Galaxy Zoo: Tidal Tales Open Cosmic Storybook</h3>
+</div>
+<p class="p-md color-carbon-60">Galaxies carry the imprints of past encounters. When they pass near one another or collide,…</p>
+<div class="display-flex flex-align-center label related-article-label margin-bottom-1 color-carbon-60">
+									<span class="display-flex flex-align-center margin-right-2"><br />
+										<svg version="1.1" class="square-2 margin-right-1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="16px" height="16px" viewBox="0 0 16 16" style="enable-background:new 0 0 16 16;" xml:space="preserve"><g><g><path d="M8,0C3.5,0-0.1,3.7,0,8.2C0.1,12.5,3.6,16,8,16c4.4,0,8-3.6,8-8C16,3.5,12.4,0,8,0z M8,15.2 C4,15.2,0.8,12,0.8,8C0.8,4,4,0.8,8,0.8c3.9,0,7.2,3.2,7.2,7.1C15.2,11.9,12,15.2,8,15.2z"/><path d="M5.6,12c0.8-0.8,1.6-1.6,2.4-2.4c0.8,0.8,1.6,1.6,2.4,2.4c0-2.7,0-5.3,0-8C8.8,4,7.2,4,5.6,4 C5.6,6.7,5.6,9.3,5.6,12z"/></g></g></svg><br />
+										<span>Article</span><br />
+									</span><br />
+									<span class=""><br />
+										1 day ago									</span>
+								</div>
+</p></div>
+<p>						</a>
+					</div>
+</p></div>
+</section></div>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Extra Extra! Extra Data Stream Added to the Daily Minor Planet!</title>
+		<link>https://science.nasa.gov/get-involved/citizen-science/extra-extra-extra-data-stream-added-to-the-daily-minor-planet/</link>
+		
+		<dc:creator><![CDATA[]]></dc:creator>
+		<pubDate>Fri, 13 Mar 2026 21:42:20 +0000</pubDate>
+				<category><![CDATA[Citizen Science]]></category>
+		<guid isPermaLink="false">https://science.nasa.gov/get-involved/citizen-science/extra-extra-extra-data-stream-added-to-the-daily-minor-planet/</guid>
+
+					<description><![CDATA[The Daily Minor Planet citizen science project is expanding! In addition to data received nightly from the Catalina Sky Survey’s Mt. Lemmon telescope in Arizona, the project’s science team is now processing images from the Bok 2.3-meter telescope at Kitt Peak National Observatory. The Bok is a mighty telescope run by the University of Arizona’s […]]]></description>
+										<content:encoded><![CDATA[<div id="" class="padding-top-5 padding-bottom-3 width-full maxw-full hds-module hds-module-full alignfull wp-block-nasa-blocks-article-intro">
+<div class="width-full maxw-full article-header">
+<div class="margin-bottom-2 width-full maxw-full">
+<p class="label carbon-60 margin-0 margin-bottom-3 padding-0">2 min read</p>
+<h1 class="display-48 margin-bottom-2">Extra Extra! Extra Data Stream Added to the Daily Minor Planet!</h1>
+</div>
+</div>
+</div>
+<p>The Daily Minor Planet citizen science project is expanding! In addition to data received nightly from the Catalina Sky Survey’s Mt. Lemmon telescope in Arizona, the project’s science team is now processing images from the Bok 2.3-meter telescope at Kitt Peak National Observatory. The Bok is a mighty telescope run by the University of Arizona’s Steward Observatory that is used to survey for new near-Earth objects (NEOs) – asteroids that cross Earth’s orbit.</p>
+<p>Data from the Bok telescope peers deeper than the data from the Mt. Lemmon telescope–it reveals objects roughly two to three times as faint. Software often struggles with such faint objects, but humans shine at pattern recognition in this kind of data, making your contributions to this search more valuable than ever. </p>
+<p>Another important feature of the new data is that it mostly comes from the ecliptic, the band of sky where asteroids and comets preferentially travel. The project team expects this deeper, ecliptic-focused coverage to substantially increase the number of main-belt asteroids they can recover and confirm and bring fresh waves of near-Earth asteroid candidates. </p>
+<p>Keep an eye out for new Bok subject sets as they are added. They’ll be a little more challenging and a lot more rewarding!</p>
+<p><a href="https://www.zooniverse.org/projects/fulsdavid/the-daily-minor-planet" rel="noopener">The Daily Minor Planet</a> is a regularly updated citizen science project hosted by the Zooniverse using nightly data collected by the Catalina Sky Survey. Anyone with a laptop or smartphone can join.</p>
+<div id="" class="hds-media hds-module wp-block-image">
+<div class="margin-left-auto margin-right-auto nasa-block-align-inline">
+<div class="hds-media-wrapper margin-left-auto margin-right-auto">
+<figure class="hds-media-inner hds-cover-wrapper hds-media-ratio-fit " style="--hds-image-contain-bg:#ffffff;"><a href="https://assets.science.nasa.gov/dynamicimage/assets/science/cds/citizen-science/highlights/2026/Bok.jpg?w=1600&#038;h=1488&#038;fit=clip&#038;crop=faces%2Cfocalpoint" rel="noopener"><img fetchpriority="high" decoding="async" width="1600" height="1488" src="https://assets.science.nasa.gov/dynamicimage/assets/science/cds/citizen-science/highlights/2026/Bok.jpg?w=1600&#038;h=1488&#038;fit=clip&#038;crop=faces%2Cfocalpoint" class="attachment-2048x2048 size-2048x2048" alt="Nighttime view of the white Bok telescope dome at Kitt Peak National Observatory beneath a star-filled sky. The Milky Way stretches overhead with dense star clouds and reddish nebulae visible, while the observatory sits beside a curved road on a dark hillside." style="transform: scale(1); transform-origin: 50% 50%; object-position: 50% 50%; object-fit: cover;" block_context="nasa-block" loading="eager" srcset="https://assets.science.nasa.gov/dynamicimage/assets/science/cds/citizen-science/highlights/2026/Bok.jpg?w=1600&#038;h=1488&#038;fit=crop&#038;crop=faces%2Cfocalpoint 1600w, https://assets.science.nasa.gov/dynamicimage/assets/science/cds/citizen-science/highlights/2026/Bok.jpg?w=300&#038;h=279&#038;fit=crop&#038;crop=faces%2Cfocalpoint 300w, https://assets.science.nasa.gov/dynamicimage/assets/science/cds/citizen-science/highlights/2026/Bok.jpg?w=768&#038;h=714&#038;fit=crop&#038;crop=faces%2Cfocalpoint 768w, https://assets.science.nasa.gov/dynamicimage/assets/science/cds/citizen-science/highlights/2026/Bok.jpg?w=1024&#038;h=952&#038;fit=crop&#038;crop=faces%2Cfocalpoint 1024w, https://assets.science.nasa.gov/dynamicimage/assets/science/cds/citizen-science/highlights/2026/Bok.jpg?w=1536&#038;h=1428&#038;fit=crop&#038;crop=faces%2Cfocalpoint 1536w, https://assets.science.nasa.gov/dynamicimage/assets/science/cds/citizen-science/highlights/2026/Bok.jpg?w=400&#038;h=372&#038;fit=crop&#038;crop=faces%2Cfocalpoint 400w, https://assets.science.nasa.gov/dynamicimage/assets/science/cds/citizen-science/highlights/2026/Bok.jpg?w=600&#038;h=558&#038;fit=crop&#038;crop=faces%2Cfocalpoint 600w, https://assets.science.nasa.gov/dynamicimage/assets/science/cds/citizen-science/highlights/2026/Bok.jpg?w=900&#038;h=837&#038;fit=crop&#038;crop=faces%2Cfocalpoint 900w, https://assets.science.nasa.gov/dynamicimage/assets/science/cds/citizen-science/highlights/2026/Bok.jpg?w=1200&#038;h=1116&#038;fit=crop&#038;crop=faces%2Cfocalpoint 1200w" sizes="auto, (max-width: 1600px) 100vw, 1600px" /></a></figure><figcaption class="hds-caption padding-y-2">
+<div class="hds-caption-text p-sm margin-0">The Bok telescope stands tall under the Milky Way. Join <a href="https://www.zooniverse.org/projects/fulsdavid/the-daily-minor-planet" rel="noopener">The Daily Minor Planet</a> project to view data from this telescope and hunt for near-Earth asteroids.</div>
+<div class="hds-credits">KPNO/NOIRLab/NSF/AURA/T. Slovinský</div>
+</figcaption></div>
+</div>
+</div>
+<div id="" class="hds-featured-link-list bg-spacesuit-white padding-x-2 tablet:padding-x-3 desktop:padding-x-4 padding-y-5 desktop:padding-y-6 hds-module hds-module-full alignfull wp-block-nasa-blocks-featured-link-list">
+<div class="grid-container grid-container-block padding-0">
+<div class="margin-bottom-4">
+<h2 class="heading-22">
+				Learn More and Get Involved			</h2>
+</p></div>
+<div class="grid-row padding-y-2 border-top-1px border-color-carbon-30-important">
+<div class="grid-row featured-link-list-row width-full flex-align-center">
+<div class="grid-col-2 desktop:grid-col-1 tablet:padding-right-3 desktop:padding-right-5">
+<div class="width-full">
+<div class="hds-cover-wrapper width-full ratio-1x1 radius-pill overflow-hidden">
+<figure class="hds-media-background  "><img decoding="async" width="225" height="225" src="https://assets.science.nasa.gov/dynamicimage/assets/science/cds/general/images/2023/04/n/neo-logo.png?w=225&#038;h=225&#038;fit=clip&#038;crop=faces%2Cfocalpoint" class="attachment-thumbnail size-thumbnail" alt="" style="transform: scale(1); transform-origin: 48% 50%; object-position: 48% 50%; object-fit: cover;" block_context="nasa-block" loading="lazy" srcset="https://assets.science.nasa.gov/dynamicimage/assets/science/cds/general/images/2023/04/n/neo-logo.png?w=225&#038;h=225&#038;fit=crop&#038;crop=faces%2Cfocalpoint 225w, https://assets.science.nasa.gov/dynamicimage/assets/science/cds/general/images/2023/04/n/neo-logo.png?w=150&#038;h=150&#038;fit=crop&#038;crop=faces%2Cfocalpoint 150w, https://assets.science.nasa.gov/dynamicimage/assets/science/cds/general/images/2023/04/n/neo-logo.png?w=50&#038;h=50&#038;fit=crop&#038;crop=faces%2Cfocalpoint 50w, https://assets.science.nasa.gov/dynamicimage/assets/science/cds/general/images/2023/04/n/neo-logo.png?w=100&#038;h=100&#038;fit=crop&#038;crop=faces%2Cfocalpoint 100w, https://assets.science.nasa.gov/dynamicimage/assets/science/cds/general/images/2023/04/n/neo-logo.png?w=200&#038;h=200&#038;fit=crop&#038;crop=faces%2Cfocalpoint 200w" sizes="auto, (max-width: 225px) 100vw, 225px" /></figure>
+</p></div>
+</p></div>
+</p></div>
+<div class="grid-col-8 desktop:grid-col-10 padding-left-3 desktop:padding-left-0">
+<div class="grid-row flex-align-center">
+<div class="grid-col-12 desktop:grid-col-6">
+<h2 class="heading-36 margin-0">The Daily Minor Planet</h2>
+</p></div>
+<div class="grid-col-12 desktop:grid-col-6">
+<p class="p-md margin-0 color-carbon-black">Discover new asteroids every day!<br /><a href="https://www.zooniverse.org/projects/fulsdavid/the-daily-minor-planet/about/research" rel="noopener"></a></p>
+</p></div>
+</p></div>
+</p></div>
+<div class="grid-col-2 desktop:grid-col-1 display-flex flex-justify-end">
+						<a href="https://www.zooniverse.org/projects/fulsdavid/the-daily-minor-planet" target="_blank" aria-label="" class="link-external-true" rel="noopener"><br />
+                            <svg class="hds-featured-link-list-button margin-left-auto margin-right-0" viewBox="0 0 32 32" fill="none">
+                                <circle class="color-nasa-red" cx="16" cy="16" r="16"></circle><path d="M8 16.956h12.604l-3.844 4.106 1.252 1.338L24 16l-5.988-6.4-1.252 1.338 3.844 4.106H8v1.912z" class="color-spacesuit-white"></path>
+                            </svg><br />
+						</a>
+					</div>
+</p></div>
+</p></div>
+</p></div>
+</p></div>
+<div id="" class="hds-social-media hds-social-media--horizontal grid-container grid-container-block nasa-gb-align- margin-y-0 padding-y-5 padding-x-3 desktop:padding-x-0 font-weight-bold hds-module align wp-block-nasa-blocks-social-media-links">
+<div class="display-flex flex-align-center padding-y-1" id="social-facebook">
+<div class="circle-4 minw-4 display-flex flex-align-center flex-justify-center" style="background-color: #4267B2;">
+				<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" aria-labelledby="facebookIconTitle"><title id="facebookIconTitle">Facebook logo</title><path d="M9 8h-3v4h3v12h5v-12h3.642l.358-4h-4v-1.667c0-.955.192-1.333 1.115-1.333h2.885v-5h-3.808c-3.596 0-5.192 1.583-5.192 4.615v3.385z"/></svg>			</div>
+<div class="hds-social-media-items padding-left-2">
+				<a target="_blank" class="margin-right-2" href="https://facebook.com/nasascience_" aria-label="Go to @nasascience_ on facebook" rel="noopener">@nasascience_</a>			</div>
+</p></div>
+<div class="display-flex flex-align-center padding-y-1" id="social-twitter">
+<div class="circle-4 minw-4 display-flex flex-align-center flex-justify-center" style="background-color: #1DA1F2;">
+				<svg width="1200" height="1227" viewBox="0 0 1200 1227" fill="none" xmlns="http://www.w3.org/2000/svg"><path d="M714.163 519.284L1160.89 0H1055.03L667.137 450.887L357.328 0H0L468.492 681.821L0 1226.37H105.866L515.491 750.218L842.672 1226.37H1200L714.137 519.284H714.163ZM569.165 687.828L521.697 619.934L144.011 79.6944H306.615L611.412 515.685L658.88 583.579L1055.08 1150.3H892.476L569.165 687.854V687.828Z" fill="white"/></svg>			</div>
+<div class="hds-social-media-items padding-left-2">
+				<a target="_blank" class="margin-right-2" href="https://x.com/nasascience_" aria-label="Go to @nasascience_ on twitter">@nasascience_</a>			</div>
+</p></div>
+<div class="display-flex flex-align-center padding-y-1" id="social-instagram">
+<div class="circle-4 minw-4 display-flex flex-align-center flex-justify-center" style="background-color: #833AB4;">
+				<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="169.063px" height="169.063px" viewBox="0 0 169.063 169.063" style="enable-background:new 0 0 169.063 169.063;" xml:space="preserve" aria-labelledby="instagramIconTitle"><title id="instagramIconTitle">Instagram logo</title><g> <path d="M122.406,0H46.654C20.929,0,0,20.93,0,46.655v75.752c0,25.726,20.929,46.655,46.654,46.655h75.752 c25.727,0,46.656-20.93,46.656-46.655V46.655C169.063,20.93,148.133,0,122.406,0z M154.063,122.407 c0,17.455-14.201,31.655-31.656,31.655H46.654C29.2,154.063,15,139.862,15,122.407V46.655C15,29.201,29.2,15,46.654,15h75.752 c17.455,0,31.656,14.201,31.656,31.655V122.407z"/> <path d="M84.531,40.97c-24.021,0-43.563,19.542-43.563,43.563c0,24.02,19.542,43.561,43.563,43.561s43.563-19.541,43.563-43.561 C128.094,60.512,108.552,40.97,84.531,40.97z M84.531,113.093c-15.749,0-28.563-12.812-28.563-28.561 c0-15.75,12.813-28.563,28.563-28.563s28.563,12.813,28.563,28.563C113.094,100.281,100.28,113.093,84.531,113.093z"/> <path d="M129.921,28.251c-2.89,0-5.729,1.17-7.77,3.22c-2.051,2.04-3.23,4.88-3.23,7.78c0,2.891,1.18,5.73,3.23,7.78 c2.04,2.04,4.88,3.22,7.77,3.22c2.9,0,5.73-1.18,7.78-3.22c2.05-2.05,3.22-4.89,3.22-7.78c0-2.9-1.17-5.74-3.22-7.78 C135.661,29.421,132.821,28.251,129.921,28.251z"/></g></svg>			</div>
+<div class="hds-social-media-items padding-left-2">
+				<a target="_blank" class="margin-right-2" href="https://instagram.com/nasascience_" aria-label="Go to @nasascience_ on instagram" rel="noopener">@nasascience_</a>			</div>
+</p></div>
+<div class="display-flex flex-align-center padding-y-1" id="social-linkedin">
+<div class="circle-4 minw-4 display-flex flex-align-center flex-justify-center" style="background-color: #0072b1;">
+				<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" aria-labelledby="linkedinIconTitle"><title id="linkedinIconTitle">Linkedin logo</title><path d="M4.98 3.5c0 1.381-1.11 2.5-2.48 2.5s-2.48-1.119-2.48-2.5c0-1.38 1.11-2.5 2.48-2.5s2.48 1.12 2.48 2.5zm.02 4.5h-5v16h5v-16zm7.982 0h-4.968v16h4.969v-8.399c0-4.67 6.029-5.052 6.029 0v8.399h4.988v-10.131c0-7.88-8.922-7.593-11.018-3.714v-2.155z"/></svg>			</div>
+<div class="hds-social-media-items padding-left-2">
+				<a target="_blank" class="margin-right-2" href="https://linkedin.com/company/nasascience_" aria-label="Go to @nasascience_ on linkedin" rel="noopener">@nasascience_</a>			</div>
+</p></div>
+</p></div>
+<div id="" class="nasa-gb-align-full width-full maxw-full padding-x-3 padding-y-0 article_a hds-module hds-module-full alignfull wp-block-nasa-blocks-credits-and-details">
+<section class="padding-x-0 padding-top-5 padding-bottom-2 desktop:padding-top-7 desktop:padding-bottom-9">
+<div class="grid-row grid-container maxw-widescreen padding-0">
+<div class="grid-col-12 desktop:grid-col-2 padding-right-4 margin-bottom-5 desktop:margin-bottom-0">
+<div class="padding-top-3 border-top-1px border-color-carbon-black">
+<div class="margin-bottom-2">
+<h2 class="heading-14">Share</h2>
+</p></div>
+<div class="padding-bottom-2">
+<ul class="social-icons social-icons-round">
+<li class="social-icon social-icon-x">
+							<a href="https://x.com/intent/tweet?via=NASA&#038;text=Extra%20Extra%21%20Extra%20Data%20Stream%20Added%20to%20the%20Daily%20Minor%20Planet%21&#038;url=https%3A%2F%2Fscience.nasa.gov%2Fget-involved%2Fcitizen-science%2Fextra-extra-extra-data-stream-added-to-the-daily-minor-planet%2F" aria-label="Share on X."><br />
+								<svg width="1200" height="1227" viewBox="0 0 1200 1227" fill="none" xmlns="http://www.w3.org/2000/svg"><path d="M714.163 519.284L1160.89 0H1055.03L667.137 450.887L357.328 0H0L468.492 681.821L0 1226.37H105.866L515.491 750.218L842.672 1226.37H1200L714.137 519.284H714.163ZM569.165 687.828L521.697 619.934L144.011 79.6944H306.615L611.412 515.685L658.88 583.579L1055.08 1150.3H892.476L569.165 687.854V687.828Z" fill="white"/></svg><br />
+							</a>
+						</li>
+<li class="social-icon social-icon-facebook">
+							<a href="https://www.facebook.com/sharer.php?u=https%3A%2F%2Fscience.nasa.gov%2Fget-involved%2Fcitizen-science%2Fextra-extra-extra-data-stream-added-to-the-daily-minor-planet%2F" aria-label="Share on Facebook." rel="noopener"><br />
+								<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" aria-hidden="true"><path d="M9 8h-3v4h3v12h5v-12h3.642l.358-4h-4v-1.667c0-.955.192-1.333 1.115-1.333h2.885v-5h-3.808c-3.596 0-5.192 1.583-5.192 4.615v3.385z"/></svg><br />
+							</a>
+						</li>
+<li class="social-icon social-icon-linkedin">
+							<a href="https://www.linkedin.com/shareArticle?mini=true&#038;url=https%3A%2F%2Fscience.nasa.gov%2Fget-involved%2Fcitizen-science%2Fextra-extra-extra-data-stream-added-to-the-daily-minor-planet%2F" aria-label="Share on LinkedIn." rel="noopener"><br />
+								<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" aria-hidden="true"><path d="M4.98 3.5c0 1.381-1.11 2.5-2.48 2.5s-2.48-1.119-2.48-2.5c0-1.38 1.11-2.5 2.48-2.5s2.48 1.12 2.48 2.5zm.02 4.5h-5v16h5v-16zm7.982 0h-4.968v16h4.969v-8.399c0-4.67 6.029-5.052 6.029 0v8.399h4.988v-10.131c0-7.88-8.922-7.593-11.018-3.714v-2.155z"/></svg><br />
+							</a>
+						</li>
+<li class="social-icon social-icon-rss">
+							<a href="/feed/" aria-label="Subscribe to RSS feed."><br />
+								<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 800" aria-hidden="true"><path d="M493 652H392c0-134-111-244-244-244V307c189 0 345 156 345 345zm71 0c0-228-188-416-416-416V132c285 0 520 235 520 520z"/><circle cx="219" cy="581" r="71"/></svg><br />
+							</a>
+						</li>
+</ul></div>
+</p></div>
+</p></div>
+<div class="grid-col-12 desktop:grid-col-5 padding-right-4 margin-bottom-5 desktop:margin-bottom-0">
+<div class="padding-top-3 border-top-1px border-color-carbon-black">
+<div class="margin-bottom-2">
+<h2 class="heading-14">Details</h2>
+</p></div>
+<div class="grid-row margin-bottom-3">
+<div class="grid-col-4">
+<div class="subheading">Last Updated</div>
+</p></div>
+<div class="grid-col-8">Mar 13, 2026</div>
+</p></div>
+<div class="grid-row margin-bottom-3">
+<div class="grid-col-4">
+<div class="subheading">Editor</div>
+</div>
+<div class="grid-col-8">NASA Science Editorial Team</div>
+</div></div>
+</p></div>
+<div class="grid-col-12 desktop:grid-col-5 padding-right-4 margin-bottom-5 desktop:margin-bottom-0">
+<div class="padding-top-3 border-top-1px border-color-carbon-black ">
+<div class="margin-bottom-2">
+<h2 class="heading-14">Related Terms</h2>
+</div>
+<ul class="article-tags">
+<li class="article-tag"><a href="https://science.nasa.gov/citizen-science/" rel="noopener">Citizen Science</a></li>
+</ul>
+</div>
+</div></div>
+</section></div>
+<div id="" class="nasa-gb-align-full width-full maxw-full padding-x-3 padding-y-0 hds-module hds-module-full alignfull wp-block-nasa-blocks-related-articles">
+<section class="hds-related-articles padding-x-0 padding-y-3 desktop:padding-top-7 desktop:padding-bottom-9">
+<div class="w-100 grid-row grid-container maxw-widescreen padding-0 text-align-left">
+<div class="margin-bottom-4">
+<h2 style="max-width: 100%;" class="width-full w-full maxw-full">Explore More</h2>
+</div></div>
+<div class="grid-row grid-container maxw-widescreen padding-0">
+<div class="grid-col-12 desktop:grid-col-4 margin-bottom-4 desktop:margin-bottom-0 desktop:padding-right-3">
+						<a href="https://science.nasa.gov/get-involved/citizen-science/nasa-volunteers-study-biofilm-adaptability-in-space/" class="color-carbon-black" rel="noopener"></p>
+<div class="margin-bottom-2">
+<div class="hds-cover-wrapper cover-hover-zoom bg-carbon-black minh-mobile">
+<figure class="hds-media-background  "><img decoding="async" width="732" height="726" src="https://assets.science.nasa.gov/dynamicimage/assets/science/cds/citizen-science/projects/OSDR_AWD_Logo.png?w=732&#038;h=726&#038;fit=clip&#038;crop=faces%2Cfocalpoint" class="attachment-medium size-medium" alt="" style="transform: scale(1); transform-origin: 50% 50%; object-position: 50% 50%; object-fit: cover;" block_context="nasa-block" loading="lazy" srcset="https://assets.science.nasa.gov/dynamicimage/assets/science/cds/citizen-science/projects/OSDR_AWD_Logo.png?w=732&#038;h=726&#038;fit=crop&#038;crop=faces%2Cfocalpoint 732w, https://assets.science.nasa.gov/dynamicimage/assets/science/cds/citizen-science/projects/OSDR_AWD_Logo.png?w=150&#038;h=149&#038;fit=crop&#038;crop=faces%2Cfocalpoint 150w, https://assets.science.nasa.gov/dynamicimage/assets/science/cds/citizen-science/projects/OSDR_AWD_Logo.png?w=300&#038;h=298&#038;fit=crop&#038;crop=faces%2Cfocalpoint 300w, https://assets.science.nasa.gov/dynamicimage/assets/science/cds/citizen-science/projects/OSDR_AWD_Logo.png?w=50&#038;h=50&#038;fit=crop&#038;crop=faces%2Cfocalpoint 50w, https://assets.science.nasa.gov/dynamicimage/assets/science/cds/citizen-science/projects/OSDR_AWD_Logo.png?w=100&#038;h=99&#038;fit=crop&#038;crop=faces%2Cfocalpoint 100w, https://assets.science.nasa.gov/dynamicimage/assets/science/cds/citizen-science/projects/OSDR_AWD_Logo.png?w=400&#038;h=397&#038;fit=crop&#038;crop=faces%2Cfocalpoint 400w, https://assets.science.nasa.gov/dynamicimage/assets/science/cds/citizen-science/projects/OSDR_AWD_Logo.png?w=600&#038;h=595&#038;fit=crop&#038;crop=faces%2Cfocalpoint 600w" sizes="auto, (max-width: 732px) 100vw, 732px" /></figure>
+</p></div>
+</p></div>
+<div class="padding-right-0 desktop:padding-right-10">
+<div class="subheading margin-bottom-1">2 min read</div>
+<div class="margin-bottom-1">
+<h3 class="related-article-title">NASA Volunteers Study Biofilm Adaptability in Space</h3>
+</div>
+<p class="p-md color-carbon-60">Biofilms are communities of microorganisms that stick to one another and also adhere to a…</p>
+<div class="display-flex flex-align-center label related-article-label margin-bottom-1 color-carbon-60">
+									<span class="display-flex flex-align-center margin-right-2"><br />
+										<svg version="1.1" class="square-2 margin-right-1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="16px" height="16px" viewBox="0 0 16 16" style="enable-background:new 0 0 16 16;" xml:space="preserve"><g><g><path d="M8,0C3.5,0-0.1,3.7,0,8.2C0.1,12.5,3.6,16,8,16c4.4,0,8-3.6,8-8C16,3.5,12.4,0,8,0z M8,15.2 C4,15.2,0.8,12,0.8,8C0.8,4,4,0.8,8,0.8c3.9,0,7.2,3.2,7.2,7.1C15.2,11.9,12,15.2,8,15.2z"/><path d="M5.6,12c0.8-0.8,1.6-1.6,2.4-2.4c0.8,0.8,1.6,1.6,2.4,2.4c0-2.7,0-5.3,0-8C8.8,4,7.2,4,5.6,4 C5.6,6.7,5.6,9.3,5.6,12z"/></g></g></svg><br />
+										<span>Article</span><br />
+									</span><br />
+									<span class=""><br />
+										5 hours ago									</span>
+								</div>
+</p></div>
+<p>						</a>
+					</div>
+<div class="grid-col-12 desktop:grid-col-4 margin-bottom-4 desktop:margin-bottom-0 desktop:padding-right-3">
+						<a href="https://science.nasa.gov/get-involved/citizen-science/help-galaxy-zoo-tidal-tales-open-cosmic-storybook/" class="color-carbon-black" rel="noopener"></p>
+<div class="margin-bottom-2">
+<div class="hds-cover-wrapper cover-hover-zoom bg-carbon-black minh-mobile">
+<figure class="hds-media-background  "><img decoding="async" width="274" height="274" src="https://assets.science.nasa.gov/dynamicimage/assets/science/cds/citizen-science/projects/TidalTales_logo.png?w=274&#038;h=274&#038;fit=clip&#038;crop=faces%2Cfocalpoint" class="attachment-medium size-medium" alt="" style="transform: scale(1); transform-origin: 50% 50%; object-position: 50% 50%; object-fit: cover;" block_context="nasa-block" loading="lazy" srcset="https://assets.science.nasa.gov/dynamicimage/assets/science/cds/citizen-science/projects/TidalTales_logo.png?w=274&#038;h=274&#038;fit=crop&#038;crop=faces%2Cfocalpoint 274w, https://assets.science.nasa.gov/dynamicimage/assets/science/cds/citizen-science/projects/TidalTales_logo.png?w=150&#038;h=150&#038;fit=crop&#038;crop=faces%2Cfocalpoint 150w, https://assets.science.nasa.gov/dynamicimage/assets/science/cds/citizen-science/projects/TidalTales_logo.png?w=50&#038;h=50&#038;fit=crop&#038;crop=faces%2Cfocalpoint 50w, https://assets.science.nasa.gov/dynamicimage/assets/science/cds/citizen-science/projects/TidalTales_logo.png?w=100&#038;h=100&#038;fit=crop&#038;crop=faces%2Cfocalpoint 100w, https://assets.science.nasa.gov/dynamicimage/assets/science/cds/citizen-science/projects/TidalTales_logo.png?w=200&#038;h=200&#038;fit=crop&#038;crop=faces%2Cfocalpoint 200w" sizes="auto, (max-width: 274px) 100vw, 274px" /></figure>
+</p></div>
+</p></div>
+<div class="padding-right-0 desktop:padding-right-10">
+<div class="subheading margin-bottom-1">1 min read</div>
+<div class="margin-bottom-1">
+<h3 class="related-article-title">Help Galaxy Zoo: Tidal Tales Open Cosmic Storybook</h3>
+</div>
+<p class="p-md color-carbon-60">Galaxies carry the imprints of past encounters. When they pass near one another or collide,…</p>
+<div class="display-flex flex-align-center label related-article-label margin-bottom-1 color-carbon-60">
+									<span class="display-flex flex-align-center margin-right-2"><br />
+										<svg version="1.1" class="square-2 margin-right-1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="16px" height="16px" viewBox="0 0 16 16" style="enable-background:new 0 0 16 16;" xml:space="preserve"><g><g><path d="M8,0C3.5,0-0.1,3.7,0,8.2C0.1,12.5,3.6,16,8,16c4.4,0,8-3.6,8-8C16,3.5,12.4,0,8,0z M8,15.2 C4,15.2,0.8,12,0.8,8C0.8,4,4,0.8,8,0.8c3.9,0,7.2,3.2,7.2,7.1C15.2,11.9,12,15.2,8,15.2z"/><path d="M5.6,12c0.8-0.8,1.6-1.6,2.4-2.4c0.8,0.8,1.6,1.6,2.4,2.4c0-2.7,0-5.3,0-8C8.8,4,7.2,4,5.6,4 C5.6,6.7,5.6,9.3,5.6,12z"/></g></g></svg><br />
+										<span>Article</span><br />
+									</span><br />
+									<span class=""><br />
+										1 day ago									</span>
+								</div>
+</p></div>
+<p>						</a>
+					</div>
+<div class="grid-col-12 desktop:grid-col-4 margin-bottom-4 desktop:margin-bottom-0 desktop:padding-right-3">
+						<a href="https://science.nasa.gov/get-involved/citizen-science/new-volunteer-data-from-143-observatories-unveils-the-2024-total-solar-eclipse/" class="color-carbon-black" rel="noopener"></p>
+<div class="margin-bottom-2">
+<div class="hds-cover-wrapper cover-hover-zoom bg-carbon-black minh-mobile">
+<figure class="hds-media-background  "><img decoding="async" width="1920" height="1280" src="https://assets.science.nasa.gov/dynamicimage/assets/science/cds/general/images/2024/04/nhq202404080101large.jpg?w=1920&#038;h=1280&#038;fit=clip&#038;crop=faces%2Cfocalpoint" class="attachment-medium size-medium" alt="" style="transform: scale(1); transform-origin: 50% 50%; object-position: 50% 50%; object-fit: cover;" block_context="nasa-block" loading="lazy" srcset="https://assets.science.nasa.gov/dynamicimage/assets/science/cds/general/images/2024/04/nhq202404080101large.jpg?w=1920&#038;h=1280&#038;fit=crop&#038;crop=faces%2Cfocalpoint 1920w, https://assets.science.nasa.gov/dynamicimage/assets/science/cds/general/images/2024/04/nhq202404080101large.jpg?w=300&#038;h=200&#038;fit=crop&#038;crop=faces%2Cfocalpoint 300w, https://assets.science.nasa.gov/dynamicimage/assets/science/cds/general/images/2024/04/nhq202404080101large.jpg?w=768&#038;h=512&#038;fit=crop&#038;crop=faces%2Cfocalpoint 768w, https://assets.science.nasa.gov/dynamicimage/assets/science/cds/general/images/2024/04/nhq202404080101large.jpg?w=1024&#038;h=683&#038;fit=crop&#038;crop=faces%2Cfocalpoint 1024w, https://assets.science.nasa.gov/dynamicimage/assets/science/cds/general/images/2024/04/nhq202404080101large.jpg?w=1536&#038;h=1024&#038;fit=crop&#038;crop=faces%2Cfocalpoint 1536w, https://assets.science.nasa.gov/dynamicimage/assets/science/cds/general/images/2024/04/nhq202404080101large.jpg?w=400&#038;h=267&#038;fit=crop&#038;crop=faces%2Cfocalpoint 400w, https://assets.science.nasa.gov/dynamicimage/assets/science/cds/general/images/2024/04/nhq202404080101large.jpg?w=600&#038;h=400&#038;fit=crop&#038;crop=faces%2Cfocalpoint 600w, https://assets.science.nasa.gov/dynamicimage/assets/science/cds/general/images/2024/04/nhq202404080101large.jpg?w=900&#038;h=600&#038;fit=crop&#038;crop=faces%2Cfocalpoint 900w, https://assets.science.nasa.gov/dynamicimage/assets/science/cds/general/images/2024/04/nhq202404080101large.jpg?w=1200&#038;h=800&#038;fit=crop&#038;crop=faces%2Cfocalpoint 1200w" sizes="auto, (max-width: 1920px) 100vw, 1920px" /></figure>
+</p></div>
+</p></div>
+<div class="padding-right-0 desktop:padding-right-10">
+<div class="subheading margin-bottom-1">2 min read</div>
+<div class="margin-bottom-1">
+<h3 class="related-article-title">New Volunteer Data from 143 Observatories Unveils the 2024 Total Solar Eclipse</h3>
+</div>
+<p class="p-md color-carbon-60">On April 8, 2024, volunteers participating in NASA’s Eclipse Megamovie citizen science project all around…</p>
+<div class="display-flex flex-align-center label related-article-label margin-bottom-1 color-carbon-60">
+									<span class="display-flex flex-align-center margin-right-2"><br />
+										<svg version="1.1" class="square-2 margin-right-1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="16px" height="16px" viewBox="0 0 16 16" style="enable-background:new 0 0 16 16;" xml:space="preserve"><g><g><path d="M8,0C3.5,0-0.1,3.7,0,8.2C0.1,12.5,3.6,16,8,16c4.4,0,8-3.6,8-8C16,3.5,12.4,0,8,0z M8,15.2 C4,15.2,0.8,12,0.8,8C0.8,4,4,0.8,8,0.8c3.9,0,7.2,3.2,7.2,7.1C15.2,11.9,12,15.2,8,15.2z"/><path d="M5.6,12c0.8-0.8,1.6-1.6,2.4-2.4c0.8,0.8,1.6,1.6,2.4,2.4c0-2.7,0-5.3,0-8C8.8,4,7.2,4,5.6,4 C5.6,6.7,5.6,9.3,5.6,12z"/></g></g></svg><br />
+										<span>Article</span><br />
+									</span><br />
+									<span class=""><br />
+										2 weeks ago									</span>
+								</div>
+</p></div>
+<p>						</a>
+					</div>
+</p></div>
+</section></div>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>NASA Selects Finalists in Student Aircraft Maintenance Competition</title>
+		<link>https://www.nasa.gov/aeronautics/nasa-selects-finalists-in-student-aircraft-maintenance-competition/</link>
+		
+		<dc:creator><![CDATA[Bailey G. Light]]></dc:creator>
+		<pubDate>Fri, 13 Mar 2026 19:17:49 +0000</pubDate>
+				<category><![CDATA[Aeronautics]]></category>
+		<category><![CDATA[Prizes, Challenges, & Crowdsourcing News]]></category>
+		<category><![CDATA[Prizes, Challenges, and Crowdsourcing Program]]></category>
+		<category><![CDATA[Space Technology Mission Directorate]]></category>
+		<guid isPermaLink="false">https://www.nasa.gov/?p=973602</guid>
+
+					<description><![CDATA[NASA&#160;has&#160;selected&#160;eight&#160;student&#160;teams as finalists in the 2026 Gateways to Blue Skies&#160;Competition, giving them the resources to help address&#160;a critical challenge&#160;for&#160;U.S. aviation:&#160;maintenance.&#160; Challenges facing the commercial aviation industry include a shortage of qualified maintenance workers and increasing demands to keep complicated&#160;aircraft&#160;running for longer. With Gateways to Blue Skies,&#160;NASA&#160;taps into student innovation to address some of the biggest [&#8230;]]]></description>
+										<content:encoded><![CDATA[<div id="" class="hds-media hds-module wp-block-image"><div class="margin-left-auto margin-right-auto nasa-block-align-inline"><div class="hds-media-wrapper margin-left-auto margin-right-auto"><figure class="hds-media-inner hds-cover-wrapper hds-media-ratio-fit "><a href="https://www.nasa.gov/wp-content/uploads/2026/03/2026-blue-skies-competition-web-banner-1000-x-400-px.png"><img decoding="async" width="2048" height="455" src="https://www.nasa.gov/wp-content/uploads/2026/03/2026-blue-skies-competition-web-banner-1000-x-400-px.png?w=2048" class="attachment-2048x2048 size-2048x2048" alt="A photo collage showing aircraft and people for the Gateways to Blue Skies Competition with the 2026 topic RepAir: Advancing Aircraft Maintenance." style="transform: scale(1); transform-origin: 50% 50%; object-position: 50% 50%; object-fit: cover;" block_context="nasa-block" loading="eager" srcset="https://www.nasa.gov/wp-content/uploads/2026/03/2026-blue-skies-competition-web-banner-1000-x-400-px.png 2475w, https://www.nasa.gov/wp-content/uploads/2026/03/2026-blue-skies-competition-web-banner-1000-x-400-px.png?resize=300,67 300w, https://www.nasa.gov/wp-content/uploads/2026/03/2026-blue-skies-competition-web-banner-1000-x-400-px.png?resize=768,171 768w, https://www.nasa.gov/wp-content/uploads/2026/03/2026-blue-skies-competition-web-banner-1000-x-400-px.png?resize=1024,228 1024w, https://www.nasa.gov/wp-content/uploads/2026/03/2026-blue-skies-competition-web-banner-1000-x-400-px.png?resize=1536,341 1536w, https://www.nasa.gov/wp-content/uploads/2026/03/2026-blue-skies-competition-web-banner-1000-x-400-px.png?resize=2048,455 2048w, https://www.nasa.gov/wp-content/uploads/2026/03/2026-blue-skies-competition-web-banner-1000-x-400-px.png?resize=400,89 400w, https://www.nasa.gov/wp-content/uploads/2026/03/2026-blue-skies-competition-web-banner-1000-x-400-px.png?resize=600,133 600w, https://www.nasa.gov/wp-content/uploads/2026/03/2026-blue-skies-competition-web-banner-1000-x-400-px.png?resize=900,200 900w, https://www.nasa.gov/wp-content/uploads/2026/03/2026-blue-skies-competition-web-banner-1000-x-400-px.png?resize=1200,267 1200w, https://www.nasa.gov/wp-content/uploads/2026/03/2026-blue-skies-competition-web-banner-1000-x-400-px.png?resize=2000,444 2000w" sizes="auto, (max-width: 2048px) 100vw, 2048px" /></a></figure><figcaption class="hds-caption padding-y-2"><div class="hds-credits">Image Credit: National Institute of Aerospace</div></figcaption></div></div></div>
+
+
+<p>NASA&nbsp;has&nbsp;selected&nbsp;eight&nbsp;student&nbsp;teams as finalists in the 2026 Gateways to Blue Skies&nbsp;Competition, giving them the resources to help address&nbsp;a critical challenge&nbsp;for&nbsp;U.S. aviation:&nbsp;maintenance.&nbsp;</p>
+
+
+
+<p>Challenges facing the commercial aviation industry include a shortage of qualified maintenance workers and increasing demands to keep complicated&nbsp;aircraft&nbsp;running for longer. With Gateways to Blue Skies,&nbsp;NASA&nbsp;taps into student innovation to address some of the biggest topics in aviation, and the current competition,&nbsp;RepAir: Advancing Aircraft Maintenance, is looking for solutions that can have immediate impact.&nbsp;</p>
+
+
+
+<p>“Through this competition, students will learn about&nbsp;aviation&nbsp;maintenance and be empowered to change its future,”&nbsp;said Steven&nbsp;Holz,&nbsp;associate&nbsp;project&nbsp;manager for NASA’s University Innovation Project and judging panel co-chair for Gateways to Blue Skies. “By grounding innovative ideas in real operational needs and presenting them to NASA and industry experts, these teams demonstrate the kind of critical thinking, collaboration, and forward-looking problem solving that will shape&nbsp;a&nbsp;safer, more efficient aviation&nbsp;industry&nbsp;in the near future.”&nbsp;</p>
+
+
+
+<p>This competition challenged teams of&nbsp;postsecondary&nbsp;students to conceptualize innovative systems and practices that could advance current commercial&nbsp;aircraft&nbsp;maintenance and repair operations.&nbsp;It addresses dual goals&nbsp;for NASA: supporting&nbsp;innovative research&nbsp;and&nbsp;also&nbsp;stimulating the potential&nbsp;aviation workforce of tomorrow.&nbsp;</p>
+
+
+
+<p>The&nbsp;goal&nbsp;for&nbsp;RepAir:&nbsp;Advancing Aircraft Maintenance&nbsp;is to generate concepts to improve efficiency, safety, and costs for the&nbsp;aviation maintenance&nbsp;industry by 2035.&nbsp;That timeline&nbsp;differs from&nbsp;many NASA research competitions focused on&nbsp;long-term&nbsp;future technologies;&nbsp;RepAir&nbsp;seeks&nbsp;to address the maintenance issues of today.&nbsp;</p>
+
+
+
+<p>NASA made its&nbsp;selections&nbsp;based on a review of&nbsp;participants’&nbsp;proposals and accompanying videos summarizing the RepAir concepts.&nbsp;The eight finalist teams will receive a $9,000 prize and will advance to Phase 2 of the competition.&nbsp;&nbsp;</p>
+
+
+
+<p>Phase 2 includes a review of each team’s final paper, infographic, and presentation at&nbsp;the 2026 Gateways to Blue Skies Forum, held May 18&nbsp;at NASA Langley&nbsp;Research Center in Hampton, Virginia&nbsp;in May&nbsp;and&nbsp;<a href="https://vimeo.com/showcase/blueskies" target="_blank" rel="noreferrer noopener">livestreamed globally</a>.&nbsp;Following the forum, members of the winning team who fulfill eligibility criteria will be offered the opportunity to intern with NASA Aeronautics.&nbsp;&nbsp;&nbsp;</p>
+
+
+
+<p>The 2026 Gateways to Blue Skies Competition finalist projects represent an array of capabilities including&nbsp;robotic inspections, augmented reality smart glasses, and sensor and machine learning architectures:&nbsp;</p>
+
+
+
+<ul class="wp-block-list">
+<li><strong>Embry-Riddle Aeronautical University Daytona Beach with Cecil College Maryland</strong>&nbsp;<br><em>Advancing Aircraft Maintenance, Smart Mechanic Glasses</em>&nbsp;</li>
+
+
+
+<li><strong>Manhattan University&nbsp;</strong>&nbsp;<br><em>Aircraft Enhanced Resilience and Intelligence Systems&nbsp;(A.E.R.I.S)</em>&nbsp;</li>
+
+
+
+<li><strong>Michigan State University&nbsp;</strong>&nbsp;<br><em>Surface Evaluation Network for Tethered Inspection and Nondestructive Evaluation (SENTINEL)</em>&nbsp;</li>
+
+
+
+<li><strong>South Dakota State University&nbsp;</strong>&nbsp;<br><em>Surveying Platform and Inspection Device for Enclosed Regions (S.P.I.D.E.R.)</em>&nbsp;</li>
+
+
+
+<li><strong>South Dakota State University&nbsp;</strong>&nbsp;<br><em>WINGMAN,&nbsp;augmented&nbsp;reality data-logging and information-display system for improved efficiency in line maintenance inspections and reporting</em>&nbsp;</li>
+</ul>
+
+
+
+<ul class="wp-block-list">
+<li><strong>South Dakota State University&nbsp;</strong>&nbsp;<br><em>Surface Preservation and Rust Killer (</em><em>S.P.A.R.K.)&nbsp;Crawler</em>&nbsp;</li>
+</ul>
+
+
+
+<ul class="wp-block-list">
+<li><strong>University of California, Irvine&nbsp;</strong>&nbsp;<br><em>Aircraft Structural&nbsp;Health Intelligence for Evaluation and Lifecycle Detection&nbsp;(Air SHIELD)</em>&nbsp;</li>
+
+
+
+<li><strong>University of Maryland Eastern Shore</strong>&nbsp;<br><em>A Self-Supervised Learning Framework for&nbsp;Auxiliary Power Unit&nbsp;(APU)&nbsp;Fuel Control Unit Health Management in Aircraft&nbsp;known as APU Sentinel</em>&nbsp;</li>
+</ul>
+
+
+
+<p>The Gateways to Blue&nbsp;Skies Challenge is&nbsp;led&nbsp;through the Transformative Aeronautics Concepts Program in NASA’s&nbsp;<a href="https://www.nasa.gov/aeronautics/" target="_blank" rel="noreferrer noopener">Aeronautics Research Mission Directorate</a>.&nbsp;The NASA Tournament Lab, part of the&nbsp;<a href="https://www.nasa.gov/prizes-challenges-and-crowdsourcing/" target="_blank" rel="noreferrer noopener">Prizes, Challenges, and Crowdsourcing Program</a>&nbsp;in the Space Technology Mission Directorate, manages the challenge&nbsp;through&nbsp;the National Institute of Aerospace&nbsp;on behalf of&nbsp;<a href="https://www.nasa.gov/aeronautics/" target="_blank" rel="noreferrer noopener">NASA</a>.&nbsp;</p>
+
+
+
+<p>More on the Gateways to Blues Skies:&nbsp;RepAir:&nbsp;Advancing&nbsp;Aircraft&nbsp;Maintenance&nbsp;competition&nbsp;is available&nbsp;<a href="https://blueskies.nianet.org/" target="_blank" rel="noreferrer noopener">on the competition’s site</a>.&nbsp;</p>
+
+
+<div id="" class="hds-topic-cards nasa-gb-align-full maxw-full width-full padding-y-6 padding-x-3 color-mode-dark hds-module hds-module-full alignfull wp-block-nasa-blocks-topic-cards">		<div class="grid-container grid-container-block-lg padding-x-0">
+			<div class="grid-row flex-align-center margin-bottom-3">
+				<div class="desktop:grid-col-8 margin-bottom-2 desktop:margin-bottom-0">
+					<div class="label color-carbon-60 margin-bottom-2">Keep Exploring</div>
+					<h2 class="heading-36 line-height-sm">Discover More Topics From NASA</h2>
+				</div>
+			</div>
+				<div class="grid-row grid-gap-2 hds-topic-cards-wrapper">
+					<a href="https://www.nasa.gov/aeronautics/" class="mobile:grid-col-12 tablet:grid-col-6 desktop:grid-col-3 topic-card margin-bottom-4 desktop:margin-bottom-0">
+				<div class="hds-topic-card hds-cover-wrapper cover-hover-zoom bg-carbon-black">
+					<div class="skrim-overlay skrim-overlay-dark skrim-left mobile-skrim-top padding-3 display-flex flex-align-end flex-justify-start z-200">
+						<div>
+													<p class="hds-topic-card-heading heading-29 color-spacesuit-white line-height-sm margin-top-0 margin-bottom-1">
+								<span>Aeronautics</span>
+								<svg viewBox="0 0 32 32" fill="none" xmlns="http://www.w3.org/2000/svg"><circle class="color-nasa-red" cx="16" cy="16" r="16"></circle><path d="M8 16.956h12.604l-3.844 4.106 1.252 1.338L24 16l-5.988-6.4-1.252 1.338 3.844 4.106H8v1.912z" class="color-spacesuit-white"></path></svg>
+							</p>
+													</div>
+					</div>
+											<figure class="hds-media-background  "><img decoding="async" width="1536" height="1025" src="https://www.nasa.gov/wp-content/uploads/2025/05/p23-171-176.jpg?w=1536" class="attachment-1536x1536 size-1536x1536" alt="" style="transform: scale(1); transform-origin: 50% 50%; object-position: 50% 50%; object-fit: cover;" block_context="nasa-block" loading="lazy" srcset="https://www.nasa.gov/wp-content/uploads/2025/05/p23-171-176.jpg 3598w, https://www.nasa.gov/wp-content/uploads/2025/05/p23-171-176.jpg?resize=300,200 300w, https://www.nasa.gov/wp-content/uploads/2025/05/p23-171-176.jpg?resize=768,512 768w, https://www.nasa.gov/wp-content/uploads/2025/05/p23-171-176.jpg?resize=1024,683 1024w, https://www.nasa.gov/wp-content/uploads/2025/05/p23-171-176.jpg?resize=1536,1025 1536w, https://www.nasa.gov/wp-content/uploads/2025/05/p23-171-176.jpg?resize=2048,1366 2048w, https://www.nasa.gov/wp-content/uploads/2025/05/p23-171-176.jpg?resize=400,267 400w, https://www.nasa.gov/wp-content/uploads/2025/05/p23-171-176.jpg?resize=600,400 600w, https://www.nasa.gov/wp-content/uploads/2025/05/p23-171-176.jpg?resize=900,600 900w, https://www.nasa.gov/wp-content/uploads/2025/05/p23-171-176.jpg?resize=1200,800 1200w, https://www.nasa.gov/wp-content/uploads/2025/05/p23-171-176.jpg?resize=2000,1334 2000w" sizes="auto, (max-width: 1536px) 100vw, 1536px" /></figure>									</div>
+			</a>
+					<a href="https://www.nasa.gov/prizes-challenges-and-crowdsourcing/" class="mobile:grid-col-12 tablet:grid-col-6 desktop:grid-col-3 topic-card margin-bottom-4 desktop:margin-bottom-0">
+				<div class="hds-topic-card hds-cover-wrapper cover-hover-zoom bg-carbon-black">
+					<div class="skrim-overlay skrim-overlay-dark skrim-left mobile-skrim-top padding-3 display-flex flex-align-end flex-justify-start z-200">
+						<div>
+													<p class="hds-topic-card-heading heading-29 color-spacesuit-white line-height-sm margin-top-0 margin-bottom-1">
+								<span>NASA Prizes, Challenges, and Crowdsourcing</span>
+								<svg viewBox="0 0 32 32" fill="none" xmlns="http://www.w3.org/2000/svg"><circle class="color-nasa-red" cx="16" cy="16" r="16"></circle><path d="M8 16.956h12.604l-3.844 4.106 1.252 1.338L24 16l-5.988-6.4-1.252 1.338 3.844 4.106H8v1.912z" class="color-spacesuit-white"></path></svg>
+							</p>
+													</div>
+					</div>
+											<figure class="hds-media-background  "><img decoding="async" width="1152" height="1536" src="https://www.nasa.gov/wp-content/uploads/2023/03/img-0940.jpg?w=1152" class="attachment-1536x1536 size-1536x1536" alt="" style="transform: scale(1); transform-origin: 50% 50%; object-position: 50% 50%; object-fit: cover;" block_context="nasa-block" loading="lazy" srcset="https://www.nasa.gov/wp-content/uploads/2023/03/img-0940.jpg 1512w, https://www.nasa.gov/wp-content/uploads/2023/03/img-0940.jpg?resize=225,300 225w, https://www.nasa.gov/wp-content/uploads/2023/03/img-0940.jpg?resize=768,1024 768w, https://www.nasa.gov/wp-content/uploads/2023/03/img-0940.jpg?resize=1152,1536 1152w, https://www.nasa.gov/wp-content/uploads/2023/03/img-0940.jpg?resize=300,400 300w, https://www.nasa.gov/wp-content/uploads/2023/03/img-0940.jpg?resize=450,600 450w, https://www.nasa.gov/wp-content/uploads/2023/03/img-0940.jpg?resize=675,900 675w, https://www.nasa.gov/wp-content/uploads/2023/03/img-0940.jpg?resize=900,1200 900w, https://www.nasa.gov/wp-content/uploads/2023/03/img-0940.jpg?resize=1500,2000 1500w" sizes="auto, (max-width: 1152px) 100vw, 1152px" /></figure>									</div>
+			</a>
+					<a href="https://www.nasa.gov/space-technology-mission-directorate/" class="mobile:grid-col-12 tablet:grid-col-6 desktop:grid-col-3 topic-card margin-bottom-4 desktop:margin-bottom-0">
+				<div class="hds-topic-card hds-cover-wrapper cover-hover-zoom bg-carbon-black">
+					<div class="skrim-overlay skrim-overlay-dark skrim-left mobile-skrim-top padding-3 display-flex flex-align-end flex-justify-start z-200">
+						<div>
+													<p class="hds-topic-card-heading heading-29 color-spacesuit-white line-height-sm margin-top-0 margin-bottom-1">
+								<span>Space Technology Mission Directorate</span>
+								<svg viewBox="0 0 32 32" fill="none" xmlns="http://www.w3.org/2000/svg"><circle class="color-nasa-red" cx="16" cy="16" r="16"></circle><path d="M8 16.956h12.604l-3.844 4.106 1.252 1.338L24 16l-5.988-6.4-1.252 1.338 3.844 4.106H8v1.912z" class="color-spacesuit-white"></path></svg>
+							</p>
+													</div>
+					</div>
+											<figure class="hds-media-background  "><img decoding="async" width="525" height="800" src="https://www.nasa.gov/wp-content/uploads/2022/12/stmd.jpg?w=525" class="attachment-1536x1536 size-1536x1536" alt="" style="transform: scale(1); transform-origin: 50% 50%; object-position: 50% 50%; object-fit: cover;" block_context="nasa-block" loading="lazy" srcset="https://www.nasa.gov/wp-content/uploads/2022/12/stmd.jpg 525w, https://www.nasa.gov/wp-content/uploads/2022/12/stmd.jpg?resize=197,300 197w, https://www.nasa.gov/wp-content/uploads/2022/12/stmd.jpg?resize=263,400 263w, https://www.nasa.gov/wp-content/uploads/2022/12/stmd.jpg?resize=394,600 394w" sizes="auto, (max-width: 525px) 100vw, 525px" /></figure>									</div>
+			</a>
+					<a href="https://www.nasa.gov/get-involved/" class="mobile:grid-col-12 tablet:grid-col-6 desktop:grid-col-3 topic-card margin-bottom-4 desktop:margin-bottom-0">
+				<div class="hds-topic-card hds-cover-wrapper cover-hover-zoom bg-carbon-black">
+					<div class="skrim-overlay skrim-overlay-dark skrim-left mobile-skrim-top padding-3 display-flex flex-align-end flex-justify-start z-200">
+						<div>
+													<p class="hds-topic-card-heading heading-29 color-spacesuit-white line-height-sm margin-top-0 margin-bottom-1">
+								<span>Get Involved</span>
+								<svg viewBox="0 0 32 32" fill="none" xmlns="http://www.w3.org/2000/svg"><circle class="color-nasa-red" cx="16" cy="16" r="16"></circle><path d="M8 16.956h12.604l-3.844 4.106 1.252 1.338L24 16l-5.988-6.4-1.252 1.338 3.844 4.106H8v1.912z" class="color-spacesuit-white"></path></svg>
+							</p>
+													</div>
+					</div>
+											<figure class="hds-media-background  "><img decoding="async" width="1536" height="1025" src="https://www.nasa.gov/wp-content/uploads/2015/03/top-image.jpg?w=1536" class="attachment-1536x1536 size-1536x1536" alt="" style="transform: scale(1); transform-origin: 50% 50%; object-position: 50% 50%; object-fit: cover;" block_context="nasa-block" loading="lazy" srcset="https://www.nasa.gov/wp-content/uploads/2015/03/top-image.jpg 8192w, https://www.nasa.gov/wp-content/uploads/2015/03/top-image.jpg?resize=300,200 300w, https://www.nasa.gov/wp-content/uploads/2015/03/top-image.jpg?resize=768,512 768w, https://www.nasa.gov/wp-content/uploads/2015/03/top-image.jpg?resize=1024,683 1024w, https://www.nasa.gov/wp-content/uploads/2015/03/top-image.jpg?resize=1536,1025 1536w, https://www.nasa.gov/wp-content/uploads/2015/03/top-image.jpg?resize=2048,1366 2048w, https://www.nasa.gov/wp-content/uploads/2015/03/top-image.jpg?resize=400,267 400w, https://www.nasa.gov/wp-content/uploads/2015/03/top-image.jpg?resize=600,400 600w, https://www.nasa.gov/wp-content/uploads/2015/03/top-image.jpg?resize=900,600 900w, https://www.nasa.gov/wp-content/uploads/2015/03/top-image.jpg?resize=1200,800 1200w, https://www.nasa.gov/wp-content/uploads/2015/03/top-image.jpg?resize=2000,1334 2000w" sizes="auto, (max-width: 1536px) 100vw, 1536px" /></figure>									</div>
+			</a>
+				</div>
+			</div>
+		</div>]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>NASA Armstrong to Host Partnership Days April 15-16</title>
+		<link>https://www.nasa.gov/news-release/nasa-armstrong-to-host-partnership-days-april-15-16/</link>
+		
+		<dc:creator><![CDATA[Dede Dinius]]></dc:creator>
+		<pubDate>Fri, 13 Mar 2026 17:33:41 +0000</pubDate>
+				<category><![CDATA[Armstrong Flight Research Center]]></category>
+		<category><![CDATA[Aeronautics]]></category>
+		<category><![CDATA[Doing Business with NASA]]></category>
+		<category><![CDATA[Events]]></category>
+		<category><![CDATA[Flight Innovation]]></category>
+		<category><![CDATA[Partner With Us]]></category>
+		<category><![CDATA[Science in the Air]]></category>
+		<guid isPermaLink="false">https://www.nasa.gov/?post_type=press-release&#038;p=973399</guid>
+
+					<description><![CDATA[NASA’s Armstrong Flight Research Center in Edwards, California, invites innovative companies, government agencies, and organizations to attend Partnership Days, scheduled for Wednesday and Thursday, April 15 and 16, at the center. The event offers a unique opportunity to explore collaboration with NASA on cutting-edge research and development in areas such as aerospace, autonomy, sustainability, and [&#8230;]]]></description>
+										<content:encoded><![CDATA[<div id="" class="padding-top-5 padding-bottom-3 width-full maxw-full hds-module hds-module-full alignfull wp-block-nasa-blocks-article-intro"><div class="width-full maxw-full article-header"><div class="margin-bottom-2 width-full maxw-full"><p class="label carbon-60 margin-0 margin-bottom-3 padding-0">1 min read</p><h1 class="display-48 margin-bottom-2">Preparations for Next Moonwalk Simulations Underway (and Underwater)</h1></div></div></div>
+
+<div id="" class="hds-media hds-module wp-block-image"><div class="margin-left-auto margin-right-auto nasa-block-align-inline"><div class="hds-media-wrapper margin-left-auto margin-right-auto"><figure class="hds-media-inner hds-cover-wrapper hds-media-ratio-none "><a href="https://www.nasa.gov/wp-content/uploads/2026/03/partnershipday-flyer-8-5x11-2026.jpg"><img decoding="async" width="1583" height="2048" src="https://www.nasa.gov/wp-content/uploads/2026/03/partnershipday-flyer-8-5x11-2026.jpg?w=1583" class="attachment-2048x2048 size-2048x2048" alt="A high-performance F-15 aircraft flies through a cloudy sky and passes over a blue and white wavy lines above a shorter blue line. Next are a white and a red wavy lines with a blue, purple, and rust color background. The NASA logo is in the top right corner. Text reads: “Partnership Days, April 15-16, 2026: Seeking innovative companies ready to collaborate on groundbreaking research and development. Whether you’re expanding aerospace capabilities or pioneering next-gen tech, NASA’s Armstrong Flight Research Center in Edwards, California, can provide the expertise, resources, and support to help your company reach new frontiers.” A QR code at the bottom links to an email interest form at AFRC-CAL-330-Partnerships@mail.nasa.gov." style="transform: scale(1); transform-origin: 50% 50%; object-position: 50% 50%; object-fit: cover;" block_context="nasa-block" loading="lazy" srcset="https://www.nasa.gov/wp-content/uploads/2026/03/partnershipday-flyer-8-5x11-2026.jpg 11237w, https://www.nasa.gov/wp-content/uploads/2026/03/partnershipday-flyer-8-5x11-2026.jpg?resize=232,300 232w, https://www.nasa.gov/wp-content/uploads/2026/03/partnershipday-flyer-8-5x11-2026.jpg?resize=768,994 768w, https://www.nasa.gov/wp-content/uploads/2026/03/partnershipday-flyer-8-5x11-2026.jpg?resize=791,1024 791w, https://www.nasa.gov/wp-content/uploads/2026/03/partnershipday-flyer-8-5x11-2026.jpg?resize=1187,1536 1187w, https://www.nasa.gov/wp-content/uploads/2026/03/partnershipday-flyer-8-5x11-2026.jpg?resize=1583,2048 1583w, https://www.nasa.gov/wp-content/uploads/2026/03/partnershipday-flyer-8-5x11-2026.jpg?resize=309,400 309w, https://www.nasa.gov/wp-content/uploads/2026/03/partnershipday-flyer-8-5x11-2026.jpg?resize=464,600 464w, https://www.nasa.gov/wp-content/uploads/2026/03/partnershipday-flyer-8-5x11-2026.jpg?resize=695,900 695w, https://www.nasa.gov/wp-content/uploads/2026/03/partnershipday-flyer-8-5x11-2026.jpg?resize=927,1200 927w, https://www.nasa.gov/wp-content/uploads/2026/03/partnershipday-flyer-8-5x11-2026.jpg?resize=1545,2000 1545w" sizes="auto, (max-width: 1583px) 100vw, 1583px" /></a></figure><figcaption class="hds-caption padding-y-2"><div class="hds-credits">NASA Graphics</div></figcaption></div></div></div>
+
+
+<p>NASA’s Armstrong Flight Research Center in Edwards, California, invites innovative companies, government agencies, and organizations to attend Partnership Days, scheduled for Wednesday and Thursday, April 15 and 16, at the center.</p>
+
+
+
+<p>The event offers a unique opportunity to explore collaboration with NASA on cutting-edge research and development in areas such as aerospace, autonomy, sustainability, and more. Attendees will engage with NASA experts and learn how Armstrong’s capabilities can help accelerate innovation and bring transformative technologies to life.</p>
+
+
+
+<p>Space is limited, and RSVP is required by Wednesday, March 25.</p>
+
+
+
+<p>To register, scan the QR code on the event poster or email <a href="mailto:AFRC-CAL-330-Partnerships@mail.nasa.gov">AFRC-CAL-330-Partnerships@mail.nasa.gov</a>.</p>
+
+
+
+<p><strong>What:</strong> NASA Armstrong Partnership Days</p>
+
+
+
+<p><strong>When:</strong>  8 a.m.-4 p.m. Wednesday, April 15, and 10:30 a.m.-5 p.m. Thursday, April 16, 2026</p>
+
+
+
+<p><strong>Where:</strong> NASA’s Armstrong Flight Research Center, Edwards, California</p>
+
+
+
+<p><strong>Who:</strong> Industry leaders, government agencies, and organizations interested in research and development partnerships with NASA</p>
+
+
+
+<p>For information about NASA Armstrong and other agency programs, visit:</p>
+
+
+
+<p class="has-text-align-center"><a href="https://www.nasa.gov/armstrong">https://www.nasa.gov/armstrong</a></p>
+
+
+
+<p class="has-text-align-center">-end-</p>
+
+
+
+<p>Dede Dinius<br>Armstrong Flight Research Center, Edwards, California<br>661-276-5701<br>darin.l.dinius@nasa.gov</p>
+
+
+<div id="" class="nasa-gb-align-full width-full maxw-full padding-x-3 padding-y-0 hds-module hds-module-full alignfull wp-block-nasa-blocks-related-articles">		<section class="hds-related-articles padding-x-0 padding-y-3 desktop:padding-top-7 desktop:padding-bottom-9">
+			<div class="w-100 grid-row grid-container maxw-widescreen padding-0 text-align-left">
+				<div class="margin-bottom-4"><h2 style="max-width: 100%;" class="width-full w-full maxw-full">Explore More</h2></div>
+			</div>
+			<div class="grid-row grid-container maxw-widescreen padding-0">
+										<div class="grid-col-12 desktop:grid-col-4 margin-bottom-4 desktop:margin-bottom-0 desktop:padding-right-3">
+						<a href="https://www.nasa.gov/aeronautics/nasa-selects-finalists-in-student-aircraft-maintenance-competition/" class="color-carbon-black">
+							<div class="margin-bottom-2">
+								<div class="hds-cover-wrapper cover-hover-zoom bg-carbon-black minh-mobile">
+								<figure class="hds-media-background  "><img decoding="async" width="200" height="300" src="https://www.nasa.gov/wp-content/uploads/2020/05/afrc2018-0287-158.jpg?w=200" class="attachment-medium size-medium" alt="" style="transform: scale(1); transform-origin: 50% 50%; object-position: 50% 50%; object-fit: cover;" block_context="nasa-block" loading="lazy" srcset="https://www.nasa.gov/wp-content/uploads/2020/05/afrc2018-0287-158.jpg 3093w, https://www.nasa.gov/wp-content/uploads/2020/05/afrc2018-0287-158.jpg?resize=200,300 200w, https://www.nasa.gov/wp-content/uploads/2020/05/afrc2018-0287-158.jpg?resize=768,1152 768w, https://www.nasa.gov/wp-content/uploads/2020/05/afrc2018-0287-158.jpg?resize=683,1024 683w, https://www.nasa.gov/wp-content/uploads/2020/05/afrc2018-0287-158.jpg?resize=1024,1536 1024w, https://www.nasa.gov/wp-content/uploads/2020/05/afrc2018-0287-158.jpg?resize=1365,2048 1365w, https://www.nasa.gov/wp-content/uploads/2020/05/afrc2018-0287-158.jpg?resize=267,400 267w, https://www.nasa.gov/wp-content/uploads/2020/05/afrc2018-0287-158.jpg?resize=400,600 400w, https://www.nasa.gov/wp-content/uploads/2020/05/afrc2018-0287-158.jpg?resize=600,900 600w, https://www.nasa.gov/wp-content/uploads/2020/05/afrc2018-0287-158.jpg?resize=800,1200 800w, https://www.nasa.gov/wp-content/uploads/2020/05/afrc2018-0287-158.jpg?resize=1333,2000 1333w" sizes="auto, (max-width: 200px) 100vw, 200px" /></figure>								</div>
+							</div>
+							<div class="padding-right-0 desktop:padding-right-10">
+								<div class="subheading margin-bottom-1">4 min read</div>
+								<div class="margin-bottom-1"><h3 class="related-article-title">NASA Selects Finalists in Student Aircraft Maintenance Competition</h3></div>
+																<div class="display-flex flex-align-center label related-article-label margin-bottom-1 color-carbon-60">
+									<span class="display-flex flex-align-center margin-right-2">
+										<svg version="1.1" class="square-2 margin-right-1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="16px" height="16px" viewBox="0 0 16 16" style="enable-background:new 0 0 16 16;" xml:space="preserve"><g><g><path d="M8,0C3.5,0-0.1,3.7,0,8.2C0.1,12.5,3.6,16,8,16c4.4,0,8-3.6,8-8C16,3.5,12.4,0,8,0z M8,15.2 C4,15.2,0.8,12,0.8,8C0.8,4,4,0.8,8,0.8c3.9,0,7.2,3.2,7.2,7.1C15.2,11.9,12,15.2,8,15.2z"/><path d="M5.6,12c0.8-0.8,1.6-1.6,2.4-2.4c0.8,0.8,1.6,1.6,2.4,2.4c0-2.7,0-5.3,0-8C8.8,4,7.2,4,5.6,4 C5.6,6.7,5.6,9.3,5.6,12z"/></g></g></svg>
+										<span>Article</span>
+									</span>
+									<span class="">
+										3 days ago									</span>
+								</div>
+							</div>
+						</a>
+					</div>
+									<div class="grid-col-12 desktop:grid-col-4 margin-bottom-4 desktop:margin-bottom-0 desktop:padding-right-3">
+						<a href="https://www.nasa.gov/aeronautics/armd-solicitations/" class="color-carbon-black">
+							<div class="margin-bottom-2">
+								<div class="hds-cover-wrapper cover-hover-zoom bg-carbon-black minh-mobile">
+								<figure class="hds-media-background  "><img decoding="async" width="300" height="169" src="https://www.nasa.gov/wp-content/uploads/2024/06/aero-research-opp-072024.jpg?w=300" class="attachment-medium size-medium" alt="" style="transform: scale(1); transform-origin: 50% 50%; object-position: 50% 50%; object-fit: cover;" block_context="nasa-block" loading="lazy" srcset="https://www.nasa.gov/wp-content/uploads/2024/06/aero-research-opp-072024.jpg 4098w, https://www.nasa.gov/wp-content/uploads/2024/06/aero-research-opp-072024.jpg?resize=300,169 300w, https://www.nasa.gov/wp-content/uploads/2024/06/aero-research-opp-072024.jpg?resize=768,433 768w, https://www.nasa.gov/wp-content/uploads/2024/06/aero-research-opp-072024.jpg?resize=1024,577 1024w, https://www.nasa.gov/wp-content/uploads/2024/06/aero-research-opp-072024.jpg?resize=1536,865 1536w, https://www.nasa.gov/wp-content/uploads/2024/06/aero-research-opp-072024.jpg?resize=2048,1154 2048w, https://www.nasa.gov/wp-content/uploads/2024/06/aero-research-opp-072024.jpg?resize=400,225 400w, https://www.nasa.gov/wp-content/uploads/2024/06/aero-research-opp-072024.jpg?resize=600,338 600w, https://www.nasa.gov/wp-content/uploads/2024/06/aero-research-opp-072024.jpg?resize=900,507 900w, https://www.nasa.gov/wp-content/uploads/2024/06/aero-research-opp-072024.jpg?resize=1200,676 1200w, https://www.nasa.gov/wp-content/uploads/2024/06/aero-research-opp-072024.jpg?resize=2000,1127 2000w" sizes="auto, (max-width: 300px) 100vw, 300px" /></figure>								</div>
+							</div>
+							<div class="padding-right-0 desktop:padding-right-10">
+								<div class="subheading margin-bottom-1">10 min read</div>
+								<div class="margin-bottom-1"><h3 class="related-article-title">ARMD Research Solicitations (Updated March 6)</h3></div>
+																<div class="display-flex flex-align-center label related-article-label margin-bottom-1 color-carbon-60">
+									<span class="display-flex flex-align-center margin-right-2">
+										<svg version="1.1" class="square-2 margin-right-1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="16px" height="16px" viewBox="0 0 16 16" style="enable-background:new 0 0 16 16;" xml:space="preserve"><g><g><path d="M8,0C3.5,0-0.1,3.7,0,8.2C0.1,12.5,3.6,16,8,16c4.4,0,8-3.6,8-8C16,3.5,12.4,0,8,0z M8,15.2 C4,15.2,0.8,12,0.8,8C0.8,4,4,0.8,8,0.8c3.9,0,7.2,3.2,7.2,7.1C15.2,11.9,12,15.2,8,15.2z"/><path d="M5.6,12c0.8-0.8,1.6-1.6,2.4-2.4c0.8,0.8,1.6,1.6,2.4,2.4c0-2.7,0-5.3,0-8C8.8,4,7.2,4,5.6,4 C5.6,6.7,5.6,9.3,5.6,12z"/></g></g></svg>
+										<span>Article</span>
+									</span>
+									<span class="">
+										1 week ago									</span>
+								</div>
+							</div>
+						</a>
+					</div>
+									<div class="grid-col-12 desktop:grid-col-4 margin-bottom-4 desktop:margin-bottom-0 desktop:padding-right-3">
+						<a href="https://www.nasa.gov/centers-and-facilities/armstrong/nasas-home-for-experimental-flight-advances-aeronautics-mission/" class="color-carbon-black">
+							<div class="margin-bottom-2">
+								<div class="hds-cover-wrapper cover-hover-zoom bg-carbon-black minh-mobile">
+								<figure class="hds-media-background  "><img decoding="async" width="1644" height="1920" src="https://images-assets.nasa.gov/image/AFRC2024-0143-03/AFRC2024-0143-03~large.jpg?w=1644&amp;h=1920&amp;fit=clip&amp;crop=faces%2Cfocalpoint" class="attachment-medium size-medium" alt="" style="transform: scale(1); transform-origin: 50% 50%; object-position: 50% 50%; object-fit: cover;" block_context="nasa-block" loading="lazy" srcset="https://images-assets.nasa.gov/image/AFRC2024-0143-03/AFRC2024-0143-03~large.jpg?w=1644&amp;h=1920&amp;fit=crop&amp;crop=faces%2Cfocalpoint 1644w, https://images-assets.nasa.gov/image/AFRC2024-0143-03/AFRC2024-0143-03~large.jpg?w=257&amp;h=300&amp;fit=crop&amp;crop=faces%2Cfocalpoint 257w, https://images-assets.nasa.gov/image/AFRC2024-0143-03/AFRC2024-0143-03~large.jpg?w=768&amp;h=897&amp;fit=crop&amp;crop=faces%2Cfocalpoint 768w, https://images-assets.nasa.gov/image/AFRC2024-0143-03/AFRC2024-0143-03~large.jpg?w=877&amp;h=1024&amp;fit=crop&amp;crop=faces%2Cfocalpoint 877w, https://images-assets.nasa.gov/image/AFRC2024-0143-03/AFRC2024-0143-03~large.jpg?w=1315&amp;h=1536&amp;fit=crop&amp;crop=faces%2Cfocalpoint 1315w, https://images-assets.nasa.gov/image/AFRC2024-0143-03/AFRC2024-0143-03~large.jpg?w=343&amp;h=401&amp;fit=crop&amp;crop=faces%2Cfocalpoint 343w, https://images-assets.nasa.gov/image/AFRC2024-0143-03/AFRC2024-0143-03~large.jpg?w=514&amp;h=600&amp;fit=crop&amp;crop=faces%2Cfocalpoint 514w, https://images-assets.nasa.gov/image/AFRC2024-0143-03/AFRC2024-0143-03~large.jpg?w=771&amp;h=900&amp;fit=crop&amp;crop=faces%2Cfocalpoint 771w, https://images-assets.nasa.gov/image/AFRC2024-0143-03/AFRC2024-0143-03~large.jpg?w=1028&amp;h=1201&amp;fit=crop&amp;crop=faces%2Cfocalpoint 1028w" sizes="auto, (max-width: 1644px) 100vw, 1644px" /></figure>								</div>
+							</div>
+							<div class="padding-right-0 desktop:padding-right-10">
+								<div class="subheading margin-bottom-1">5 min read</div>
+								<div class="margin-bottom-1"><h3 class="related-article-title">NASA’s Home for Experimental Flight Advances Aeronautics Mission</h3></div>
+																<div class="display-flex flex-align-center label related-article-label margin-bottom-1 color-carbon-60">
+									<span class="display-flex flex-align-center margin-right-2">
+										<svg version="1.1" class="square-2 margin-right-1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="16px" height="16px" viewBox="0 0 16 16" style="enable-background:new 0 0 16 16;" xml:space="preserve"><g><g><path d="M8,0C3.5,0-0.1,3.7,0,8.2C0.1,12.5,3.6,16,8,16c4.4,0,8-3.6,8-8C16,3.5,12.4,0,8,0z M8,15.2 C4,15.2,0.8,12,0.8,8C0.8,4,4,0.8,8,0.8c3.9,0,7.2,3.2,7.2,7.1C15.2,11.9,12,15.2,8,15.2z"/><path d="M5.6,12c0.8-0.8,1.6-1.6,2.4-2.4c0.8,0.8,1.6,1.6,2.4,2.4c0-2.7,0-5.3,0-8C8.8,4,7.2,4,5.6,4 C5.6,6.7,5.6,9.3,5.6,12z"/></g></g></svg>
+										<span>Article</span>
+									</span>
+									<span class="">
+										2 weeks ago									</span>
+								</div>
+							</div>
+						</a>
+					</div>
+							</div>
+		</section>
+		</div>
+
+<div id="" class="hds-topic-cards nasa-gb-align-full maxw-full width-full padding-y-6 padding-x-3 color-mode-dark hds-module hds-module-full alignfull wp-block-nasa-blocks-topic-cards">		<div class="grid-container grid-container-block-lg padding-x-0">
+			<div class="grid-row flex-align-center margin-bottom-3">
+				<div class="desktop:grid-col-8 margin-bottom-2 desktop:margin-bottom-0">
+					<div class="label color-carbon-60 margin-bottom-2">Keep Exploring</div>
+					<h2 class="heading-36 line-height-sm">Discover More Topics From NASA</h2>
+				</div>
+			</div>
+				<div class="grid-row grid-gap-2 hds-topic-cards-wrapper">
+					<a href="https://www.nasa.gov/armstrong/" class="mobile:grid-col-12 tablet:grid-col-6 desktop:grid-col-3 topic-card margin-bottom-4 desktop:margin-bottom-0">
+				<div class="hds-topic-card hds-cover-wrapper cover-hover-zoom bg-carbon-black">
+					<div class="skrim-overlay skrim-overlay-dark skrim-left mobile-skrim-top padding-3 display-flex flex-align-end flex-justify-start z-200">
+						<div>
+													<p class="hds-topic-card-heading heading-29 color-spacesuit-white line-height-sm margin-top-0 margin-bottom-1">
+								<span>Armstrong Flight Research Center</span>
+								<svg viewBox="0 0 32 32" fill="none" xmlns="http://www.w3.org/2000/svg"><circle class="color-nasa-red" cx="16" cy="16" r="16"></circle><path d="M8 16.956h12.604l-3.844 4.106 1.252 1.338L24 16l-5.988-6.4-1.252 1.338 3.844 4.106H8v1.912z" class="color-spacesuit-white"></path></svg>
+							</p>
+													</div>
+					</div>
+											<figure class="hds-media-background  "><img decoding="async" width="1229" height="1536" src="https://www.nasa.gov/wp-content/uploads/2018/02/afrc2018-0020-06_eclipse_composite_cropped-1.jpg?w=1229" class="attachment-1536x1536 size-1536x1536" alt="" style="transform: scale(1); transform-origin: 50% 50%; object-position: 50% 50%; object-fit: cover;" block_context="nasa-block" loading="lazy" srcset="https://www.nasa.gov/wp-content/uploads/2018/02/afrc2018-0020-06_eclipse_composite_cropped-1.jpg 4274w, https://www.nasa.gov/wp-content/uploads/2018/02/afrc2018-0020-06_eclipse_composite_cropped-1.jpg?resize=240,300 240w, https://www.nasa.gov/wp-content/uploads/2018/02/afrc2018-0020-06_eclipse_composite_cropped-1.jpg?resize=768,960 768w, https://www.nasa.gov/wp-content/uploads/2018/02/afrc2018-0020-06_eclipse_composite_cropped-1.jpg?resize=819,1024 819w, https://www.nasa.gov/wp-content/uploads/2018/02/afrc2018-0020-06_eclipse_composite_cropped-1.jpg?resize=1229,1536 1229w, https://www.nasa.gov/wp-content/uploads/2018/02/afrc2018-0020-06_eclipse_composite_cropped-1.jpg?resize=1639,2048 1639w, https://www.nasa.gov/wp-content/uploads/2018/02/afrc2018-0020-06_eclipse_composite_cropped-1.jpg?resize=320,400 320w, https://www.nasa.gov/wp-content/uploads/2018/02/afrc2018-0020-06_eclipse_composite_cropped-1.jpg?resize=480,600 480w, https://www.nasa.gov/wp-content/uploads/2018/02/afrc2018-0020-06_eclipse_composite_cropped-1.jpg?resize=720,900 720w, https://www.nasa.gov/wp-content/uploads/2018/02/afrc2018-0020-06_eclipse_composite_cropped-1.jpg?resize=960,1200 960w, https://www.nasa.gov/wp-content/uploads/2018/02/afrc2018-0020-06_eclipse_composite_cropped-1.jpg?resize=1600,2000 1600w" sizes="auto, (max-width: 1229px) 100vw, 1229px" /></figure>									</div>
+			</a>
+					<a href="https://www.nasa.gov/armstrong/programs-projects/partnerships/" class="mobile:grid-col-12 tablet:grid-col-6 desktop:grid-col-3 topic-card margin-bottom-4 desktop:margin-bottom-0">
+				<div class="hds-topic-card hds-cover-wrapper cover-hover-zoom bg-carbon-black">
+					<div class="skrim-overlay skrim-overlay-dark skrim-left mobile-skrim-top padding-3 display-flex flex-align-end flex-justify-start z-200">
+						<div>
+													<p class="hds-topic-card-heading heading-29 color-spacesuit-white line-height-sm margin-top-0 margin-bottom-1">
+								<span>Armstrong Partnerships</span>
+								<svg viewBox="0 0 32 32" fill="none" xmlns="http://www.w3.org/2000/svg"><circle class="color-nasa-red" cx="16" cy="16" r="16"></circle><path d="M8 16.956h12.604l-3.844 4.106 1.252 1.338L24 16l-5.988-6.4-1.252 1.338 3.844 4.106H8v1.912z" class="color-spacesuit-white"></path></svg>
+							</p>
+													</div>
+					</div>
+											<figure class="hds-media-background  "><img decoding="async" width="1536" height="1024" src="https://www.nasa.gov/wp-content/uploads/2015/12/ed15-0249-24.jpg?w=1536" class="attachment-1536x1536 size-1536x1536" alt="" style="transform: scale(1); transform-origin: 50% 50%; object-position: 50% 50%; object-fit: cover;" block_context="nasa-block" loading="lazy" srcset="https://www.nasa.gov/wp-content/uploads/2015/12/ed15-0249-24.jpg 2852w, https://www.nasa.gov/wp-content/uploads/2015/12/ed15-0249-24.jpg?resize=300,200 300w, https://www.nasa.gov/wp-content/uploads/2015/12/ed15-0249-24.jpg?resize=768,512 768w, https://www.nasa.gov/wp-content/uploads/2015/12/ed15-0249-24.jpg?resize=1024,683 1024w, https://www.nasa.gov/wp-content/uploads/2015/12/ed15-0249-24.jpg?resize=1536,1024 1536w, https://www.nasa.gov/wp-content/uploads/2015/12/ed15-0249-24.jpg?resize=2048,1365 2048w, https://www.nasa.gov/wp-content/uploads/2015/12/ed15-0249-24.jpg?resize=400,267 400w, https://www.nasa.gov/wp-content/uploads/2015/12/ed15-0249-24.jpg?resize=600,400 600w, https://www.nasa.gov/wp-content/uploads/2015/12/ed15-0249-24.jpg?resize=900,600 900w, https://www.nasa.gov/wp-content/uploads/2015/12/ed15-0249-24.jpg?resize=1200,800 1200w, https://www.nasa.gov/wp-content/uploads/2015/12/ed15-0249-24.jpg?resize=2000,1333 2000w" sizes="auto, (max-width: 1536px) 100vw, 1536px" /></figure>									</div>
+			</a>
+					<a href="https://www.nasa.gov/armstrong/doing-business-with-armstrong/" class="mobile:grid-col-12 tablet:grid-col-6 desktop:grid-col-3 topic-card margin-bottom-4 desktop:margin-bottom-0">
+				<div class="hds-topic-card hds-cover-wrapper cover-hover-zoom bg-carbon-black">
+					<div class="skrim-overlay skrim-overlay-dark skrim-left mobile-skrim-top padding-3 display-flex flex-align-end flex-justify-start z-200">
+						<div>
+													<p class="hds-topic-card-heading heading-29 color-spacesuit-white line-height-sm margin-top-0 margin-bottom-1">
+								<span>Doing Business with Armstrong</span>
+								<svg viewBox="0 0 32 32" fill="none" xmlns="http://www.w3.org/2000/svg"><circle class="color-nasa-red" cx="16" cy="16" r="16"></circle><path d="M8 16.956h12.604l-3.844 4.106 1.252 1.338L24 16l-5.988-6.4-1.252 1.338 3.844 4.106H8v1.912z" class="color-spacesuit-white"></path></svg>
+							</p>
+													</div>
+					</div>
+											<figure class="hds-media-background  "><img decoding="async" width="1041" height="779" src="https://www.nasa.gov/wp-content/uploads/2023/03/ed14-0320-021.jpg?w=1041" class="attachment-1536x1536 size-1536x1536" alt="" style="transform: scale(1); transform-origin: 50% 50%; object-position: 50% 50%; object-fit: cover;" block_context="nasa-block" loading="lazy" srcset="https://www.nasa.gov/wp-content/uploads/2023/03/ed14-0320-021.jpg 1041w, https://www.nasa.gov/wp-content/uploads/2023/03/ed14-0320-021.jpg?resize=300,224 300w, https://www.nasa.gov/wp-content/uploads/2023/03/ed14-0320-021.jpg?resize=768,575 768w, https://www.nasa.gov/wp-content/uploads/2023/03/ed14-0320-021.jpg?resize=1024,766 1024w, https://www.nasa.gov/wp-content/uploads/2023/03/ed14-0320-021.jpg?resize=400,299 400w, https://www.nasa.gov/wp-content/uploads/2023/03/ed14-0320-021.jpg?resize=600,449 600w, https://www.nasa.gov/wp-content/uploads/2023/03/ed14-0320-021.jpg?resize=900,673 900w" sizes="auto, (max-width: 1041px) 100vw, 1041px" /></figure>									</div>
+			</a>
+					<a href="https://www.nasa.gov/armstrong/capabilities-facilities/" class="mobile:grid-col-12 tablet:grid-col-6 desktop:grid-col-3 topic-card margin-bottom-4 desktop:margin-bottom-0">
+				<div class="hds-topic-card hds-cover-wrapper cover-hover-zoom bg-carbon-black">
+					<div class="skrim-overlay skrim-overlay-dark skrim-left mobile-skrim-top padding-3 display-flex flex-align-end flex-justify-start z-200">
+						<div>
+													<p class="hds-topic-card-heading heading-29 color-spacesuit-white line-height-sm margin-top-0 margin-bottom-1">
+								<span>Armstrong Capabilities &amp; Facilities</span>
+								<svg viewBox="0 0 32 32" fill="none" xmlns="http://www.w3.org/2000/svg"><circle class="color-nasa-red" cx="16" cy="16" r="16"></circle><path d="M8 16.956h12.604l-3.844 4.106 1.252 1.338L24 16l-5.988-6.4-1.252 1.338 3.844 4.106H8v1.912z" class="color-spacesuit-white"></path></svg>
+							</p>
+													</div>
+					</div>
+											<figure class="hds-media-background  "><img decoding="async" width="1920" height="1279" src="https://images-assets.nasa.gov/image/AFRC2022-0063-096/AFRC2022-0063-096~large.jpg?w=1920&amp;h=1279&amp;fit=clip&amp;crop=faces%2Cfocalpoint" class="attachment-1536x1536 size-1536x1536" alt="" style="transform: scale(1); transform-origin: 50% 50%; object-position: 50% 50%; object-fit: cover;" block_context="nasa-block" loading="lazy" srcset="https://images-assets.nasa.gov/image/AFRC2022-0063-096/AFRC2022-0063-096~large.jpg?w=1920&amp;h=1279&amp;fit=crop&amp;crop=faces%2Cfocalpoint 1920w, https://images-assets.nasa.gov/image/AFRC2022-0063-096/AFRC2022-0063-096~large.jpg?w=300&amp;h=200&amp;fit=crop&amp;crop=faces%2Cfocalpoint 300w, https://images-assets.nasa.gov/image/AFRC2022-0063-096/AFRC2022-0063-096~large.jpg?w=768&amp;h=512&amp;fit=crop&amp;crop=faces%2Cfocalpoint 768w, https://images-assets.nasa.gov/image/AFRC2022-0063-096/AFRC2022-0063-096~large.jpg?w=1024&amp;h=682&amp;fit=crop&amp;crop=faces%2Cfocalpoint 1024w, https://images-assets.nasa.gov/image/AFRC2022-0063-096/AFRC2022-0063-096~large.jpg?w=1536&amp;h=1023&amp;fit=crop&amp;crop=faces%2Cfocalpoint 1536w, https://images-assets.nasa.gov/image/AFRC2022-0063-096/AFRC2022-0063-096~large.jpg?w=400&amp;h=266&amp;fit=crop&amp;crop=faces%2Cfocalpoint 400w, https://images-assets.nasa.gov/image/AFRC2022-0063-096/AFRC2022-0063-096~large.jpg?w=600&amp;h=400&amp;fit=crop&amp;crop=faces%2Cfocalpoint 600w, https://images-assets.nasa.gov/image/AFRC2022-0063-096/AFRC2022-0063-096~large.jpg?w=900&amp;h=600&amp;fit=crop&amp;crop=faces%2Cfocalpoint 900w, https://images-assets.nasa.gov/image/AFRC2022-0063-096/AFRC2022-0063-096~large.jpg?w=1200&amp;h=799&amp;fit=crop&amp;crop=faces%2Cfocalpoint 1200w" sizes="auto, (max-width: 1920px) 100vw, 1920px" /></figure>									</div>
+			</a>
+				</div>
+			</div>
+		</div>]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>USBR Crack the Case Challenge</title>
+		<link>https://www.nasa.gov/directorates/stmd/prizes-challenges-crowdsourcing-program/center-of-excellence-for-collaborative-innovation-coeci/usbr-crack-the-case-challenge/</link>
+		
+		<dc:creator><![CDATA[Bailey G. Light]]></dc:creator>
+		<pubDate>Fri, 13 Mar 2026 17:13:49 +0000</pubDate>
+				<category><![CDATA[Center of Excellence for Collaborative Innovation (CoECI)]]></category>
+		<category><![CDATA[CoECI News]]></category>
+		<category><![CDATA[Prizes, Challenges, & Crowdsourcing News]]></category>
+		<guid isPermaLink="false">https://www.nasa.gov/?p=973450</guid>
+
+					<description><![CDATA[NASA’s Center of Excellence for Collaborative Innovation (CoECI) assists in the use of crowdsourcing across the federal government. CoECI’s NASA Tournament Lab offers the contract capability to run external crowdsourced challenges on behalf of NASA and other agencies. This three-phase challenge invites geophysicists, sensing specialists, nondestructive testing experts, and creative problem-solvers (including AI/ML practitioners) from [&#8230;]]]></description>
+										<content:encoded><![CDATA[<div id="" class="hds-media hds-module wp-block-image"><div class="margin-left-auto margin-right-auto nasa-block-align-inline"><div class="hds-media-wrapper margin-left-auto margin-right-auto"><figure class="hds-media-inner hds-cover-wrapper hds-media-ratio-cover "><a href="https://www.nasa.gov/wp-content/uploads/2024/11/hoover-dam-1.jpg"><img decoding="async" width="1430" height="1072" src="https://www.nasa.gov/wp-content/uploads/2024/11/hoover-dam-1.jpg?w=1430" class="attachment-2048x2048 size-2048x2048" alt="White handrails on a pedestrian bridge. The Hoover Dam is visible in the background." style="transform: scale(1); transform-origin: 50% 50%; object-position: 50% 50%; object-fit: cover;" block_context="nasa-block" loading="lazy" srcset="https://www.nasa.gov/wp-content/uploads/2024/11/hoover-dam-1.jpg 1430w, https://www.nasa.gov/wp-content/uploads/2024/11/hoover-dam-1.jpg?resize=300,225 300w, https://www.nasa.gov/wp-content/uploads/2024/11/hoover-dam-1.jpg?resize=768,576 768w, https://www.nasa.gov/wp-content/uploads/2024/11/hoover-dam-1.jpg?resize=1024,768 1024w, https://www.nasa.gov/wp-content/uploads/2024/11/hoover-dam-1.jpg?resize=400,300 400w, https://www.nasa.gov/wp-content/uploads/2024/11/hoover-dam-1.jpg?resize=600,450 600w, https://www.nasa.gov/wp-content/uploads/2024/11/hoover-dam-1.jpg?resize=900,675 900w, https://www.nasa.gov/wp-content/uploads/2024/11/hoover-dam-1.jpg?resize=1200,900 1200w" sizes="auto, (max-width: 1430px) 100vw, 1430px" /></a></figure><figcaption class="hds-caption padding-y-2"><div class="hds-caption-text p-sm margin-0">Super Therm has been applied in several places, including handrails on the Hoover Dam Bypass Bridge over the Colorado River. The selection of its makeup of ceramic and polymeric materials was assisted by NASA scientists.
+</div><div class="hds-credits">Credit: Superior Products InternationaI II, LLC</div></figcaption></div></div></div>
+
+
+<p><em>NASA’s Center of Excellence for Collaborative Innovation (CoECI) assists in the use of crowdsourcing across the federal government. CoECI’s NASA Tournament Lab offers the contract capability to run external crowdsourced challenges on behalf of NASA and other agencies.</em></p>
+
+
+
+<p>This three-phase challenge invites geophysicists, sensing specialists, nondestructive testing experts, and creative problem-solvers (including AI/ML practitioners) from any field to develop novel methods for detecting subsurface cracks in embankment dams.</p>
+
+
+
+<p>Through this multi-phase challenge, teams will embark on a structured journey that moves from concept to development and ultimately to real-world demonstration. In Phase 1, teams will articulate and frame their solution approach and execution vision. During Phase 2, selected teams will detail and validate their designs. Finally, in Phase 3, the selected teams will demonstrate the most promising solutions in conditions that reflect real embankment dam environments. Each phase intentionally builds on the last, increasing in technical rigor and realism while maintaining focus on practical deployment and impact. Together, the phases are designed to support teams in transforming strong ideas into credible, implementable solutions that advance the state of embankment dam crack detection.</p>
+
+
+
+<p>Award: $400,000 in total prizes across all three phases</p>
+
+
+
+<p>Open date: March 12, 2026</p>
+
+
+
+<p>Phase 1 submission deadline: April 30th, 2026</p>
+
+
+
+<p>For more information, visit: <a href="https://www.herox.com/CrackTheCase" rel="noopener">https://www.herox.com/CrackTheCase</a></p>
+
+
+
+<p></p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>NASA Volunteers Study Biofilm Adaptability in Space</title>
+		<link>https://science.nasa.gov/get-involved/citizen-science/nasa-volunteers-study-biofilm-adaptability-in-space/</link>
+		
+		<dc:creator><![CDATA[]]></dc:creator>
+		<pubDate>Fri, 13 Mar 2026 17:08:49 +0000</pubDate>
+				<category><![CDATA[Biological & Physical Sciences]]></category>
+		<category><![CDATA[Citizen Science]]></category>
+		<guid isPermaLink="false">https://science.nasa.gov/get-involved/citizen-science/nasa-volunteers-study-biofilm-adaptability-in-space/</guid>
+
+					<description><![CDATA[Biofilms are communities of microorganisms that stick to one another and also adhere to a nearby surface. They are intricately associated with life on Earth, enabling functions essential to human and plant systems.]]></description>
+										<content:encoded><![CDATA[<div id="" class="padding-top-5 padding-bottom-3 width-full maxw-full hds-module hds-module-full alignfull wp-block-nasa-blocks-article-intro">
+<div class="width-full maxw-full article-header">
+<div class="margin-bottom-2 width-full maxw-full">
+<p class="label carbon-60 margin-0 margin-bottom-3 padding-0">2 min read</p>
+<h1 class="display-48 margin-bottom-2">NASA Volunteers Study Biofilm Adaptability in Space</h1>
+</div>
+</div>
+</div>
+<p>Biofilms are communities of microorganisms that stick to one another and also adhere to a nearby surface. They are intricately associated with life on Earth, enabling functions essential to human and plant systems.</p>
+<p>NASA’s Open Science Data Repository (OSDR) <a href="https://science.nasa.gov/citizen-science/osdr-awg/" target="_blank" rel="noreferrer noopener">Analysis Working Groups</a> study biofilms and many other biological phenomena in an environment that’s important to NASA: the environment of deep space. It’s not well understood how well biofilms react to the many stresses of spaceflight.</p>
+<p>Now, a <a href="https://doi.org/10.1038/s41522-025-00875-8" target="_blank" rel="noreferrer noopener">new study</a>, performed in part by NASA volunteers, describes how biofilms adapt to space environments, exploring how biofilms may benefit human and plant health in space.</p>
+<p>The volunteers, led by Dr. Katherine Baxter (University of Glasgow) and Dr. Nicholas Brereton (University College Dublin), are part of the Microbes Analysis Working Group. Their findings reframe biofilms from infection risks to essential structures supporting human gut health, immunity, and plant nutrient uptake. The group’s work synthesizes how spaceflight stressors alter biofilm architecture and host interaction. </p>
+<p>Interested in collaborating with others to help terrestrial life thrive in space? You can join the OSDR-Analysis Working Groups and help plan the future of human space exploration.</p>
+<p><a href="https://awg.osdr.space/about" target="_blank" rel="noreferrer noopener">Learn more about the AWGs</a>.</p>
+<p><a href="https://forms.gle/eMDz5fFf2bBg3WPQ6" target="_blank" rel="noreferrer noopener">Submit this form to join the OSDR AWGs</a></p>
+<div id="" class="hds-media hds-module wp-block-image">
+<div class="margin-left-auto margin-right-auto nasa-block-align-inline">
+<div class="hds-media-wrapper margin-left-auto margin-right-auto">
+<figure class="hds-media-inner hds-cover-wrapper hds-media-ratio-fit " style="--hds-image-contain-bg:#ffffff;"><a href="https://assets.science.nasa.gov/dynamicimage/assets/science/cds/citizen-science/highlights/2026/Biofilms_Adaptability_Space_citsci.jpg?w=800&#038;h=400&#038;fit=clip&#038;crop=faces%2Cfocalpoint" rel="noopener"><img fetchpriority="high" decoding="async" width="800" height="400" src="https://assets.science.nasa.gov/dynamicimage/assets/science/cds/citizen-science/highlights/2026/Biofilms_Adaptability_Space_citsci.jpg?w=800&#038;h=400&#038;fit=clip&#038;crop=faces%2Cfocalpoint" class="attachment-2048x2048 size-2048x2048" alt="Biofilm adaptations to spaceflight stress in living systems" style="transform: scale(1); transform-origin: 50% 50%; object-position: 50% 50%; object-fit: cover;" block_context="nasa-block" loading="eager" srcset="https://assets.science.nasa.gov/dynamicimage/assets/science/cds/citizen-science/highlights/2026/Biofilms_Adaptability_Space_citsci.jpg?w=800&#038;h=400&#038;fit=crop&#038;crop=faces%2Cfocalpoint 800w, https://assets.science.nasa.gov/dynamicimage/assets/science/cds/citizen-science/highlights/2026/Biofilms_Adaptability_Space_citsci.jpg?w=300&#038;h=150&#038;fit=crop&#038;crop=faces%2Cfocalpoint 300w, https://assets.science.nasa.gov/dynamicimage/assets/science/cds/citizen-science/highlights/2026/Biofilms_Adaptability_Space_citsci.jpg?w=768&#038;h=384&#038;fit=crop&#038;crop=faces%2Cfocalpoint 768w, https://assets.science.nasa.gov/dynamicimage/assets/science/cds/citizen-science/highlights/2026/Biofilms_Adaptability_Space_citsci.jpg?w=400&#038;h=200&#038;fit=crop&#038;crop=faces%2Cfocalpoint 400w, https://assets.science.nasa.gov/dynamicimage/assets/science/cds/citizen-science/highlights/2026/Biofilms_Adaptability_Space_citsci.jpg?w=600&#038;h=300&#038;fit=crop&#038;crop=faces%2Cfocalpoint 600w" sizes="auto, (max-width: 800px) 100vw, 800px" /></a></figure><figcaption class="hds-caption padding-y-2">
+<div class="hds-caption-text p-sm margin-0">Biofilms support human and plant health on Earth. Spaceflight may disrupt these biofilm-host interactions, with implications for crew health and plant-based life support systems.</div>
+<div class="hds-credits">npj biofilms and microbiomes, Baxter et al. 2026</div>
+</figcaption></div>
+</div>
+</div>
+<div id="" class="hds-featured-link-list bg-spacesuit-white padding-x-2 tablet:padding-x-3 desktop:padding-x-4 padding-y-5 desktop:padding-y-6 hds-module hds-module-full alignfull wp-block-nasa-blocks-featured-link-list">
+<div class="grid-container grid-container-block padding-0">
+<div class="margin-bottom-4">
+<h2 class="heading-22">
+				Learn More and Get Involved			</h2>
+</p></div>
+<div class="grid-row padding-y-2 border-top-1px border-color-carbon-30-important">
+<div class="grid-row featured-link-list-row width-full flex-align-center">
+<div class="grid-col-2 desktop:grid-col-1 tablet:padding-right-3 desktop:padding-right-5">
+<div class="width-full">
+<div class="hds-cover-wrapper width-full ratio-1x1 radius-pill overflow-hidden">
+<figure class="hds-media-background  "><img decoding="async" width="732" height="726" src="https://assets.science.nasa.gov/dynamicimage/assets/science/cds/citizen-science/projects/OSDR_AWD_Logo.png?w=732&#038;h=726&#038;fit=clip&#038;crop=faces%2Cfocalpoint" class="attachment-thumbnail size-thumbnail" alt="Open Science Data Repository Analysis Working Groups Logo" style="transform: scale(1.9); transform-origin: 48% 50%; object-position: 48% 50%; object-fit: cover;" block_context="nasa-block" loading="lazy" srcset="https://assets.science.nasa.gov/dynamicimage/assets/science/cds/citizen-science/projects/OSDR_AWD_Logo.png?w=732&#038;h=726&#038;fit=crop&#038;crop=faces%2Cfocalpoint 732w, https://assets.science.nasa.gov/dynamicimage/assets/science/cds/citizen-science/projects/OSDR_AWD_Logo.png?w=150&#038;h=149&#038;fit=crop&#038;crop=faces%2Cfocalpoint 150w, https://assets.science.nasa.gov/dynamicimage/assets/science/cds/citizen-science/projects/OSDR_AWD_Logo.png?w=300&#038;h=298&#038;fit=crop&#038;crop=faces%2Cfocalpoint 300w, https://assets.science.nasa.gov/dynamicimage/assets/science/cds/citizen-science/projects/OSDR_AWD_Logo.png?w=50&#038;h=50&#038;fit=crop&#038;crop=faces%2Cfocalpoint 50w, https://assets.science.nasa.gov/dynamicimage/assets/science/cds/citizen-science/projects/OSDR_AWD_Logo.png?w=100&#038;h=99&#038;fit=crop&#038;crop=faces%2Cfocalpoint 100w, https://assets.science.nasa.gov/dynamicimage/assets/science/cds/citizen-science/projects/OSDR_AWD_Logo.png?w=400&#038;h=397&#038;fit=crop&#038;crop=faces%2Cfocalpoint 400w, https://assets.science.nasa.gov/dynamicimage/assets/science/cds/citizen-science/projects/OSDR_AWD_Logo.png?w=600&#038;h=595&#038;fit=crop&#038;crop=faces%2Cfocalpoint 600w" sizes="auto, (max-width: 732px) 100vw, 732px" /></figure>
+</p></div>
+</p></div>
+</p></div>
+<div class="grid-col-8 desktop:grid-col-10 padding-left-3 desktop:padding-left-0">
+<div class="grid-row flex-align-center">
+<div class="grid-col-12 desktop:grid-col-6">
+<h2 class="heading-36 margin-0">Open Science Data Repository Analysis Working Groups (OSDR AWG)</h2>
+</p></div>
+<div class="grid-col-12 desktop:grid-col-6">
+<p class="p-md margin-0 color-carbon-black">Help astronauts and life thrive in space using space biology and health data. Laptop required. Data science knowledge is helpful.</p>
+</p></div>
+</p></div>
+</p></div>
+<div class="grid-col-2 desktop:grid-col-1 display-flex flex-justify-end">
+						<a href="https://science.nasa.gov/citizen-science/osdr-awg/" target="_blank" aria-label="" class="link-external-false" rel="noopener"><br />
+                            <svg class="hds-featured-link-list-button margin-left-auto margin-right-0" viewBox="0 0 32 32" fill="none">
+                                <circle class="color-nasa-red" cx="16" cy="16" r="16"></circle><path d="M8 16.956h12.604l-3.844 4.106 1.252 1.338L24 16l-5.988-6.4-1.252 1.338 3.844 4.106H8v1.912z" class="color-spacesuit-white"></path>
+                            </svg><br />
+						</a>
+					</div>
+</p></div>
+</p></div>
+</p></div>
+</p></div>
+<div id="" class="hds-social-media hds-social-media--horizontal grid-container grid-container-block nasa-gb-align- margin-y-0 padding-y-5 padding-x-3 desktop:padding-x-0 font-weight-bold hds-module align wp-block-nasa-blocks-social-media-links">
+<div class="display-flex flex-align-center padding-y-1" id="social-facebook">
+<div class="circle-4 minw-4 display-flex flex-align-center flex-justify-center" style="background-color: #4267B2;">
+				<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" aria-labelledby="facebookIconTitle"><title id="facebookIconTitle">Facebook logo</title><path d="M9 8h-3v4h3v12h5v-12h3.642l.358-4h-4v-1.667c0-.955.192-1.333 1.115-1.333h2.885v-5h-3.808c-3.596 0-5.192 1.583-5.192 4.615v3.385z"/></svg>			</div>
+<div class="hds-social-media-items padding-left-2">
+				<a target="_blank" class="margin-right-2" href="https://facebook.com/nasascience_" aria-label="Go to @nasascience_ on facebook" rel="noopener">@nasascience_</a>			</div>
+</p></div>
+<div class="display-flex flex-align-center padding-y-1" id="social-twitter">
+<div class="circle-4 minw-4 display-flex flex-align-center flex-justify-center" style="background-color: #1DA1F2;">
+				<svg width="1200" height="1227" viewBox="0 0 1200 1227" fill="none" xmlns="http://www.w3.org/2000/svg"><path d="M714.163 519.284L1160.89 0H1055.03L667.137 450.887L357.328 0H0L468.492 681.821L0 1226.37H105.866L515.491 750.218L842.672 1226.37H1200L714.137 519.284H714.163ZM569.165 687.828L521.697 619.934L144.011 79.6944H306.615L611.412 515.685L658.88 583.579L1055.08 1150.3H892.476L569.165 687.854V687.828Z" fill="white"/></svg>			</div>
+<div class="hds-social-media-items padding-left-2">
+				<a target="_blank" class="margin-right-2" href="https://x.com/nasascience_" aria-label="Go to @nasascience_ on twitter">@nasascience_</a>			</div>
+</p></div>
+<div class="display-flex flex-align-center padding-y-1" id="social-instagram">
+<div class="circle-4 minw-4 display-flex flex-align-center flex-justify-center" style="background-color: #833AB4;">
+				<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="169.063px" height="169.063px" viewBox="0 0 169.063 169.063" style="enable-background:new 0 0 169.063 169.063;" xml:space="preserve" aria-labelledby="instagramIconTitle"><title id="instagramIconTitle">Instagram logo</title><g> <path d="M122.406,0H46.654C20.929,0,0,20.93,0,46.655v75.752c0,25.726,20.929,46.655,46.654,46.655h75.752 c25.727,0,46.656-20.93,46.656-46.655V46.655C169.063,20.93,148.133,0,122.406,0z M154.063,122.407 c0,17.455-14.201,31.655-31.656,31.655H46.654C29.2,154.063,15,139.862,15,122.407V46.655C15,29.201,29.2,15,46.654,15h75.752 c17.455,0,31.656,14.201,31.656,31.655V122.407z"/> <path d="M84.531,40.97c-24.021,0-43.563,19.542-43.563,43.563c0,24.02,19.542,43.561,43.563,43.561s43.563-19.541,43.563-43.561 C128.094,60.512,108.552,40.97,84.531,40.97z M84.531,113.093c-15.749,0-28.563-12.812-28.563-28.561 c0-15.75,12.813-28.563,28.563-28.563s28.563,12.813,28.563,28.563C113.094,100.281,100.28,113.093,84.531,113.093z"/> <path d="M129.921,28.251c-2.89,0-5.729,1.17-7.77,3.22c-2.051,2.04-3.23,4.88-3.23,7.78c0,2.891,1.18,5.73,3.23,7.78 c2.04,2.04,4.88,3.22,7.77,3.22c2.9,0,5.73-1.18,7.78-3.22c2.05-2.05,3.22-4.89,3.22-7.78c0-2.9-1.17-5.74-3.22-7.78 C135.661,29.421,132.821,28.251,129.921,28.251z"/></g></svg>			</div>
+<div class="hds-social-media-items padding-left-2">
+				<a target="_blank" class="margin-right-2" href="https://instagram.com/nasascience_" aria-label="Go to @nasascience_ on instagram" rel="noopener">@nasascience_</a>			</div>
+</p></div>
+<div class="display-flex flex-align-center padding-y-1" id="social-linkedin">
+<div class="circle-4 minw-4 display-flex flex-align-center flex-justify-center" style="background-color: #0072b1;">
+				<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" aria-labelledby="linkedinIconTitle"><title id="linkedinIconTitle">Linkedin logo</title><path d="M4.98 3.5c0 1.381-1.11 2.5-2.48 2.5s-2.48-1.119-2.48-2.5c0-1.38 1.11-2.5 2.48-2.5s2.48 1.12 2.48 2.5zm.02 4.5h-5v16h5v-16zm7.982 0h-4.968v16h4.969v-8.399c0-4.67 6.029-5.052 6.029 0v8.399h4.988v-10.131c0-7.88-8.922-7.593-11.018-3.714v-2.155z"/></svg>			</div>
+<div class="hds-social-media-items padding-left-2">
+				<a target="_blank" class="margin-right-2" href="https://linkedin.com/company/nasascience_" aria-label="Go to @nasascience_ on linkedin" rel="noopener">@nasascience_</a>			</div>
+</p></div>
+</p></div>
+<div id="" class="nasa-gb-align-full width-full maxw-full padding-x-3 padding-y-0 article_a hds-module hds-module-full alignfull wp-block-nasa-blocks-credits-and-details">
+<section class="padding-x-0 padding-top-5 padding-bottom-2 desktop:padding-top-7 desktop:padding-bottom-9">
+<div class="grid-row grid-container maxw-widescreen padding-0">
+<div class="grid-col-12 desktop:grid-col-2 padding-right-4 margin-bottom-5 desktop:margin-bottom-0">
+<div class="padding-top-3 border-top-1px border-color-carbon-black">
+<div class="margin-bottom-2">
+<h2 class="heading-14">Share</h2>
+</p></div>
+<div class="padding-bottom-2">
+<ul class="social-icons social-icons-round">
+<li class="social-icon social-icon-x">
+							<a href="https://x.com/intent/tweet?via=NASA&#038;text=NASA%20Volunteers%20Study%20Biofilm%20Adaptability%20in%20Space&#038;url=https%3A%2F%2Fscience.nasa.gov%2Fget-involved%2Fcitizen-science%2Fnasa-volunteers-study-biofilm-adaptability-in-space%2F" aria-label="Share on X."><br />
+								<svg width="1200" height="1227" viewBox="0 0 1200 1227" fill="none" xmlns="http://www.w3.org/2000/svg"><path d="M714.163 519.284L1160.89 0H1055.03L667.137 450.887L357.328 0H0L468.492 681.821L0 1226.37H105.866L515.491 750.218L842.672 1226.37H1200L714.137 519.284H714.163ZM569.165 687.828L521.697 619.934L144.011 79.6944H306.615L611.412 515.685L658.88 583.579L1055.08 1150.3H892.476L569.165 687.854V687.828Z" fill="white"/></svg><br />
+							</a>
+						</li>
+<li class="social-icon social-icon-facebook">
+							<a href="https://www.facebook.com/sharer.php?u=https%3A%2F%2Fscience.nasa.gov%2Fget-involved%2Fcitizen-science%2Fnasa-volunteers-study-biofilm-adaptability-in-space%2F" aria-label="Share on Facebook." rel="noopener"><br />
+								<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" aria-hidden="true"><path d="M9 8h-3v4h3v12h5v-12h3.642l.358-4h-4v-1.667c0-.955.192-1.333 1.115-1.333h2.885v-5h-3.808c-3.596 0-5.192 1.583-5.192 4.615v3.385z"/></svg><br />
+							</a>
+						</li>
+<li class="social-icon social-icon-linkedin">
+							<a href="https://www.linkedin.com/shareArticle?mini=true&#038;url=https%3A%2F%2Fscience.nasa.gov%2Fget-involved%2Fcitizen-science%2Fnasa-volunteers-study-biofilm-adaptability-in-space%2F" aria-label="Share on LinkedIn." rel="noopener"><br />
+								<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" aria-hidden="true"><path d="M4.98 3.5c0 1.381-1.11 2.5-2.48 2.5s-2.48-1.119-2.48-2.5c0-1.38 1.11-2.5 2.48-2.5s2.48 1.12 2.48 2.5zm.02 4.5h-5v16h5v-16zm7.982 0h-4.968v16h4.969v-8.399c0-4.67 6.029-5.052 6.029 0v8.399h4.988v-10.131c0-7.88-8.922-7.593-11.018-3.714v-2.155z"/></svg><br />
+							</a>
+						</li>
+<li class="social-icon social-icon-rss">
+							<a href="/feed/" aria-label="Subscribe to RSS feed."><br />
+								<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 800" aria-hidden="true"><path d="M493 652H392c0-134-111-244-244-244V307c189 0 345 156 345 345zm71 0c0-228-188-416-416-416V132c285 0 520 235 520 520z"/><circle cx="219" cy="581" r="71"/></svg><br />
+							</a>
+						</li>
+</ul></div>
+</p></div>
+</p></div>
+<div class="grid-col-12 desktop:grid-col-5 padding-right-4 margin-bottom-5 desktop:margin-bottom-0">
+<div class="padding-top-3 border-top-1px border-color-carbon-black">
+<div class="margin-bottom-2">
+<h2 class="heading-14">Details</h2>
+</p></div>
+<div class="grid-row margin-bottom-3">
+<div class="grid-col-4">
+<div class="subheading">Last Updated</div>
+</p></div>
+<div class="grid-col-8">Mar 13, 2026</div>
+</p></div>
+</p></div>
+</p></div>
+<div class="grid-col-12 desktop:grid-col-5 padding-right-4 margin-bottom-5 desktop:margin-bottom-0">
+<div class="padding-top-3 border-top-1px border-color-carbon-black ">
+<div class="margin-bottom-2">
+<h2 class="heading-14">Related Terms</h2>
+</div>
+<ul class="article-tags">
+<li class="article-tag"><a href="https://science.nasa.gov/citizen-science/" rel="noopener">Citizen Science</a></li>
+<li class="article-tag"><a href="https://science.nasa.gov/biological-physical/" rel="noopener">Biological &#038; Physical Sciences</a></li>
+</ul>
+</div>
+</div></div>
+</section></div>
+<div id="" class="nasa-gb-align-full width-full maxw-full padding-x-3 padding-y-0 hds-module hds-module-full alignfull wp-block-nasa-blocks-related-articles">
+<section class="hds-related-articles padding-x-0 padding-y-3 desktop:padding-top-7 desktop:padding-bottom-9">
+<div class="w-100 grid-row grid-container maxw-widescreen padding-0 text-align-left">
+<div class="margin-bottom-4">
+<h2 style="max-width: 100%;" class="width-full w-full maxw-full">Explore More</h2>
+</div></div>
+<div class="grid-row grid-container maxw-widescreen padding-0">
+<div class="grid-col-12 desktop:grid-col-4 margin-bottom-4 desktop:margin-bottom-0 desktop:padding-right-3">
+						<a href="https://science.nasa.gov/get-involved/citizen-science/help-galaxy-zoo-tidal-tales-open-cosmic-storybook/" class="color-carbon-black" rel="noopener"></p>
+<div class="margin-bottom-2">
+<div class="hds-cover-wrapper cover-hover-zoom bg-carbon-black minh-mobile">
+<figure class="hds-media-background  "><img decoding="async" width="274" height="274" src="https://assets.science.nasa.gov/dynamicimage/assets/science/cds/citizen-science/projects/TidalTales_logo.png?w=274&#038;h=274&#038;fit=clip&#038;crop=faces%2Cfocalpoint" class="attachment-medium size-medium" alt="" style="transform: scale(1); transform-origin: 50% 50%; object-position: 50% 50%; object-fit: cover;" block_context="nasa-block" loading="lazy" srcset="https://assets.science.nasa.gov/dynamicimage/assets/science/cds/citizen-science/projects/TidalTales_logo.png?w=274&#038;h=274&#038;fit=crop&#038;crop=faces%2Cfocalpoint 274w, https://assets.science.nasa.gov/dynamicimage/assets/science/cds/citizen-science/projects/TidalTales_logo.png?w=150&#038;h=150&#038;fit=crop&#038;crop=faces%2Cfocalpoint 150w, https://assets.science.nasa.gov/dynamicimage/assets/science/cds/citizen-science/projects/TidalTales_logo.png?w=50&#038;h=50&#038;fit=crop&#038;crop=faces%2Cfocalpoint 50w, https://assets.science.nasa.gov/dynamicimage/assets/science/cds/citizen-science/projects/TidalTales_logo.png?w=100&#038;h=100&#038;fit=crop&#038;crop=faces%2Cfocalpoint 100w, https://assets.science.nasa.gov/dynamicimage/assets/science/cds/citizen-science/projects/TidalTales_logo.png?w=200&#038;h=200&#038;fit=crop&#038;crop=faces%2Cfocalpoint 200w" sizes="auto, (max-width: 274px) 100vw, 274px" /></figure>
+</p></div>
+</p></div>
+<div class="padding-right-0 desktop:padding-right-10">
+<div class="subheading margin-bottom-1">1 min read</div>
+<div class="margin-bottom-1">
+<h3 class="related-article-title">Help Galaxy Zoo: Tidal Tales Open Cosmic Storybook</h3>
+</div>
+<p class="p-md color-carbon-60">Galaxies carry the imprints of past encounters. When they pass near one another or collide,…</p>
+<div class="display-flex flex-align-center label related-article-label margin-bottom-1 color-carbon-60">
+									<span class="display-flex flex-align-center margin-right-2"><br />
+										<svg version="1.1" class="square-2 margin-right-1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="16px" height="16px" viewBox="0 0 16 16" style="enable-background:new 0 0 16 16;" xml:space="preserve"><g><g><path d="M8,0C3.5,0-0.1,3.7,0,8.2C0.1,12.5,3.6,16,8,16c4.4,0,8-3.6,8-8C16,3.5,12.4,0,8,0z M8,15.2 C4,15.2,0.8,12,0.8,8C0.8,4,4,0.8,8,0.8c3.9,0,7.2,3.2,7.2,7.1C15.2,11.9,12,15.2,8,15.2z"/><path d="M5.6,12c0.8-0.8,1.6-1.6,2.4-2.4c0.8,0.8,1.6,1.6,2.4,2.4c0-2.7,0-5.3,0-8C8.8,4,7.2,4,5.6,4 C5.6,6.7,5.6,9.3,5.6,12z"/></g></g></svg><br />
+										<span>Article</span><br />
+									</span><br />
+									<span class=""><br />
+										1 day ago									</span>
+								</div>
+</p></div>
+<p>						</a>
+					</div>
+<div class="grid-col-12 desktop:grid-col-4 margin-bottom-4 desktop:margin-bottom-0 desktop:padding-right-3">
+						<a href="https://science.nasa.gov/science-research/biological-physical-sciences/collaborating-through-data-inside-the-psi-users-group/" class="color-carbon-black" rel="noopener"></p>
+<div class="margin-bottom-2">
+<div class="hds-cover-wrapper cover-hover-zoom bg-carbon-black minh-mobile">
+<figure class="hds-media-background  "><img decoding="async" width="300" height="180" src="https://science.nasa.gov/wp-content/uploads/2026/03/psi-microgravity-logo.png?w=300" class="attachment-medium size-medium" alt="" style="transform: scale(1); transform-origin: 50% 50%; object-position: 50% 50%; object-fit: cover;" block_context="nasa-block" loading="lazy" srcset="https://science.nasa.gov/wp-content/uploads/2026/03/psi-microgravity-logo.png 1500w, https://science.nasa.gov/wp-content/uploads/2026/03/psi-microgravity-logo.png?resize=300,180 300w, https://science.nasa.gov/wp-content/uploads/2026/03/psi-microgravity-logo.png?resize=768,460 768w, https://science.nasa.gov/wp-content/uploads/2026/03/psi-microgravity-logo.png?resize=1024,613 1024w, https://science.nasa.gov/wp-content/uploads/2026/03/psi-microgravity-logo.png?resize=400,239 400w, https://science.nasa.gov/wp-content/uploads/2026/03/psi-microgravity-logo.png?resize=600,359 600w, https://science.nasa.gov/wp-content/uploads/2026/03/psi-microgravity-logo.png?resize=900,539 900w, https://science.nasa.gov/wp-content/uploads/2026/03/psi-microgravity-logo.png?resize=1200,718 1200w" sizes="auto, (max-width: 300px) 100vw, 300px" /></figure>
+</p></div>
+</p></div>
+<div class="padding-right-0 desktop:padding-right-10">
+<div class="subheading margin-bottom-1">3 min read</div>
+<div class="margin-bottom-1">
+<h3 class="related-article-title">Collaborating Through Data: Inside the PSI Users Group</h3>
+</div>
+<div class="display-flex flex-align-center label related-article-label margin-bottom-1 color-carbon-60">
+									<span class="display-flex flex-align-center margin-right-2"><br />
+										<svg version="1.1" class="square-2 margin-right-1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="16px" height="16px" viewBox="0 0 16 16" style="enable-background:new 0 0 16 16;" xml:space="preserve"><g><g><path d="M8,0C3.5,0-0.1,3.7,0,8.2C0.1,12.5,3.6,16,8,16c4.4,0,8-3.6,8-8C16,3.5,12.4,0,8,0z M8,15.2 C4,15.2,0.8,12,0.8,8C0.8,4,4,0.8,8,0.8c3.9,0,7.2,3.2,7.2,7.1C15.2,11.9,12,15.2,8,15.2z"/><path d="M5.6,12c0.8-0.8,1.6-1.6,2.4-2.4c0.8,0.8,1.6,1.6,2.4,2.4c0-2.7,0-5.3,0-8C8.8,4,7.2,4,5.6,4 C5.6,6.7,5.6,9.3,5.6,12z"/></g></g></svg><br />
+										<span>Article</span><br />
+									</span><br />
+									<span class=""><br />
+										2 weeks ago									</span>
+								</div>
+</p></div>
+<p>						</a>
+					</div>
+<div class="grid-col-12 desktop:grid-col-4 margin-bottom-4 desktop:margin-bottom-0 desktop:padding-right-3">
+						<a href="https://science.nasa.gov/get-involved/citizen-science/new-volunteer-data-from-143-observatories-unveils-the-2024-total-solar-eclipse/" class="color-carbon-black" rel="noopener"></p>
+<div class="margin-bottom-2">
+<div class="hds-cover-wrapper cover-hover-zoom bg-carbon-black minh-mobile">
+<figure class="hds-media-background  "><img decoding="async" width="1920" height="1280" src="https://assets.science.nasa.gov/dynamicimage/assets/science/cds/general/images/2024/04/nhq202404080101large.jpg?w=1920&#038;h=1280&#038;fit=clip&#038;crop=faces%2Cfocalpoint" class="attachment-medium size-medium" alt="" style="transform: scale(1); transform-origin: 50% 50%; object-position: 50% 50%; object-fit: cover;" block_context="nasa-block" loading="lazy" srcset="https://assets.science.nasa.gov/dynamicimage/assets/science/cds/general/images/2024/04/nhq202404080101large.jpg?w=1920&#038;h=1280&#038;fit=crop&#038;crop=faces%2Cfocalpoint 1920w, https://assets.science.nasa.gov/dynamicimage/assets/science/cds/general/images/2024/04/nhq202404080101large.jpg?w=300&#038;h=200&#038;fit=crop&#038;crop=faces%2Cfocalpoint 300w, https://assets.science.nasa.gov/dynamicimage/assets/science/cds/general/images/2024/04/nhq202404080101large.jpg?w=768&#038;h=512&#038;fit=crop&#038;crop=faces%2Cfocalpoint 768w, https://assets.science.nasa.gov/dynamicimage/assets/science/cds/general/images/2024/04/nhq202404080101large.jpg?w=1024&#038;h=683&#038;fit=crop&#038;crop=faces%2Cfocalpoint 1024w, https://assets.science.nasa.gov/dynamicimage/assets/science/cds/general/images/2024/04/nhq202404080101large.jpg?w=1536&#038;h=1024&#038;fit=crop&#038;crop=faces%2Cfocalpoint 1536w, https://assets.science.nasa.gov/dynamicimage/assets/science/cds/general/images/2024/04/nhq202404080101large.jpg?w=400&#038;h=267&#038;fit=crop&#038;crop=faces%2Cfocalpoint 400w, https://assets.science.nasa.gov/dynamicimage/assets/science/cds/general/images/2024/04/nhq202404080101large.jpg?w=600&#038;h=400&#038;fit=crop&#038;crop=faces%2Cfocalpoint 600w, https://assets.science.nasa.gov/dynamicimage/assets/science/cds/general/images/2024/04/nhq202404080101large.jpg?w=900&#038;h=600&#038;fit=crop&#038;crop=faces%2Cfocalpoint 900w, https://assets.science.nasa.gov/dynamicimage/assets/science/cds/general/images/2024/04/nhq202404080101large.jpg?w=1200&#038;h=800&#038;fit=crop&#038;crop=faces%2Cfocalpoint 1200w" sizes="auto, (max-width: 1920px) 100vw, 1920px" /></figure>
+</p></div>
+</p></div>
+<div class="padding-right-0 desktop:padding-right-10">
+<div class="subheading margin-bottom-1">2 min read</div>
+<div class="margin-bottom-1">
+<h3 class="related-article-title">New Volunteer Data from 143 Observatories Unveils the 2024 Total Solar Eclipse</h3>
+</div>
+<p class="p-md color-carbon-60">On April 8, 2024, volunteers participating in NASA’s Eclipse Megamovie citizen science project all around…</p>
+<div class="display-flex flex-align-center label related-article-label margin-bottom-1 color-carbon-60">
+									<span class="display-flex flex-align-center margin-right-2"><br />
+										<svg version="1.1" class="square-2 margin-right-1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="16px" height="16px" viewBox="0 0 16 16" style="enable-background:new 0 0 16 16;" xml:space="preserve"><g><g><path d="M8,0C3.5,0-0.1,3.7,0,8.2C0.1,12.5,3.6,16,8,16c4.4,0,8-3.6,8-8C16,3.5,12.4,0,8,0z M8,15.2 C4,15.2,0.8,12,0.8,8C0.8,4,4,0.8,8,0.8c3.9,0,7.2,3.2,7.2,7.1C15.2,11.9,12,15.2,8,15.2z"/><path d="M5.6,12c0.8-0.8,1.6-1.6,2.4-2.4c0.8,0.8,1.6,1.6,2.4,2.4c0-2.7,0-5.3,0-8C8.8,4,7.2,4,5.6,4 C5.6,6.7,5.6,9.3,5.6,12z"/></g></g></svg><br />
+										<span>Article</span><br />
+									</span><br />
+									<span class=""><br />
+										2 weeks ago									</span>
+								</div>
+</p></div>
+<p>						</a>
+					</div>
+</p></div>
+</section></div>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>USBR Halt the Hitchhiker: Invasive Species Challenge</title>
+		<link>https://www.nasa.gov/directorates/stmd/prizes-challenges-crowdsourcing-program/center-of-excellence-for-collaborative-innovation-coeci/usbr-halt-the-hitchhiker-invasive-species-challenge/</link>
+		
+		<dc:creator><![CDATA[Bailey G. Light]]></dc:creator>
+		<pubDate>Fri, 13 Mar 2026 17:03:49 +0000</pubDate>
+				<category><![CDATA[Center of Excellence for Collaborative Innovation (CoECI)]]></category>
+		<category><![CDATA[CoECI News]]></category>
+		<category><![CDATA[Prizes, Challenges, & Crowdsourcing News]]></category>
+		<guid isPermaLink="false">https://www.nasa.gov/?p=973408</guid>
+
+					<description><![CDATA[NASA’s Center of Excellence for Collaborative Innovation (CoECI) assists in the use of crowdsourcing across the federal government. CoECI’s NASA Tournament Lab offers the contract capability to run external crowdsourced challenges on behalf of NASA and other agencies. The Bureau of Reclamation (Reclamation) is sponsoring a 3-phase prize challenge (managed by yet2) for innovative solutions [&#8230;]]]></description>
+										<content:encoded><![CDATA[<div id="" class="hds-media hds-module wp-block-image"><div class="margin-left-auto margin-right-auto nasa-block-align-inline"><div class="hds-media-wrapper margin-left-auto margin-right-auto"><figure class="hds-media-inner hds-cover-wrapper hds-media-ratio-cover "><a href="https://www.nasa.gov/wp-content/uploads/2025/11/oceanos2024loiacono-2059.jpg"><img decoding="async" width="2048" height="1365" src="https://www.nasa.gov/wp-content/uploads/2025/11/oceanos2024loiacono-2059.jpg?w=2048" class="attachment-2048x2048 size-2048x2048" alt="In this underwater shot, a few strands of a brownish-yellow algae floats in teal blue water. The algae looks like miniature seaweed, with little leaves and tiny balls." style="transform: scale(1.2); transform-origin: 50% 50%; object-position: 50% 50%; object-fit: cover;" block_context="nasa-block" loading="lazy" srcset="https://www.nasa.gov/wp-content/uploads/2025/11/oceanos2024loiacono-2059.jpg 5395w, https://www.nasa.gov/wp-content/uploads/2025/11/oceanos2024loiacono-2059.jpg?resize=300,200 300w, https://www.nasa.gov/wp-content/uploads/2025/11/oceanos2024loiacono-2059.jpg?resize=768,512 768w, https://www.nasa.gov/wp-content/uploads/2025/11/oceanos2024loiacono-2059.jpg?resize=1024,683 1024w, https://www.nasa.gov/wp-content/uploads/2025/11/oceanos2024loiacono-2059.jpg?resize=1536,1024 1536w, https://www.nasa.gov/wp-content/uploads/2025/11/oceanos2024loiacono-2059.jpg?resize=2048,1365 2048w, https://www.nasa.gov/wp-content/uploads/2025/11/oceanos2024loiacono-2059.jpg?resize=400,267 400w, https://www.nasa.gov/wp-content/uploads/2025/11/oceanos2024loiacono-2059.jpg?resize=600,400 600w, https://www.nasa.gov/wp-content/uploads/2025/11/oceanos2024loiacono-2059.jpg?resize=900,600 900w, https://www.nasa.gov/wp-content/uploads/2025/11/oceanos2024loiacono-2059.jpg?resize=1200,800 1200w, https://www.nasa.gov/wp-content/uploads/2025/11/oceanos2024loiacono-2059.jpg?resize=2000,1333 2000w" sizes="auto, (max-width: 2048px) 100vw, 2048px" /></a></figure><figcaption class="hds-caption padding-y-2"><div class="hds-caption-text p-sm margin-0">A clump of sargassum &#8211; an invasive species of algae &#8211; floats along in the current off the short of La Parguera, Puerto Rico. </div><div class="hds-credits">NASA/Milan Loiacono</div></figcaption></div></div></div>
+
+
+<p><em>NASA’s Center of Excellence for Collaborative Innovation (CoECI) assists in the use of crowdsourcing across the federal government. CoECI’s NASA Tournament Lab offers the contract capability to run external crowdsourced challenges on behalf of NASA and other agencies.</em></p>
+
+
+
+<p>The Bureau of Reclamation (Reclamation) is sponsoring a 3-phase prize challenge (managed by yet2) for innovative solutions to eliminate the risk of aquatic invasive species (AIS) being transported in raw water entering and exiting watercraft ballast compartments. The goal is to identify novel approaches that can kill, exclude, or inactivate AIS such as quagga, zebra, and golden mussels, thereby protecting Reclamation’s water delivery and hydropower infrastructure.</p>
+
+
+
+<p>Award: $550,000 in total prizes across all phases</p>
+
+
+
+<p>Open date: February 26, 2026</p>
+
+
+
+<p>Phase 1 concept papers due: May 29, 2026</p>
+
+
+
+<p>For more information, visit:&nbsp;<a href="https://haltthehitchhiker.yet2.com/" rel="noopener">https://haltthehitchhiker.yet2.com/</a></p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Good Morning, Moon</title>
+		<link>https://www.nasa.gov/image-article/good-morning-moon/</link>
+		
+		<dc:creator><![CDATA[Monika Luabeya]]></dc:creator>
+		<pubDate>Fri, 13 Mar 2026 16:19:57 +0000</pubDate>
+				<category><![CDATA[Earth's Moon]]></category>
+		<category><![CDATA[Lunar Reconnaissance Orbiter (LRO)]]></category>
+		<guid isPermaLink="false">https://www.nasa.gov/?post_type=image-article&#038;p=973024</guid>
+
+					<description><![CDATA[Early morning sunlight illuminates the western wall of this unnamed crater, leaving deep shadows on the ground and in the interior. The image was taken on August 30, 2023, by LROC (Lunar Reconnaissance Orbiter Camera). LROC is a system of three cameras and one of the seven instruments aboard NASA’s LRO (Lunar Reconnaissance Orbiter) mission, [&#8230;]]]></description>
+										<content:encoded><![CDATA[<div id="" class="hds-media hds-module wp-block-image"><div class="margin-left-auto margin-right-auto nasa-block-align-inline"><div class="hds-media-wrapper margin-left-auto margin-right-auto"><figure class="hds-media-inner hds-cover-wrapper hds-media-ratio-none "><a href="https://www.nasa.gov/wp-content/uploads/2026/03/nasa-2026-science-calendar-march.jpg"><img decoding="async" width="2048" height="1152" src="https://www.nasa.gov/wp-content/uploads/2026/03/nasa-2026-science-calendar-march.jpg?w=2048" class="attachment-2048x2048 size-2048x2048" alt="Oblique view of a large, circular lunar crater with steep, rugged walls. Sunlight illuminates one side of the crater rim and inner wall, while the crater floor and much of the interior remain in deep shadow. The surrounding terrain appears gray and heavily textured with smaller craters and rocky ridges. The black sky of space fills the background." style="transform: scale(1); transform-origin: 50% 50%; object-position: 50% 50%; object-fit: cover;" block_context="nasa-block" loading="lazy" srcset="https://www.nasa.gov/wp-content/uploads/2026/03/nasa-2026-science-calendar-march.jpg 2500w, https://www.nasa.gov/wp-content/uploads/2026/03/nasa-2026-science-calendar-march.jpg?resize=300,169 300w, https://www.nasa.gov/wp-content/uploads/2026/03/nasa-2026-science-calendar-march.jpg?resize=768,432 768w, https://www.nasa.gov/wp-content/uploads/2026/03/nasa-2026-science-calendar-march.jpg?resize=1024,576 1024w, https://www.nasa.gov/wp-content/uploads/2026/03/nasa-2026-science-calendar-march.jpg?resize=1536,864 1536w, https://www.nasa.gov/wp-content/uploads/2026/03/nasa-2026-science-calendar-march.jpg?resize=2048,1152 2048w, https://www.nasa.gov/wp-content/uploads/2026/03/nasa-2026-science-calendar-march.jpg?resize=400,225 400w, https://www.nasa.gov/wp-content/uploads/2026/03/nasa-2026-science-calendar-march.jpg?resize=600,337 600w, https://www.nasa.gov/wp-content/uploads/2026/03/nasa-2026-science-calendar-march.jpg?resize=900,506 900w, https://www.nasa.gov/wp-content/uploads/2026/03/nasa-2026-science-calendar-march.jpg?resize=1200,675 1200w, https://www.nasa.gov/wp-content/uploads/2026/03/nasa-2026-science-calendar-march.jpg?resize=2000,1125 2000w" sizes="auto, (max-width: 2048px) 100vw, 2048px" /></a></figure><figcaption class="hds-caption padding-y-2"><div class="hds-credits">NASA&#8217;s Goddard Space Flight Center/Intuitive Machines</div></figcaption></div></div></div>
+
+
+<p>Early morning sunlight illuminates the western wall of this unnamed crater, leaving deep shadows on the ground and in the interior. The image was taken on August 30, 2023, by <a href="https://lroc.im-ldi.com/" rel="noopener">LROC</a> (Lunar Reconnaissance Orbiter Camera). LROC is a system of three cameras and one of the seven instruments aboard <a href="https://science.nasa.gov/mission/lro/" rel="noopener">NASA’s LRO</a> (Lunar Reconnaissance Orbiter) mission, which launched in June 2009 and continues in orbit around the Moon. LRO’s primary mission was to make a 3D map of the lunar surface to help identify future landing sites and resources such as polar ice, to investigate the radiation environment, and to prove new technologies, all in anticipation of future robotic and human exploration.</p>
+
+
+
+<p>In 2011, LRO data led to production of the highest-resolution, near-topographical map of the Moon, and an interactive mosaic of the lunar North Pole was published in 2014. In addition, LRO has taken high-resolution photographs of myriad lunar landing sites from NASA’s Apollo missions and others. LRO also conducted the first demonstration of laser communication with a lunar satellite.</p>
+
+
+
+<p>This image is the <a href="https://science.nasa.gov/multimedia/2026-nasa-science-calendar/" rel="noopener">NASA Science Image of the Month for March 2026</a>. Each month, NASA’s Science Mission Directorate chooses an image to feature, offering desktop wallpaper downloads, as well as links to related topics, activities, and games.</p>
+
+
+
+<p><em>Image credit: NASA&#8217;s Goddard Space Flight Center/Intuitive Machines</em></p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Agenda diaria de la misión a la Luna de Artemis II de la NASA</title>
+		<link>https://www.nasa.gov/es/agenda-diaria-de-la-mision-a-la-luna-de-artemis-ii-de-la-nasa/</link>
+		
+		<dc:creator><![CDATA[Lauren E. Low]]></dc:creator>
+		<pubDate>Fri, 13 Mar 2026 15:40:17 +0000</pubDate>
+				<category><![CDATA[NASA en español]]></category>
+		<guid isPermaLink="false">https://www.nasa.gov/?p=973330</guid>
+
+					<description><![CDATA[Read this web article in English&#160;here. Unos ocho minutos después del despegue de Artemis&#160;II, la nave espacial Orion y su tripulación —los astronautas de la NASA Reid Wiseman, Victor Glover y Christina Koch, junto con el astronauta de la CSA (Agencia Espacial Canadiense) Jeremy Hansen— llegarán al espacio. Este vuelo de prueba de casi 10&#160;días [&#8230;]]]></description>
+										<content:encoded><![CDATA[<div id="" class="hds-media hds-module wp-block-image"><div class="margin-left-auto margin-right-auto nasa-block-align-inline"><div class="hds-media-wrapper margin-left-auto margin-right-auto"><figure class="hds-media-inner hds-cover-wrapper hds-media-ratio-cover "><a href="https://www.nasa.gov/wp-content/uploads/2026/03/suit-patch.jpg"><img decoding="async" width="2048" height="1314" src="https://www.nasa.gov/wp-content/uploads/2026/03/suit-patch.jpg?w=2048" class="attachment-2048x2048 size-2048x2048" alt="" style="transform: scale(1); transform-origin: 50% 50%; object-position: 50% 50%; object-fit: cover;" block_context="nasa-block" loading="lazy" srcset="https://www.nasa.gov/wp-content/uploads/2026/03/suit-patch.jpg 8256w, https://www.nasa.gov/wp-content/uploads/2026/03/suit-patch.jpg?resize=300,192 300w, https://www.nasa.gov/wp-content/uploads/2026/03/suit-patch.jpg?resize=768,493 768w, https://www.nasa.gov/wp-content/uploads/2026/03/suit-patch.jpg?resize=1024,657 1024w, https://www.nasa.gov/wp-content/uploads/2026/03/suit-patch.jpg?resize=1536,985 1536w, https://www.nasa.gov/wp-content/uploads/2026/03/suit-patch.jpg?resize=2048,1314 2048w, https://www.nasa.gov/wp-content/uploads/2026/03/suit-patch.jpg?resize=400,257 400w, https://www.nasa.gov/wp-content/uploads/2026/03/suit-patch.jpg?resize=600,385 600w, https://www.nasa.gov/wp-content/uploads/2026/03/suit-patch.jpg?resize=900,577 900w, https://www.nasa.gov/wp-content/uploads/2026/03/suit-patch.jpg?resize=1200,770 1200w, https://www.nasa.gov/wp-content/uploads/2026/03/suit-patch.jpg?resize=2000,1283 2000w" sizes="auto, (max-width: 2048px) 100vw, 2048px" /></a></figure><figcaption class="hds-caption padding-y-2"><div class="hds-caption-text p-sm margin-0">El emblema de la misión Artemis II se observa en el hombro derecho de los trajes sistema de supervivencia de la tripulación de Orion que llevarán los astronautas de la NASA Reid Wiseman, Victor Glover y Christina Koch, así como el astronauta de la CSA (Agencia Espacial Canadiense) Jeremy Hansen, durante el vuelo de prueba de Artemis II. La imagen fue tomada el 17 de enero de 2026 en la sala de equipamiento del Edificio de Operaciones y Preparación Neil A. Armstrong, en el Centro Espacial Kennedy de la NASA, en Florida. </div><div class="hds-credits">Crédito: NASA/Joel Kowsky</div></figcaption></div></div></div>
+
+
+<p><em>Read this web article in English&nbsp;<a href="https://www.nasa.gov/missions/artemis/nasas-artemis-ii-moon-mission-daily-agenda/">here</a></em>.</p>
+
+
+
+<p>Unos ocho minutos después del despegue de Artemis&nbsp;II, la nave espacial Orion y su tripulación —los astronautas de la NASA Reid Wiseman, Victor Glover y Christina Koch, junto con el astronauta de la CSA (Agencia Espacial Canadiense) Jeremy Hansen— llegarán al espacio. Este vuelo de prueba de casi 10&nbsp;días de duración estará lleno de actividades a medida que los astronautas emprenden un viaje alrededor de la Luna y de regreso a la Tierra, mientras el personal de la misión comprueba los sistemas de Orion durante el recorrido. Aunque los equipos de control de la misión podrían refinar los detalles del programa de actividades de la tripulación cada día en función de las actividades operativas durante el vuelo de prueba, el personal de tierra y la tripulación tienen un plan general para cada día de la misión.<br><strong><br>Día de lanzamiento/Día de vuelo 1:<br><br></strong>Cuando se apaguen los motores principales del cohete Sistema de Lanzamiento Espacial (SLS, por sus siglas en inglés), Orion y la etapa de propulsión criogénica provisional (ICPS, por su acrónimo en inglés) se separarán del resto del cohete. La ICPS todavía tendrá trabajo por hacer: unos 49&nbsp;minutos después del lanzamiento, su motor se encenderá para elevar el perigeo, o el punto más bajo de la órbita de una nave espacial, hasta una altitud segura de 160&nbsp;kilómetros (100&nbsp;millas) sobre la Tierra. Alrededor de una hora más tarde, cuando Orion alcance ese perigeo, la ICPS volverá a encenderse para continuar elevando la nave espacial a una órbita terrestre alta. Entonces, la tripulación tendrá cerca de 23&nbsp;horas para llevar a cabo una verificación exhaustiva de los sistemas de Orion mientras aún esté relativamente cerca de la Tierra.<br><br>La tripulación comenzará a comprobar sistemas como el dispensador de agua potable —que proporcionará agua potable y rehidratará los alimentos que llevan—, el inodoro y el sistema que elimina el dióxido de carbono del aire. Los astronautas también podrán quitarse los trajes espaciales naranjas que vistieron para el lanzamiento y trabajar con ropa normal. Dedicarán tiempo a reorganizar el interior de Orion para que funcione como un espacio de vivienda y trabajo para cuatro personas flotantes durante los siguientes 10&nbsp;días.<br><br>Unas tres horas después del inicio de la misión, la NASA llevará a cabo pruebas sobre cómo se maneja Orion.<br><br>En futuras misiones, Orion se acoplará a otras naves espaciales. Para verificar que Orion haga esto de manera segura, la ICPS será reutilizada como un objetivo de acoplamiento. Se separará de Orion, y la tripulación practicará cómo pilotar su nave espacial en dirección a la ICPS y a su alrededor en una demostración de operaciones de proximidad. Después de esto, la ICPS volverá a encender sus motores para una maniobra orbital de eliminación que la enviará hacia el océano Pacífico, y Orion continuará en su órbita terrestre alta.<br><br>Después de unas ocho horas y media en el espacio, los astronautas dormirán durante un corto período de tiempo. La tripulación se despertará después de unas cuatro horas para efectuar un encendido adicional de motores que pondrá a Orion en la geometría orbital correcta para su maniobra orbital de inyección translunar (TLI, por sus siglas en inglés) en el día de vuelo&nbsp;2. También aprovechará esta oportunidad para ejecutar una breve comprobación de sus comunicaciones de emergencia con la Red del Espacio Profundo, en el punto más distante de su órbita terrestre alta, lo cual es necesario antes de la&nbsp;TLI.<br><br>Después de esto, los astronautas podrán volver a dormir durante otras cuatro horas y media, dando por concluido el día de vuelo&nbsp;1.<br><br><strong>Día de vuelo 2<br><br></strong>Wiseman y Glover comenzarán el día instalando y comprobando el dispositivo de ejercicio del volante de inercia de Orion antes de hacer sus primeros entrenamientos físicos de la misión. Koch y Hansen tienen programados sus ejercicios para la segunda mitad del día. Los entrenamientos matutinos proporcionarán otra prueba de los sistemas de soporte vital de Orion antes de abandonar la órbita terrestre.<br><br>Koch pasará la mañana preparándose para el evento principal del día: la maniobra orbital para la inyección translunar. La TLI es el último gran encendido de motores de la misión Artemis&nbsp;II y pondrá a Orion en rumbo hacia la Luna. Y dado que Orion empleará una trayectoria de regreso libre para dar la vuelta alrededor del lado lejano de la Luna, el encendido de motores de la TLI también pondrá a Orion en rumbo para regresar a la Tierra en el día de vuelo&nbsp;10.<br><br>Koch configurará el sistema de Orion para ejecutar la maniobra orbital, la cual será realizada por el motor principal de Orion en el Módulo de Servicio Europeo de la nave espacial. También llamado motor del sistema de maniobra orbital, proporciona hasta 2.722&nbsp;kilogramos (6.000&nbsp;libras) de empuje, lo suficiente para acelerar un automóvil de cero a 96,5&nbsp;km/h (60&nbsp;mi/h) en unos 2,7&nbsp;segundos.<br><br>Después de la TLI, la tripulación tendrá un día menos atareado, con tiempo reservado para aclimatarse al entorno espacial. Contarán con una oportunidad de participar en una comunicación por video de espacio a tierra, la primera de varias que tendrán lugar a lo largo de la misión. Con excepción del día de vuelo&nbsp;7 —que será el día libre de la tripulación— y el día de aterrizaje, se espera que tengan una o dos de estas oportunidades cada día de la misión.<br></p>
+
+
+<div id="" class="hds-media hds-module wp-block-image"><div class="margin-left-auto margin-right-auto nasa-block-align-inline"><div class="hds-media-wrapper margin-left-auto margin-right-auto"><figure class="hds-media-inner hds-cover-wrapper hds-media-ratio-cover "><a href="https://www.nasa.gov/wp-content/uploads/2026/03/orionsim-1.jpg"><img decoding="async" width="2048" height="1471" src="https://www.nasa.gov/wp-content/uploads/2026/03/orionsim-1.jpg?w=2048" class="attachment-2048x2048 size-2048x2048" alt="" style="transform: scale(1); transform-origin: 53% 20%; object-position: 53% 20%; object-fit: cover;" block_context="nasa-block" loading="lazy" srcset="https://www.nasa.gov/wp-content/uploads/2026/03/orionsim-1.jpg 7193w, https://www.nasa.gov/wp-content/uploads/2026/03/orionsim-1.jpg?resize=300,216 300w, https://www.nasa.gov/wp-content/uploads/2026/03/orionsim-1.jpg?resize=768,552 768w, https://www.nasa.gov/wp-content/uploads/2026/03/orionsim-1.jpg?resize=1024,736 1024w, https://www.nasa.gov/wp-content/uploads/2026/03/orionsim-1.jpg?resize=1536,1104 1536w, https://www.nasa.gov/wp-content/uploads/2026/03/orionsim-1.jpg?resize=2048,1471 2048w, https://www.nasa.gov/wp-content/uploads/2026/03/orionsim-1.jpg?resize=400,287 400w, https://www.nasa.gov/wp-content/uploads/2026/03/orionsim-1.jpg?resize=600,431 600w, https://www.nasa.gov/wp-content/uploads/2026/03/orionsim-1.jpg?resize=900,647 900w, https://www.nasa.gov/wp-content/uploads/2026/03/orionsim-1.jpg?resize=1200,862 1200w, https://www.nasa.gov/wp-content/uploads/2026/03/orionsim-1.jpg?resize=2000,1437 2000w" sizes="auto, (max-width: 2048px) 100vw, 2048px" /></a></figure><figcaption class="hds-caption padding-y-2"><div class="hds-caption-text p-sm margin-0">Los astronautas de la NASA Victor Glover y Reid Wiseman, y el astronauta de la CSA (Agencia Espacial Canadiense) Jeremy Hansen entrenan durante una simulación de Artemis II.</div><div class="hds-credits">Crédito: NASA/James Blair</div></figcaption></div></div></div>
+
+
+<p><strong>Día de vuelo 3<br><br></strong>El primero de los tres encendidos más pequeños de motores, denominado corrección de la trayectoria de salida, garantizará que Orion se mantenga <a>encaminada</a><a href="#_msocom_1">[VGMJ(N1]</a>&nbsp; para su trayectoria alrededor de la Luna, y tendrá lugar el día de vuelo&nbsp;3. Por la mañana, Hansen se preparará para esta maniobra orbital, la cual está programada para poco después de la comida del mediodía de la tripulación.<br><br>El resto del día incluirá diversas comprobaciones y demostraciones. Glover, Koch y Hansen harán una demostración de los procedimientos de reanimación cardiopulmonar en el espacio; Wiseman y Glover revisarán parte del kit médico de Orion, que incluye un termómetro, un monitor de presión arterial, un estetoscopio y un otoscopio.<br><br>Koch tiene tiempo reservado en la segunda mitad del día para poner a prueba el sistema de comunicaciones de emergencia de Orion con la Red del Espacio Profundo. Toda la tripulación se reunirá para ensayar la coreografía para el trabajo de observaciones científicas que harán el día de vuelo&nbsp;6, cuando Orion se acerque más a la Luna.<br><br><strong>Día de vuelo 4<br><br></strong>Una segunda maniobra orbital de corrección de la trayectoria de salida en el día de vuelo&nbsp;4 continuará refinando la trayectoria de Orion a la Luna mientras la tripulación perfecciona algunos de sus propios preparativos. Cada astronauta dedicará una hora a revisar los objetivos geográficos de los que se les pedirá que obtengan imágenes el día de vuelo&nbsp;6. Dado que esos objetivos variarán según la hora y el día del lanzamiento final de la tripulación, esto sirve como una oportunidad para estudiar exactamente lo que observarán a medida que se acerquen a la superficie lunar. Aunque es probable que tomen fotografías y videos desde las ventanas de Orion a menudo, el día de vuelo&nbsp;4 tiene 20 minutos en el programa dedicados específicamente a tomar fotos de cuerpos celestes desde las ventanas de la nave.<br><br><strong>Día de vuelo 5<br><br></strong>Orion entrará en la esfera de influencia lunar el día de vuelo&nbsp;5, marcando el punto en el que la atracción de la gravedad de la Luna se volverá más fuerte que la atracción de la gravedad de la Tierra.<br><br>Mientras ingresan en las cercanías de la Luna, la tripulación tendrá un día completo, y dedicarán la mañana casi en su totalidad a llevar a cabo las pruebas de sus trajes espaciales. Oficialmente conocidos como sistema de supervivencia de la tripulación de Orion, los trajes naranjas protegen a la tripulación durante el lanzamiento y el reingreso, pero también podrían usarse en caso de emergencia para proporcionar a cada miembro de la tripulación que tenga puesto este traje una atmósfera respirable durante un máximo de seis días en el caso de que Orion se despresurizara. Al ser los primeros astronautas en usar estos nuevos trajes en el espacio, la tripulación de Artemis&nbsp;II pondrá a prueba su capacidad para ponerse rápidamente los trajes y presurizarlos; instalar sus asientos y sentarse en ellos con los trajes puestos; comer y beber a través de un puerto situado en el casco de los trajes espaciales, y otras funciones.<br><br>Durante la tarde de la tripulación, se llevará a cabo la maniobra orbital final de corrección de la trayectoria de salida, antes del sobrevuelo lunar de Orion en el día de vuelo&nbsp;6.</p>
+
+
+<div id="" class="hds-media hds-module wp-block-image"><div class="margin-left-auto margin-right-auto nasa-block-align-inline"><div class="hds-media-wrapper margin-left-auto margin-right-auto"><figure class="hds-media-inner hds-cover-wrapper hds-media-ratio-cover "><a href="https://www.nasa.gov/wp-content/uploads/2026/03/orion.jpg"><img decoding="async" width="2048" height="1536" src="https://www.nasa.gov/wp-content/uploads/2026/03/orion.jpg?w=2048" class="attachment-2048x2048 size-2048x2048" alt="" style="transform: scale(1); transform-origin: 53% 30%; object-position: 53% 30%; object-fit: cover;" block_context="nasa-block" loading="lazy" srcset="https://www.nasa.gov/wp-content/uploads/2026/03/orion.jpg 4000w, https://www.nasa.gov/wp-content/uploads/2026/03/orion.jpg?resize=300,225 300w, https://www.nasa.gov/wp-content/uploads/2026/03/orion.jpg?resize=768,576 768w, https://www.nasa.gov/wp-content/uploads/2026/03/orion.jpg?resize=1024,768 1024w, https://www.nasa.gov/wp-content/uploads/2026/03/orion.jpg?resize=1536,1152 1536w, https://www.nasa.gov/wp-content/uploads/2026/03/orion.jpg?resize=2048,1536 2048w, https://www.nasa.gov/wp-content/uploads/2026/03/orion.jpg?resize=400,300 400w, https://www.nasa.gov/wp-content/uploads/2026/03/orion.jpg?resize=600,450 600w, https://www.nasa.gov/wp-content/uploads/2026/03/orion.jpg?resize=900,675 900w, https://www.nasa.gov/wp-content/uploads/2026/03/orion.jpg?resize=1200,900 1200w, https://www.nasa.gov/wp-content/uploads/2026/03/orion.jpg?resize=2000,1500 2000w" sizes="auto, (max-width: 2048px) 100vw, 2048px" /></a></figure><figcaption class="hds-caption padding-y-2"><div class="hds-caption-text p-sm margin-0">Esta foto, captada durante el quinto día de la misión Artemis I, el 20 de noviembre de 2022, muestra la nave espacial Orion con la Luna al fondo. La imagen fue tomada por una cámara situada en la punta de uno de los paneles solares de Orion.</div><div class="hds-credits">Crédito: NASA</div></figcaption></div></div></div>
+
+
+<p><strong>Día de vuelo 6<br><br></strong>La tripulación de Artemis&nbsp;II llegará a su punto más cercano a la Luna en el día de vuelo&nbsp;6, mientras viaja hasta su punto más alejado de la Tierra. Dependiendo de cuál sea el día de lanzamiento, Artemis&nbsp;II podría establecer un récord de la distancia máxima que un ser humano haya viajado desde la Tierra, para romper el récord actual de 400.171&nbsp;kilómetros (248.655&nbsp;millas) de distancia, establecido en 1970 por la tripulación del Apolo&nbsp;13. La distancia que recorrerá la tripulación de Artemis&nbsp;II dependerá del día y la hora exactos de su lanzamiento.<br><br>A lo largo del día, la tripulación se encontrará a una distancia de entre 6.400&nbsp;y&nbsp;9.700&nbsp;km (entre 4.000&nbsp;y&nbsp;6.000&nbsp;millas) de la superficie lunar mientras dan la vuelta alrededor del lado lejano de la Luna. Esta debería verse para ellos del tamaño de una pelota de baloncesto sostenida con el brazo extendido. Dedicarán la mayoría del día a tomar fotografías y videos de la Luna y a grabar sus observaciones, ya que se convertirán en los primeros seres humanos en ver con sus propios&nbsp;ojos algunas partes de la Luna.<br><br>Debido a que el ángulo del Sol sobre la Luna cambia casi un grado cada dos horas, la tripulación no sabrá qué condiciones de iluminación les esperan en la superficie lunar hasta el momento del lanzamiento. Si el Sol está alto en el cielo lunar durante el sobrevuelo, habrá pocas sombras y la tripulación buscará variaciones sutiles en el color y la corrección de la superficie. Si el Sol está más bajo en el horizonte, se extenderán largas sombras por la superficie, realzando el relieve y revelando las profundidades, las crestas, las pendientes, y los bordes de los cráteres que a menudo son difíciles de detectar con una iluminación plena. Si el Sol está arriba desde la perspectiva de Orion —como al mediodía en la Tierra—, las sombras serán pocas o inexistentes, creando condiciones de iluminación ideales para obtener imágenes cercanas de características lunares específicas.<br><br>La tripulación grabará sus observaciones en tiempo real, mientras toman fotografías y videos, incluso cuando pierdan la comunicación con la Tierra durante 30&nbsp;a&nbsp;50&nbsp;minutos mientras pasen detrás de la Luna. De esa manera, sus observaciones se podrán vincular más tarde con las imágenes exactas que hayan obtenido.<br><br><strong>Día de vuelo 7<br><br></strong>Orion saldrá de la esfera de influencia lunar en la mañana del día de vuelo&nbsp;7. Antes de que la tripulación de Artemis&nbsp;II se aleje demasiado de la Luna, los científicos en tierra, ansiosos por saber de ellos mientras la experiencia aún está fresca en sus mentes, tendrán tiempo para hablar con la tripulación.<br><br>En la segunda mitad del día de la tripulación, el motor de Orion volverá a encenderse para la primera de las tres maniobras orbitales de corrección de la trayectoria de regreso que ajustarán la trayectoria de Orion hacia la Tierra.<br><br>La tripulación tendrá libre gran parte del resto del día, lo que les dará la oportunidad de descansar antes de retomar sus tareas finales previas a su regreso a la Tierra.<br><br><strong>Día de vuelo 8</strong><br><br>Las actividades principales para el día de vuelo&nbsp;8 incluyen dos demostraciones de Orion.<br><br>Primero, la tripulación evaluará su capacidad para protegerse de eventos de gran radiación como las erupciones solares. Utilizarán los suministros y equipamientos de Orion para construir un refugio y cubrirse si fuera necesario. La radiación será una preocupación constante conforme los seres humanos se aventuren en el espacio profundo, y se llevarán a cabo diferentes experimentos con el fin de recopilar datos sobre los niveles de radiación dentro de Orion.<br><br>Al final del día, la tripulación hará una prueba de la capacidad de pilotaje manual de Orion conduciendo la nave espacial a través de una serie de tareas. Centrarán un objetivo elegido desde las ventanas de Orion, pasarán a una posición orientada de cola al Sol y efectuarán maniobras de orientación con relación al plano de vuelo comparando los modos de seis grados de libertad y tres grados de libertad de control de orientación de la&nbsp;nave.<br><br><strong>Día de vuelo 9<br><br></strong>El último día completo de Artemis&nbsp;II en el espacio comenzará con los preparativos para su regreso a la Tierra. La tripulación tendrá tiempo reservado para estudiar sus procedimientos de reingreso y amerizaje, y para hablar con el personal de control de vuelo. Otra maniobra orbital de corrección de la trayectoria de regreso garantizará que la nave espacial permanezca encaminada para ese regreso.<br><br>La tripulación completará otras demostraciones para cubrir su lista de tareas pendientes: sistemas de recolección de desechos en caso de que el inodoro de Orion no funcione correctamente y comprobaciones del ajuste de las prendas de vestir para combatir la intolerancia ortostática. La intolerancia ortostática —la cual puede causar síntomas como mareos y aturdimiento al estar de pie— es una posibilidad para los astronautas cuando regresan a la Tierra y sus cuerpos deben readaptarse a la fuerza de la gravedad sobre su suministro de sangre. Las prendas de compresión, que se usan debajo de los trajes espaciales, pueden aliviar estos síntomas.<br><br>Los miembros de la tripulación se probarán las prendas, tomarán medidas de su circunferencia corporal y completarán un cuestionario sobre cómo les <a>quedan</a><a href="#_msocom_2">[VGMJ(N2]</a>&nbsp; y qué tan fácil es ponerse y quitarse esta ropa.<br><br><strong>Día de vuelo 10<br><br></strong>El último día de la misión Artemis&nbsp;II está centrado en traer a la tripulación a salvo de regreso a la Tierra. Una última maniobra orbital de corrección de la trayectoria de regreso garantizará que Orion esté en la trayectoria correcta para el amerizaje. Además, la tripulación regresará la cabina a su configuración original —con el equipamiento guardado y los asientos en su lugar— y volverá a ponerse sus trajes espaciales.<br><br>El módulo de la tripulación se separará del módulo de servicio, cuyos motores los han conducido alrededor de la Luna y de regreso a la Tierra. Esto expondrá el escudo térmico del módulo de la tripulación, el cual protegerá a la nave espacial y a la tripulación a medida que regresan atravesando la atmósfera terrestre con temperaturas de hasta unos 1.650&nbsp;grados Celsius (3.000&nbsp;grados Fahrenheit). Una vez que hayan superado con seguridad el calor del reingreso, la cubierta que protegía la bahía delantera de la nave espacial será desechada para dar paso al despliegue de una serie de paracaídas: dos paracaídas de frenado que reducirán la velocidad de la cápsula hasta unos 494&nbsp;kilómetros por hora (307&nbsp;millas por hora), seguidos por tres paracaídas piloto que desplegarán los últimos tres paracaídas principales. Estos reducirán la velocidad de Orion hasta casi 27&nbsp;km/h (17&nbsp;mi/h) para el amerizaje en el océano Pacífico, donde estará esperando el personal de la NASA y la Marina de Estados Unidos, concluyendo así la misión Artemis&nbsp;II.<br></p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>NASA’s Artemis II Moon Mission Daily Agenda</title>
+		<link>https://www.nasa.gov/missions/artemis/nasas-artemis-ii-moon-mission-daily-agenda/</link>
+		
+		<dc:creator><![CDATA[Lauren E. Low]]></dc:creator>
+		<pubDate>Fri, 13 Mar 2026 15:21:40 +0000</pubDate>
+				<category><![CDATA[Artemis]]></category>
+		<category><![CDATA[Artemis 2]]></category>
+		<category><![CDATA[Exploration Systems Development Mission Directorate]]></category>
+		<category><![CDATA[Missions]]></category>
+		<guid isPermaLink="false">https://www.nasa.gov/?p=973273</guid>
+
+					<description><![CDATA[About eight minutes after Artemis II lifts off, the Orion spacecraft and its crew, NASA astronauts Reid Wiseman, Victor Glover, and Christina Koch, along with CSA (Canadian Space Agency) astronaut Jeremy Hansen, will be in space. The approximately 10-day test flight will be packed with activity as the astronauts venture around the Moon and back, [&#8230;]]]></description>
+										<content:encoded><![CDATA[<div id="" class="hds-media hds-module wp-block-image"><div class="margin-left-auto margin-right-auto nasa-block-align-inline"><div class="hds-media-wrapper margin-left-auto margin-right-auto"><figure class="hds-media-inner hds-cover-wrapper hds-media-ratio-cover "><a href="https://www.nasa.gov/wp-content/uploads/2026/03/suit-patch.jpg"><img decoding="async" width="2048" height="1314" src="https://www.nasa.gov/wp-content/uploads/2026/03/suit-patch.jpg?w=2048" class="attachment-2048x2048 size-2048x2048" alt="" style="transform: scale(1); transform-origin: 50% 50%; object-position: 50% 50%; object-fit: cover;" block_context="nasa-block" loading="lazy" srcset="https://www.nasa.gov/wp-content/uploads/2026/03/suit-patch.jpg 8256w, https://www.nasa.gov/wp-content/uploads/2026/03/suit-patch.jpg?resize=300,192 300w, https://www.nasa.gov/wp-content/uploads/2026/03/suit-patch.jpg?resize=768,493 768w, https://www.nasa.gov/wp-content/uploads/2026/03/suit-patch.jpg?resize=1024,657 1024w, https://www.nasa.gov/wp-content/uploads/2026/03/suit-patch.jpg?resize=1536,985 1536w, https://www.nasa.gov/wp-content/uploads/2026/03/suit-patch.jpg?resize=2048,1314 2048w, https://www.nasa.gov/wp-content/uploads/2026/03/suit-patch.jpg?resize=400,257 400w, https://www.nasa.gov/wp-content/uploads/2026/03/suit-patch.jpg?resize=600,385 600w, https://www.nasa.gov/wp-content/uploads/2026/03/suit-patch.jpg?resize=900,577 900w, https://www.nasa.gov/wp-content/uploads/2026/03/suit-patch.jpg?resize=1200,770 1200w, https://www.nasa.gov/wp-content/uploads/2026/03/suit-patch.jpg?resize=2000,1283 2000w" sizes="auto, (max-width: 2048px) 100vw, 2048px" /></a></figure><figcaption class="hds-caption padding-y-2"><div class="hds-caption-text p-sm margin-0">The Artemis II mission patch is seen on the right shoulder of the Orion Crew Survival System suits that NASA astronauts Reid Wiseman, Victor Glover, and Christina Koch, and CSA (Canadian Space Agency) astronaut Jeremy Hansen will wear on the Artemis II test flight are seen, Jan. 17, 2026, in the suit-up room of the Neil A. Armstrong Operations and Checkout Building at NASA’s Kennedy Space Center in Florida. </div><div class="hds-credits">Credit: NASA/Joel Kowsky</div></figcaption></div></div></div>
+
+
+<p>About eight minutes after Artemis II lifts off, the Orion spacecraft and its crew, NASA astronauts Reid Wiseman, Victor Glover, and Christina Koch, along with CSA (Canadian Space Agency) astronaut Jeremy Hansen, will be in space. The approximately 10-day test flight will be packed with activity as the astronauts venture around the Moon and back, with teams checking out Orion’s systems along the way. While teams in mission control could refine the crew’s schedule each day based on operational activities during the test flight, ground teams and the crew have a general plan for each day of the mission.</p>
+
+
+
+<p><strong>Launch Day/Flight Day 1:</strong></p>
+
+
+
+<p>Once the SLS (Space Launch System) rocket’s main engines cutoff, Orion and the interim cryogenic propulsion stage (ICPS) separate from the rest of rocket. The ICPS still has work to do – about 49 minutes after launch, its engine will fire to raise the perigee, or lowest point of a spacecraft’s orbit, to a safe altitude of 100 miles above Earth. About an hour later, when Orion reaches that perigee, the ICPS will fire again to continue raising the spacecraft into a high-Earth orbit. The crew will then have about 23 hours to do a thorough checkout of Orion’s systems while still relatively close to home.</p>
+
+
+
+<p>The crew will start testing systems like the potable water dispenser that will provide drinking water and rehydrate the food they brought along, the toilet, and the system that removes carbon dioxide from the air. The crewmates also can take off the orange spacesuits worn for launch and work in regular clothing. They’ll spend time rearranging Orion’s interior to function as a living and workspace for four floating people over the next 10 days.</p>
+
+
+
+<p>About three hours into the mission, NASA will test how Orion handles.</p>
+
+
+
+<p>On future missions, Orion will dock with other spacecraft. To verify Orion will do so safely, the ICPS will be repurposed as a docking target. It will separate from Orion, and the crew will practice flying their spacecraft toward and around it in a proximity operations demonstration. Afterward, the ICPS will fire its engines again for a disposal burn that will send it into the Pacific Ocean, and Orion will continue its high Earth orbit.</p>
+
+
+
+<p>After about eight-and-a-half hours in space, the astronauts will sleep for a short period. The four astronauts will be awakened after about four hours to perform an additional engine firing that will put Orion into the correct orbital geometry for its translunar injection (TLI) burn on flight day 2. They’ll also take the opportunity to perform a brief check out of their emergency communications on the Deep Space Network, at the most-distant point of their high Earth orbit, which is necessary before the TLI.</p>
+
+
+
+<p>After this, they’ll be able to go back to sleep for another four-and-a-half hours, wrapping up flight day 1.</p>
+
+
+
+<p><strong>Flight Day 2</strong></p>
+
+
+
+<p>Wiseman and Glover will begin their day setting up and checking out Orion’s <a href="https://www.nasa.gov/humans-in-space/life-encapsulated-inside-nasas-orion-for-artemis-ii-moon-mission/#hds-sidebar-nav-3">flywheel exercise device</a> before getting in their first workouts of the mission. Koch and Hansen have exercise scheduled for the second half of the day. The morning workouts will provide another test of Orion’s life support systems before leaving Earth orbit.</p>
+
+
+
+<p>Koch will spend her morning preparing for the main event of the day – the translunar injection burn. The TLI is the last major engine firing of the Artemis II mission and will set Orion on the path to the Moon. And since Orion is using a free-return trajectory to swing around the far side of the Moon, the TLI engine firing also puts Orion on the path to return to Earth on flight day 10.</p>
+
+
+
+<p>Koch will set up Orion’s system to perform the burn, done by Orion’s main engine on the spacecraft’s European Service Module. Also called the orbital maneuvering system engine, it provides up to 6,000 pounds of thrust – enough to accelerate a car from 0 to 60 mph in about 2.7 seconds.</p>
+
+
+
+<p>Following TLI, the crew has a lighter day of activity, with time set aside to acclimate to the space environment. They’ll have an opportunity to participate in a space to ground video communication – the first of several that will take place throughout the mission. With the exception of flight day 7 – the crew’s off-duty day – and landing day, they are expected to have one or two of these opportunities each day of the mission.</p>
+
+
+<div id="" class="hds-media hds-module wp-block-image"><div class="margin-left-auto margin-right-auto nasa-block-align-inline"><div class="hds-media-wrapper margin-left-auto margin-right-auto"><figure class="hds-media-inner hds-cover-wrapper hds-media-ratio-cover "><a href="https://www.nasa.gov/wp-content/uploads/2026/03/orionsim-1.jpg"><img decoding="async" width="2048" height="1471" src="https://www.nasa.gov/wp-content/uploads/2026/03/orionsim-1.jpg?w=2048" class="attachment-2048x2048 size-2048x2048" alt="" style="transform: scale(1); transform-origin: 56% 13%; object-position: 56% 13%; object-fit: cover;" block_context="nasa-block" loading="lazy" srcset="https://www.nasa.gov/wp-content/uploads/2026/03/orionsim-1.jpg 7193w, https://www.nasa.gov/wp-content/uploads/2026/03/orionsim-1.jpg?resize=300,216 300w, https://www.nasa.gov/wp-content/uploads/2026/03/orionsim-1.jpg?resize=768,552 768w, https://www.nasa.gov/wp-content/uploads/2026/03/orionsim-1.jpg?resize=1024,736 1024w, https://www.nasa.gov/wp-content/uploads/2026/03/orionsim-1.jpg?resize=1536,1104 1536w, https://www.nasa.gov/wp-content/uploads/2026/03/orionsim-1.jpg?resize=2048,1471 2048w, https://www.nasa.gov/wp-content/uploads/2026/03/orionsim-1.jpg?resize=400,287 400w, https://www.nasa.gov/wp-content/uploads/2026/03/orionsim-1.jpg?resize=600,431 600w, https://www.nasa.gov/wp-content/uploads/2026/03/orionsim-1.jpg?resize=900,647 900w, https://www.nasa.gov/wp-content/uploads/2026/03/orionsim-1.jpg?resize=1200,862 1200w, https://www.nasa.gov/wp-content/uploads/2026/03/orionsim-1.jpg?resize=2000,1437 2000w" sizes="auto, (max-width: 2048px) 100vw, 2048px" /></a></figure><figcaption class="hds-caption padding-y-2"><div class="hds-caption-text p-sm margin-0">NASA astronauts Victor Glover and Reid Wiseman, and CSA (Canadian Space Agency) astronaut Jeremy Hansen train during an Artemis II simulation.</div><div class="hds-credits">Credit: NASA/James Blair</div></figcaption></div></div></div>
+
+
+<p><strong>Flight Day 3</strong></p>
+
+
+
+<p>The first of three smaller engine firings, called the outbound trajectory correction, will ensure Orion is staying on target for its path around the Moon and will take place on flight day 3. Hansen will prepare for the burn in the morning, which is scheduled to happen shortly after the crew’s midday meal.</p>
+
+
+
+<p>The rest of the day will include a variety of checkouts and demonstrations. Glover, Koch, and Hansen will demonstrate CPR procedures in space; Wiseman and Glover will checkout some of Orion’s medical kit, including the thermometer, blood pressure monitor, stethoscope, and otoscope.</p>
+
+
+
+<p>Koch has time set aside in the second half of the day to test Orion’s emergency communications system on the <a href="https://www.nasa.gov/communicating-with-missions/dsn/">Deep Space Network</a>. The entire crew will come together to rehearse the choreography for the scientific observation work they’ll do on flight day 6, when Orion comes the closest to the Moon.</p>
+
+
+
+<p><strong>Flight Day 4</strong></p>
+
+
+
+<p>A second outbound trajectory correction burn on flight day 4 will continue to refine Orion’s path to the Moon as the crew perfects some of their own preparations. They’ll each have an hour devoted to reviewing the geography targets they’ll be asked to get imagery of on flight day 6. Since those will vary depending on the crew’s final launch time and day, this serves as an opportunity to study exactly what they’ll be looking for as they draw close to the lunar surface. Although they will likely take photos and video out of Orion’s windows often, flight day 4 has 20 minutes on the schedule specifically dedicated to taking photos of celestial bodies from Orion’s windows.</p>
+
+
+
+<p><strong>Flight Day 5</strong></p>
+
+
+
+<p>Orion will enter the lunar sphere of influence on flight day 5, marking the point at which the pull of the Moon’s gravity will become stronger than the pull of the Earth’s gravity.</p>
+
+
+
+<p>As they enter the Moon’s neighborhood, the crew will have a full day, with the morning almost entirely devoted to tests of their spacesuits. Officially called the <a href="https://www.nasa.gov/missions/artemis/orion-suit-equipped-to-expect-the-unexpected-on-artemis-missions/">Orion crew survival system</a>, the orange suits protect the crew during launch and reentry, but also could be used in an emergency to provide the crew member wearing it with a breathable atmosphere for up to six days if Orion depressurized. As the first astronauts to wear the new suits in space, the Artemis II crew will be testing their ability to quickly put the suits on and pressurize them; install their seats and get into them while wearing the suits; eat and drink through a port on the spacesuits’ helmet; and other functions.</p>
+
+
+
+<p>During the crew’s afternoon, the final outbound trajectory correction burn will take place before Orion’s lunar flyby on flight day 6.</p>
+
+
+<div id="" class="hds-media hds-module wp-block-image"><div class="margin-left-auto margin-right-auto nasa-block-align-inline"><div class="hds-media-wrapper margin-left-auto margin-right-auto"><figure class="hds-media-inner hds-cover-wrapper hds-media-ratio-cover "><a href="https://www.nasa.gov/wp-content/uploads/2026/03/orion.jpg"><img decoding="async" width="2048" height="1536" src="https://www.nasa.gov/wp-content/uploads/2026/03/orion.jpg?w=2048" class="attachment-2048x2048 size-2048x2048" alt="" style="transform: scale(1); transform-origin: 56% 29%; object-position: 56% 29%; object-fit: cover;" block_context="nasa-block" loading="lazy" srcset="https://www.nasa.gov/wp-content/uploads/2026/03/orion.jpg 4000w, https://www.nasa.gov/wp-content/uploads/2026/03/orion.jpg?resize=300,225 300w, https://www.nasa.gov/wp-content/uploads/2026/03/orion.jpg?resize=768,576 768w, https://www.nasa.gov/wp-content/uploads/2026/03/orion.jpg?resize=1024,768 1024w, https://www.nasa.gov/wp-content/uploads/2026/03/orion.jpg?resize=1536,1152 1536w, https://www.nasa.gov/wp-content/uploads/2026/03/orion.jpg?resize=2048,1536 2048w, https://www.nasa.gov/wp-content/uploads/2026/03/orion.jpg?resize=400,300 400w, https://www.nasa.gov/wp-content/uploads/2026/03/orion.jpg?resize=600,450 600w, https://www.nasa.gov/wp-content/uploads/2026/03/orion.jpg?resize=900,675 900w, https://www.nasa.gov/wp-content/uploads/2026/03/orion.jpg?resize=1200,900 1200w, https://www.nasa.gov/wp-content/uploads/2026/03/orion.jpg?resize=2000,1500 2000w" sizes="auto, (max-width: 2048px) 100vw, 2048px" /></a></figure><figcaption class="hds-caption padding-y-2"><div class="hds-caption-text p-sm margin-0">Taken on the fifth day of the Artemis I mission, on Nov. 20, 2022, this photo showing the Orion spacecraft with the Moon beyond was captured by a camera on the tip of one of Orion’s solar arrays.</div><div class="hds-credits">Credit: NASA</div></figcaption></div></div></div>
+
+
+<p><strong>Flight Day 6</strong></p>
+
+
+
+<p>The Artemis II crew will come their closest to the Moon on flight day 6, while traveling the farthest from Earth. Artemis II could set a record for the farthest anyone has traveled from Earth depending on launch day, breaking the current record – 248,655 miles away – set in 1970 by the Apollo 13 crew. The distance the Artemis II crew will travel depends on their exact launch day and time.</p>
+
+
+
+<p>Over the course of the day, the crew will come within 4,000 to 6,000 miles of the lunar surface as they swing around the far side of the Moon – it should look to them about the size of a basketball held at arm’s length. They will devote the majority of their day to taking photos and videos of the Moon, and recording their observations as they become the first to <a href="https://www.youtube.com/watch?v=wdF4wyTarrI" rel="noopener">see some parts of the Moon</a> with their own eyes.</p>
+
+
+
+<p>Because the Sun’s angle on the Moon changes by about one degree every two hours, the crew won’t be sure what lighting conditions to expect on the lunar surface until they launch. If the Sun is high in the lunar sky during the flyby, there will be few shadows, and the crew will be looking for subtle variations in surface color and rightness. If the Sun is lower on the horizon, long shadows will stretch across the surface, enhancing relief and revealing depth, ridges, slopes, and crater rims that are often difficult to detect under full illumination. If the Sun is overhead from Orion’s perspective – like noon on Earth – shadows will be few to nonexistent, creating ideal lighting conditions for close-up imaging of specific lunar features.</p>
+
+
+
+<p>The crew will record their observations in real time, as they take photos and videos – including when they lose communication with Earth for 30-50 minutes as they pass behind the Moon. That way, their observations can later be linked with the exact images they took.</p>
+
+
+
+<p><strong>Flight Day 7</strong></p>
+
+
+
+<p>Orion will exit the lunar sphere of influence the morning of flight day 7. Before the Artemis II crew gets too far away from the Moon, scientists on the ground, eager to hear from them while the experience is still fresh in their minds, will have time to speak with the crew.</p>
+
+
+
+<p>In the second half of the crew’s day, the Orion engine will fire again for the first of three return trajectory correction burns that will adjust Orion’s path home.</p>
+
+
+
+<p>The rest of the day will be largely off-duty for the crew, giving them a chance to rest before jumping back into their final tasks before their return to Earth.</p>
+
+
+
+<p><strong>Flight Day 8</strong></p>
+
+
+
+<p>The primary activities for flight day 8 include two Orion demonstrations.</p>
+
+
+
+<p>First, the crew will assess their ability to protect themselves from high radiation events like solar flares. They’ll use Orion’s supplies and equipment to build a shelter for cover if needed. Radiation will be an ongoing concern as humans venture into deep space, and <a href="https://www.nasa.gov/general/artemis-ii-crew-both-subjects-and-scientists-in-nasa-deep-space-research/#hds-sidebar-nav-5">multiple experiments</a> will be aimed at collecting data on the radiation levels inside Orion.</p>
+
+
+
+<p>At the end of the day, the crew will try out Orion’s manual piloting capability by steering the spacecraft through a variety of tasks. They’ll center a chosen target in Orion’s windows, move into a tail-to-Sun attitude, and perform attitude maneuvers comparing the craft’s six-degree-of-freedom and three-degree-of-freedom attitude control modes.</p>
+
+
+
+<p><strong>Flight Day 9</strong></p>
+
+
+
+<p>Artemis II’s last full day in space will kick off with prep for their return to Earth. The crew has time set aside to study their procedures for reentry and splashdown, and talk with the flight control team. Another return trajectory correction burn will ensure the spacecraft remains on target for that return.</p>
+
+
+
+<p>The crew will complete more demonstrations to check off their to-do list: waste collection systems in case the Orion toilet doesn’t function properly and orthostatic intolerance garment fit checks. Orthostatic intolerance – which can cause symptoms such as dizziness and lightheadedness while standing – is a possibility for astronauts when they return to Earth and their bodies must readapt to the pull of gravity on their blood supply. Compression garments, worn under spacesuits, can help.</p>
+
+
+
+<p>The crew members will try their garments on, take body circumference measurements, and complete a questionnaire on how it fits, and how easy it is to put on and take off.</p>
+
+
+
+<p><strong>Flight Day 10</strong></p>
+
+
+
+<p>The last day of the Artemis II mission is focused on getting the crew safely home. A final return trajectory correction burn will ensure Orion is on the right path for splashdown, and the crew will return their cabin to its original set up – with equipment stowed and seats in place – and get back into their spacesuits.</p>
+
+
+
+<p>The crew module will separate from the service module, whose engines have steered them around the Moon and back to Earth. This will expose the crew module’s heat shield, which will protect the spacecraft and crew as they make their way back through Earth’s atmosphere and temperatures of up about 3,000 degrees Fahrenheit. Once safely through the heat of reentry, the cover that protected the spacecraft’s forward bay will be jettisoned to make way for a series of parachutes to deploy – two drogue parachutes that will slow the capsule down to about 307 miles per hour, followed by three pilot parachutes that will pull out the final three main parachutes. These will slow Orion down to approximately 17 mph for a splashdown in the Pacific Ocean, where NASA and U.S. Navy personnel will be waiting for them, concluding the Artemis II mission.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>

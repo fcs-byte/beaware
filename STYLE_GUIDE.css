@@ -1,0 +1,16 @@
+/* 🎨 beaware Neubrutalism Style Guide */
+:root {
+  --primary: #0047AB; /* NASA Blue */
+  --accent: #FFD700;  /* Signal Yellow */
+  --bg-light: #FFFFFF;
+  --bg-dark: #121212;  /* For Night Observation Mode */
+  --border: 4px solid #000000;
+  --shadow: 10px 10px 0px #000000;
+}
+
+.card {
+  background: var(--bg-light);
+  border: var(--border);
+  box-shadow: var(--shadow);
+  padding: 20px;
+}

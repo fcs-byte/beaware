@@ -1,0 +1,27 @@
+const fs = require('fs');
+const content = `
+<section class="magazine-article">
+  <h2 style="border-left: 10px solid #FFD700; padding-left: 15px;">🛠️ 週一特輯：數位主權的黎明</h2>
+  <p><i>由 beaware 觀測站於 2026/03/16 撰述</i></p>
+  <p>在當今的雲端時代，大多數數位資產都託管在巨大的 SaaS 平台上。然而，隨著 WordPress.com 費用的變動與技術黑盒子的增加，<b>『自架伺服器』</b>重新成為了技術研究者的避風港...</p>
+  <hr>
+  <h3>🌌 宇宙同頻觀測</h3>
+  <p>今日，我們在監測 NASA 的實時訊號時發現了與這股『建構力』遙相呼應的現象：NGC 1566 星系的螺旋結構展現了自然界最完美的自組織邏輯。如同我們用 Docker 容器定義環境，宇宙也用引力定義秩序。</p>
+  <div style="background: #000; color: #0f0; padding: 15px; font-family: monospace;">
+    [📡 訊號解析成功] 目標：NGC 1566 | 類別：賽弗特星系 | 特徵：核心活動劇烈，能量輸出穩定。
+  </div>
+  <br>
+  <div style="border: 4px solid #000; padding: 10px;">
+    <h4>📘 專有名詞辭典</h4>
+    <ul>
+      <li><b>SaaS (軟體即服務)</b>：像租屋一樣使用軟體，方便但缺乏主權。</li>
+      <li><b>Docker (容器化)</b>：數位世界中的貨櫃，讓程式在任何環境都能原樣執行。</li>
+    </ul>
+  </div>
+</section>
+`;
+
+const template = `<!DOCTYPE html><html lang="zh-TW"><head><meta charset="UTF-8"><title>beaware | 數位觀測站</title><style>body{font-family:sans-serif;line-height:1.6;padding:40px;max-width:800px;margin:auto;background:#fff;border:10px solid #000;}</style></head><body>${content}</body></html>`;
+
+fs.writeFileSync('index.html', template);
+console.log('🚀 深度科普內容已生成並覆蓋 index.html');

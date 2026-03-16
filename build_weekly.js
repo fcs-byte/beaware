@@ -1,0 +1,24 @@
+const fs = require('fs');
+const date = new Date().toLocaleDateString();
+const content = `
+<article style="max-width:800px;margin:auto;border:10px solid #000;padding:40px;background:#fff;font-family:sans-serif;">
+  <header style="background:#0047AB;color:#fff;padding:20px;border-bottom:5px solid #000;">
+    <h1 style="margin:0;">🛠️ 技術週報：本地優先架構的復興</h1>
+    <p>BEAWARE OBSERVATORY | ${date}</p>
+  </header>
+  <section style="padding:30px 0;">
+    <h2>觀測事實：SaaS 的信任危機</h2>
+    <p>近期雲端服務的中斷凸顯了數位主權的重要性。我們正見證從雲端中心化回歸到『本地優先』的技術典範轉移。</p>
+    <div style="background:#f0f0f0;padding:20px;border-left:10px solid #000;margin:20px 0;">
+      <h3>📖 專有名詞：CRDT</h3>
+      <p>無衝突複製資料類型。這項技術讓多台裝置能在不依賴伺服器的情況下實現數據同步。</p>
+    </div>
+    <p>對於現代數位公民而言，擁有數據的『物理主權』不再是愛好，而是生存技能。這種架構保證了即便在斷網狀態下，您的知識資產依賴依然完整且可用。</p>
+  </section>
+  <footer style="margin-top:40px;border-top:5px solid #000;padding-top:20px;">
+    <small>📡 宇宙背景訊號：觀測站運行正常 (數據暫存模式)</small>
+  </footer>
+</article>`;
+const html = `<!DOCTYPE html><html lang="zh-TW"><head><meta charset="UTF-8"><title>beaware | Insight</title></head><body style="background:#eee;padding:20px;">${content}</body></html>`;
+fs.writeFileSync('index.html', html);
+console.log('✅ index.html 構建成功');

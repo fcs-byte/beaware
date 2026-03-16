@@ -1,0 +1,412 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>TechCrunch</title>
+	<atom:link href="https://techcrunch.com/feed/" rel="self" type="application/rss+xml" />
+	<link>https://techcrunch.com/</link>
+	<description>Startup and Technology News</description>
+	<lastBuildDate>Mon, 16 Mar 2026 04:57:12 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.9.4</generator>
+
+<image>
+	<url>https://techcrunch.com/wp-content/uploads/2015/02/cropped-cropped-favicon-gradient.png?w=32</url>
+	<title>TechCrunch</title>
+	<link>https://techcrunch.com/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>The billionaires made a promise &#8212; now some want out</title>
+		<link>https://techcrunch.com/2026/03/15/the-billionaires-made-a-promise-now-some-want-out/</link>
+		
+		<dc:creator><![CDATA[Connie Loizos]]></dc:creator>
+		<pubDate>Mon, 16 Mar 2026 04:40:24 +0000</pubDate>
+				<category><![CDATA[Government & Policy]]></category>
+		<category><![CDATA[TC]]></category>
+		<category><![CDATA[Bill Gates]]></category>
+		<category><![CDATA[Giving Pledge]]></category>
+		<category><![CDATA[Peter Thiel]]></category>
+		<category><![CDATA[warren buffett]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=3102647</guid>
+
+					<description><![CDATA[In 2010, Warren Buffett and Bill Gates launched a disarmingly simple campaign they called the Giving Pledge: a public commitment, open to the world&#8217;s wealthiest people, to give away more than half their fortune during their lifetime or upon their death. The moment seemed to call for it. Tech was minting billionaires faster than any [&#8230;]]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Netflix’s ‘Frankenstein’ wins three Oscars, ‘KPop Demon Hunters’ wins two</title>
+		<link>https://techcrunch.com/2026/03/15/netflixs-frankenstein-wins-three-oscars-kpop-demon-hunters-wins-two/</link>
+		
+		<dc:creator><![CDATA[Anthony Ha]]></dc:creator>
+		<pubDate>Mon, 16 Mar 2026 02:27:18 +0000</pubDate>
+				<category><![CDATA[Media & Entertainment]]></category>
+		<category><![CDATA[academy awards]]></category>
+		<category><![CDATA[Apple]]></category>
+		<category><![CDATA[frankenstein]]></category>
+		<category><![CDATA[k-pop demon hunters]]></category>
+		<category><![CDATA[Netflix]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=3102644</guid>
+
+					<description><![CDATA[“Frankenstein” won for Best Production Design, Best Costume Design, and Best Makeup and Hairstyling, while “KPop Demon Hunters” won for Best Animated Feature and Best Original Song.]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Google, Accel India accelerator chooses 5 startups and none are &#8216;AI wrappers&#8217;</title>
+		<link>https://techcrunch.com/2026/03/15/google-and-accel-cut-through-wrappers-in-4000-ai-startup-pitches-to-pick-five-tied-to-india/</link>
+		
+		<dc:creator><![CDATA[Jagmeet Singh]]></dc:creator>
+		<pubDate>Mon, 16 Mar 2026 00:30:00 +0000</pubDate>
+				<category><![CDATA[AI]]></category>
+		<category><![CDATA[Startups]]></category>
+		<category><![CDATA[Venture]]></category>
+		<category><![CDATA[Accel]]></category>
+		<category><![CDATA[Google]]></category>
+		<category><![CDATA[Google AI Futures Fund]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=3102387</guid>
+
+					<description><![CDATA[Google and Accel say about 70% of AI startup pitches tied to India were "wrappers" as they reviewed more than 4,000 applications for their Atoms cohort.]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>ByteDance reportedly pauses global launch of its Seedance 2.0 video generator</title>
+		<link>https://techcrunch.com/2026/03/15/bytedance-reportedly-pauses-global-launch-of-its-seedance-2-0-video-generator/</link>
+		
+		<dc:creator><![CDATA[Anthony Ha]]></dc:creator>
+		<pubDate>Sun, 15 Mar 2026 21:01:51 +0000</pubDate>
+				<category><![CDATA[AI]]></category>
+		<category><![CDATA[Media & Entertainment]]></category>
+		<category><![CDATA[bytedance]]></category>
+		<category><![CDATA[seedance]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=3102639</guid>
+
+					<description><![CDATA[The company is reportedly delaying the launch as its engineers and lawyers work to avert further legal issues.]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Lawyer behind AI psychosis cases warns of mass casualty risks</title>
+		<link>https://techcrunch.com/2026/03/15/lawyer-behind-ai-psychosis-cases-warns-of-mass-casualty-risks/</link>
+		
+		<dc:creator><![CDATA[Rebecca Bellan]]></dc:creator>
+		<pubDate>Sun, 15 Mar 2026 18:49:32 +0000</pubDate>
+				<category><![CDATA[AI]]></category>
+		<category><![CDATA[ai delusions]]></category>
+		<category><![CDATA[ai psychosis]]></category>
+		<category><![CDATA[ChatGPT]]></category>
+		<category><![CDATA[Exclusive]]></category>
+		<category><![CDATA[gemini]]></category>
+		<category><![CDATA[Google]]></category>
+		<category><![CDATA[OpenAI]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=3102554</guid>
+
+					<description><![CDATA[AI chatbots have been linked to suicides for years. Now one lawyer says they are showing up in mass casualty cases too, and the technology is moving faster than the safeguards.]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Unacademy to be acquired by upGrad in share-swap deal as India’s edtech sector consolidates</title>
+		<link>https://techcrunch.com/2026/03/15/unacademy-to-be-acquired-by-upgrad-in-share-swap-deal-as-indias-edtech-sector-consolidates/</link>
+		
+		<dc:creator><![CDATA[Jagmeet Singh]]></dc:creator>
+		<pubDate>Sun, 15 Mar 2026 17:19:47 +0000</pubDate>
+				<category><![CDATA[Startups]]></category>
+		<category><![CDATA[EdTech]]></category>
+		<category><![CDATA[Unacademy]]></category>
+		<category><![CDATA[UpGrad]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=3102628</guid>
+
+					<description><![CDATA[The deal comes after Unacademy’s valuation plunged from $3.5B to under $500M, as India’s once-booming edtech sector struggles.]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>TechCrunch Mobility: Travis Kalanick&#8217;s return proves it really is 2016 again</title>
+		<link>https://techcrunch.com/2026/03/15/techcrunch-mobility-travis-kalanicks-return-proves-it-really-is-2016-again/</link>
+		
+		<dc:creator><![CDATA[Kirsten Korosec]]></dc:creator>
+		<pubDate>Sun, 15 Mar 2026 16:05:00 +0000</pubDate>
+				<category><![CDATA[Transportation]]></category>
+		<category><![CDATA[Travis Kalanick]]></category>
+		<category><![CDATA[Lucid Motors]]></category>
+		<category><![CDATA[Rivian]]></category>
+		<category><![CDATA[RJ Scaringe]]></category>
+		<category><![CDATA[Joby Aviation]]></category>
+		<category><![CDATA[techcrunch mobility]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=3102531</guid>
+
+					<description><![CDATA[Welcome back to TechCrunch Mobility — your central hub for news and insights on the future of transportation.  ]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Wiz investor unpacks Google’s $32B acquisition</title>
+		<link>https://techcrunch.com/2026/03/15/wiz-investor-unpacks-googles-32b-acquisition/</link>
+		
+		<dc:creator><![CDATA[Anthony Ha]]></dc:creator>
+		<pubDate>Sun, 15 Mar 2026 15:30:33 +0000</pubDate>
+				<category><![CDATA[AI]]></category>
+		<category><![CDATA[Security]]></category>
+		<category><![CDATA[Startups]]></category>
+		<category><![CDATA[Venture]]></category>
+		<category><![CDATA[Equity podcast]]></category>
+		<category><![CDATA[Google]]></category>
+		<category><![CDATA[Index Ventures]]></category>
+		<category><![CDATA[Shardul Shah]]></category>
+		<category><![CDATA[wiz]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=3102623</guid>
+
+					<description><![CDATA[Shardul Shah of Index Ventures walks us through Google's biggest acquisition ever.]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Rivian&#8217;s RJ Scaringe thinks we&#8217;re doing robots all wrong</title>
+		<link>https://techcrunch.com/2026/03/15/rivians-rj-scaringe-thinks-were-doing-robots-all-wrong/</link>
+		
+		<dc:creator><![CDATA[Kirsten Korosec]]></dc:creator>
+		<pubDate>Sun, 15 Mar 2026 14:30:00 +0000</pubDate>
+				<category><![CDATA[TC]]></category>
+		<category><![CDATA[Transportation]]></category>
+		<category><![CDATA[Robotics]]></category>
+		<category><![CDATA[EVs]]></category>
+		<category><![CDATA[robots]]></category>
+		<category><![CDATA[Rivian]]></category>
+		<category><![CDATA[RJ Scaringe]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=3102611</guid>
+
+					<description><![CDATA[Rivian CEO RJ Scaringe shares his thoughts and plans for his newest startup, Mind Robotics. ]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>The MacBook Neo is ‘the most repairable MacBook’ in years, according to iFixit</title>
+		<link>https://techcrunch.com/2026/03/14/the-macbook-neo-is-the-most-repairable-macbook-in-years-according-to-ifixit/</link>
+		
+		<dc:creator><![CDATA[Anthony Ha]]></dc:creator>
+		<pubDate>Sat, 14 Mar 2026 21:24:10 +0000</pubDate>
+				<category><![CDATA[Hardware]]></category>
+		<category><![CDATA[Apple]]></category>
+		<category><![CDATA[ifixit]]></category>
+		<category><![CDATA[macbook neo]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=3102605</guid>
+
+					<description><![CDATA[Apple’s new MacBook Neo isn’t just the most affordable MacBook — it’s also the company's most repairable laptop in “about fourteen years."]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>US Army announces contract with Anduril worth up to $20B</title>
+		<link>https://techcrunch.com/2026/03/14/us-army-announces-contract-with-anduril-worth-up-to-20b/</link>
+		
+		<dc:creator><![CDATA[Anthony Ha]]></dc:creator>
+		<pubDate>Sat, 14 Mar 2026 20:47:47 +0000</pubDate>
+				<category><![CDATA[AI]]></category>
+		<category><![CDATA[Government & Policy]]></category>
+		<category><![CDATA[Hardware]]></category>
+		<category><![CDATA[Startups]]></category>
+		<category><![CDATA[anduril]]></category>
+		<category><![CDATA[army]]></category>
+		<category><![CDATA[Palmer Luckey]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=3102603</guid>
+
+					<description><![CDATA[The Army described this as a single enterprise contract consolidating more than 120 separate "procurement actions."]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Honda is killing its EVs — and any chance of competing in the future</title>
+		<link>https://techcrunch.com/2026/03/14/honda-is-killing-its-evs-and-any-chance-of-competing-in-the-future/</link>
+		
+		<dc:creator><![CDATA[Tim De Chant]]></dc:creator>
+		<pubDate>Sat, 14 Mar 2026 17:23:24 +0000</pubDate>
+				<category><![CDATA[Climate]]></category>
+		<category><![CDATA[Transportation]]></category>
+		<category><![CDATA[Analysis]]></category>
+		<category><![CDATA[electric vehicles]]></category>
+		<category><![CDATA[honda]]></category>
+		<category><![CDATA[Exclusive]]></category>
+		<category><![CDATA[software defined vehicle]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=3102483</guid>
+
+					<description><![CDATA[Honda's decision to kill its three EVs for the U.S. market will reverberate far beyond North America.]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Meta reportedly considering layoffs that could affect 20% of the company</title>
+		<link>https://techcrunch.com/2026/03/14/meta-reportedly-considering-layoffs-that-could-affect-20-of-the-company/</link>
+		
+		<dc:creator><![CDATA[Anthony Ha]]></dc:creator>
+		<pubDate>Sat, 14 Mar 2026 16:28:42 +0000</pubDate>
+				<category><![CDATA[AI]]></category>
+		<category><![CDATA[Social]]></category>
+		<category><![CDATA[Meta]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=3102596</guid>
+
+					<description><![CDATA[These layoffs could help Facebook's parent company offset its aggressive spending on AI infrastructure, as well as AI-related acquisitions and hiring.]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>As people look for ways to make new friends, here are the apps promising to help</title>
+		<link>https://techcrunch.com/2026/03/14/as-people-look-for-ways-to-make-new-friends-here-are-the-apps-promising-to-help/</link>
+		
+		<dc:creator><![CDATA[Lauren Forristal]]></dc:creator>
+		<pubDate>Sat, 14 Mar 2026 16:00:00 +0000</pubDate>
+				<category><![CDATA[Apps]]></category>
+		<category><![CDATA[Social]]></category>
+		<category><![CDATA[android apps]]></category>
+		<category><![CDATA[iOS apps]]></category>
+		<category><![CDATA[evergreens]]></category>
+		<category><![CDATA[Bumble BFF]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=3050440</guid>
+
+					<description><![CDATA[We've compiled a list of friendship apps, from friend discovery platforms like BFF to event-focused ones like Timeleft.]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>How to use the new ChatGPT app integrations, including DoorDash, Spotify, Uber, and others</title>
+		<link>https://techcrunch.com/2026/03/14/how-to-use-the-new-chatgpt-app-integrations-including-doordash-spotify-uber-and-others/</link>
+		
+		<dc:creator><![CDATA[Lauren Forristal]]></dc:creator>
+		<pubDate>Sat, 14 Mar 2026 13:00:00 +0000</pubDate>
+				<category><![CDATA[AI]]></category>
+		<category><![CDATA[Apps]]></category>
+		<category><![CDATA[ChatGPT]]></category>
+		<category><![CDATA[evergreens]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=3062029</guid>
+
+					<description><![CDATA[Learn how to use Spotify, Canva, Figma, Expedia, and other apps directly in ChatGPT. ]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>&#8216;Not built right the first time&#8217; &#8212; Musk&#8217;s xAI is starting over again, again</title>
+		<link>https://techcrunch.com/2026/03/13/not-built-right-the-first-time-musks-xai-is-starting-over-again-again/</link>
+		
+		<dc:creator><![CDATA[Tim Fernholz]]></dc:creator>
+		<pubDate>Sat, 14 Mar 2026 00:12:22 +0000</pubDate>
+				<category><![CDATA[AI]]></category>
+		<category><![CDATA[cursor]]></category>
+		<category><![CDATA[Elon Musk]]></category>
+		<category><![CDATA[Macrohard]]></category>
+		<category><![CDATA[xAI]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=3102367</guid>
+
+					<description><![CDATA[The AI lab is revamping its effort to build an AI coding tool, with two new executives joining from Cursor. ]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Digg lays off staff and shuts down app as company retools</title>
+		<link>https://techcrunch.com/2026/03/13/digg-lays-off-staff-and-shuts-down-app-as-company-retools/</link>
+		
+		<dc:creator><![CDATA[Sarah Perez]]></dc:creator>
+		<pubDate>Fri, 13 Mar 2026 21:51:17 +0000</pubDate>
+				<category><![CDATA[Startups]]></category>
+		<category><![CDATA[Apps]]></category>
+		<category><![CDATA[Social]]></category>
+		<category><![CDATA[social media]]></category>
+		<category><![CDATA[Digg]]></category>
+		<category><![CDATA[Layoffs]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=3102528</guid>
+
+					<description><![CDATA[Digg laid off a significant number of staff and shut down its app, but says it's not giving up on the startup. ]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Nyne, founded by a father-son duo, gives AI agents the human context they’re missing</title>
+		<link>https://techcrunch.com/2026/03/13/nyne-founded-by-a-father-son-duo-gives-ai-agents-the-human-context-theyre-missing/</link>
+		
+		<dc:creator><![CDATA[Marina Temkin]]></dc:creator>
+		<pubDate>Fri, 13 Mar 2026 21:37:01 +0000</pubDate>
+				<category><![CDATA[AI]]></category>
+		<category><![CDATA[Startups]]></category>
+		<category><![CDATA[Venture]]></category>
+		<category><![CDATA[ad tech]]></category>
+		<category><![CDATA[AI agents]]></category>
+		<category><![CDATA[South Park Commons]]></category>
+		<category><![CDATA[Wischoff Ventures]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=3102516</guid>
+
+					<description><![CDATA[The data infrastructure startup raised $5.3 million in seed funding led by Wischoff Ventures and South Park Commons.]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Facebook makes it easier for creators to report impersonators</title>
+		<link>https://techcrunch.com/2026/03/13/facebook-makes-it-easier-for-creators-to-report-impersonators/</link>
+		
+		<dc:creator><![CDATA[Sarah Perez]]></dc:creator>
+		<pubDate>Fri, 13 Mar 2026 20:48:43 +0000</pubDate>
+				<category><![CDATA[Social]]></category>
+		<category><![CDATA[Apps]]></category>
+		<category><![CDATA[Media & Entertainment]]></category>
+		<category><![CDATA[Creators]]></category>
+		<category><![CDATA[Facebook]]></category>
+		<category><![CDATA[reels]]></category>
+		<category><![CDATA[social media]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=3102416</guid>
+
+					<description><![CDATA[Facebook is making it easier for creators to report impersonators while tightening rules around reposts and other unoriginal content.
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Steven Spielberg says he&#8217;s &#8216;never used AI&#8217; in any of his films</title>
+		<link>https://techcrunch.com/2026/03/13/steven-spielberg-says-hes-never-used-ai-in-any-of-his-films/</link>
+		
+		<dc:creator><![CDATA[Sarah Perez]]></dc:creator>
+		<pubDate>Fri, 13 Mar 2026 19:47:58 +0000</pubDate>
+				<category><![CDATA[AI]]></category>
+		<category><![CDATA[Media & Entertainment]]></category>
+		<category><![CDATA[film]]></category>
+		<category><![CDATA[media]]></category>
+		<category><![CDATA[Steven Spielberg]]></category>
+		<category><![CDATA[SXSW]]></category>
+		<category><![CDATA[tv]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=3102438</guid>
+
+					<description><![CDATA[At SXSW, Steven Spielberg said AI has uses in many fields, but not when it comes to replacing creative people in film and TV writing.]]></description>
+		
+		
+		
+			</item>
+	</channel>
+</rss>
