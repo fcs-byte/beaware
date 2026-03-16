@@ -13,7 +13,19 @@
   <icon>https://www.theregister.com/Design/graphics/icons/favicon.png</icon>
   <subtitle>Biting the hand that feeds IT — Enterprise Technology News and Analysis</subtitle>
   <logo>https://www.theregister.com/Design/graphics/Reg_default/The_Register_r.png</logo>
-  <updated>2026-03-16T12:18:23.00Z</updated>
+  <updated>2026-03-16T12:30:14.00Z</updated>
+  <entry>
+    <id>tag:theregister.com,2005:story245098</id>
+    <published>2026-03-16T12:30:14.00Z</published>
+    <updated>2026-03-16T12:30:14.00Z</updated>
+    <author>
+      <name>Rupert Goodwins</name>
+      <uri>https://search.theregister.com/?author=Rupert%20Goodwins</uri>
+    </author>
+    <link rel="alternate" type="text/html" href="https://go.theregister.com/feed/www.theregister.com/2026/03/16/opinon_column_age_verification/"/>
+    <title type="html">Age verification isn't sage verification when it's inside operating systems</title>
+    <summary type="html" xml:base="https://www.theregister.com/">&lt;h4&gt;Toothbrushes, Turing and the truth give the lie to California’s legal lunacy&lt;/h4&gt; &lt;p&gt;&lt;strong&gt;Opinion&lt;/strong&gt;  There are two ways to look at the California Assembly Bill 1043, known as The Digital Age Assurance Act or DAAA. One is to say it is a 2025 law requiring operating systems and app stores to implement age verification during account setup to protect minors online. The other is to note that the law is all the worst things a law can be.…&lt;/p&gt;</summary>
+  </entry>
   <entry>
     <id>tag:theregister.com,2005:story245119</id>
     <published>2026-03-16T12:18:23.00Z</published>
@@ -601,17 +613,5 @@
     <link rel="alternate" type="text/html" href="https://go.theregister.com/feed/www.theregister.com/2026/03/12/van_allen_probe_a_reentry/"/>
     <title type="html">NASA probe checks out years early because this solar cycle is a real drag</title>
     <summary type="html" xml:base="https://www.theregister.com/">&lt;h4&gt;Van Allen spacecraft re-enters over the Pacific with 1 in 4,200 chance of causing injury&lt;/h4&gt; &lt;p&gt;NASA's Van Allen Probe A has re-entered Earth's atmosphere eight years earlier than expected, with a 1 in 4,200 chance that its components could cause injury.…&lt;/p&gt;</summary>
-  </entry>
-  <entry>
-    <id>tag:theregister.com,2005:story245072</id>
-    <published>2026-03-12T13:34:55.00Z</published>
-    <updated>2026-03-12T13:34:55.00Z</updated>
-    <author>
-      <name>Connor Jones</name>
-      <uri>https://search.theregister.com/?author=Connor%20Jones</uri>
-    </author>
-    <link rel="alternate" type="text/html" href="https://go.theregister.com/feed/www.theregister.com/2026/03/12/cisa_n8n_rce/"/>
-    <title type="html">CISA warns max-severity n8n bug is being exploited in the wild</title>
-    <summary type="html" xml:base="https://www.theregister.com/">&lt;h4&gt;No rest for project maintainers battered by slew of vulnerability disclosures&lt;/h4&gt; &lt;p&gt;The US Cybersecurity and Infrastructure Security Agency (CISA) has confirmed that hackers are exploiting a max-severity remote code execution (RCE) vulnerability in workflow automation platform n8n.…&lt;/p&gt; &lt;p&gt;&lt;!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --&gt;&lt;/p&gt;</summary>
   </entry>
 </feed>
