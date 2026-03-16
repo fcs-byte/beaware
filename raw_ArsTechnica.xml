@@ -4,7 +4,7 @@
         <atom:link href="https://arstechnica.com/feed/" rel="self" type="application/rss+xml"/>
         <link>https://arstechnica.com</link>
         <description>All Ars Technica stories</description>
-        <lastBuildDate>Mon, 16 Mar 2026 14:06:29 +0000</lastBuildDate>
+        <lastBuildDate>Mon, 16 Mar 2026 14:41:58 +0000</lastBuildDate>
         <language>en-US</language>
         <sy:updatePeriod>
             hourly        </sy:updatePeriod>
@@ -32,6 +32,7 @@
 		<category><![CDATA[climate change]]></category>
 		<category><![CDATA[fossil fuels]]></category>
 		<category><![CDATA[Republican party]]></category>
+		<category><![CDATA[syndication]]></category>
                 <guid isPermaLink="true">https://arstechnica.com/tech-policy/2026/03/emerging-legislation-would-shield-polluters-from-liability-for-climate-change/</guid>
 
                                     <description>
@@ -45,7 +46,7 @@
 ]]>
                         </content:encoded>
                                     
-                                    <slash:comments>16</slash:comments>
+                                    <slash:comments>45</slash:comments>
                 
                 
                 <media:content height="648" medium="image" type="image/jpeg" url="https://cdn.arstechnica.net/wp-content/uploads/2021/09/GettyImages-1297809831-1024x648.jpg" width="1024">
@@ -80,7 +81,7 @@
 ]]>
                         </content:encoded>
                                     
-                                    <slash:comments>7</slash:comments>
+                                    <slash:comments>11</slash:comments>
                 
                 
                 <media:content height="648" medium="image" type="image/jpeg" url="https://cdn.arstechnica.net/wp-content/uploads/2026/03/firefly1-1152x648-1773595049.jpg" width="1152">
@@ -117,7 +118,7 @@
 ]]>
                         </content:encoded>
                                     
-                                    <slash:comments>20</slash:comments>
+                                    <slash:comments>25</slash:comments>
                 
                 
                 <media:content height="648" medium="image" type="image/jpeg" url="https://cdn.arstechnica.net/wp-content/uploads/2026/03/GettyImages-480542603-1152x648.jpg" width="1152">
@@ -148,7 +149,7 @@
 ]]>
                         </content:encoded>
                                     
-                                    <slash:comments>121</slash:comments>
+                                    <slash:comments>125</slash:comments>
                 
                 
                 <media:content height="648" medium="image" type="image/jpeg" url="https://cdn.arstechnica.net/wp-content/uploads/2026/03/honda-prelude-ad-1152x648.jpg" width="1152">
@@ -182,7 +183,7 @@
 ]]>
                         </content:encoded>
                                     
-                                    <slash:comments>308</slash:comments>
+                                    <slash:comments>326</slash:comments>
                 
                 
                 <media:content height="648" medium="image" type="image/jpeg" url="https://cdn.arstechnica.net/wp-content/uploads/2023/11/getty-musk-1152x648.jpg" width="1152">
@@ -220,7 +221,7 @@
 ]]>
                         </content:encoded>
                                     
-                                    <slash:comments>149</slash:comments>
+                                    <slash:comments>150</slash:comments>
                 
                 
                 <media:content height="648" medium="image" type="image/jpeg" url="https://cdn.arstechnica.net/wp-content/uploads/2026/01/IMG_0397-1-1152x648-1773442516.jpg" width="1152">
@@ -329,7 +330,7 @@
 ]]>
                         </content:encoded>
                                     
-                                    <slash:comments>81</slash:comments>
+                                    <slash:comments>82</slash:comments>
                 
                 
                 <media:content height="648" medium="image" type="image/jpeg" url="https://cdn.arstechnica.net/wp-content/uploads/2026/03/GettyImages-2230224523-1152x648.jpg" width="1152">
@@ -352,17 +353,17 @@
                 <guid isPermaLink="true">https://arstechnica.com/tech-policy/2026/03/google-fiber-will-be-sold-to-private-equity-firm-and-merge-with-cable-company/</guid>
 
                                     <description>
-                        <![CDATA[GFiber and Astound to merge with Alphabet selling majority stake to Stonepeak.]]>
+                        <![CDATA[GFiber and Astound to merge with Alphabet, selling majority stake to Stonepeak.]]>
                     </description>
                                                                 <content:encoded>
                             <![CDATA[<p>Google Fiber, now officially called GFiber, is being sold to private equity firm Stonepeak and will be combined with cable-and-fiber firm Astound Broadband to create a larger Internet service provider.</p>
-<p>Google owner Alphabet <a href="https://fiber.google.com/blog/2026/03/gfiber-and-stonepeaks-astound-to.html">announced Wednesday</a> that it will keep only a minority stake in the fiber ISP that <a href="https://arstechnica.com/information-technology/2012/11/google-fiber-is-live-in-kansas-city-real-world-speeds-at-700-mbps/">launched with grand ambitions</a> in 2012 but scaled back its expansion plans <a href="https://arstechnica.com/information-technology/2016/10/google-fiber-laying-off-9-of-staff-will-pause-plans-for-10-cities/">in 2016</a>. Alphabet and Astound owner Stonepeak announced "an agreement to combine GFiber with Astound Broadband, creating a leading independent fiber provider," with the merged company to be "majority owned by Stonepeak, an investment firm specializing in infrastructure and real assets."</p>
+<p>Google owner Alphabet <a href="https://fiber.google.com/blog/2026/03/gfiber-and-stonepeaks-astound-to.html">announced Wednesday</a> that it will keep only a minority stake in the fiber ISP that <a href="https://arstechnica.com/information-technology/2012/11/google-fiber-is-live-in-kansas-city-real-world-speeds-at-700-mbps/">launched with grand ambitions</a> in 2012 but scaled back its expansion plans <a href="https://arstechnica.com/information-technology/2016/10/google-fiber-laying-off-9-of-staff-will-pause-plans-for-10-cities/">in 2016</a>. Alphabet and Astound owner Stonepeak announced "an agreement to combine GFiber with Astound Broadband, creating a leading independent fiber provider" with the merged company to be "majority owned by Stonepeak, an investment firm specializing in infrastructure and real assets."</p>
 <p>The deal is subject to regulatory approvals and other closing conditions, with an expected closing date in Q4 of this year. The sale price was not disclosed. The deal will help GFiber take "a major step toward its goal of operational and financial independence" and obtain the "external capital and strategic focus needed to accelerate its next phase of growth," the announcement said.</p><p><a href="https://arstechnica.com/tech-policy/2026/03/google-fiber-will-be-sold-to-private-equity-firm-and-merge-with-cable-company/">Read full article</a></p>
 <p><a href="https://arstechnica.com/tech-policy/2026/03/google-fiber-will-be-sold-to-private-equity-firm-and-merge-with-cable-company/#comments">Comments</a></p>
 ]]>
                         </content:encoded>
                                     
-                                    <slash:comments>125</slash:comments>
+                                    <slash:comments>127</slash:comments>
                 
                 
                 <media:content medium="image" type="image/jpeg" url="https://cdn.arstechnica.net/wp-content/uploads/2019/12/google-fiber-van.jpg">
@@ -463,7 +464,7 @@
 ]]>
                         </content:encoded>
                                     
-                                    <slash:comments>172</slash:comments>
+                                    <slash:comments>174</slash:comments>
                 
                 
                 <media:content height="648" medium="image" type="image/jpeg" url="https://cdn.arstechnica.net/wp-content/uploads/2026/03/GettyImages-2208927984-1152x648.jpg" width="1152">
@@ -528,7 +529,7 @@
 ]]>
                         </content:encoded>
                                     
-                                    <slash:comments>191</slash:comments>
+                                    <slash:comments>192</slash:comments>
                 
                 
                 <media:content height="648" medium="image" type="image/jpeg" url="https://cdn.arstechnica.net/wp-content/uploads/2025/11/fallout5-1152x648.jpg" width="1152">
@@ -565,7 +566,7 @@
 ]]>
                         </content:encoded>
                                     
-                                    <slash:comments>157</slash:comments>
+                                    <slash:comments>160</slash:comments>
                 
                 
                 <media:content height="648" medium="image" type="image/jpeg" url="https://cdn.arstechnica.net/wp-content/uploads/2026/03/IMG_3717-1152x648.jpeg" width="1152">
@@ -601,7 +602,7 @@
 ]]>
                         </content:encoded>
                                     
-                                    <slash:comments>70</slash:comments>
+                                    <slash:comments>72</slash:comments>
                 
                 
                 <media:content height="648" medium="image" type="image/jpeg" url="https://cdn.arstechnica.net/wp-content/uploads/2026/03/image-1152x648.jpeg" width="1152">
@@ -675,7 +676,7 @@
 ]]>
                         </content:encoded>
                                     
-                                    <slash:comments>60</slash:comments>
+                                    <slash:comments>61</slash:comments>
                 
                 
                 <media:content height="648" medium="image" type="image/jpeg" url="https://cdn.arstechnica.net/wp-content/uploads/2026/03/GettyImages-2222113062-1152x648.jpg" width="1152">

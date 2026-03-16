@@ -13,7 +13,7 @@
   <icon>https://www.theregister.com/Design/graphics/icons/favicon.png</icon>
   <subtitle>Biting the hand that feeds IT — Enterprise Technology News and Analysis</subtitle>
   <logo>https://www.theregister.com/Design/graphics/Reg_default/The_Register_r.png</logo>
-  <updated>2026-03-16T14:35:23.00Z</updated>
+  <updated>2026-03-16T15:30:45.00Z</updated>
   <entry>
     <id>tag:theregister.com,2005:story245123</id>
     <published>2026-03-16T14:35:23.00Z</published>
@@ -29,14 +29,14 @@
   <entry>
     <id>tag:theregister.com,2005:story245121</id>
     <published>2026-03-16T14:19:33.00Z</published>
-    <updated>2026-03-16T14:19:33.00Z</updated>
+    <updated>2026-03-16T15:30:45.00Z</updated>
     <author>
       <name>Richard Speed</name>
       <uri>https://search.theregister.com/?author=Richard%20Speed</uri>
     </author>
     <link rel="alternate" type="text/html" href="https://go.theregister.com/feed/www.theregister.com/2026/03/16/free_software_foundation_urges_ai/"/>
     <title type="html">Free Software Foundation calls for free-range LLMs rather than factory-farmed AI</title>
-    <summary type="html" xml:base="https://www.theregister.com/">&lt;h4&gt;F is for Free, FSF, and fat chance&lt;/h4&gt; &lt;p&gt;The Free Software Foundation (FSF) has rattled a saber at Anthropic over the use of its materials in training the AI vendor's models.…&lt;/p&gt; &lt;p&gt;&lt;!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --&gt;&lt;/p&gt;</summary>
+    <summary type="html" xml:base="https://www.theregister.com/">&lt;h4&gt;F is for Free, FSF, and fat chance&lt;/h4&gt; &lt;p&gt;The Free Software Foundation (FSF) has rattled a saber at Anthropic over the use of its materials in training the AI vendor's models, urging it to set its LLMs free.…&lt;/p&gt; &lt;p&gt;&lt;!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --&gt;&lt;/p&gt;</summary>
   </entry>
   <entry>
     <id>tag:theregister.com,2005:story245122</id>
