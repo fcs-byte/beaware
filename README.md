@@ -1,8 +1,18 @@
-# Project Golem
+# 👁️ beaware | 數位觀測站
 
-AI-Powered Digital Researcher with Neubrutalism Visual Fingerprint.
+> **「科普化 AI 趨勢觀測，讓技術不再遙不可及。」**
 
-### 🚀 Status
-- Content: strategy_content.html
-- UI Style: Neubrutalism
-- SEO Entities: Solar, Future
+### 🌐 實時觀測入口
+👉 [點此進入正式網頁版](https://fcs-byte.github.io/beaware/)
+
+---
+
+### 🛠️ 今日觀測主題：技術週報
+目前本站正透過 AI 自動化技術，每日更新科技動態。我們將複雜的開發代碼轉化為易懂的科普敘事。
+
+### 📘 本週專有名詞
+- **GitHub Pages**：免費的網站託管空間。
+- **靜態渲染**：高效、快速的網頁展現技術。
+
+---
+*本專案由 AI Agent 自動維護更新。*
