@@ -1,23 +1,21 @@
-const https = require('https');
 const fs = require('fs');
+const https = require('https');
 
-console.log('📡 [beaware] 正在執行高精度情報提煉...');
+const options = { hostname: 'api.nasa.gov', path: '/planetary/apod?api_key=DEMO_KEY', method: 'GET' };
 
-https.get('https://www.nasa.gov/rss/dyn/breaking_news.rss', (res) => {
+const req = https.request(options, res => {
     let data = '';
-    res.on('data', (chunk) => { data += chunk; });
+    res.on('data', d => { data += d; });
     res.on('end', () => {
-        // 精確鎖定第一個 <item> 內的 <title>
-        const itemMatch = data.match(/<item>([\s\S]*?)<title>(.*?)<\/title>/);
-        const latestTitle = itemMatch ? itemMatch[2] : '📡 訊號解析中...';
-        
-        console.log(`🚀 [Intelligence] 偵測到頭條新聞: ${latestTitle}`);
-        
+        const info = JSON.parse(data);
         let html = fs.readFileSync('index.html', 'utf8');
-        // 使用正則替換之前的標題內容
-        const updatedHtml = html.replace(/🚨 即時觀測: .*?<\/p>/, `🚨 即時觀測: ${latestTitle}</p>`);
-        
-        fs.writeFileSync('index.html', updatedHtml);
-        console.log('✅ [Update] beaware 首頁內容已精確同步。');
+        const entry = `<div style="border:3px solid #000; padding:10px; margin-top:10px; background:#e0e0e0;"><b>🛰️ 實時訊號:</b> ${info.title} (${info.date})</div>`;
+        if (!html.includes('🛰️ 實時訊號')) {
+            html = html.replace('</h1>', '</h1>' + entry);
+            fs.writeFileSync('index.html', html);
+            console.log('✅ NASA 數據心跳已成功同步至首頁');
+        }
     });
-}).on('error', (err) => { console.error('⚠️ [Error] NASA 連線失敗: ' + err.message); });
+});
+req.on('error', error => { console.error(error); });
+req.end();
