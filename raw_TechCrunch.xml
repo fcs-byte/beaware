@@ -12,7 +12,7 @@
 	<atom:link href="https://techcrunch.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://techcrunch.com/</link>
 	<description>Startup and Technology News</description>
-	<lastBuildDate>Mon, 16 Mar 2026 04:57:12 +0000</lastBuildDate>
+	<lastBuildDate>Mon, 16 Mar 2026 13:13:40 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,24 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>Walmart-backed PhonePe shelves IPO as global tensions rattle markets</title>
+		<link>https://techcrunch.com/2026/03/16/walmart-backed-phonepe-shelves-ipo-as-global-tensions-rattle-markets/</link>
+		
+		<dc:creator><![CDATA[Jagmeet Singh]]></dc:creator>
+		<pubDate>Mon, 16 Mar 2026 13:02:47 +0000</pubDate>
+				<category><![CDATA[Fintech]]></category>
+		<category><![CDATA[Startups]]></category>
+		<category><![CDATA[IPO]]></category>
+		<category><![CDATA[PhonePe]]></category>
+		<category><![CDATA[Walmart]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=3102672</guid>
+
+					<description><![CDATA[PhonePe has paused its planned IPO, delaying a major liquidity event for investors including Tiger Global and Microsoft.]]></description>
+		
+		
+		
+			</item>
+		<item>
 		<title>The billionaires made a promise &#8212; now some want out</title>
 		<link>https://techcrunch.com/2026/03/15/the-billionaires-made-a-promise-now-some-want-out/</link>
 		
@@ -246,11 +264,11 @@
 		<pubDate>Sat, 14 Mar 2026 17:23:24 +0000</pubDate>
 				<category><![CDATA[Climate]]></category>
 		<category><![CDATA[Transportation]]></category>
+		<category><![CDATA[Analysis]]></category>
+		<category><![CDATA[electric vehicles]]></category>
+		<category><![CDATA[honda]]></category>
 		<category><![CDATA[Exclusive]]></category>
 		<category><![CDATA[software defined vehicle]]></category>
-		<category><![CDATA[honda]]></category>
-		<category><![CDATA[electric vehicles]]></category>
-		<category><![CDATA[Analysis]]></category>
 		<guid isPermaLink="false">https://techcrunch.com/?p=3102483</guid>
 
 					<description><![CDATA[Honda's decision to kill its three EVs for the U.S. market will reverberate far beyond North America.]]></description>
@@ -334,9 +352,9 @@
 		
 		<dc:creator><![CDATA[Sarah Perez]]></dc:creator>
 		<pubDate>Fri, 13 Mar 2026 21:51:17 +0000</pubDate>
-				<category><![CDATA[Social]]></category>
+				<category><![CDATA[Startups]]></category>
 		<category><![CDATA[Apps]]></category>
-		<category><![CDATA[Startups]]></category>
+		<category><![CDATA[Social]]></category>
 		<category><![CDATA[social media]]></category>
 		<category><![CDATA[Digg]]></category>
 		<category><![CDATA[Layoffs]]></category>
@@ -373,9 +391,9 @@
 		
 		<dc:creator><![CDATA[Sarah Perez]]></dc:creator>
 		<pubDate>Fri, 13 Mar 2026 20:48:43 +0000</pubDate>
-				<category><![CDATA[Social]]></category>
+				<category><![CDATA[Media & Entertainment]]></category>
 		<category><![CDATA[Apps]]></category>
-		<category><![CDATA[Media & Entertainment]]></category>
+		<category><![CDATA[Social]]></category>
 		<category><![CDATA[Creators]]></category>
 		<category><![CDATA[Facebook]]></category>
 		<category><![CDATA[reels]]></category>
@@ -384,26 +402,6 @@
 
 					<description><![CDATA[Facebook is making it easier for creators to report impersonators while tightening rules around reposts and other unoriginal content.
 ]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Steven Spielberg says he&#8217;s &#8216;never used AI&#8217; in any of his films</title>
-		<link>https://techcrunch.com/2026/03/13/steven-spielberg-says-hes-never-used-ai-in-any-of-his-films/</link>
-		
-		<dc:creator><![CDATA[Sarah Perez]]></dc:creator>
-		<pubDate>Fri, 13 Mar 2026 19:47:58 +0000</pubDate>
-				<category><![CDATA[AI]]></category>
-		<category><![CDATA[Media & Entertainment]]></category>
-		<category><![CDATA[film]]></category>
-		<category><![CDATA[media]]></category>
-		<category><![CDATA[Steven Spielberg]]></category>
-		<category><![CDATA[SXSW]]></category>
-		<category><![CDATA[tv]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=3102438</guid>
-
-					<description><![CDATA[At SXSW, Steven Spielberg said AI has uses in many fields, but not when it comes to replacing creative people in film and TV writing.]]></description>
 		
 		
 		

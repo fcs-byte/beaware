@@ -13,7 +13,31 @@
   <icon>https://www.theregister.com/Design/graphics/icons/favicon.png</icon>
   <subtitle>Biting the hand that feeds IT — Enterprise Technology News and Analysis</subtitle>
   <logo>https://www.theregister.com/Design/graphics/Reg_default/The_Register_r.png</logo>
-  <updated>2026-03-16T12:30:14.00Z</updated>
+  <updated>2026-03-16T13:27:46.00Z</updated>
+  <entry>
+    <id>tag:theregister.com,2005:story245122</id>
+    <published>2026-03-16T13:27:46.00Z</published>
+    <updated>2026-03-16T13:27:46.00Z</updated>
+    <author>
+      <name>Carly Page</name>
+      <uri>https://search.theregister.com/?author=Carly%20Page</uri>
+    </author>
+    <link rel="alternate" type="text/html" href="https://go.theregister.com/feed/www.theregister.com/2026/03/16/apples_599_macbook_neo_turns/"/>
+    <title type="html">Apple’s MacBook Neo turns out to be its most repairable lappy in 14 years</title>
+    <summary type="html" xml:base="https://www.theregister.com/">&lt;h4&gt;iFixit opens Apple’s budget system, discovers something missing from MacBooks: replaceable components&lt;/h4&gt; &lt;p&gt;Apple's latest MacBook may be cheap, but it also comes with something modern MacBooks haven't offered in years: a fighting chance of being repaired.…&lt;/p&gt;</summary>
+  </entry>
+  <entry>
+    <id>tag:theregister.com,2005:story245120</id>
+    <published>2026-03-16T12:59:34.00Z</published>
+    <updated>2026-03-16T13:26:17.00Z</updated>
+    <author>
+      <name>Lindsay Clark</name>
+      <uri>https://search.theregister.com/?author=Lindsay%20Clark</uri>
+    </author>
+    <link rel="alternate" type="text/html" href="https://go.theregister.com/feed/www.theregister.com/2026/03/16/servicenow_grad_jobs_ai/"/>
+    <title type="html">ServiceNow boss warns AI could push grad unemployment past 30%</title>
+    <summary type="html" xml:base="https://www.theregister.com/">&lt;h4&gt;McDermott argues digital workers will handle much of the grunt work once used to train junior staff&lt;/h4&gt; &lt;p&gt;Unemployment rates among recent graduates could climb above 30 percent because so many early career routine tasks will be performed by AI agents, ServiceNow CEO Bill McDermott has said.…&lt;/p&gt;</summary>
+  </entry>
   <entry>
     <id>tag:theregister.com,2005:story245098</id>
     <published>2026-03-16T12:30:14.00Z</published>
@@ -589,29 +613,5 @@
     <link rel="alternate" type="text/html" href="https://go.theregister.com/feed/www.theregister.com/2026/03/12/users_protest_as_google_antigravity/"/>
     <title type="html">Users protest as Google Antigravity price floats upward</title>
     <summary type="html" xml:base="https://www.theregister.com/">&lt;h4&gt;Google evolves its pricing for agentic AI tool, pointing devs towards on-demand credits or $250 per month Ultra plan&lt;/h4&gt; &lt;p&gt;Developers using Google's Antigravity agentic AI coding tool are complaining about higher prices following an announcement yesterday that the company is evolving its AI plans.…&lt;/p&gt;</summary>
-  </entry>
-  <entry>
-    <id>tag:theregister.com,2005:story245071</id>
-    <published>2026-03-12T14:23:55.00Z</published>
-    <updated>2026-03-12T14:23:55.00Z</updated>
-    <author>
-      <name>Liam Proven</name>
-      <uri>https://search.theregister.com/?author=Liam%20Proven</uri>
-    </author>
-    <link rel="alternate" type="text/html" href="https://go.theregister.com/feed/www.theregister.com/2026/03/12/in_memoriam_sir_tony_hoare/"/>
-    <title type="html">Quicksort inventor Tony Hoare reaches the base case at 92</title>
-    <summary type="html" xml:base="https://www.theregister.com/">&lt;h4&gt;Classicist, philosopher, wit, and one of the greatest British computer scientists of all time&lt;/h4&gt; &lt;p&gt;&lt;strong&gt;Obit&lt;/strong&gt;  Professor Charles Anthony Richard Hoare has died at the age of 92. Known to many computer science students as C. A. R. Hoare, and to his friends as Tony, he was not only one of the greatest minds in the history of programming – he also came up with a number of the field's pithiest quotes.…&lt;/p&gt;</summary>
-  </entry>
-  <entry>
-    <id>tag:theregister.com,2005:story245068</id>
-    <published>2026-03-12T13:47:50.00Z</published>
-    <updated>2026-03-12T13:47:50.00Z</updated>
-    <author>
-      <name>Richard Speed</name>
-      <uri>https://search.theregister.com/?author=Richard%20Speed</uri>
-    </author>
-    <link rel="alternate" type="text/html" href="https://go.theregister.com/feed/www.theregister.com/2026/03/12/van_allen_probe_a_reentry/"/>
-    <title type="html">NASA probe checks out years early because this solar cycle is a real drag</title>
-    <summary type="html" xml:base="https://www.theregister.com/">&lt;h4&gt;Van Allen spacecraft re-enters over the Pacific with 1 in 4,200 chance of causing injury&lt;/h4&gt; &lt;p&gt;NASA's Van Allen Probe A has re-entered Earth's atmosphere eight years earlier than expected, with a 1 in 4,200 chance that its components could cause injury.…&lt;/p&gt;</summary>
   </entry>
 </feed>

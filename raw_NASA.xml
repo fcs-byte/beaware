@@ -12,7 +12,7 @@
 	<atom:link href="https://www.nasa.gov/news-release/feed/" rel="self" type="application/rss+xml" />
 	<link>https://www.nasa.gov</link>
 	<description>Official National Aeronautics and Space Administration Website</description>
-	<lastBuildDate>Fri, 13 Mar 2026 22:07:28 +0000</lastBuildDate>
+	<lastBuildDate>Mon, 16 Mar 2026 13:13:01 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -20,6 +20,448 @@
 	1	</sy:updateFrequency>
 	<generator>https://wordpress.org/?v=6.8.5</generator>
 	<item>
+		<title>NESC Develops Method for Estimating Risk When Reducing NDE </title>
+		<link>https://www.nasa.gov/general/nesc-develops-method-for-estimating-risk-when-reducing-nde/</link>
+		
+		<dc:creator><![CDATA[Meagan Chappell]]></dc:creator>
+		<pubDate>Mon, 16 Mar 2026 13:03:57 +0000</pubDate>
+				<category><![CDATA[General]]></category>
+		<category><![CDATA[NASA Engineering and Safety Center]]></category>
+		<guid isPermaLink="false">https://www.nasa.gov/?p=973908</guid>
+
+					<description><![CDATA[Download PDF: NESC Develops Method for Estimating Risk&#160;When Reducing NDE&#160; Performing nondestructive evaluation (NDE) can have both cost and schedule impacts, leading some to question whether descoping (i.e., reducing or eliminating) NDE inspections on certain spaceflight hardware could be possible. However, this approach would be counter to NASA’s Technical Standard NASA-STD-5019A, which outlines the spaceflight [&#8230;]]]></description>
+										<content:encoded><![CDATA[
+<p><a href="https://www.nasa.gov/wp-content/uploads/2026/03/techup2025-pg57-58-innov-tech-nde-descoping.pdf?emrc=360746">Download PDF: NESC Develops Method for Estimating Risk&nbsp;When Reducing NDE&nbsp;</a></p>
+
+
+
+<p></p>
+
+
+
+<p>Performing nondestructive evaluation (NDE) can have both cost and schedule impacts, leading some to question whether descoping (i.e., reducing or eliminating) NDE inspections on certain spaceflight hardware could be possible. However, this approach would be counter to NASA’s Technical Standard NASA-STD-5019A, which outlines the spaceflight system requirements for establishing a fracture control plan—one that relies on design, analysis, testing, NDE, and tracking of fracture-critical parts to verify damage tolerance and mitigate catastrophic failure.&nbsp;</p>
+
+
+
+<p></p>
+
+
+
+<p>Under the 5019A framework, damage smaller than the NDE detection capability is assumed to exist, but through analysis or test, the part being evaluated must be shown to survive the required service life. In practice, NDE’s role is to screen out flaws that otherwise may result in failure. However, in some cases, descoping NDE from the damage tolerance verification process could be useful and still provide the required level of safety.&nbsp;&nbsp;&nbsp;</p>
+
+
+
+<p></p>
+
+
+
+<p>The NESC conducted an assessment to help answer the question of whether rationale could be found for achieving an equivalent risk posture without using the traditional 5019A approach to damage tolerance. The objective was to develop a probabilistic analysis method that would allow NASA programs and projects to estimate risk associated with descoping the NDE requirements of single-wrought materials. This effort included using historical data to demonstrate the method, performing sensitivity studies, and identifying the minimum supporting data that would be required for approving a descoping request.&nbsp;</p>
+
+
+
+<p></p>
+
+
+
+<p><strong>Descoping NDE from Damage Tolerance</strong>&nbsp;</p>
+
+
+
+<p>Damage tolerance is typically treated as deterministic: an NDE detection threshold is established as a fixed flaw size with an associated binary outcome (flaw exists/does not exist), and failure is based on a conservative analysis or test with a binary result (pass/fail). However, damage tolerance is rooted in the following probabilities:&nbsp;&nbsp;</p>
+
+
+
+<p><em>•&nbsp;&nbsp;</em><em>P(A)</em>: Probability that a flaw of a given size exists,&nbsp;</p>
+
+
+
+<p><em>•&nbsp;&nbsp;</em><em>P(D</em><em>0</em><em>│</em><em>A)</em>:&nbsp;Probability that this flaw will be missed by NDE, and&nbsp;&nbsp;</p>
+
+
+
+<p><em>•&nbsp;&nbsp;</em><em>P(F</em><em>│</em><em>D</em><em>0</em><em>,A)</em>:&nbsp;Probability that a flaw results in failure given that&nbsp;it exists and was missed by NDE.&nbsp;&nbsp;</p>
+
+
+
+<p></p>
+
+
+
+<p>These are combined into the joint failure probability:&nbsp;<em>P(F,D0,A) = P(F│D0,A)P(D0│A)P(A)</em>&nbsp;</p>
+
+
+
+<p></p>
+
+
+
+<p>Damage tolerance is based on the idea that analysis and testing suggests a near-zero probability of failure below a critical initial flaw size&nbsp;<em>(a</em><em>CIFS</em><em>)&nbsp;</em>shown by the green (lower) arrow in Figure 1,&nbsp;and NDE results in a near-zero probability of missing a flaw above some detectability threshold&nbsp;<em>(a</em><em>NDE</em><em>)</em>&nbsp;shown by the yellow (upper) arrow in Figure 1. If these two areas overlap, then the part is damage tolerant, with a near-zero failure probability regardless of underlying probability of flaw existence, i.e., conservatively assuming that&nbsp;<em>P(a&gt;a</em><em>CIFS</em><em>)</em>=1 for any flaw size does not impact the conclusion. However, if NDE is descoped, it removes the right arrow from Figure 1, and risk will increase to a value proportional to the probability&nbsp;<em>P(a&gt;a</em><em>CIFS</em><em>)</em>.&nbsp;</p>
+
+
+<div id="" class="hds-media hds-module wp-block-image"><div class="margin-left-auto margin-right-auto nasa-block-align-inline"><div class="hds-media-wrapper margin-left-auto margin-right-auto"><figure class="hds-media-inner hds-cover-wrapper hds-media-ratio-fit "><a href="https://www.nasa.gov/wp-content/uploads/2026/03/figure1-77dc88.png"><img fetchpriority="high" decoding="async" width="1496" height="633" src="https://www.nasa.gov/wp-content/uploads/2026/03/figure1-77dc88.png?w=1496" class="attachment-2048x2048 size-2048x2048" alt="A probabilistic interpretation of damage tolerance" style="transform: scale(1); transform-origin: 50% 50%; object-position: 50% 50%; object-fit: cover;" block_context="nasa-block" loading="eager" srcset="https://www.nasa.gov/wp-content/uploads/2026/03/figure1-77dc88.png 1496w, https://www.nasa.gov/wp-content/uploads/2026/03/figure1-77dc88.png?resize=300,127 300w, https://www.nasa.gov/wp-content/uploads/2026/03/figure1-77dc88.png?resize=768,325 768w, https://www.nasa.gov/wp-content/uploads/2026/03/figure1-77dc88.png?resize=1024,433 1024w, https://www.nasa.gov/wp-content/uploads/2026/03/figure1-77dc88.png?resize=400,169 400w, https://www.nasa.gov/wp-content/uploads/2026/03/figure1-77dc88.png?resize=600,254 600w, https://www.nasa.gov/wp-content/uploads/2026/03/figure1-77dc88.png?resize=900,381 900w, https://www.nasa.gov/wp-content/uploads/2026/03/figure1-77dc88.png?resize=1200,508 1200w" sizes="auto, (max-width: 1496px) 100vw, 1496px" /></a></figure></div></div></div>
+
+
+<p>Estimating&nbsp;<em>P(a&gt;a</em><em>CIFS</em><em>)</em>&nbsp;may be intractable without expensive, high-resolution methods to characterize the frequency of flaw occurrence at a particular size for a given part. Alternatively, it may be possible to estimate&nbsp;<em>P(a</em><em>&gt;</em><em>&nbsp;a</em><em>NDE</em><em>)</em>, the probability of a detectable flaw existing. Assuming that a part of interest is shown to be damage tolerant prior to any NDE descope (i.e., satisfying NASA-STD-5019A), it can be assumed that (1) historical inspection data are available, and (2)&nbsp;<em>a</em><em>NDE&nbsp;</em><em>&gt;</em><em>&nbsp;a</em><em>CIFS</em>, due to the required overlap in Figure 1. As such, it was proposed that the frequency of historical&nbsp;finds could be used to estimate a 95% upper confidence bound on&nbsp;<em>P(a</em><em>&gt;</em><em>&nbsp;a</em><em>NDE</em><em>)</em>&nbsp;and thus an estimate of the risk associated with descoping.&nbsp;</p>
+
+
+
+<p></p>
+
+
+
+<p>To demonstrate the risk-evaluation framework, the NESC gained access to a historical NDE database comprising 33,630 bolt-hole inspections over a 3-year period. In total, six crack-like features were found by NDE. Accounting for uncertainty due to sample size yielded a 95% confidence upper bound of&nbsp;<em>P(a</em><em>&gt;</em><em>&nbsp;a</em><em>NDE</em><em>)&nbsp;</em>= 0.04% for each hole. In the proposed method, it is conservatively assumed that if a flaw exceeding the CIFS exists, then it will lead to structural failure. While conservative, this assumption was necessary based on the limitations of the database in that it lacked detected flaw sizing. Based on this assumption,&nbsp;<em>P(a</em><em>&gt;</em><em>&nbsp;a</em><em>NDE</em><em>)</em>&nbsp;= 0.0004 yields a structural reliability of approximately 0.9996 (expressed as 3.4 “nines”).&nbsp;&nbsp;</p>
+
+
+
+<p></p>
+
+
+
+<p>The results are illustrated graphically in Figure 2. In this case study, increasing the number of inspections in the dataset to 100,000 (i.e., multiplying by a factor of 3) marginally increases the number of nines to 3.5. At the observed NDE rejection rate, 4 nines of reliability are not achievable even with infinite samples and zero uncertainty. It is expected that the rejection rates and sample sizes in this case study are on the order of magnitude of what would be observed and available in practice. Since 2 nines or less would equate to a significant increase relative to the baseline risk for NASA Human Spaceflight Programs, a minimum sample size of 5,000 inspections is needed at an NDE rejection rate of 0.04%.&nbsp;</p>
+
+
+
+<p class="has-text-align-center"><img decoding="async" width="856" height="845" class="wp-image-973912" style="width: 550px" src="https://www.nasa.gov/wp-content/uploads/2026/03/figure2-6978e9.png" alt="95% confidence upper bound on risk as a function of total inspections and proportion of rejections" srcset="https://www.nasa.gov/wp-content/uploads/2026/03/figure2-6978e9.png 856w, https://www.nasa.gov/wp-content/uploads/2026/03/figure2-6978e9.png?resize=300,296 300w, https://www.nasa.gov/wp-content/uploads/2026/03/figure2-6978e9.png?resize=768,758 768w, https://www.nasa.gov/wp-content/uploads/2026/03/figure2-6978e9.png?resize=50,50 50w, https://www.nasa.gov/wp-content/uploads/2026/03/figure2-6978e9.png?resize=100,100 100w, https://www.nasa.gov/wp-content/uploads/2026/03/figure2-6978e9.png?resize=400,395 400w, https://www.nasa.gov/wp-content/uploads/2026/03/figure2-6978e9.png?resize=600,592 600w" sizes="(max-width: 856px) 100vw, 856px" /></p>
+
+
+
+<p class="has-text-align-center">  <img decoding="async" width="1220" height="984" class="wp-image-973913" style="width: 550px" src="https://www.nasa.gov/wp-content/uploads/2026/03/figure3-1edc4d.png" alt="Flowchart of the proposed approach for assessing risk associated with NDE descope" srcset="https://www.nasa.gov/wp-content/uploads/2026/03/figure3-1edc4d.png 1220w, https://www.nasa.gov/wp-content/uploads/2026/03/figure3-1edc4d.png?resize=300,242 300w, https://www.nasa.gov/wp-content/uploads/2026/03/figure3-1edc4d.png?resize=768,619 768w, https://www.nasa.gov/wp-content/uploads/2026/03/figure3-1edc4d.png?resize=1024,826 1024w, https://www.nasa.gov/wp-content/uploads/2026/03/figure3-1edc4d.png?resize=400,323 400w, https://www.nasa.gov/wp-content/uploads/2026/03/figure3-1edc4d.png?resize=600,484 600w, https://www.nasa.gov/wp-content/uploads/2026/03/figure3-1edc4d.png?resize=900,726 900w, https://www.nasa.gov/wp-content/uploads/2026/03/figure3-1edc4d.png?resize=1200,968 1200w" sizes="(max-width: 1220px) 100vw, 1220px" /> </p>
+
+
+
+<p>There are necessary assumptions underpinning this methodology. First, time-invariant process control is required to ensure&nbsp;that estimated probabilities from historical inspections are predictive of future probabilities after descope. Ensuring consistency during the data collection period is a first step in verifying existing controls, and continued monitoring is necessary to verify that the process remains time-invariant. Second, while aggregating data across multiple parts can increase the inspection sample size and decrease uncertainty in estimated rejection rates, it requires aggregation rationale via qualitative and quantitative assessments of similitude. The methodology developed by the NESC is intended to be a component of a comprehensive fracture control evaluation by the NASA Fracture Control Board and the responsible Technical Authority.&nbsp;&nbsp;</p>
+
+
+
+<p></p>
+
+
+
+<p><strong>For information, contact Patrick E. Leser.<em>&nbsp;&nbsp;</em></strong>patrick.e.leser@nasa.gov&nbsp;</p>
+
+
+
+<p>Reference: NASA/TM-20250004074&nbsp;</p>
+
+
+
+<p></p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Cañon Fiord’s Whirling Waters</title>
+		<link>https://science.nasa.gov/earth/earth-observatory/canon-fiords-whirling-waters/</link>
+		
+		<dc:creator><![CDATA[]]></dc:creator>
+		<pubDate>Mon, 16 Mar 2026 04:00:00 +0000</pubDate>
+				<category><![CDATA[Earth Observatory]]></category>
+		<category><![CDATA[Ice & Glaciers]]></category>
+		<category><![CDATA[Landsat 8 / LDCM (Landsat Data Continuity Mission)]]></category>
+		<category><![CDATA[Ocean Circulation]]></category>
+		<category><![CDATA[Sea Ice]]></category>
+		<guid isPermaLink="false">https://science.nasa.gov/earth/earth-observatory/canon-fiords-whirling-waters/</guid>
+
+					<description><![CDATA[During the 2022 summer melt season, sediment plumes and fractured sea ice traced swirling eddies in a branch of the Nansen Sound fjord system in the Canadian Arctic.]]></description>
+										<content:encoded><![CDATA[<div id="" class=" hds-module hds-module-full alignfull wp-block-nasa-blocks-secondary-navigation">
+<div class="hds-secondary-navigation-wrapper z-top width-100 padding-0">
+<div id="" class="hds-secondary-navigation width-full border-bottom-1px text-center hds-color-mode-dark hds-module hds-module-full alignfull wp-block-nasa-blocks-hdsnav"><button type="button" class="hds-secondary-nav-mobile-button display-flex tablet:display-flex desktop:display-none width-full flex-align-center bg-carbon-90 border-color-carbon-80 color-spacesuit-white" aria-expanded="false" aria-controls="hds-secondary-nav-track"><span>Earth Observatory</span><svg width="16" height="16" alt="" enable-background="new 0 0 400 400" viewBox="0 0 400 400" xmlns="http://www.w3.org/2000/svg"><path d="m4.2 122.2 195.1 195.1 196.5-196.6-37.9-38-157.8 157.8-156.8-156.8z" /></svg></button></p>
+<div class="hds-secondary-nav-track grid-container grid-container-extrawide padding-0 tablet:padding-x-3 desktop:padding-x-2 hds-secondary-navigation-has-breadcrumbs">
+<div class="hds-secondary-navigation-breadcrumbs display-none tablet:display-none desktop:display-flex flex-align-center">
+<nav class="usa-breadcrumb" aria-label="Breadcrumbs">
+<ol class="usa-breadcrumb__list">
+<li class="usa-breadcrumb__list-item"><a href="https://science.nasa.gov/" class="usa-breadcrumb__link" rel="noopener"><span>Science</span></a></li>
+<li class="usa-breadcrumb__list-item"><a href="https://science.nasa.gov/earth/earth-observatory" class="usa-breadcrumb__link" rel="noopener"><span>Earth Observatory</span></a></li>
+<li class="usa-breadcrumb__list-item usa-current" aria-current="page"><span>Cañon Fiord’s Whirling Waters</span></li>
+</ol>
+</nav>
+</div>
+<div class="hds-secondary-navigation-menu-items">
+<nav>
+<ul class="usa-nav__primary usa-accordion flex-justify-center margin-0">
+<li class="usa-nav__primary-item "><a class="usa-nav__link" href="https://science.nasa.gov/earth" rel="noopener">Earth</a></li>
+<li class="usa-nav__primary-item "><a class="usa-nav__link" href="https://science.nasa.gov/earth/earth-observatory" rel="noopener">Earth Observatory</a></li>
+<li class="usa-nav__primary-item "><a class="usa-nav__link" href="https://science.nasa.gov/earth/earth-observatory/image-of-the-day/" rel="noopener">Image of the Day</a></li>
+<li class="usa-nav__primary-item "><a class="usa-nav__link" href="https://science.nasa.gov/earth/earth-observatory/explorer/" rel="noopener">EO Explorer</a></li>
+<li class="usa-nav__primary-item"><button type="button" class="usa-accordion__button usa-nav__link" aria-expanded="false" aria-controls="basic-nav-section-one"><span>Topics</span><svg class="hds-desktop-submenu-toggle-icon display-none tablet:display-none desktop:display-block" width="16" height="16" alt="" enable-background="new 0 0 400 400" viewBox="0 0 400 400" xmlns="http://www.w3.org/2000/svg"><path d="m4.2 122.2 195.1 195.1 196.5-196.6-37.9-38-157.8 157.8-156.8-156.8z" /></svg><svg class="hds-mobile-submenu-toggle-icon display-block tablet:display-block desktop:display-none" width="16" height="16" viewBox="0 0 16 16" fill="none" xmlns="http://www.w3.org/2000/svg"><circle cx="8" cy="8" r="7.5" fill="#0B3D91" stroke="white"/><rect x="4" y="7.6001" width="8" height="0.8" fill="white"/><rect class="hds-mobile-submenu-toggle-icon-line-vertical" x="7.59998" y="12" width="8" height="0.8" transform="rotate(-90 7.59998 12)" fill="white"/></svg></button>
+<ul id="basic-nav-section-one" class="usa-nav__submenu" hidden>
+<li class="usa-nav__submenu-item "><a class="usa-nav__link" target="_self" href="https://science.nasa.gov/earth/earth-observatory/topics/" rel="noopener">All Topics</a></li>
+<li class="usa-nav__submenu-item "><a class="usa-nav__link" target="_self" href="https://science.nasa.gov/earth/earth-observatory/topics/atmosphere/" rel="noopener">Atmosphere</a></li>
+<li class="usa-nav__submenu-item "><a class="usa-nav__link" target="_self" href="https://science.nasa.gov/earth/earth-observatory/topics/land/" rel="noopener">Land</a></li>
+<li class="usa-nav__submenu-item "><a class="usa-nav__link" target="_self" href="https://science.nasa.gov/earth/earth-observatory/topics/heat-radiation/" rel="noopener">Heat &#038; Radiation</a></li>
+<li class="usa-nav__submenu-item "><a class="usa-nav__link" target="_self" href="https://science.nasa.gov/earth/earth-observatory/topics/life-on-earth/" rel="noopener">Life on Earth</a></li>
+<li class="usa-nav__submenu-item "><a class="usa-nav__link" target="_self" href="https://science.nasa.gov/earth/earth-observatory/topics/human-dimensions/" rel="noopener">Human Dimensions</a></li>
+<li class="usa-nav__submenu-item "><a class="usa-nav__link" target="_self" href="https://science.nasa.gov/earth/earth-observatory/topics/natural-events/" rel="noopener">Natural Events</a></li>
+<li class="usa-nav__submenu-item "><a class="usa-nav__link" target="_self" href="https://science.nasa.gov/earth/earth-observatory/topics/oceans/" rel="noopener">Oceans</a></li>
+<li class="usa-nav__submenu-item "><a class="usa-nav__link" target="_self" href="https://science.nasa.gov/earth/earth-observatory/topics/remote-sensing-technology/" rel="noopener">Remote Sensing Technology</a></li>
+<li class="usa-nav__submenu-item "><a class="usa-nav__link" target="_self" href="https://science.nasa.gov/earth/earth-observatory/topics/snow-and-ice/" rel="noopener">Snow &#038; Ice</a></li>
+<li class="usa-nav__submenu-item "><a class="usa-nav__link" target="_self" href="https://science.nasa.gov/earth/earth-observatory/topics/water/" rel="noopener">Water</a></li>
+</ul>
+</li>
+<li class="usa-nav__primary-item"><button type="button" class="usa-accordion__button usa-nav__link" aria-expanded="false" aria-controls="basic-nav-section-one"><span>More Content</span><svg class="hds-desktop-submenu-toggle-icon display-none tablet:display-none desktop:display-block" width="16" height="16" alt="" enable-background="new 0 0 400 400" viewBox="0 0 400 400" xmlns="http://www.w3.org/2000/svg"><path d="m4.2 122.2 195.1 195.1 196.5-196.6-37.9-38-157.8 157.8-156.8-156.8z" /></svg><svg class="hds-mobile-submenu-toggle-icon display-block tablet:display-block desktop:display-none" width="16" height="16" viewBox="0 0 16 16" fill="none" xmlns="http://www.w3.org/2000/svg"><circle cx="8" cy="8" r="7.5" fill="#0B3D91" stroke="white"/><rect x="4" y="7.6001" width="8" height="0.8" fill="white"/><rect class="hds-mobile-submenu-toggle-icon-line-vertical" x="7.59998" y="12" width="8" height="0.8" transform="rotate(-90 7.59998 12)" fill="white"/></svg></button>
+<ul id="basic-nav-section-one" class="usa-nav__submenu" hidden>
+<li class="usa-nav__submenu-item "><a class="usa-nav__link" target="_self" href="https://science.nasa.gov/earth/earth-observatory/collections/" rel="noopener">Collections</a></li>
+<li class="usa-nav__submenu-item "><a class="usa-nav__link" target="_self" href="https://science.nasa.gov/earth/earth-observatory/global-maps/" rel="noopener">Global Maps</a></li>
+<li class="usa-nav__submenu-item "><a class="usa-nav__link" target="_self" href="https://science.nasa.gov/earth/earth-observatory/world-of-change/" rel="noopener">World of Change</a></li>
+<li class="usa-nav__submenu-item "><a class="usa-nav__link" target="_self" href="https://science.nasa.gov/earth/earth-observatory/feature-articles/" rel="noopener">Articles</a></li>
+<li class="usa-nav__submenu-item "><a class="usa-nav__link" target="_self" href="https://science.nasa.gov/blogs/notes-from-the-field/" rel="noopener">Notes from the Field Blog</a></li>
+<li class="usa-nav__submenu-item "><a class="usa-nav__link" target="_self" href="https://science.nasa.gov/blogs/earth-matters/" rel="noopener">Earth Matters Blog</a></li>
+<li class="usa-nav__submenu-item "><a class="usa-nav__link" target="_self" href="https://science.nasa.gov/earth/earth-observatory/blue-marble-next-generation/" rel="noopener">Blue Marble: Next Generation</a></li>
+<li class="usa-nav__submenu-item "><a class="usa-nav__link" target="_self" href="https://science.nasa.gov/kids/earth/eo-kids/" rel="noopener">EO Kids</a></li>
+<li class="usa-nav__submenu-item "><a class="usa-nav__link" target="_self" href="https://science.nasa.gov/kids/earth/mission-biomes/" rel="noopener">Mission: Biomes</a></li>
+</ul>
+</li>
+<li class="usa-nav__primary-item"><button type="button" class="usa-accordion__button usa-nav__link" aria-expanded="false" aria-controls="basic-nav-section-one"><span>About</span><svg class="hds-desktop-submenu-toggle-icon display-none tablet:display-none desktop:display-block" width="16" height="16" alt="" enable-background="new 0 0 400 400" viewBox="0 0 400 400" xmlns="http://www.w3.org/2000/svg"><path d="m4.2 122.2 195.1 195.1 196.5-196.6-37.9-38-157.8 157.8-156.8-156.8z" /></svg><svg class="hds-mobile-submenu-toggle-icon display-block tablet:display-block desktop:display-none" width="16" height="16" viewBox="0 0 16 16" fill="none" xmlns="http://www.w3.org/2000/svg"><circle cx="8" cy="8" r="7.5" fill="#0B3D91" stroke="white"/><rect x="4" y="7.6001" width="8" height="0.8" fill="white"/><rect class="hds-mobile-submenu-toggle-icon-line-vertical" x="7.59998" y="12" width="8" height="0.8" transform="rotate(-90 7.59998 12)" fill="white"/></svg></button>
+<ul id="basic-nav-section-one" class="usa-nav__submenu" hidden>
+<li class="usa-nav__submenu-item "><a class="usa-nav__link" target="_self" href="https://science.nasa.gov/earth/earth-observatory/about-the-eo/" rel="noopener">About Us</a></li>
+<li class="usa-nav__submenu-item "><a class="usa-nav__link" target="_self" href="https://science.nasa.gov/earth/earth-observatory/subscribe" rel="noopener">Subscribe</a></li>
+<li class="usa-nav__submenu-item "><a class="usa-nav__link" target="_self" href="https://science.nasa.gov/earth/earth-observatory/subscribe/feeds/" rel="noopener">🛜 RSS</a></li>
+<li class="usa-nav__submenu-item "><a class="usa-nav__link" target="_self" href="https://science.nasa.gov/earth/earth-observatory/contact-the-eo/" rel="noopener">Contact Us</a></li>
+</ul>
+</li>
+<li class="usa-nav__primary-item "><a class="usa-nav__link" href="https://science.nasa.gov/earth/earth-observatory/search/" rel="noopener">Search</a></li>
+</ul>
+</nav>
+</div>
+<div class="hds-secondary-navigation-menu-spacer"> </div>
+</div>
+</div>
+</div>
+</div>
+<div id="" class="hds-media hds-module wp-block-image">
+<div class="margin-left-auto margin-right-auto nasa-block-align-inline">
+<div class="hds-media-wrapper margin-left-auto margin-right-auto">
+<figure class="hds-media-inner hds-cover-wrapper hds-media-ratio-fit " style="--hds-image-contain-bg:#ffffff;"><a href="https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/cañon-fiord’s-whirling-waters/ellesmereislandwide_oli_20220809.jpg?w=1440&#038;h=960&#038;fit=clip&#038;crop=faces%2Cfocalpoint" rel="noopener"><img fetchpriority="high" decoding="async" width="1440" height="960" src="https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/cañon-fiord’s-whirling-waters/ellesmereislandwide_oli_20220809.jpg?w=1440&#038;h=960&#038;fit=clip&#038;crop=faces%2Cfocalpoint" class="attachment-2048x2048 size-2048x2048" alt="A V-shaped fjord cuts through barren brown land, with one patch of swirling water marked by white sea ice and another one colored turquoise by suspended sediment. Glacial ice flows into the fjord in several places." style="transform: scale(1); transform-origin: 50% 50%; object-position: 50% 50%; object-fit: cover;" block_context="nasa-block" loading="eager" srcset="https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/cañon-fiord’s-whirling-waters/ellesmereislandwide_oli_20220809.jpg?w=1440&#038;h=960&#038;fit=crop&#038;crop=faces%2Cfocalpoint 1440w, https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/cañon-fiord’s-whirling-waters/ellesmereislandwide_oli_20220809.jpg?w=300&#038;h=200&#038;fit=crop&#038;crop=faces%2Cfocalpoint 300w, https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/cañon-fiord’s-whirling-waters/ellesmereislandwide_oli_20220809.jpg?w=768&#038;h=512&#038;fit=crop&#038;crop=faces%2Cfocalpoint 768w, https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/cañon-fiord’s-whirling-waters/ellesmereislandwide_oli_20220809.jpg?w=1024&#038;h=683&#038;fit=crop&#038;crop=faces%2Cfocalpoint 1024w, https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/cañon-fiord’s-whirling-waters/ellesmereislandwide_oli_20220809.jpg?w=400&#038;h=267&#038;fit=crop&#038;crop=faces%2Cfocalpoint 400w, https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/cañon-fiord’s-whirling-waters/ellesmereislandwide_oli_20220809.jpg?w=600&#038;h=400&#038;fit=crop&#038;crop=faces%2Cfocalpoint 600w, https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/cañon-fiord’s-whirling-waters/ellesmereislandwide_oli_20220809.jpg?w=900&#038;h=600&#038;fit=crop&#038;crop=faces%2Cfocalpoint 900w, https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/cañon-fiord’s-whirling-waters/ellesmereislandwide_oli_20220809.jpg?w=1200&#038;h=800&#038;fit=crop&#038;crop=faces%2Cfocalpoint 1200w" sizes="auto, (max-width: 1440px) 100vw, 1440px" /></a></figure><figcaption class="hds-caption padding-y-2">
+<div class="hds-caption-text p-sm margin-0">August 9, 2022</div>
+</figcaption></div>
+</div>
+</div>
+<p>For most of the year, ice blankets the waterways of the northern Canadian Arctic Archipelago. But during the brief summer melt season, the stark white and gray landscape transforms into a colorful, dynamic environment. On a particularly striking day in 2022, sediment plumes and fractured sea ice traced swirling eddies in a branch of the Nansen Sound fjord system.</p>
+<p>These satellite images show a section of Cañon Fiord, located about 115 kilometers (70 miles) southeast of the <a href="https://lidar.jpl.nasa.gov/ndacc/sites/eureka.php" rel="noopener">Eureka research station</a> on west-central Ellesmere Island. Waters from the fjord flow into Greely Fiord, which connects to Nansen Sound and ultimately the Arctic Ocean. The images were acquired by the <a href="https://science.nasa.gov/mission/landsat/oli/" rel="noopener">OLI</a> (Operational Land Imager) on <a href="https://science.nasa.gov/mission/landsat-8/" rel="noopener">Landsat 8</a> on August 9, 2022.</p>
+<p>Igor Dmitrenko, a physical oceanographer at the Centre for Earth Observation Science at the University of Manitoba, has studied eddies in the fjord system and notes that the water’s turbidity, a measure of its cloudiness, remains low during the ice-covered season. Freshwater runoff—and the sediment it carries—drops sharply this time of year, and the formation of 2-meter-thick sea ice shields the surface from wind, suppressing mixing that would otherwise resuspend particles.</p>
+<p>Summer presents a contrasting scenario. The detailed image below (top) shows that the sea ice in this part of the fjord has broken up, free to drift with the currents and wind. Note that some of the pieces are likely icebergs that have broken off from nearby outlet glaciers. The second detailed image shows a similar scenario; however, in this case, it is sediment suspended in the water that is tracing the flow.</p>
+<div id="" class="hds-media hds-module wp-block-image">
+<div class="margin-left-auto margin-right-auto nasa-block-align-inline">
+<div class="hds-media-wrapper margin-left-auto margin-right-auto">
+<figure class="hds-media-inner hds-cover-wrapper hds-media-ratio-fit " style="--hds-image-contain-bg:#ffffff;"><a href="https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/cañon-fiord’s-whirling-waters/ellesmereislandzm2_oli_20220809.jpg?w=720&#038;h=480&#038;fit=clip&#038;crop=faces%2Cfocalpoint" rel="noopener"><img decoding="async" width="720" height="480" src="https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/cañon-fiord’s-whirling-waters/ellesmereislandzm2_oli_20220809.jpg?w=720&#038;h=480&#038;fit=clip&#038;crop=faces%2Cfocalpoint" class="attachment-2048x2048 size-2048x2048" alt="Blue fjord waters with white sea ice swirling in a circular eddy." style="transform: scale(1); transform-origin: 50% 50%; object-position: 50% 50%; object-fit: cover;" block_context="nasa-block" loading="lazy" srcset="https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/cañon-fiord’s-whirling-waters/ellesmereislandzm2_oli_20220809.jpg?w=720&#038;h=480&#038;fit=crop&#038;crop=faces%2Cfocalpoint 720w, https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/cañon-fiord’s-whirling-waters/ellesmereislandzm2_oli_20220809.jpg?w=300&#038;h=200&#038;fit=crop&#038;crop=faces%2Cfocalpoint 300w, https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/cañon-fiord’s-whirling-waters/ellesmereislandzm2_oli_20220809.jpg?w=400&#038;h=267&#038;fit=crop&#038;crop=faces%2Cfocalpoint 400w, https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/cañon-fiord’s-whirling-waters/ellesmereislandzm2_oli_20220809.jpg?w=600&#038;h=400&#038;fit=crop&#038;crop=faces%2Cfocalpoint 600w" sizes="auto, (max-width: 720px) 100vw, 720px" /></a></figure><figcaption class="hds-caption padding-y-2">
+<div class="hds-caption-text p-sm margin-0">August 9, 2022</div>
+</figcaption></div>
+</div>
+</div>
+<div id="" class="hds-media hds-module wp-block-image">
+<div class="margin-left-auto margin-right-auto nasa-block-align-inline">
+<div class="hds-media-wrapper margin-left-auto margin-right-auto">
+<figure class="hds-media-inner hds-cover-wrapper hds-media-ratio-fit " style="--hds-image-contain-bg:#ffffff;"><a href="https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/cañon-fiord’s-whirling-waters/ellesmereislandzm1_oli_20220809.jpg?w=720&#038;h=480&#038;fit=clip&#038;crop=faces%2Cfocalpoint" rel="noopener"><img decoding="async" width="720" height="480" src="https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/cañon-fiord’s-whirling-waters/ellesmereislandzm1_oli_20220809.jpg?w=720&#038;h=480&#038;fit=clip&#038;crop=faces%2Cfocalpoint" class="attachment-2048x2048 size-2048x2048" alt="Fjord waters with sediment swirling in a circular eddy, making the water appear light turquoise." style="transform: scale(1); transform-origin: 50% 50%; object-position: 50% 50%; object-fit: cover;" block_context="nasa-block" loading="lazy" srcset="https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/cañon-fiord’s-whirling-waters/ellesmereislandzm1_oli_20220809.jpg?w=720&#038;h=480&#038;fit=crop&#038;crop=faces%2Cfocalpoint 720w, https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/cañon-fiord’s-whirling-waters/ellesmereislandzm1_oli_20220809.jpg?w=300&#038;h=200&#038;fit=crop&#038;crop=faces%2Cfocalpoint 300w, https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/cañon-fiord’s-whirling-waters/ellesmereislandzm1_oli_20220809.jpg?w=400&#038;h=267&#038;fit=crop&#038;crop=faces%2Cfocalpoint 400w, https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/cañon-fiord’s-whirling-waters/ellesmereislandzm1_oli_20220809.jpg?w=600&#038;h=400&#038;fit=crop&#038;crop=faces%2Cfocalpoint 600w" sizes="auto, (max-width: 720px) 100vw, 720px" /></a></figure><figcaption class="hds-caption padding-y-2">
+<div class="hds-caption-text p-sm margin-0">August 9, 2022</div>
+</figcaption></div>
+</div>
+</div>
+<p>Alex Gardner and Chad Greene, glaciologists at NASA’s Jet Propulsion Laboratory, pointed out that the sediment plume is mostly <a href="https://nsidc.org/learn/cryosphere-glossary/rock-flour" rel="noopener">glacial flour</a>—rock that has been pulverized by a glacier. Surface meltwater that gets under the glacier ultimately flushes the glacial flour into the fjord, making the water appear turquoise. Glacial flour is a critical source of nutrients, specifically iron. Soluble iron is a vital nutrient in marine ecosystems because most <a href="https://science.nasa.gov/earth/earth-observatory/what-are-phytoplankton/" rel="noopener">phytoplankton</a>—the foundation of marine food webs—depend on it to grow. </p>
+<p>The glacial ice visible in these scenes comes from the Agassiz Ice Cap, one of five major ice caps on Ellesmere Island. Using data from NASA’s <a href="https://science.nasa.gov/mission/icesat/" rel="noopener">ICESat</a> and the DLR-NASA <a href="https://science.nasa.gov/mission/grace/" rel="noopener">GRACE</a> missions, scientists have shown that glaciers in the Canadian Arctic Archipelago <a href="https://doi.org/10.1038/nature10089" rel="noopener">began shrinking rapidly</a> in the mid-2000s and that the <a href="https://doi.org/10.3389/feart.2019.00096" rel="noopener">trend has persisted</a>.</p>
+<div style="height:30px" aria-hidden="true" class="wp-block-spacer"></div>
+<p><em>NASA Earth Observatory images by Lauren Dauphin, using Landsat data from the </em><a href="http://earthexplorer.usgs.gov/" rel="noopener"><em>U.S. Geological Survey</em></a><em>.</em> <em>Story by Kathryn Hansen.</em></p>
+<div id="" class="hds-featured-file-list bg-spacesuit-white padding-x-2 tablet:padding-x-3 desktop:padding-x-4 padding-y-5 desktop:padding-y-6 hds-module align wp-block-nasa-blocks-file-list">
+<div class="grid-container grid-container-block padding-0">
+<div class="grid-row width-full margin-bottom-4">
+<div class="grid-col-12 desktop:grid-col-6 margin-bottom-2 desktop:margin-bottom-0">
+<h2 role="textbox" class="heading-22">
+					Downloads				</h2>
+</p></div>
+<div class="grid-col-12 desktop:grid-col-6">
+<div class="desktop:grid-col display-flex flex-align-center desktop:flex-justify-end">
+								<a href="https://science.nasa.gov/press-release/" target="_self" class="button-primary button-primary link-external-false" rel="noopener"><br />
+			<span class="line-height-alt-1 " ><br />
+				View All                			</span><br />
+			<svg viewBox="0 0 32 32" fill="none" xmlns="http://www.w3.org/2000/svg"><circle class="button-primary-circle" cx="16" cy="16" r="16"></circle><path d="M8 16.956h12.604l-3.844 4.106 1.252 1.338L24 16l-5.988-6.4-1.252 1.338 3.844 4.106H8v1.912z" class="color-spacesuit-white"></path></svg><br />
+		</a>
+						</div>
+</p></div>
+</p></div>
+<div class="hds-list-row hds-file-list-row">
+<div class="hds-list-thumbnail hds-file-list-thumbnail">
+<div class="hds-list-thumbnail-inner hds-file-list-thumbnail-inner hds-cover-wrapper">
+<figure class="hds-media-background  "><img decoding="async" width="4200" height="3300" src="https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/cañon-fiord’s-whirling-waters/ellesmereisland_oli_20220809_lrg.jpg?w=4200&#038;h=3300&#038;fit=clip&#038;crop=faces%2Cfocalpoint" class="attachment-thumbnail size-thumbnail" alt="A V-shaped fjord cuts through barren brown land, with one patch of swirling water marked by white sea ice and another one colored turquoise by suspended sediment. Glacial ice flows into the fjord in several places." style="transform: scale(1.2); transform-origin: 50% 50%; object-position: 50% 50%; object-fit: cover;" block_context="nasa-block" loading="lazy" data-video-loop="" srcset="https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/cañon-fiord’s-whirling-waters/ellesmereisland_oli_20220809_lrg.jpg?w=4200&#038;h=3300&#038;fit=crop&#038;crop=faces%2Cfocalpoint 4200w, https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/cañon-fiord’s-whirling-waters/ellesmereisland_oli_20220809_lrg.jpg?w=300&#038;h=236&#038;fit=crop&#038;crop=faces%2Cfocalpoint 300w, https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/cañon-fiord’s-whirling-waters/ellesmereisland_oli_20220809_lrg.jpg?w=768&#038;h=603&#038;fit=crop&#038;crop=faces%2Cfocalpoint 768w, https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/cañon-fiord’s-whirling-waters/ellesmereisland_oli_20220809_lrg.jpg?w=1024&#038;h=805&#038;fit=crop&#038;crop=faces%2Cfocalpoint 1024w, https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/cañon-fiord’s-whirling-waters/ellesmereisland_oli_20220809_lrg.jpg?w=1536&#038;h=1207&#038;fit=crop&#038;crop=faces%2Cfocalpoint 1536w, https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/cañon-fiord’s-whirling-waters/ellesmereisland_oli_20220809_lrg.jpg?w=2048&#038;h=1609&#038;fit=crop&#038;crop=faces%2Cfocalpoint 2048w, https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/cañon-fiord’s-whirling-waters/ellesmereisland_oli_20220809_lrg.jpg?w=400&#038;h=314&#038;fit=crop&#038;crop=faces%2Cfocalpoint 400w, https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/cañon-fiord’s-whirling-waters/ellesmereisland_oli_20220809_lrg.jpg?w=600&#038;h=471&#038;fit=crop&#038;crop=faces%2Cfocalpoint 600w, https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/cañon-fiord’s-whirling-waters/ellesmereisland_oli_20220809_lrg.jpg?w=900&#038;h=707&#038;fit=crop&#038;crop=faces%2Cfocalpoint 900w, https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/cañon-fiord’s-whirling-waters/ellesmereisland_oli_20220809_lrg.jpg?w=1200&#038;h=943&#038;fit=crop&#038;crop=faces%2Cfocalpoint 1200w, https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/cañon-fiord’s-whirling-waters/ellesmereisland_oli_20220809_lrg.jpg?w=2000&#038;h=1571&#038;fit=crop&#038;crop=faces%2Cfocalpoint 2000w" sizes="auto, (max-width: 4200px) 100vw, 4200px" /></figure>
+</div></div>
+<div class="hds-list-details">
+<div class="hds-list-name hds-file-list-name">
+<h2 class="heading-22">August 9, 2022</h2>
+</p></div>
+<div class="hds-list-meta">
+<div class="hds-list-meta-item hds-list-date hds-file-list-date">
+<p class="p-sm">
+</p></div>
+<div class="hds-list-meta-item hds-file-list-filetype">
+<p class="p-sm">JPEG (11.98 MB)</p>
+</p></div>
+</p></div>
+</p></div>
+<div class="hds-list-cta hds-file-list-download">
+					<a href="https://assets.science.nasa.gov/content/dam/science/esd/eo/images/iotd/2026/cañon-fiord’s-whirling-waters/ellesmereisland_oli_20220809_lrg.jpg" target="_blank" download rel="noopener"><br />
+						<svg width="32" height="32" viewBox="0 0 32 32" fill="none" xmlns="http://www.w3.org/2000/svg"><circle cx="16" cy="16.0001" r="16" fill="#1C67E3"/><path d="M15.2357 8.00007L15.2357 16.4829L11.9504 13.4078L10.8801 14.4094L16.0001 19.2001L21.1201 14.4094L20.0499 13.4078L16.7645 16.4829L16.7645 8.00007L15.2357 8.00007Z" fill="white"/><path fill-rule="evenodd" clip-rule="evenodd" d="M9.6 20.8001V18.4001H8V22.4001H24V18.4001H22.4V20.8001H9.6Z" fill="white"/></svg><br />
+					</a>
+				</div>
+</p></div>
+</p></div>
+</p></div>
+<h2 class="wp-block-heading">References &#038; Resources</h2>
+<ul class="wp-block-list">
+<li>Dmitrenko, I.A., <em>et al.</em> (2025) <a href="https://doi.org/10.3389/fmars.2025.1602485" rel="noopener">Following a half-century oceanographic data gap in the northern Canadian Arctic Archipelago: multidecadal variability of the Pacific water throughflow</a>. <em>Frontiers in Marine Science</em>, 12, 1602485.</li>
+<li>Gardner, A.S., <em>et al.</em> (2011) <a href="https://doi.org/10.1038/nature10089" rel="noopener">Sharply increased mass loss from glaciers and ice caps in the Canadian Arctic Archipelago</a>. <em>Nature</em>, 473, 357-360.</li>
+<li>Wouters, B., <em>et al.</em> (2019) <a href="https://doi.org/10.3389/feart.2019.00096" rel="noopener">Global Glacier Mass Loss During the GRACE Satellite Mission (2002-2016)</a>. <em>Frontiers in Earth Science</em>, 7, 96.</li>
+</ul>
+<div id="" class="hds-content-lists-inner hds-module hds-module-full alignfull wp-block-nasa-blocks-content-lists">
+<div id="content-list-32f669e8-0d9f-4629-bf2c-e2d8f0ef0d83" class="hds-content-lists margin-y-3 padding-x-0 bg-spacesuit-white width-full maxw-full" data-starting-query="{"block_id":"content-list-32f669e8-0d9f-4629-bf2c-e2d8f0ef0d83","categories":"","content_categories":"","exclude_child_terms":false,"exclude_child_pages":false,"layout":"grid","listing_page":"no","listing_page_category_id":2151,"meta_fields":[],"news_tags":"","number_of_items":3,"order":"DESC","orderby":"date","current_page":1,"requesting_id":1165329,"science_only":false,"search_query":"","show_content_type_tags":"yes","show_excerpts":"yes","show_pagination":true,"show_publish_date":"no","show_readtime":"yes","show_thumbnails":"yes","science_org":"","content_science_orgs":"","internal_terms":"","mission_programs":"","mission_status":"","mission_target":"","mission_type":"","response_format":"html","show_drafts":false,"related_content":"1165390,1199871,1175759,1165366,1180191,1203192,1196723,1196223,1202314,1205458","use_content_term_filters":false,"filter_logic":"default","post_types":"any","base_terms":"{"category":"","science-org":"6478","internal-terms":"","news-tags":""}"}" data-current-query="{"block_id":"content-list-32f669e8-0d9f-4629-bf2c-e2d8f0ef0d83","categories":"","content_categories":"","exclude_child_terms":false,"exclude_child_pages":false,"layout":"grid","listing_page":"no","listing_page_category_id":2151,"meta_fields":[],"news_tags":"","number_of_items":3,"order":"DESC","orderby":"date","current_page":1,"requesting_id":1165329,"science_only":false,"search_query":"","show_content_type_tags":"yes","show_excerpts":"yes","show_pagination":true,"show_publish_date":"no","show_readtime":"yes","show_thumbnails":"yes","science_org":"","content_science_orgs":"","internal_terms":"","mission_programs":"","mission_status":"","mission_target":"","mission_type":"","response_format":"html","show_drafts":false,"related_content":"1165390,1199871,1175759,1165366,1180191,1203192,1196723,1196223,1202314,1205458","use_content_term_filters":false,"filter_logic":"default","post_types":"any","base_terms":"{"category":"","science-org":"6478","internal-terms":"","news-tags":""}"}">
+<div class="grid-container grid-container-widescreen padding-x-3">
+<div class="grid-row flex-align-start margin-bottom-3">
+<div class="desktop:grid-col-8 margin-bottom-2 desktop:margin-bottom-0">
+<h2 class="section-heading-sm line-height-sm">You may also be interested in:</h2>
+<p class="margin-top-0 margin-bottom-2 maxh-tablet">Stay up-to-date with the latest content from NASA as we explore the universe and discover more about our home planet.</p>
+</p></div>
+</p></div>
+<div class="grid-row grid-container grid-container-block padding-0 margin-0 flex-justify-center">
+<div class=" grid-col-12">
+<div class="grid-row grid-container grid-container-block padding-0" style="display: block">
+<div id="filter-tags" class="grid-col-12 filter-tags-container"></div>
+</p></div>
+<div class="smd-orbit-loader" role="status" aria-hidden="true">
+<div class="orbit-plane"><span class="orbit-dot"></span></div>
+</div>
+<div id="post-list-container" class="hds-content-items hds-content-items-grid margin-top-2" aria-live="polite" data-rest-url="https://science.nasa.gov/wp-json/smd/v1/content-list">
+<div class="hds-content-item content-list-item-post">
+                    <a href="https://science.nasa.gov/earth/earth-observatory/arctic-sea-ice-ties-for-10th-lowest-on-record-154807/" class="hds-content-item-thumbnail" rel="noopener"></p>
+<figure class="hds-media-background  content-list-thumbnail"><img decoding="async" loading="lazy" width="300px" height="300px" data-no-id="true" sizes="auto, (max-width: 300px) 100vw, 300px" srcset="https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/imagerecords/154000/154807/arctic_nsidc_20250910.jpg?fit=clip&#038;crop=faces%2Cfocalpoint&#038;w=300 300w" alt="" style="transform: scale(1); transform-origin: 50% 50%; object-position: 50% 50%; object-fit: cover;" src="https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/imagerecords/154000/154807/arctic_nsidc_20250910.jpg?fit=clip&#038;crop=faces%2Cfocalpoint&#038;w=300" ></figure>
+<p>            </a></p>
+<div class="hds-content-item-inner">
+            <a href="https://science.nasa.gov/earth/earth-observatory/arctic-sea-ice-ties-for-10th-lowest-on-record-154807/" class="hds-content-item-heading" rel="noopener"></p>
+<div class="hds-a11y-heading-22">Arctic Sea Ice Ties for 10th-Lowest on Record</div>
+<p>            </a></p>
+<div class="hds-content-item-readtime label margin-bottom-1">
+                    3 min read                </div>
+<p class="margin-top-0 margin-bottom-1">Satellite data show that Arctic sea ice likely reached its annual minimum extent on September 10, 2025.</p>
+<div class="display-flex flex-align-center label color-carbon-60 margin-bottom-auto"><svg version="1.1" class="square-2 margin-right-1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="16px" height="16px" viewBox="0 0 16 16" style="enable-background:new 0 0 16 16;" xml:space="preserve"><g><g><path d="M8,0C3.5,0-0.1,3.7,0,8.2C0.1,12.5,3.6,16,8,16c4.4,0,8-3.6,8-8C16,3.5,12.4,0,8,0z M8,15.2 C4,15.2,0.8,12,0.8,8C0.8,4,4,0.8,8,0.8c3.9,0,7.2,3.2,7.2,7.1C15.2,11.9,12,15.2,8,15.2z"/><path d="M5.6,12c0.8-0.8,1.6-1.6,2.4-2.4c0.8,0.8,1.6,1.6,2.4,2.4c0-2.7,0-5.3,0-8C8.8,4,7.2,4,5.6,4 C5.6,6.7,5.6,9.3,5.6,12z"/></g></g></svg><span>Article</span></div>
+</p></div>
+</p></div>
+<div class="hds-content-item content-list-item-post">
+                    <a href="https://science.nasa.gov/earth/earth-observatory/stonebreens-beating-heart/" class="hds-content-item-thumbnail" rel="noopener"></p>
+<figure class="hds-media-background  content-list-thumbnail"><img decoding="async" loading="lazy" width="300px" height="300px" data-no-id="true" sizes="auto, (max-width: 300px) 100vw, 300px" srcset="https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/stonebreen’s-beating-heart/stonebreen_hls_2025_th.jpg?fit=clip&#038;crop=faces%2Cfocalpoint&#038;w=300 300w" alt="" style="transform: scale(1); transform-origin: 50% 50%; object-position: 50% 50%; object-fit: cover;" src="https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/stonebreen’s-beating-heart/stonebreen_hls_2025_th.jpg?fit=clip&#038;crop=faces%2Cfocalpoint&#038;w=300" ></figure>
+<p>            </a></p>
+<div class="hds-content-item-inner">
+            <a href="https://science.nasa.gov/earth/earth-observatory/stonebreens-beating-heart/" class="hds-content-item-heading" rel="noopener"></p>
+<div class="hds-a11y-heading-22">Stonebreen’s Beating Heart</div>
+<p>            </a></p>
+<div class="hds-content-item-readtime label margin-bottom-1">
+                    3 min read                </div>
+<p class="margin-top-0 margin-bottom-1">The glacier in southeastern Svalbard pulses with the changing seasons, speeding up and slowing its flow toward the sea.</p>
+<div class="display-flex flex-align-center label color-carbon-60 margin-bottom-auto"><svg version="1.1" class="square-2 margin-right-1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="16px" height="16px" viewBox="0 0 16 16" style="enable-background:new 0 0 16 16;" xml:space="preserve"><g><g><path d="M8,0C3.5,0-0.1,3.7,0,8.2C0.1,12.5,3.6,16,8,16c4.4,0,8-3.6,8-8C16,3.5,12.4,0,8,0z M8,15.2 C4,15.2,0.8,12,0.8,8C0.8,4,4,0.8,8,0.8c3.9,0,7.2,3.2,7.2,7.1C15.2,11.9,12,15.2,8,15.2z"/><path d="M5.6,12c0.8-0.8,1.6-1.6,2.4-2.4c0.8,0.8,1.6,1.6,2.4,2.4c0-2.7,0-5.3,0-8C8.8,4,7.2,4,5.6,4 C5.6,6.7,5.6,9.3,5.6,12z"/></g></g></svg><span>Article</span></div>
+</p></div>
+</p></div>
+<div class="hds-content-item content-list-item-post">
+                    <a href="https://science.nasa.gov/earth/earth-observatory/antarctic-sea-ice-saw-its-third-lowest-maximum/" class="hds-content-item-thumbnail" rel="noopener"></p>
+<figure class="hds-media-background  content-list-thumbnail"><img decoding="async" loading="lazy" width="300px" height="300px" data-no-id="true" sizes="auto, (max-width: 300px) 100vw, 300px" srcset="https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2025/antarctic-sea-ice-saw-its-third-lowest-maximum/antarctic_nsidc_20250917_th.jpg?fit=clip&#038;crop=faces%2Cfocalpoint&#038;w=300 300w" alt="" style="transform: scale(1); transform-origin: 50% 50%; object-position: 50% 50%; object-fit: cover;" src="https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2025/antarctic-sea-ice-saw-its-third-lowest-maximum/antarctic_nsidc_20250917_th.jpg?fit=clip&#038;crop=faces%2Cfocalpoint&#038;w=300" ></figure>
+<p>            </a></p>
+<div class="hds-content-item-inner">
+            <a href="https://science.nasa.gov/earth/earth-observatory/antarctic-sea-ice-saw-its-third-lowest-maximum/" class="hds-content-item-heading" rel="noopener"></p>
+<div class="hds-a11y-heading-22">Antarctic Sea Ice Saw Its Third-Lowest Maximum</div>
+<p>            </a></p>
+<div class="hds-content-item-readtime label margin-bottom-1">
+                    2 min read                </div>
+<p class="margin-top-0 margin-bottom-1">Sea ice around the southernmost continent hit one of its lowest seasonal highs since the start of the satellite record.</p>
+<div class="display-flex flex-align-center label color-carbon-60 margin-bottom-auto"><svg version="1.1" class="square-2 margin-right-1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="16px" height="16px" viewBox="0 0 16 16" style="enable-background:new 0 0 16 16;" xml:space="preserve"><g><g><path d="M8,0C3.5,0-0.1,3.7,0,8.2C0.1,12.5,3.6,16,8,16c4.4,0,8-3.6,8-8C16,3.5,12.4,0,8,0z M8,15.2 C4,15.2,0.8,12,0.8,8C0.8,4,4,0.8,8,0.8c3.9,0,7.2,3.2,7.2,7.1C15.2,11.9,12,15.2,8,15.2z"/><path d="M5.6,12c0.8-0.8,1.6-1.6,2.4-2.4c0.8,0.8,1.6,1.6,2.4,2.4c0-2.7,0-5.3,0-8C8.8,4,7.2,4,5.6,4 C5.6,6.7,5.6,9.3,5.6,12z"/></g></g></svg><span>Article</span></div>
+</p></div>
+</p></div>
+</p></div>
+<div id="pagination-container" class="pagination">
+<nav class="hds-pagination hds-pagination--content-lists" role="navigation" aria-label="Pagination Navigation" data-mid-size="2" data-end-size="1" data-max-pages="4" >
+<span aria-current="page" class="page-numbers current" aria-label="Current Page, Page 1" aria-current="true" data-page-number="1"><br />
+<span>1</span></span><br />
+<a class="page-numbers" href="#" aria-label="Goto Page 2" data-page-number="2"><br />
+<span>2</span></a><br />
+<a class="page-numbers" href="#" aria-label="Goto Page 3" data-page-number="3"><br />
+<span>3</span></a><br />
+<a class="page-numbers" href="#" aria-label="Goto Page 4" data-page-number="4"><br />
+<span>4</span></a><br />
+<a class="next page-numbers" href="#" aria-label="Goto Next Page" data-page-number="2">Next</a><br />
+</nav>
+</div></div>
+</p></div>
+</p></div>
+</p></div>
+</p></div>
+<div id="" class="hds-topic-cards nasa-gb-align-full maxw-full width-full padding-y-6 padding-x-3 color-mode-dark hds-module hds-module-full alignfull wp-block-nasa-blocks-topic-cards">
+<div class="grid-container grid-container-block-lg padding-x-0">
+<div class="grid-row flex-align-center margin-bottom-3">
+<div class="desktop:grid-col-8 margin-bottom-2 desktop:margin-bottom-0">
+<div class="label color-carbon-60 margin-bottom-2">Keep Exploring</div>
+<h2 class="heading-36 line-height-sm">Discover More from NASA Earth Science</h2>
+</p></div>
+</p></div>
+<div class="grid-row grid-gap-2 hds-topic-cards-wrapper">
+					<a href="https://science.nasa.gov/earth/earth-observatory/subscribe/" class="mobile:grid-col-12 tablet:grid-col-6 desktop:grid-col-3 topic-card margin-bottom-4 desktop:margin-bottom-0" rel="noopener"></p>
+<div class="hds-topic-card hds-cover-wrapper cover-hover-zoom bg-carbon-black">
+<div class="skrim-overlay skrim-overlay-dark skrim-left mobile-skrim-top padding-3 display-flex flex-align-end flex-justify-start z-200">
+<div>
+<h3 class="hds-topic-card-heading heading-29 color-spacesuit-white line-height-sm margin-top-0 margin-bottom-1">
+								<span>Subscribe to Earth Observatory Newsletters</span><br />
+								<svg viewBox="0 0 32 32" fill="none" xmlns="http://www.w3.org/2000/svg"><circle class="color-nasa-red" cx="16" cy="16" r="16"></circle><path d="M8 16.956h12.604l-3.844 4.106 1.252 1.338L24 16l-5.988-6.4-1.252 1.338 3.844 4.106H8v1.912z" class="color-spacesuit-white"></path></svg><br />
+							</h3>
+<p class="margin-bottom-0 margin-top-2 color-carbon-20-important">Subscribe to the Earth Observatory and get the Earth in your inbox.</p>
+</p></div>
+</p></div>
+<figure class="hds-media-background  "><img decoding="async" width="585" height="425" src="https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/about/NASA-EO-Logo-mediumBlue2016-stacked-mark.png?w=585&#038;h=425&#038;fit=clip&#038;crop=faces%2Cfocalpoint" class="attachment-1536x1536 size-1536x1536" alt="" style="transform: scale(1); transform-origin: 50% 50%; object-position: 50% 50%; object-fit: cover;" block_context="nasa-block" loading="lazy" srcset="https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/about/NASA-EO-Logo-mediumBlue2016-stacked-mark.png?w=585&#038;h=425&#038;fit=crop&#038;crop=faces%2Cfocalpoint 585w, https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/about/NASA-EO-Logo-mediumBlue2016-stacked-mark.png?w=300&#038;h=218&#038;fit=crop&#038;crop=faces%2Cfocalpoint 300w, https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/about/NASA-EO-Logo-mediumBlue2016-stacked-mark.png?w=400&#038;h=291&#038;fit=crop&#038;crop=faces%2Cfocalpoint 400w" sizes="auto, (max-width: 585px) 100vw, 585px" /></figure>
+</p></div>
+<p>			</a><br />
+					<a href="https://science.nasa.gov/earth/earth-observatory/image-of-the-day/" class="mobile:grid-col-12 tablet:grid-col-6 desktop:grid-col-3 topic-card margin-bottom-4 desktop:margin-bottom-0" rel="noopener"></p>
+<div class="hds-topic-card hds-cover-wrapper cover-hover-zoom bg-carbon-black">
+<div class="skrim-overlay skrim-overlay-dark skrim-left mobile-skrim-top padding-3 display-flex flex-align-end flex-justify-start z-200">
+<div>
+<h3 class="hds-topic-card-heading heading-29 color-spacesuit-white line-height-sm margin-top-0 margin-bottom-1">
+								<span>Earth Observatory Image of the Day</span><br />
+								<svg viewBox="0 0 32 32" fill="none" xmlns="http://www.w3.org/2000/svg"><circle class="color-nasa-red" cx="16" cy="16" r="16"></circle><path d="M8 16.956h12.604l-3.844 4.106 1.252 1.338L24 16l-5.988-6.4-1.252 1.338 3.844 4.106H8v1.912z" class="color-spacesuit-white"></path></svg><br />
+							</h3>
+<p class="margin-bottom-0 margin-top-2 color-carbon-20-important">NASA&#8217;s Earth Observatory brings you the Earth, every day, with in-depth stories and stunning imagery.</p>
+</p></div>
+</p></div>
+<figure class="hds-media-background  "><img decoding="async" width="2500" height="1407" src="https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/iotd-banner.jpg?w=2500&#038;h=1407&#038;fit=clip&#038;crop=faces%2Cfocalpoint" class="attachment-1536x1536 size-1536x1536" alt="" style="transform: scale(1); transform-origin: 50% 50%; object-position: 50% 50%; object-fit: cover;" block_context="nasa-block" loading="lazy" srcset="https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/iotd-banner.jpg?w=2500&#038;h=1407&#038;fit=crop&#038;crop=faces%2Cfocalpoint 2500w, https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/iotd-banner.jpg?w=300&#038;h=169&#038;fit=crop&#038;crop=faces%2Cfocalpoint 300w, https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/iotd-banner.jpg?w=768&#038;h=432&#038;fit=crop&#038;crop=faces%2Cfocalpoint 768w, https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/iotd-banner.jpg?w=1024&#038;h=576&#038;fit=crop&#038;crop=faces%2Cfocalpoint 1024w, https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/iotd-banner.jpg?w=1536&#038;h=864&#038;fit=crop&#038;crop=faces%2Cfocalpoint 1536w, https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/iotd-banner.jpg?w=2048&#038;h=1153&#038;fit=crop&#038;crop=faces%2Cfocalpoint 2048w, https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/iotd-banner.jpg?w=400&#038;h=225&#038;fit=crop&#038;crop=faces%2Cfocalpoint 400w, https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/iotd-banner.jpg?w=600&#038;h=338&#038;fit=crop&#038;crop=faces%2Cfocalpoint 600w, https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/iotd-banner.jpg?w=900&#038;h=507&#038;fit=crop&#038;crop=faces%2Cfocalpoint 900w, https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/iotd-banner.jpg?w=1200&#038;h=675&#038;fit=crop&#038;crop=faces%2Cfocalpoint 1200w, https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/iotd-banner.jpg?w=2000&#038;h=1126&#038;fit=crop&#038;crop=faces%2Cfocalpoint 2000w" sizes="auto, (max-width: 2500px) 100vw, 2500px" /></figure>
+</p></div>
+<p>			</a><br />
+					<a href="https://science.nasa.gov/earth/explore/" class="mobile:grid-col-12 tablet:grid-col-6 desktop:grid-col-3 topic-card margin-bottom-4 desktop:margin-bottom-0" rel="noopener"></p>
+<div class="hds-topic-card hds-cover-wrapper cover-hover-zoom bg-carbon-black">
+<div class="skrim-overlay skrim-overlay-dark skrim-left mobile-skrim-top padding-3 display-flex flex-align-end flex-justify-start z-200">
+<div>
+<p class="hds-topic-card-heading heading-29 color-spacesuit-white line-height-sm margin-top-0 margin-bottom-1">
+								<span>Explore Earth Science</span><br />
+								<svg viewBox="0 0 32 32" fill="none" xmlns="http://www.w3.org/2000/svg"><circle class="color-nasa-red" cx="16" cy="16" r="16"></circle><path d="M8 16.956h12.604l-3.844 4.106 1.252 1.338L24 16l-5.988-6.4-1.252 1.338 3.844 4.106H8v1.912z" class="color-spacesuit-white"></path></svg>
+							</p>
+</p></div>
+</p></div>
+<figure class="hds-media-background  "><img decoding="async" width="1920" height="1920" src="https://images-assets.nasa.gov/image/NHQ202212160009/NHQ202212160009~large.jpg?w=1920&#038;h=1920&#038;fit=clip&#038;crop=faces%2Cfocalpoint" class="attachment-1536x1536 size-1536x1536" alt="" style="transform: scale(1); transform-origin: 50% 50%; object-position: 50% 50%; object-fit: cover;" block_context="nasa-block" loading="lazy" srcset="https://images-assets.nasa.gov/image/NHQ202212160009/NHQ202212160009~large.jpg?w=1920&#038;h=1920&#038;fit=crop&#038;crop=faces%2Cfocalpoint 1920w, https://images-assets.nasa.gov/image/NHQ202212160009/NHQ202212160009~large.jpg?w=150&#038;h=150&#038;fit=crop&#038;crop=faces%2Cfocalpoint 150w, https://images-assets.nasa.gov/image/NHQ202212160009/NHQ202212160009~large.jpg?w=300&#038;h=300&#038;fit=crop&#038;crop=faces%2Cfocalpoint 300w, https://images-assets.nasa.gov/image/NHQ202212160009/NHQ202212160009~large.jpg?w=768&#038;h=768&#038;fit=crop&#038;crop=faces%2Cfocalpoint 768w, https://images-assets.nasa.gov/image/NHQ202212160009/NHQ202212160009~large.jpg?w=1024&#038;h=1024&#038;fit=crop&#038;crop=faces%2Cfocalpoint 1024w, https://images-assets.nasa.gov/image/NHQ202212160009/NHQ202212160009~large.jpg?w=1536&#038;h=1536&#038;fit=crop&#038;crop=faces%2Cfocalpoint 1536w, https://images-assets.nasa.gov/image/NHQ202212160009/NHQ202212160009~large.jpg?w=50&#038;h=50&#038;fit=crop&#038;crop=faces%2Cfocalpoint 50w, https://images-assets.nasa.gov/image/NHQ202212160009/NHQ202212160009~large.jpg?w=100&#038;h=100&#038;fit=crop&#038;crop=faces%2Cfocalpoint 100w, https://images-assets.nasa.gov/image/NHQ202212160009/NHQ202212160009~large.jpg?w=200&#038;h=200&#038;fit=crop&#038;crop=faces%2Cfocalpoint 200w, https://images-assets.nasa.gov/image/NHQ202212160009/NHQ202212160009~large.jpg?w=400&#038;h=400&#038;fit=crop&#038;crop=faces%2Cfocalpoint 400w, https://images-assets.nasa.gov/image/NHQ202212160009/NHQ202212160009~large.jpg?w=600&#038;h=600&#038;fit=crop&#038;crop=faces%2Cfocalpoint 600w, https://images-assets.nasa.gov/image/NHQ202212160009/NHQ202212160009~large.jpg?w=900&#038;h=900&#038;fit=crop&#038;crop=faces%2Cfocalpoint 900w, https://images-assets.nasa.gov/image/NHQ202212160009/NHQ202212160009~large.jpg?w=1200&#038;h=1200&#038;fit=crop&#038;crop=faces%2Cfocalpoint 1200w" sizes="auto, (max-width: 1920px) 100vw, 1920px" /></figure>
+</p></div>
+<p>			</a><br />
+					<a href="https://science.nasa.gov/earth/data/" class="mobile:grid-col-12 tablet:grid-col-6 desktop:grid-col-3 topic-card margin-bottom-4 desktop:margin-bottom-0" rel="noopener"></p>
+<div class="hds-topic-card hds-cover-wrapper cover-hover-zoom bg-carbon-black">
+<div class="skrim-overlay skrim-overlay-dark skrim-left mobile-skrim-top padding-3 display-flex flex-align-end flex-justify-start z-200">
+<div>
+<h3 class="hds-topic-card-heading heading-29 color-spacesuit-white line-height-sm margin-top-0 margin-bottom-1">
+								<span>Earth Science Data</span><br />
+								<svg viewBox="0 0 32 32" fill="none" xmlns="http://www.w3.org/2000/svg"><circle class="color-nasa-red" cx="16" cy="16" r="16"></circle><path d="M8 16.956h12.604l-3.844 4.106 1.252 1.338L24 16l-5.988-6.4-1.252 1.338 3.844 4.106H8v1.912z" class="color-spacesuit-white"></path></svg><br />
+							</h3>
+<p class="margin-bottom-0 margin-top-2 color-carbon-20-important">Open access to NASA’s archive of Earth science data</p>
+</p></div>
+</p></div>
+<figure class="hds-media-background  "><img decoding="async" width="1536" height="768" src="https://science.nasa.gov/wp-content/uploads/2023/10/biosphere-sea-2008-lrg.png?w=1536" class="attachment-1536x1536 size-1536x1536" alt="" style="transform: scale(1); transform-origin: 50% 50%; object-position: 50% 50%; object-fit: cover;" block_context="nasa-block" loading="lazy" srcset="https://science.nasa.gov/wp-content/uploads/2023/10/biosphere-sea-2008-lrg.png 3600w, https://science.nasa.gov/wp-content/uploads/2023/10/biosphere-sea-2008-lrg.png?resize=300,150 300w, https://science.nasa.gov/wp-content/uploads/2023/10/biosphere-sea-2008-lrg.png?resize=768,384 768w, https://science.nasa.gov/wp-content/uploads/2023/10/biosphere-sea-2008-lrg.png?resize=1024,512 1024w, https://science.nasa.gov/wp-content/uploads/2023/10/biosphere-sea-2008-lrg.png?resize=1536,768 1536w, https://science.nasa.gov/wp-content/uploads/2023/10/biosphere-sea-2008-lrg.png?resize=2048,1024 2048w, https://science.nasa.gov/wp-content/uploads/2023/10/biosphere-sea-2008-lrg.png?resize=400,200 400w, https://science.nasa.gov/wp-content/uploads/2023/10/biosphere-sea-2008-lrg.png?resize=600,300 600w, https://science.nasa.gov/wp-content/uploads/2023/10/biosphere-sea-2008-lrg.png?resize=900,450 900w, https://science.nasa.gov/wp-content/uploads/2023/10/biosphere-sea-2008-lrg.png?resize=1200,600 1200w, https://science.nasa.gov/wp-content/uploads/2023/10/biosphere-sea-2008-lrg.png?resize=2000,1000 2000w" sizes="auto, (max-width: 1536px) 100vw, 1536px" /></figure>
+</p></div>
+<p>			</a>
+				</div>
+</p></div>
+</p></div>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
 		<title>Volunteers Find Oddly High Solar Flare Rates</title>
 		<link>https://science.nasa.gov/get-involved/citizen-science/volunteers-find-oddly-high-solar-flare-rates/</link>
 		
@@ -273,7 +715,7 @@
 				<category><![CDATA[Citizen Science]]></category>
 		<guid isPermaLink="false">https://science.nasa.gov/get-involved/citizen-science/extra-extra-extra-data-stream-added-to-the-daily-minor-planet/</guid>
 
-					<description><![CDATA[The Daily Minor Planet citizen science project is expanding! In addition to data received nightly from the Catalina Sky Survey’s Mt. Lemmon telescope in Arizona, the project’s science team is now processing images from the Bok 2.3-meter telescope at Kitt Peak National Observatory. The Bok is a mighty telescope run by the University of Arizona’s […]]]></description>
+					<description><![CDATA[The Daily Minor Planet citizen science project is expanding! In addition to data received nightly from the Catalina Sky Survey’s Mt. Lemmon telescope in Arizona, the project’s science team is now processing images from the Bok 2.3-meter telescope at Kitt Peak National Observatory. The Bok is a mighty telescope run by the University of Arizona’s Steward Observatory that is used to survey for new near-Earth objects (NEOs) – asteroids that cross Earth’s orbit.]]></description>
 										<content:encoded><![CDATA[<div id="" class="padding-top-5 padding-bottom-3 width-full maxw-full hds-module hds-module-full alignfull wp-block-nasa-blocks-article-intro">
 <div class="width-full maxw-full article-header">
 <div class="margin-bottom-2 width-full maxw-full">
@@ -290,7 +732,7 @@
 <div id="" class="hds-media hds-module wp-block-image">
 <div class="margin-left-auto margin-right-auto nasa-block-align-inline">
 <div class="hds-media-wrapper margin-left-auto margin-right-auto">
-<figure class="hds-media-inner hds-cover-wrapper hds-media-ratio-fit " style="--hds-image-contain-bg:#ffffff;"><a href="https://assets.science.nasa.gov/dynamicimage/assets/science/cds/citizen-science/highlights/2026/Bok.jpg?w=1600&#038;h=1488&#038;fit=clip&#038;crop=faces%2Cfocalpoint" rel="noopener"><img fetchpriority="high" decoding="async" width="1600" height="1488" src="https://assets.science.nasa.gov/dynamicimage/assets/science/cds/citizen-science/highlights/2026/Bok.jpg?w=1600&#038;h=1488&#038;fit=clip&#038;crop=faces%2Cfocalpoint" class="attachment-2048x2048 size-2048x2048" alt="Nighttime view of the white Bok telescope dome at Kitt Peak National Observatory beneath a star-filled sky. The Milky Way stretches overhead with dense star clouds and reddish nebulae visible, while the observatory sits beside a curved road on a dark hillside." style="transform: scale(1); transform-origin: 50% 50%; object-position: 50% 50%; object-fit: cover;" block_context="nasa-block" loading="eager" srcset="https://assets.science.nasa.gov/dynamicimage/assets/science/cds/citizen-science/highlights/2026/Bok.jpg?w=1600&#038;h=1488&#038;fit=crop&#038;crop=faces%2Cfocalpoint 1600w, https://assets.science.nasa.gov/dynamicimage/assets/science/cds/citizen-science/highlights/2026/Bok.jpg?w=300&#038;h=279&#038;fit=crop&#038;crop=faces%2Cfocalpoint 300w, https://assets.science.nasa.gov/dynamicimage/assets/science/cds/citizen-science/highlights/2026/Bok.jpg?w=768&#038;h=714&#038;fit=crop&#038;crop=faces%2Cfocalpoint 768w, https://assets.science.nasa.gov/dynamicimage/assets/science/cds/citizen-science/highlights/2026/Bok.jpg?w=1024&#038;h=952&#038;fit=crop&#038;crop=faces%2Cfocalpoint 1024w, https://assets.science.nasa.gov/dynamicimage/assets/science/cds/citizen-science/highlights/2026/Bok.jpg?w=1536&#038;h=1428&#038;fit=crop&#038;crop=faces%2Cfocalpoint 1536w, https://assets.science.nasa.gov/dynamicimage/assets/science/cds/citizen-science/highlights/2026/Bok.jpg?w=400&#038;h=372&#038;fit=crop&#038;crop=faces%2Cfocalpoint 400w, https://assets.science.nasa.gov/dynamicimage/assets/science/cds/citizen-science/highlights/2026/Bok.jpg?w=600&#038;h=558&#038;fit=crop&#038;crop=faces%2Cfocalpoint 600w, https://assets.science.nasa.gov/dynamicimage/assets/science/cds/citizen-science/highlights/2026/Bok.jpg?w=900&#038;h=837&#038;fit=crop&#038;crop=faces%2Cfocalpoint 900w, https://assets.science.nasa.gov/dynamicimage/assets/science/cds/citizen-science/highlights/2026/Bok.jpg?w=1200&#038;h=1116&#038;fit=crop&#038;crop=faces%2Cfocalpoint 1200w" sizes="auto, (max-width: 1600px) 100vw, 1600px" /></a></figure><figcaption class="hds-caption padding-y-2">
+<figure class="hds-media-inner hds-cover-wrapper hds-media-ratio-fit " style="--hds-image-contain-bg:#ffffff;"><a href="https://assets.science.nasa.gov/dynamicimage/assets/science/cds/citizen-science/highlights/2026/Bok.jpg?w=1600&#038;h=1488&#038;fit=clip&#038;crop=faces%2Cfocalpoint" rel="noopener"><img decoding="async" width="1600" height="1488" src="https://assets.science.nasa.gov/dynamicimage/assets/science/cds/citizen-science/highlights/2026/Bok.jpg?w=1600&#038;h=1488&#038;fit=clip&#038;crop=faces%2Cfocalpoint" class="attachment-2048x2048 size-2048x2048" alt="Nighttime view of the white Bok telescope dome at Kitt Peak National Observatory beneath a star-filled sky. The Milky Way stretches overhead with dense star clouds and reddish nebulae visible, while the observatory sits beside a curved road on a dark hillside." style="transform: scale(1); transform-origin: 50% 50%; object-position: 50% 50%; object-fit: cover;" block_context="nasa-block" loading="lazy" srcset="https://assets.science.nasa.gov/dynamicimage/assets/science/cds/citizen-science/highlights/2026/Bok.jpg?w=1600&#038;h=1488&#038;fit=crop&#038;crop=faces%2Cfocalpoint 1600w, https://assets.science.nasa.gov/dynamicimage/assets/science/cds/citizen-science/highlights/2026/Bok.jpg?w=300&#038;h=279&#038;fit=crop&#038;crop=faces%2Cfocalpoint 300w, https://assets.science.nasa.gov/dynamicimage/assets/science/cds/citizen-science/highlights/2026/Bok.jpg?w=768&#038;h=714&#038;fit=crop&#038;crop=faces%2Cfocalpoint 768w, https://assets.science.nasa.gov/dynamicimage/assets/science/cds/citizen-science/highlights/2026/Bok.jpg?w=1024&#038;h=952&#038;fit=crop&#038;crop=faces%2Cfocalpoint 1024w, https://assets.science.nasa.gov/dynamicimage/assets/science/cds/citizen-science/highlights/2026/Bok.jpg?w=1536&#038;h=1428&#038;fit=crop&#038;crop=faces%2Cfocalpoint 1536w, https://assets.science.nasa.gov/dynamicimage/assets/science/cds/citizen-science/highlights/2026/Bok.jpg?w=400&#038;h=372&#038;fit=crop&#038;crop=faces%2Cfocalpoint 400w, https://assets.science.nasa.gov/dynamicimage/assets/science/cds/citizen-science/highlights/2026/Bok.jpg?w=600&#038;h=558&#038;fit=crop&#038;crop=faces%2Cfocalpoint 600w, https://assets.science.nasa.gov/dynamicimage/assets/science/cds/citizen-science/highlights/2026/Bok.jpg?w=900&#038;h=837&#038;fit=crop&#038;crop=faces%2Cfocalpoint 900w, https://assets.science.nasa.gov/dynamicimage/assets/science/cds/citizen-science/highlights/2026/Bok.jpg?w=1200&#038;h=1116&#038;fit=crop&#038;crop=faces%2Cfocalpoint 1200w" sizes="auto, (max-width: 1600px) 100vw, 1600px" /></a></figure><figcaption class="hds-caption padding-y-2">
 <div class="hds-caption-text p-sm margin-0">The Bok telescope stands tall under the Milky Way. Join <a href="https://www.zooniverse.org/projects/fulsdavid/the-daily-minor-planet" rel="noopener">The Daily Minor Planet</a> project to view data from this telescope and hunt for near-Earth asteroids.</div>
 <div class="hds-credits">KPNO/NOIRLab/NSF/AURA/T. Slovinský</div>
 </figcaption></div>
@@ -400,7 +842,7 @@
 <div class="grid-col-4">
 <div class="subheading">Last Updated</div>
 </p></div>
-<div class="grid-col-8">Mar 13, 2026</div>
+<div class="grid-col-8">Mar 16, 2026</div>
 </p></div>
 <div class="grid-row margin-bottom-3">
 <div class="grid-col-4">
@@ -428,6 +870,29 @@
 </div></div>
 <div class="grid-row grid-container maxw-widescreen padding-0">
 <div class="grid-col-12 desktop:grid-col-4 margin-bottom-4 desktop:margin-bottom-0 desktop:padding-right-3">
+						<a href="https://science.nasa.gov/get-involved/citizen-science/volunteers-find-oddly-high-solar-flare-rates/" class="color-carbon-black" rel="noopener"></p>
+<div class="margin-bottom-2">
+<div class="hds-cover-wrapper cover-hover-zoom bg-carbon-black minh-mobile">
+<figure class="hds-media-background  "><img decoding="async" width="1026" height="1026" src="https://assets.science.nasa.gov/dynamicimage/assets/science/cds/general/images/2023/06/ActiveRegionSpotters-1.jpg?w=1026&#038;h=1026&#038;fit=clip&#038;crop=faces%2Cfocalpoint" class="attachment-medium size-medium" alt="" style="transform: scale(1); transform-origin: 50% 50%; object-position: 50% 50%; object-fit: cover;" block_context="nasa-block" loading="lazy" srcset="https://assets.science.nasa.gov/dynamicimage/assets/science/cds/general/images/2023/06/ActiveRegionSpotters-1.jpg?w=1026&#038;h=1026&#038;fit=crop&#038;crop=faces%2Cfocalpoint 1026w, https://assets.science.nasa.gov/dynamicimage/assets/science/cds/general/images/2023/06/ActiveRegionSpotters-1.jpg?w=150&#038;h=150&#038;fit=crop&#038;crop=faces%2Cfocalpoint 150w, https://assets.science.nasa.gov/dynamicimage/assets/science/cds/general/images/2023/06/ActiveRegionSpotters-1.jpg?w=300&#038;h=300&#038;fit=crop&#038;crop=faces%2Cfocalpoint 300w, https://assets.science.nasa.gov/dynamicimage/assets/science/cds/general/images/2023/06/ActiveRegionSpotters-1.jpg?w=768&#038;h=768&#038;fit=crop&#038;crop=faces%2Cfocalpoint 768w, https://assets.science.nasa.gov/dynamicimage/assets/science/cds/general/images/2023/06/ActiveRegionSpotters-1.jpg?w=1024&#038;h=1024&#038;fit=crop&#038;crop=faces%2Cfocalpoint 1024w, https://assets.science.nasa.gov/dynamicimage/assets/science/cds/general/images/2023/06/ActiveRegionSpotters-1.jpg?w=50&#038;h=50&#038;fit=crop&#038;crop=faces%2Cfocalpoint 50w, https://assets.science.nasa.gov/dynamicimage/assets/science/cds/general/images/2023/06/ActiveRegionSpotters-1.jpg?w=100&#038;h=100&#038;fit=crop&#038;crop=faces%2Cfocalpoint 100w, https://assets.science.nasa.gov/dynamicimage/assets/science/cds/general/images/2023/06/ActiveRegionSpotters-1.jpg?w=200&#038;h=200&#038;fit=crop&#038;crop=faces%2Cfocalpoint 200w, https://assets.science.nasa.gov/dynamicimage/assets/science/cds/general/images/2023/06/ActiveRegionSpotters-1.jpg?w=400&#038;h=400&#038;fit=crop&#038;crop=faces%2Cfocalpoint 400w, https://assets.science.nasa.gov/dynamicimage/assets/science/cds/general/images/2023/06/ActiveRegionSpotters-1.jpg?w=600&#038;h=600&#038;fit=crop&#038;crop=faces%2Cfocalpoint 600w, https://assets.science.nasa.gov/dynamicimage/assets/science/cds/general/images/2023/06/ActiveRegionSpotters-1.jpg?w=900&#038;h=900&#038;fit=crop&#038;crop=faces%2Cfocalpoint 900w" sizes="auto, (max-width: 1026px) 100vw, 1026px" /></figure>
+</p></div>
+</p></div>
+<div class="padding-right-0 desktop:padding-right-10">
+<div class="subheading margin-bottom-1">2 min read</div>
+<div class="margin-bottom-1">
+<h3 class="related-article-title">Volunteers Find Oddly High Solar Flare Rates</h3>
+</div>
+<div class="display-flex flex-align-center label related-article-label margin-bottom-1 color-carbon-60">
+									<span class="display-flex flex-align-center margin-right-2"><br />
+										<svg version="1.1" class="square-2 margin-right-1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="16px" height="16px" viewBox="0 0 16 16" style="enable-background:new 0 0 16 16;" xml:space="preserve"><g><g><path d="M8,0C3.5,0-0.1,3.7,0,8.2C0.1,12.5,3.6,16,8,16c4.4,0,8-3.6,8-8C16,3.5,12.4,0,8,0z M8,15.2 C4,15.2,0.8,12,0.8,8C0.8,4,4,0.8,8,0.8c3.9,0,7.2,3.2,7.2,7.1C15.2,11.9,12,15.2,8,15.2z"/><path d="M5.6,12c0.8-0.8,1.6-1.6,2.4-2.4c0.8,0.8,1.6,1.6,2.4,2.4c0-2.7,0-5.3,0-8C8.8,4,7.2,4,5.6,4 C5.6,6.7,5.6,9.3,5.6,12z"/></g></g></svg><br />
+										<span>Article</span><br />
+									</span><br />
+									<span class=""><br />
+										3 days ago									</span>
+								</div>
+</p></div>
+<p>						</a>
+					</div>
+<div class="grid-col-12 desktop:grid-col-4 margin-bottom-4 desktop:margin-bottom-0 desktop:padding-right-3">
 						<a href="https://science.nasa.gov/get-involved/citizen-science/nasa-volunteers-study-biofilm-adaptability-in-space/" class="color-carbon-black" rel="noopener"></p>
 <div class="margin-bottom-2">
 <div class="hds-cover-wrapper cover-hover-zoom bg-carbon-black minh-mobile">
@@ -446,7 +911,7 @@
 										<span>Article</span><br />
 									</span><br />
 									<span class=""><br />
-										5 hours ago									</span>
+										3 days ago									</span>
 								</div>
 </p></div>
 <p>						</a>
@@ -470,31 +935,7 @@
 										<span>Article</span><br />
 									</span><br />
 									<span class=""><br />
-										1 day ago									</span>
-								</div>
-</p></div>
-<p>						</a>
-					</div>
-<div class="grid-col-12 desktop:grid-col-4 margin-bottom-4 desktop:margin-bottom-0 desktop:padding-right-3">
-						<a href="https://science.nasa.gov/get-involved/citizen-science/new-volunteer-data-from-143-observatories-unveils-the-2024-total-solar-eclipse/" class="color-carbon-black" rel="noopener"></p>
-<div class="margin-bottom-2">
-<div class="hds-cover-wrapper cover-hover-zoom bg-carbon-black minh-mobile">
-<figure class="hds-media-background  "><img decoding="async" width="1920" height="1280" src="https://assets.science.nasa.gov/dynamicimage/assets/science/cds/general/images/2024/04/nhq202404080101large.jpg?w=1920&#038;h=1280&#038;fit=clip&#038;crop=faces%2Cfocalpoint" class="attachment-medium size-medium" alt="" style="transform: scale(1); transform-origin: 50% 50%; object-position: 50% 50%; object-fit: cover;" block_context="nasa-block" loading="lazy" srcset="https://assets.science.nasa.gov/dynamicimage/assets/science/cds/general/images/2024/04/nhq202404080101large.jpg?w=1920&#038;h=1280&#038;fit=crop&#038;crop=faces%2Cfocalpoint 1920w, https://assets.science.nasa.gov/dynamicimage/assets/science/cds/general/images/2024/04/nhq202404080101large.jpg?w=300&#038;h=200&#038;fit=crop&#038;crop=faces%2Cfocalpoint 300w, https://assets.science.nasa.gov/dynamicimage/assets/science/cds/general/images/2024/04/nhq202404080101large.jpg?w=768&#038;h=512&#038;fit=crop&#038;crop=faces%2Cfocalpoint 768w, https://assets.science.nasa.gov/dynamicimage/assets/science/cds/general/images/2024/04/nhq202404080101large.jpg?w=1024&#038;h=683&#038;fit=crop&#038;crop=faces%2Cfocalpoint 1024w, https://assets.science.nasa.gov/dynamicimage/assets/science/cds/general/images/2024/04/nhq202404080101large.jpg?w=1536&#038;h=1024&#038;fit=crop&#038;crop=faces%2Cfocalpoint 1536w, https://assets.science.nasa.gov/dynamicimage/assets/science/cds/general/images/2024/04/nhq202404080101large.jpg?w=400&#038;h=267&#038;fit=crop&#038;crop=faces%2Cfocalpoint 400w, https://assets.science.nasa.gov/dynamicimage/assets/science/cds/general/images/2024/04/nhq202404080101large.jpg?w=600&#038;h=400&#038;fit=crop&#038;crop=faces%2Cfocalpoint 600w, https://assets.science.nasa.gov/dynamicimage/assets/science/cds/general/images/2024/04/nhq202404080101large.jpg?w=900&#038;h=600&#038;fit=crop&#038;crop=faces%2Cfocalpoint 900w, https://assets.science.nasa.gov/dynamicimage/assets/science/cds/general/images/2024/04/nhq202404080101large.jpg?w=1200&#038;h=800&#038;fit=crop&#038;crop=faces%2Cfocalpoint 1200w" sizes="auto, (max-width: 1920px) 100vw, 1920px" /></figure>
-</p></div>
-</p></div>
-<div class="padding-right-0 desktop:padding-right-10">
-<div class="subheading margin-bottom-1">2 min read</div>
-<div class="margin-bottom-1">
-<h3 class="related-article-title">New Volunteer Data from 143 Observatories Unveils the 2024 Total Solar Eclipse</h3>
-</div>
-<p class="p-md color-carbon-60">On April 8, 2024, volunteers participating in NASA’s Eclipse Megamovie citizen science project all around…</p>
-<div class="display-flex flex-align-center label related-article-label margin-bottom-1 color-carbon-60">
-									<span class="display-flex flex-align-center margin-right-2"><br />
-										<svg version="1.1" class="square-2 margin-right-1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="16px" height="16px" viewBox="0 0 16 16" style="enable-background:new 0 0 16 16;" xml:space="preserve"><g><g><path d="M8,0C3.5,0-0.1,3.7,0,8.2C0.1,12.5,3.6,16,8,16c4.4,0,8-3.6,8-8C16,3.5,12.4,0,8,0z M8,15.2 C4,15.2,0.8,12,0.8,8C0.8,4,4,0.8,8,0.8c3.9,0,7.2,3.2,7.2,7.1C15.2,11.9,12,15.2,8,15.2z"/><path d="M5.6,12c0.8-0.8,1.6-1.6,2.4-2.4c0.8,0.8,1.6,1.6,2.4,2.4c0-2.7,0-5.3,0-8C8.8,4,7.2,4,5.6,4 C5.6,6.7,5.6,9.3,5.6,12z"/></g></g></svg><br />
-										<span>Article</span><br />
-									</span><br />
-									<span class=""><br />
-										2 weeks ago									</span>
+										4 days ago									</span>
 								</div>
 </p></div>
 <p>						</a>
@@ -519,7 +960,7 @@
 		<guid isPermaLink="false">https://www.nasa.gov/?p=973602</guid>
 
 					<description><![CDATA[NASA&#160;has&#160;selected&#160;eight&#160;student&#160;teams as finalists in the 2026 Gateways to Blue Skies&#160;Competition, giving them the resources to help address&#160;a critical challenge&#160;for&#160;U.S. aviation:&#160;maintenance.&#160; Challenges facing the commercial aviation industry include a shortage of qualified maintenance workers and increasing demands to keep complicated&#160;aircraft&#160;running for longer. With Gateways to Blue Skies,&#160;NASA&#160;taps into student innovation to address some of the biggest [&#8230;]]]></description>
-										<content:encoded><![CDATA[<div id="" class="hds-media hds-module wp-block-image"><div class="margin-left-auto margin-right-auto nasa-block-align-inline"><div class="hds-media-wrapper margin-left-auto margin-right-auto"><figure class="hds-media-inner hds-cover-wrapper hds-media-ratio-fit "><a href="https://www.nasa.gov/wp-content/uploads/2026/03/2026-blue-skies-competition-web-banner-1000-x-400-px.png"><img decoding="async" width="2048" height="455" src="https://www.nasa.gov/wp-content/uploads/2026/03/2026-blue-skies-competition-web-banner-1000-x-400-px.png?w=2048" class="attachment-2048x2048 size-2048x2048" alt="A photo collage showing aircraft and people for the Gateways to Blue Skies Competition with the 2026 topic RepAir: Advancing Aircraft Maintenance." style="transform: scale(1); transform-origin: 50% 50%; object-position: 50% 50%; object-fit: cover;" block_context="nasa-block" loading="eager" srcset="https://www.nasa.gov/wp-content/uploads/2026/03/2026-blue-skies-competition-web-banner-1000-x-400-px.png 2475w, https://www.nasa.gov/wp-content/uploads/2026/03/2026-blue-skies-competition-web-banner-1000-x-400-px.png?resize=300,67 300w, https://www.nasa.gov/wp-content/uploads/2026/03/2026-blue-skies-competition-web-banner-1000-x-400-px.png?resize=768,171 768w, https://www.nasa.gov/wp-content/uploads/2026/03/2026-blue-skies-competition-web-banner-1000-x-400-px.png?resize=1024,228 1024w, https://www.nasa.gov/wp-content/uploads/2026/03/2026-blue-skies-competition-web-banner-1000-x-400-px.png?resize=1536,341 1536w, https://www.nasa.gov/wp-content/uploads/2026/03/2026-blue-skies-competition-web-banner-1000-x-400-px.png?resize=2048,455 2048w, https://www.nasa.gov/wp-content/uploads/2026/03/2026-blue-skies-competition-web-banner-1000-x-400-px.png?resize=400,89 400w, https://www.nasa.gov/wp-content/uploads/2026/03/2026-blue-skies-competition-web-banner-1000-x-400-px.png?resize=600,133 600w, https://www.nasa.gov/wp-content/uploads/2026/03/2026-blue-skies-competition-web-banner-1000-x-400-px.png?resize=900,200 900w, https://www.nasa.gov/wp-content/uploads/2026/03/2026-blue-skies-competition-web-banner-1000-x-400-px.png?resize=1200,267 1200w, https://www.nasa.gov/wp-content/uploads/2026/03/2026-blue-skies-competition-web-banner-1000-x-400-px.png?resize=2000,444 2000w" sizes="auto, (max-width: 2048px) 100vw, 2048px" /></a></figure><figcaption class="hds-caption padding-y-2"><div class="hds-credits">Image Credit: National Institute of Aerospace</div></figcaption></div></div></div>
+										<content:encoded><![CDATA[<div id="" class="hds-media hds-module wp-block-image"><div class="margin-left-auto margin-right-auto nasa-block-align-inline"><div class="hds-media-wrapper margin-left-auto margin-right-auto"><figure class="hds-media-inner hds-cover-wrapper hds-media-ratio-fit "><a href="https://www.nasa.gov/wp-content/uploads/2026/03/2026-blue-skies-competition-web-banner-1000-x-400-px.png"><img decoding="async" width="2048" height="455" src="https://www.nasa.gov/wp-content/uploads/2026/03/2026-blue-skies-competition-web-banner-1000-x-400-px.png?w=2048" class="attachment-2048x2048 size-2048x2048" alt="A photo collage showing aircraft and people for the Gateways to Blue Skies Competition with the 2026 topic RepAir: Advancing Aircraft Maintenance." style="transform: scale(1); transform-origin: 50% 50%; object-position: 50% 50%; object-fit: cover;" block_context="nasa-block" loading="lazy" srcset="https://www.nasa.gov/wp-content/uploads/2026/03/2026-blue-skies-competition-web-banner-1000-x-400-px.png 2475w, https://www.nasa.gov/wp-content/uploads/2026/03/2026-blue-skies-competition-web-banner-1000-x-400-px.png?resize=300,67 300w, https://www.nasa.gov/wp-content/uploads/2026/03/2026-blue-skies-competition-web-banner-1000-x-400-px.png?resize=768,171 768w, https://www.nasa.gov/wp-content/uploads/2026/03/2026-blue-skies-competition-web-banner-1000-x-400-px.png?resize=1024,228 1024w, https://www.nasa.gov/wp-content/uploads/2026/03/2026-blue-skies-competition-web-banner-1000-x-400-px.png?resize=1536,341 1536w, https://www.nasa.gov/wp-content/uploads/2026/03/2026-blue-skies-competition-web-banner-1000-x-400-px.png?resize=2048,455 2048w, https://www.nasa.gov/wp-content/uploads/2026/03/2026-blue-skies-competition-web-banner-1000-x-400-px.png?resize=400,89 400w, https://www.nasa.gov/wp-content/uploads/2026/03/2026-blue-skies-competition-web-banner-1000-x-400-px.png?resize=600,133 600w, https://www.nasa.gov/wp-content/uploads/2026/03/2026-blue-skies-competition-web-banner-1000-x-400-px.png?resize=900,200 900w, https://www.nasa.gov/wp-content/uploads/2026/03/2026-blue-skies-competition-web-banner-1000-x-400-px.png?resize=1200,267 1200w, https://www.nasa.gov/wp-content/uploads/2026/03/2026-blue-skies-competition-web-banner-1000-x-400-px.png?resize=2000,444 2000w" sizes="auto, (max-width: 2048px) 100vw, 2048px" /></a></figure><figcaption class="hds-caption padding-y-2"><div class="hds-credits">Image Credit: National Institute of Aerospace</div></figcaption></div></div></div>
 
 
 <p>NASA&nbsp;has&nbsp;selected&nbsp;eight&nbsp;student&nbsp;teams as finalists in the 2026 Gateways to Blue Skies&nbsp;Competition, giving them the resources to help address&nbsp;a critical challenge&nbsp;for&nbsp;U.S. aviation:&nbsp;maintenance.&nbsp;</p>
@@ -1220,235 +1661,6 @@
 
 
 <p><em>Image credit: NASA&#8217;s Goddard Space Flight Center/Intuitive Machines</em></p>
-]]></content:encoded>
-					
-		
-		
-			</item>
-		<item>
-		<title>Agenda diaria de la misión a la Luna de Artemis II de la NASA</title>
-		<link>https://www.nasa.gov/es/agenda-diaria-de-la-mision-a-la-luna-de-artemis-ii-de-la-nasa/</link>
-		
-		<dc:creator><![CDATA[Lauren E. Low]]></dc:creator>
-		<pubDate>Fri, 13 Mar 2026 15:40:17 +0000</pubDate>
-				<category><![CDATA[NASA en español]]></category>
-		<guid isPermaLink="false">https://www.nasa.gov/?p=973330</guid>
-
-					<description><![CDATA[Read this web article in English&#160;here. Unos ocho minutos después del despegue de Artemis&#160;II, la nave espacial Orion y su tripulación —los astronautas de la NASA Reid Wiseman, Victor Glover y Christina Koch, junto con el astronauta de la CSA (Agencia Espacial Canadiense) Jeremy Hansen— llegarán al espacio. Este vuelo de prueba de casi 10&#160;días [&#8230;]]]></description>
-										<content:encoded><![CDATA[<div id="" class="hds-media hds-module wp-block-image"><div class="margin-left-auto margin-right-auto nasa-block-align-inline"><div class="hds-media-wrapper margin-left-auto margin-right-auto"><figure class="hds-media-inner hds-cover-wrapper hds-media-ratio-cover "><a href="https://www.nasa.gov/wp-content/uploads/2026/03/suit-patch.jpg"><img decoding="async" width="2048" height="1314" src="https://www.nasa.gov/wp-content/uploads/2026/03/suit-patch.jpg?w=2048" class="attachment-2048x2048 size-2048x2048" alt="" style="transform: scale(1); transform-origin: 50% 50%; object-position: 50% 50%; object-fit: cover;" block_context="nasa-block" loading="lazy" srcset="https://www.nasa.gov/wp-content/uploads/2026/03/suit-patch.jpg 8256w, https://www.nasa.gov/wp-content/uploads/2026/03/suit-patch.jpg?resize=300,192 300w, https://www.nasa.gov/wp-content/uploads/2026/03/suit-patch.jpg?resize=768,493 768w, https://www.nasa.gov/wp-content/uploads/2026/03/suit-patch.jpg?resize=1024,657 1024w, https://www.nasa.gov/wp-content/uploads/2026/03/suit-patch.jpg?resize=1536,985 1536w, https://www.nasa.gov/wp-content/uploads/2026/03/suit-patch.jpg?resize=2048,1314 2048w, https://www.nasa.gov/wp-content/uploads/2026/03/suit-patch.jpg?resize=400,257 400w, https://www.nasa.gov/wp-content/uploads/2026/03/suit-patch.jpg?resize=600,385 600w, https://www.nasa.gov/wp-content/uploads/2026/03/suit-patch.jpg?resize=900,577 900w, https://www.nasa.gov/wp-content/uploads/2026/03/suit-patch.jpg?resize=1200,770 1200w, https://www.nasa.gov/wp-content/uploads/2026/03/suit-patch.jpg?resize=2000,1283 2000w" sizes="auto, (max-width: 2048px) 100vw, 2048px" /></a></figure><figcaption class="hds-caption padding-y-2"><div class="hds-caption-text p-sm margin-0">El emblema de la misión Artemis II se observa en el hombro derecho de los trajes sistema de supervivencia de la tripulación de Orion que llevarán los astronautas de la NASA Reid Wiseman, Victor Glover y Christina Koch, así como el astronauta de la CSA (Agencia Espacial Canadiense) Jeremy Hansen, durante el vuelo de prueba de Artemis II. La imagen fue tomada el 17 de enero de 2026 en la sala de equipamiento del Edificio de Operaciones y Preparación Neil A. Armstrong, en el Centro Espacial Kennedy de la NASA, en Florida. </div><div class="hds-credits">Crédito: NASA/Joel Kowsky</div></figcaption></div></div></div>
-
-
-<p><em>Read this web article in English&nbsp;<a href="https://www.nasa.gov/missions/artemis/nasas-artemis-ii-moon-mission-daily-agenda/">here</a></em>.</p>
-
-
-
-<p>Unos ocho minutos después del despegue de Artemis&nbsp;II, la nave espacial Orion y su tripulación —los astronautas de la NASA Reid Wiseman, Victor Glover y Christina Koch, junto con el astronauta de la CSA (Agencia Espacial Canadiense) Jeremy Hansen— llegarán al espacio. Este vuelo de prueba de casi 10&nbsp;días de duración estará lleno de actividades a medida que los astronautas emprenden un viaje alrededor de la Luna y de regreso a la Tierra, mientras el personal de la misión comprueba los sistemas de Orion durante el recorrido. Aunque los equipos de control de la misión podrían refinar los detalles del programa de actividades de la tripulación cada día en función de las actividades operativas durante el vuelo de prueba, el personal de tierra y la tripulación tienen un plan general para cada día de la misión.<br><strong><br>Día de lanzamiento/Día de vuelo 1:<br><br></strong>Cuando se apaguen los motores principales del cohete Sistema de Lanzamiento Espacial (SLS, por sus siglas en inglés), Orion y la etapa de propulsión criogénica provisional (ICPS, por su acrónimo en inglés) se separarán del resto del cohete. La ICPS todavía tendrá trabajo por hacer: unos 49&nbsp;minutos después del lanzamiento, su motor se encenderá para elevar el perigeo, o el punto más bajo de la órbita de una nave espacial, hasta una altitud segura de 160&nbsp;kilómetros (100&nbsp;millas) sobre la Tierra. Alrededor de una hora más tarde, cuando Orion alcance ese perigeo, la ICPS volverá a encenderse para continuar elevando la nave espacial a una órbita terrestre alta. Entonces, la tripulación tendrá cerca de 23&nbsp;horas para llevar a cabo una verificación exhaustiva de los sistemas de Orion mientras aún esté relativamente cerca de la Tierra.<br><br>La tripulación comenzará a comprobar sistemas como el dispensador de agua potable —que proporcionará agua potable y rehidratará los alimentos que llevan—, el inodoro y el sistema que elimina el dióxido de carbono del aire. Los astronautas también podrán quitarse los trajes espaciales naranjas que vistieron para el lanzamiento y trabajar con ropa normal. Dedicarán tiempo a reorganizar el interior de Orion para que funcione como un espacio de vivienda y trabajo para cuatro personas flotantes durante los siguientes 10&nbsp;días.<br><br>Unas tres horas después del inicio de la misión, la NASA llevará a cabo pruebas sobre cómo se maneja Orion.<br><br>En futuras misiones, Orion se acoplará a otras naves espaciales. Para verificar que Orion haga esto de manera segura, la ICPS será reutilizada como un objetivo de acoplamiento. Se separará de Orion, y la tripulación practicará cómo pilotar su nave espacial en dirección a la ICPS y a su alrededor en una demostración de operaciones de proximidad. Después de esto, la ICPS volverá a encender sus motores para una maniobra orbital de eliminación que la enviará hacia el océano Pacífico, y Orion continuará en su órbita terrestre alta.<br><br>Después de unas ocho horas y media en el espacio, los astronautas dormirán durante un corto período de tiempo. La tripulación se despertará después de unas cuatro horas para efectuar un encendido adicional de motores que pondrá a Orion en la geometría orbital correcta para su maniobra orbital de inyección translunar (TLI, por sus siglas en inglés) en el día de vuelo&nbsp;2. También aprovechará esta oportunidad para ejecutar una breve comprobación de sus comunicaciones de emergencia con la Red del Espacio Profundo, en el punto más distante de su órbita terrestre alta, lo cual es necesario antes de la&nbsp;TLI.<br><br>Después de esto, los astronautas podrán volver a dormir durante otras cuatro horas y media, dando por concluido el día de vuelo&nbsp;1.<br><br><strong>Día de vuelo 2<br><br></strong>Wiseman y Glover comenzarán el día instalando y comprobando el dispositivo de ejercicio del volante de inercia de Orion antes de hacer sus primeros entrenamientos físicos de la misión. Koch y Hansen tienen programados sus ejercicios para la segunda mitad del día. Los entrenamientos matutinos proporcionarán otra prueba de los sistemas de soporte vital de Orion antes de abandonar la órbita terrestre.<br><br>Koch pasará la mañana preparándose para el evento principal del día: la maniobra orbital para la inyección translunar. La TLI es el último gran encendido de motores de la misión Artemis&nbsp;II y pondrá a Orion en rumbo hacia la Luna. Y dado que Orion empleará una trayectoria de regreso libre para dar la vuelta alrededor del lado lejano de la Luna, el encendido de motores de la TLI también pondrá a Orion en rumbo para regresar a la Tierra en el día de vuelo&nbsp;10.<br><br>Koch configurará el sistema de Orion para ejecutar la maniobra orbital, la cual será realizada por el motor principal de Orion en el Módulo de Servicio Europeo de la nave espacial. También llamado motor del sistema de maniobra orbital, proporciona hasta 2.722&nbsp;kilogramos (6.000&nbsp;libras) de empuje, lo suficiente para acelerar un automóvil de cero a 96,5&nbsp;km/h (60&nbsp;mi/h) en unos 2,7&nbsp;segundos.<br><br>Después de la TLI, la tripulación tendrá un día menos atareado, con tiempo reservado para aclimatarse al entorno espacial. Contarán con una oportunidad de participar en una comunicación por video de espacio a tierra, la primera de varias que tendrán lugar a lo largo de la misión. Con excepción del día de vuelo&nbsp;7 —que será el día libre de la tripulación— y el día de aterrizaje, se espera que tengan una o dos de estas oportunidades cada día de la misión.<br></p>
-
-
-<div id="" class="hds-media hds-module wp-block-image"><div class="margin-left-auto margin-right-auto nasa-block-align-inline"><div class="hds-media-wrapper margin-left-auto margin-right-auto"><figure class="hds-media-inner hds-cover-wrapper hds-media-ratio-cover "><a href="https://www.nasa.gov/wp-content/uploads/2026/03/orionsim-1.jpg"><img decoding="async" width="2048" height="1471" src="https://www.nasa.gov/wp-content/uploads/2026/03/orionsim-1.jpg?w=2048" class="attachment-2048x2048 size-2048x2048" alt="" style="transform: scale(1); transform-origin: 53% 20%; object-position: 53% 20%; object-fit: cover;" block_context="nasa-block" loading="lazy" srcset="https://www.nasa.gov/wp-content/uploads/2026/03/orionsim-1.jpg 7193w, https://www.nasa.gov/wp-content/uploads/2026/03/orionsim-1.jpg?resize=300,216 300w, https://www.nasa.gov/wp-content/uploads/2026/03/orionsim-1.jpg?resize=768,552 768w, https://www.nasa.gov/wp-content/uploads/2026/03/orionsim-1.jpg?resize=1024,736 1024w, https://www.nasa.gov/wp-content/uploads/2026/03/orionsim-1.jpg?resize=1536,1104 1536w, https://www.nasa.gov/wp-content/uploads/2026/03/orionsim-1.jpg?resize=2048,1471 2048w, https://www.nasa.gov/wp-content/uploads/2026/03/orionsim-1.jpg?resize=400,287 400w, https://www.nasa.gov/wp-content/uploads/2026/03/orionsim-1.jpg?resize=600,431 600w, https://www.nasa.gov/wp-content/uploads/2026/03/orionsim-1.jpg?resize=900,647 900w, https://www.nasa.gov/wp-content/uploads/2026/03/orionsim-1.jpg?resize=1200,862 1200w, https://www.nasa.gov/wp-content/uploads/2026/03/orionsim-1.jpg?resize=2000,1437 2000w" sizes="auto, (max-width: 2048px) 100vw, 2048px" /></a></figure><figcaption class="hds-caption padding-y-2"><div class="hds-caption-text p-sm margin-0">Los astronautas de la NASA Victor Glover y Reid Wiseman, y el astronauta de la CSA (Agencia Espacial Canadiense) Jeremy Hansen entrenan durante una simulación de Artemis II.</div><div class="hds-credits">Crédito: NASA/James Blair</div></figcaption></div></div></div>
-
-
-<p><strong>Día de vuelo 3<br><br></strong>El primero de los tres encendidos más pequeños de motores, denominado corrección de la trayectoria de salida, garantizará que Orion se mantenga <a>encaminada</a><a href="#_msocom_1">[VGMJ(N1]</a>&nbsp; para su trayectoria alrededor de la Luna, y tendrá lugar el día de vuelo&nbsp;3. Por la mañana, Hansen se preparará para esta maniobra orbital, la cual está programada para poco después de la comida del mediodía de la tripulación.<br><br>El resto del día incluirá diversas comprobaciones y demostraciones. Glover, Koch y Hansen harán una demostración de los procedimientos de reanimación cardiopulmonar en el espacio; Wiseman y Glover revisarán parte del kit médico de Orion, que incluye un termómetro, un monitor de presión arterial, un estetoscopio y un otoscopio.<br><br>Koch tiene tiempo reservado en la segunda mitad del día para poner a prueba el sistema de comunicaciones de emergencia de Orion con la Red del Espacio Profundo. Toda la tripulación se reunirá para ensayar la coreografía para el trabajo de observaciones científicas que harán el día de vuelo&nbsp;6, cuando Orion se acerque más a la Luna.<br><br><strong>Día de vuelo 4<br><br></strong>Una segunda maniobra orbital de corrección de la trayectoria de salida en el día de vuelo&nbsp;4 continuará refinando la trayectoria de Orion a la Luna mientras la tripulación perfecciona algunos de sus propios preparativos. Cada astronauta dedicará una hora a revisar los objetivos geográficos de los que se les pedirá que obtengan imágenes el día de vuelo&nbsp;6. Dado que esos objetivos variarán según la hora y el día del lanzamiento final de la tripulación, esto sirve como una oportunidad para estudiar exactamente lo que observarán a medida que se acerquen a la superficie lunar. Aunque es probable que tomen fotografías y videos desde las ventanas de Orion a menudo, el día de vuelo&nbsp;4 tiene 20 minutos en el programa dedicados específicamente a tomar fotos de cuerpos celestes desde las ventanas de la nave.<br><br><strong>Día de vuelo 5<br><br></strong>Orion entrará en la esfera de influencia lunar el día de vuelo&nbsp;5, marcando el punto en el que la atracción de la gravedad de la Luna se volverá más fuerte que la atracción de la gravedad de la Tierra.<br><br>Mientras ingresan en las cercanías de la Luna, la tripulación tendrá un día completo, y dedicarán la mañana casi en su totalidad a llevar a cabo las pruebas de sus trajes espaciales. Oficialmente conocidos como sistema de supervivencia de la tripulación de Orion, los trajes naranjas protegen a la tripulación durante el lanzamiento y el reingreso, pero también podrían usarse en caso de emergencia para proporcionar a cada miembro de la tripulación que tenga puesto este traje una atmósfera respirable durante un máximo de seis días en el caso de que Orion se despresurizara. Al ser los primeros astronautas en usar estos nuevos trajes en el espacio, la tripulación de Artemis&nbsp;II pondrá a prueba su capacidad para ponerse rápidamente los trajes y presurizarlos; instalar sus asientos y sentarse en ellos con los trajes puestos; comer y beber a través de un puerto situado en el casco de los trajes espaciales, y otras funciones.<br><br>Durante la tarde de la tripulación, se llevará a cabo la maniobra orbital final de corrección de la trayectoria de salida, antes del sobrevuelo lunar de Orion en el día de vuelo&nbsp;6.</p>
-
-
-<div id="" class="hds-media hds-module wp-block-image"><div class="margin-left-auto margin-right-auto nasa-block-align-inline"><div class="hds-media-wrapper margin-left-auto margin-right-auto"><figure class="hds-media-inner hds-cover-wrapper hds-media-ratio-cover "><a href="https://www.nasa.gov/wp-content/uploads/2026/03/orion.jpg"><img decoding="async" width="2048" height="1536" src="https://www.nasa.gov/wp-content/uploads/2026/03/orion.jpg?w=2048" class="attachment-2048x2048 size-2048x2048" alt="" style="transform: scale(1); transform-origin: 53% 30%; object-position: 53% 30%; object-fit: cover;" block_context="nasa-block" loading="lazy" srcset="https://www.nasa.gov/wp-content/uploads/2026/03/orion.jpg 4000w, https://www.nasa.gov/wp-content/uploads/2026/03/orion.jpg?resize=300,225 300w, https://www.nasa.gov/wp-content/uploads/2026/03/orion.jpg?resize=768,576 768w, https://www.nasa.gov/wp-content/uploads/2026/03/orion.jpg?resize=1024,768 1024w, https://www.nasa.gov/wp-content/uploads/2026/03/orion.jpg?resize=1536,1152 1536w, https://www.nasa.gov/wp-content/uploads/2026/03/orion.jpg?resize=2048,1536 2048w, https://www.nasa.gov/wp-content/uploads/2026/03/orion.jpg?resize=400,300 400w, https://www.nasa.gov/wp-content/uploads/2026/03/orion.jpg?resize=600,450 600w, https://www.nasa.gov/wp-content/uploads/2026/03/orion.jpg?resize=900,675 900w, https://www.nasa.gov/wp-content/uploads/2026/03/orion.jpg?resize=1200,900 1200w, https://www.nasa.gov/wp-content/uploads/2026/03/orion.jpg?resize=2000,1500 2000w" sizes="auto, (max-width: 2048px) 100vw, 2048px" /></a></figure><figcaption class="hds-caption padding-y-2"><div class="hds-caption-text p-sm margin-0">Esta foto, captada durante el quinto día de la misión Artemis I, el 20 de noviembre de 2022, muestra la nave espacial Orion con la Luna al fondo. La imagen fue tomada por una cámara situada en la punta de uno de los paneles solares de Orion.</div><div class="hds-credits">Crédito: NASA</div></figcaption></div></div></div>
-
-
-<p><strong>Día de vuelo 6<br><br></strong>La tripulación de Artemis&nbsp;II llegará a su punto más cercano a la Luna en el día de vuelo&nbsp;6, mientras viaja hasta su punto más alejado de la Tierra. Dependiendo de cuál sea el día de lanzamiento, Artemis&nbsp;II podría establecer un récord de la distancia máxima que un ser humano haya viajado desde la Tierra, para romper el récord actual de 400.171&nbsp;kilómetros (248.655&nbsp;millas) de distancia, establecido en 1970 por la tripulación del Apolo&nbsp;13. La distancia que recorrerá la tripulación de Artemis&nbsp;II dependerá del día y la hora exactos de su lanzamiento.<br><br>A lo largo del día, la tripulación se encontrará a una distancia de entre 6.400&nbsp;y&nbsp;9.700&nbsp;km (entre 4.000&nbsp;y&nbsp;6.000&nbsp;millas) de la superficie lunar mientras dan la vuelta alrededor del lado lejano de la Luna. Esta debería verse para ellos del tamaño de una pelota de baloncesto sostenida con el brazo extendido. Dedicarán la mayoría del día a tomar fotografías y videos de la Luna y a grabar sus observaciones, ya que se convertirán en los primeros seres humanos en ver con sus propios&nbsp;ojos algunas partes de la Luna.<br><br>Debido a que el ángulo del Sol sobre la Luna cambia casi un grado cada dos horas, la tripulación no sabrá qué condiciones de iluminación les esperan en la superficie lunar hasta el momento del lanzamiento. Si el Sol está alto en el cielo lunar durante el sobrevuelo, habrá pocas sombras y la tripulación buscará variaciones sutiles en el color y la corrección de la superficie. Si el Sol está más bajo en el horizonte, se extenderán largas sombras por la superficie, realzando el relieve y revelando las profundidades, las crestas, las pendientes, y los bordes de los cráteres que a menudo son difíciles de detectar con una iluminación plena. Si el Sol está arriba desde la perspectiva de Orion —como al mediodía en la Tierra—, las sombras serán pocas o inexistentes, creando condiciones de iluminación ideales para obtener imágenes cercanas de características lunares específicas.<br><br>La tripulación grabará sus observaciones en tiempo real, mientras toman fotografías y videos, incluso cuando pierdan la comunicación con la Tierra durante 30&nbsp;a&nbsp;50&nbsp;minutos mientras pasen detrás de la Luna. De esa manera, sus observaciones se podrán vincular más tarde con las imágenes exactas que hayan obtenido.<br><br><strong>Día de vuelo 7<br><br></strong>Orion saldrá de la esfera de influencia lunar en la mañana del día de vuelo&nbsp;7. Antes de que la tripulación de Artemis&nbsp;II se aleje demasiado de la Luna, los científicos en tierra, ansiosos por saber de ellos mientras la experiencia aún está fresca en sus mentes, tendrán tiempo para hablar con la tripulación.<br><br>En la segunda mitad del día de la tripulación, el motor de Orion volverá a encenderse para la primera de las tres maniobras orbitales de corrección de la trayectoria de regreso que ajustarán la trayectoria de Orion hacia la Tierra.<br><br>La tripulación tendrá libre gran parte del resto del día, lo que les dará la oportunidad de descansar antes de retomar sus tareas finales previas a su regreso a la Tierra.<br><br><strong>Día de vuelo 8</strong><br><br>Las actividades principales para el día de vuelo&nbsp;8 incluyen dos demostraciones de Orion.<br><br>Primero, la tripulación evaluará su capacidad para protegerse de eventos de gran radiación como las erupciones solares. Utilizarán los suministros y equipamientos de Orion para construir un refugio y cubrirse si fuera necesario. La radiación será una preocupación constante conforme los seres humanos se aventuren en el espacio profundo, y se llevarán a cabo diferentes experimentos con el fin de recopilar datos sobre los niveles de radiación dentro de Orion.<br><br>Al final del día, la tripulación hará una prueba de la capacidad de pilotaje manual de Orion conduciendo la nave espacial a través de una serie de tareas. Centrarán un objetivo elegido desde las ventanas de Orion, pasarán a una posición orientada de cola al Sol y efectuarán maniobras de orientación con relación al plano de vuelo comparando los modos de seis grados de libertad y tres grados de libertad de control de orientación de la&nbsp;nave.<br><br><strong>Día de vuelo 9<br><br></strong>El último día completo de Artemis&nbsp;II en el espacio comenzará con los preparativos para su regreso a la Tierra. La tripulación tendrá tiempo reservado para estudiar sus procedimientos de reingreso y amerizaje, y para hablar con el personal de control de vuelo. Otra maniobra orbital de corrección de la trayectoria de regreso garantizará que la nave espacial permanezca encaminada para ese regreso.<br><br>La tripulación completará otras demostraciones para cubrir su lista de tareas pendientes: sistemas de recolección de desechos en caso de que el inodoro de Orion no funcione correctamente y comprobaciones del ajuste de las prendas de vestir para combatir la intolerancia ortostática. La intolerancia ortostática —la cual puede causar síntomas como mareos y aturdimiento al estar de pie— es una posibilidad para los astronautas cuando regresan a la Tierra y sus cuerpos deben readaptarse a la fuerza de la gravedad sobre su suministro de sangre. Las prendas de compresión, que se usan debajo de los trajes espaciales, pueden aliviar estos síntomas.<br><br>Los miembros de la tripulación se probarán las prendas, tomarán medidas de su circunferencia corporal y completarán un cuestionario sobre cómo les <a>quedan</a><a href="#_msocom_2">[VGMJ(N2]</a>&nbsp; y qué tan fácil es ponerse y quitarse esta ropa.<br><br><strong>Día de vuelo 10<br><br></strong>El último día de la misión Artemis&nbsp;II está centrado en traer a la tripulación a salvo de regreso a la Tierra. Una última maniobra orbital de corrección de la trayectoria de regreso garantizará que Orion esté en la trayectoria correcta para el amerizaje. Además, la tripulación regresará la cabina a su configuración original —con el equipamiento guardado y los asientos en su lugar— y volverá a ponerse sus trajes espaciales.<br><br>El módulo de la tripulación se separará del módulo de servicio, cuyos motores los han conducido alrededor de la Luna y de regreso a la Tierra. Esto expondrá el escudo térmico del módulo de la tripulación, el cual protegerá a la nave espacial y a la tripulación a medida que regresan atravesando la atmósfera terrestre con temperaturas de hasta unos 1.650&nbsp;grados Celsius (3.000&nbsp;grados Fahrenheit). Una vez que hayan superado con seguridad el calor del reingreso, la cubierta que protegía la bahía delantera de la nave espacial será desechada para dar paso al despliegue de una serie de paracaídas: dos paracaídas de frenado que reducirán la velocidad de la cápsula hasta unos 494&nbsp;kilómetros por hora (307&nbsp;millas por hora), seguidos por tres paracaídas piloto que desplegarán los últimos tres paracaídas principales. Estos reducirán la velocidad de Orion hasta casi 27&nbsp;km/h (17&nbsp;mi/h) para el amerizaje en el océano Pacífico, donde estará esperando el personal de la NASA y la Marina de Estados Unidos, concluyendo así la misión Artemis&nbsp;II.<br></p>
-]]></content:encoded>
-					
-		
-		
-			</item>
-		<item>
-		<title>NASA’s Artemis II Moon Mission Daily Agenda</title>
-		<link>https://www.nasa.gov/missions/artemis/nasas-artemis-ii-moon-mission-daily-agenda/</link>
-		
-		<dc:creator><![CDATA[Lauren E. Low]]></dc:creator>
-		<pubDate>Fri, 13 Mar 2026 15:21:40 +0000</pubDate>
-				<category><![CDATA[Artemis]]></category>
-		<category><![CDATA[Artemis 2]]></category>
-		<category><![CDATA[Exploration Systems Development Mission Directorate]]></category>
-		<category><![CDATA[Missions]]></category>
-		<guid isPermaLink="false">https://www.nasa.gov/?p=973273</guid>
-
-					<description><![CDATA[About eight minutes after Artemis II lifts off, the Orion spacecraft and its crew, NASA astronauts Reid Wiseman, Victor Glover, and Christina Koch, along with CSA (Canadian Space Agency) astronaut Jeremy Hansen, will be in space. The approximately 10-day test flight will be packed with activity as the astronauts venture around the Moon and back, [&#8230;]]]></description>
-										<content:encoded><![CDATA[<div id="" class="hds-media hds-module wp-block-image"><div class="margin-left-auto margin-right-auto nasa-block-align-inline"><div class="hds-media-wrapper margin-left-auto margin-right-auto"><figure class="hds-media-inner hds-cover-wrapper hds-media-ratio-cover "><a href="https://www.nasa.gov/wp-content/uploads/2026/03/suit-patch.jpg"><img decoding="async" width="2048" height="1314" src="https://www.nasa.gov/wp-content/uploads/2026/03/suit-patch.jpg?w=2048" class="attachment-2048x2048 size-2048x2048" alt="" style="transform: scale(1); transform-origin: 50% 50%; object-position: 50% 50%; object-fit: cover;" block_context="nasa-block" loading="lazy" srcset="https://www.nasa.gov/wp-content/uploads/2026/03/suit-patch.jpg 8256w, https://www.nasa.gov/wp-content/uploads/2026/03/suit-patch.jpg?resize=300,192 300w, https://www.nasa.gov/wp-content/uploads/2026/03/suit-patch.jpg?resize=768,493 768w, https://www.nasa.gov/wp-content/uploads/2026/03/suit-patch.jpg?resize=1024,657 1024w, https://www.nasa.gov/wp-content/uploads/2026/03/suit-patch.jpg?resize=1536,985 1536w, https://www.nasa.gov/wp-content/uploads/2026/03/suit-patch.jpg?resize=2048,1314 2048w, https://www.nasa.gov/wp-content/uploads/2026/03/suit-patch.jpg?resize=400,257 400w, https://www.nasa.gov/wp-content/uploads/2026/03/suit-patch.jpg?resize=600,385 600w, https://www.nasa.gov/wp-content/uploads/2026/03/suit-patch.jpg?resize=900,577 900w, https://www.nasa.gov/wp-content/uploads/2026/03/suit-patch.jpg?resize=1200,770 1200w, https://www.nasa.gov/wp-content/uploads/2026/03/suit-patch.jpg?resize=2000,1283 2000w" sizes="auto, (max-width: 2048px) 100vw, 2048px" /></a></figure><figcaption class="hds-caption padding-y-2"><div class="hds-caption-text p-sm margin-0">The Artemis II mission patch is seen on the right shoulder of the Orion Crew Survival System suits that NASA astronauts Reid Wiseman, Victor Glover, and Christina Koch, and CSA (Canadian Space Agency) astronaut Jeremy Hansen will wear on the Artemis II test flight are seen, Jan. 17, 2026, in the suit-up room of the Neil A. Armstrong Operations and Checkout Building at NASA’s Kennedy Space Center in Florida. </div><div class="hds-credits">Credit: NASA/Joel Kowsky</div></figcaption></div></div></div>
-
-
-<p>About eight minutes after Artemis II lifts off, the Orion spacecraft and its crew, NASA astronauts Reid Wiseman, Victor Glover, and Christina Koch, along with CSA (Canadian Space Agency) astronaut Jeremy Hansen, will be in space. The approximately 10-day test flight will be packed with activity as the astronauts venture around the Moon and back, with teams checking out Orion’s systems along the way. While teams in mission control could refine the crew’s schedule each day based on operational activities during the test flight, ground teams and the crew have a general plan for each day of the mission.</p>
-
-
-
-<p><strong>Launch Day/Flight Day 1:</strong></p>
-
-
-
-<p>Once the SLS (Space Launch System) rocket’s main engines cutoff, Orion and the interim cryogenic propulsion stage (ICPS) separate from the rest of rocket. The ICPS still has work to do – about 49 minutes after launch, its engine will fire to raise the perigee, or lowest point of a spacecraft’s orbit, to a safe altitude of 100 miles above Earth. About an hour later, when Orion reaches that perigee, the ICPS will fire again to continue raising the spacecraft into a high-Earth orbit. The crew will then have about 23 hours to do a thorough checkout of Orion’s systems while still relatively close to home.</p>
-
-
-
-<p>The crew will start testing systems like the potable water dispenser that will provide drinking water and rehydrate the food they brought along, the toilet, and the system that removes carbon dioxide from the air. The crewmates also can take off the orange spacesuits worn for launch and work in regular clothing. They’ll spend time rearranging Orion’s interior to function as a living and workspace for four floating people over the next 10 days.</p>
-
-
-
-<p>About three hours into the mission, NASA will test how Orion handles.</p>
-
-
-
-<p>On future missions, Orion will dock with other spacecraft. To verify Orion will do so safely, the ICPS will be repurposed as a docking target. It will separate from Orion, and the crew will practice flying their spacecraft toward and around it in a proximity operations demonstration. Afterward, the ICPS will fire its engines again for a disposal burn that will send it into the Pacific Ocean, and Orion will continue its high Earth orbit.</p>
-
-
-
-<p>After about eight-and-a-half hours in space, the astronauts will sleep for a short period. The four astronauts will be awakened after about four hours to perform an additional engine firing that will put Orion into the correct orbital geometry for its translunar injection (TLI) burn on flight day 2. They’ll also take the opportunity to perform a brief check out of their emergency communications on the Deep Space Network, at the most-distant point of their high Earth orbit, which is necessary before the TLI.</p>
-
-
-
-<p>After this, they’ll be able to go back to sleep for another four-and-a-half hours, wrapping up flight day 1.</p>
-
-
-
-<p><strong>Flight Day 2</strong></p>
-
-
-
-<p>Wiseman and Glover will begin their day setting up and checking out Orion’s <a href="https://www.nasa.gov/humans-in-space/life-encapsulated-inside-nasas-orion-for-artemis-ii-moon-mission/#hds-sidebar-nav-3">flywheel exercise device</a> before getting in their first workouts of the mission. Koch and Hansen have exercise scheduled for the second half of the day. The morning workouts will provide another test of Orion’s life support systems before leaving Earth orbit.</p>
-
-
-
-<p>Koch will spend her morning preparing for the main event of the day – the translunar injection burn. The TLI is the last major engine firing of the Artemis II mission and will set Orion on the path to the Moon. And since Orion is using a free-return trajectory to swing around the far side of the Moon, the TLI engine firing also puts Orion on the path to return to Earth on flight day 10.</p>
-
-
-
-<p>Koch will set up Orion’s system to perform the burn, done by Orion’s main engine on the spacecraft’s European Service Module. Also called the orbital maneuvering system engine, it provides up to 6,000 pounds of thrust – enough to accelerate a car from 0 to 60 mph in about 2.7 seconds.</p>
-
-
-
-<p>Following TLI, the crew has a lighter day of activity, with time set aside to acclimate to the space environment. They’ll have an opportunity to participate in a space to ground video communication – the first of several that will take place throughout the mission. With the exception of flight day 7 – the crew’s off-duty day – and landing day, they are expected to have one or two of these opportunities each day of the mission.</p>
-
-
-<div id="" class="hds-media hds-module wp-block-image"><div class="margin-left-auto margin-right-auto nasa-block-align-inline"><div class="hds-media-wrapper margin-left-auto margin-right-auto"><figure class="hds-media-inner hds-cover-wrapper hds-media-ratio-cover "><a href="https://www.nasa.gov/wp-content/uploads/2026/03/orionsim-1.jpg"><img decoding="async" width="2048" height="1471" src="https://www.nasa.gov/wp-content/uploads/2026/03/orionsim-1.jpg?w=2048" class="attachment-2048x2048 size-2048x2048" alt="" style="transform: scale(1); transform-origin: 56% 13%; object-position: 56% 13%; object-fit: cover;" block_context="nasa-block" loading="lazy" srcset="https://www.nasa.gov/wp-content/uploads/2026/03/orionsim-1.jpg 7193w, https://www.nasa.gov/wp-content/uploads/2026/03/orionsim-1.jpg?resize=300,216 300w, https://www.nasa.gov/wp-content/uploads/2026/03/orionsim-1.jpg?resize=768,552 768w, https://www.nasa.gov/wp-content/uploads/2026/03/orionsim-1.jpg?resize=1024,736 1024w, https://www.nasa.gov/wp-content/uploads/2026/03/orionsim-1.jpg?resize=1536,1104 1536w, https://www.nasa.gov/wp-content/uploads/2026/03/orionsim-1.jpg?resize=2048,1471 2048w, https://www.nasa.gov/wp-content/uploads/2026/03/orionsim-1.jpg?resize=400,287 400w, https://www.nasa.gov/wp-content/uploads/2026/03/orionsim-1.jpg?resize=600,431 600w, https://www.nasa.gov/wp-content/uploads/2026/03/orionsim-1.jpg?resize=900,647 900w, https://www.nasa.gov/wp-content/uploads/2026/03/orionsim-1.jpg?resize=1200,862 1200w, https://www.nasa.gov/wp-content/uploads/2026/03/orionsim-1.jpg?resize=2000,1437 2000w" sizes="auto, (max-width: 2048px) 100vw, 2048px" /></a></figure><figcaption class="hds-caption padding-y-2"><div class="hds-caption-text p-sm margin-0">NASA astronauts Victor Glover and Reid Wiseman, and CSA (Canadian Space Agency) astronaut Jeremy Hansen train during an Artemis II simulation.</div><div class="hds-credits">Credit: NASA/James Blair</div></figcaption></div></div></div>
-
-
-<p><strong>Flight Day 3</strong></p>
-
-
-
-<p>The first of three smaller engine firings, called the outbound trajectory correction, will ensure Orion is staying on target for its path around the Moon and will take place on flight day 3. Hansen will prepare for the burn in the morning, which is scheduled to happen shortly after the crew’s midday meal.</p>
-
-
-
-<p>The rest of the day will include a variety of checkouts and demonstrations. Glover, Koch, and Hansen will demonstrate CPR procedures in space; Wiseman and Glover will checkout some of Orion’s medical kit, including the thermometer, blood pressure monitor, stethoscope, and otoscope.</p>
-
-
-
-<p>Koch has time set aside in the second half of the day to test Orion’s emergency communications system on the <a href="https://www.nasa.gov/communicating-with-missions/dsn/">Deep Space Network</a>. The entire crew will come together to rehearse the choreography for the scientific observation work they’ll do on flight day 6, when Orion comes the closest to the Moon.</p>
-
-
-
-<p><strong>Flight Day 4</strong></p>
-
-
-
-<p>A second outbound trajectory correction burn on flight day 4 will continue to refine Orion’s path to the Moon as the crew perfects some of their own preparations. They’ll each have an hour devoted to reviewing the geography targets they’ll be asked to get imagery of on flight day 6. Since those will vary depending on the crew’s final launch time and day, this serves as an opportunity to study exactly what they’ll be looking for as they draw close to the lunar surface. Although they will likely take photos and video out of Orion’s windows often, flight day 4 has 20 minutes on the schedule specifically dedicated to taking photos of celestial bodies from Orion’s windows.</p>
-
-
-
-<p><strong>Flight Day 5</strong></p>
-
-
-
-<p>Orion will enter the lunar sphere of influence on flight day 5, marking the point at which the pull of the Moon’s gravity will become stronger than the pull of the Earth’s gravity.</p>
-
-
-
-<p>As they enter the Moon’s neighborhood, the crew will have a full day, with the morning almost entirely devoted to tests of their spacesuits. Officially called the <a href="https://www.nasa.gov/missions/artemis/orion-suit-equipped-to-expect-the-unexpected-on-artemis-missions/">Orion crew survival system</a>, the orange suits protect the crew during launch and reentry, but also could be used in an emergency to provide the crew member wearing it with a breathable atmosphere for up to six days if Orion depressurized. As the first astronauts to wear the new suits in space, the Artemis II crew will be testing their ability to quickly put the suits on and pressurize them; install their seats and get into them while wearing the suits; eat and drink through a port on the spacesuits’ helmet; and other functions.</p>
-
-
-
-<p>During the crew’s afternoon, the final outbound trajectory correction burn will take place before Orion’s lunar flyby on flight day 6.</p>
-
-
-<div id="" class="hds-media hds-module wp-block-image"><div class="margin-left-auto margin-right-auto nasa-block-align-inline"><div class="hds-media-wrapper margin-left-auto margin-right-auto"><figure class="hds-media-inner hds-cover-wrapper hds-media-ratio-cover "><a href="https://www.nasa.gov/wp-content/uploads/2026/03/orion.jpg"><img decoding="async" width="2048" height="1536" src="https://www.nasa.gov/wp-content/uploads/2026/03/orion.jpg?w=2048" class="attachment-2048x2048 size-2048x2048" alt="" style="transform: scale(1); transform-origin: 56% 29%; object-position: 56% 29%; object-fit: cover;" block_context="nasa-block" loading="lazy" srcset="https://www.nasa.gov/wp-content/uploads/2026/03/orion.jpg 4000w, https://www.nasa.gov/wp-content/uploads/2026/03/orion.jpg?resize=300,225 300w, https://www.nasa.gov/wp-content/uploads/2026/03/orion.jpg?resize=768,576 768w, https://www.nasa.gov/wp-content/uploads/2026/03/orion.jpg?resize=1024,768 1024w, https://www.nasa.gov/wp-content/uploads/2026/03/orion.jpg?resize=1536,1152 1536w, https://www.nasa.gov/wp-content/uploads/2026/03/orion.jpg?resize=2048,1536 2048w, https://www.nasa.gov/wp-content/uploads/2026/03/orion.jpg?resize=400,300 400w, https://www.nasa.gov/wp-content/uploads/2026/03/orion.jpg?resize=600,450 600w, https://www.nasa.gov/wp-content/uploads/2026/03/orion.jpg?resize=900,675 900w, https://www.nasa.gov/wp-content/uploads/2026/03/orion.jpg?resize=1200,900 1200w, https://www.nasa.gov/wp-content/uploads/2026/03/orion.jpg?resize=2000,1500 2000w" sizes="auto, (max-width: 2048px) 100vw, 2048px" /></a></figure><figcaption class="hds-caption padding-y-2"><div class="hds-caption-text p-sm margin-0">Taken on the fifth day of the Artemis I mission, on Nov. 20, 2022, this photo showing the Orion spacecraft with the Moon beyond was captured by a camera on the tip of one of Orion’s solar arrays.</div><div class="hds-credits">Credit: NASA</div></figcaption></div></div></div>
-
-
-<p><strong>Flight Day 6</strong></p>
-
-
-
-<p>The Artemis II crew will come their closest to the Moon on flight day 6, while traveling the farthest from Earth. Artemis II could set a record for the farthest anyone has traveled from Earth depending on launch day, breaking the current record – 248,655 miles away – set in 1970 by the Apollo 13 crew. The distance the Artemis II crew will travel depends on their exact launch day and time.</p>
-
-
-
-<p>Over the course of the day, the crew will come within 4,000 to 6,000 miles of the lunar surface as they swing around the far side of the Moon – it should look to them about the size of a basketball held at arm’s length. They will devote the majority of their day to taking photos and videos of the Moon, and recording their observations as they become the first to <a href="https://www.youtube.com/watch?v=wdF4wyTarrI" rel="noopener">see some parts of the Moon</a> with their own eyes.</p>
-
-
-
-<p>Because the Sun’s angle on the Moon changes by about one degree every two hours, the crew won’t be sure what lighting conditions to expect on the lunar surface until they launch. If the Sun is high in the lunar sky during the flyby, there will be few shadows, and the crew will be looking for subtle variations in surface color and rightness. If the Sun is lower on the horizon, long shadows will stretch across the surface, enhancing relief and revealing depth, ridges, slopes, and crater rims that are often difficult to detect under full illumination. If the Sun is overhead from Orion’s perspective – like noon on Earth – shadows will be few to nonexistent, creating ideal lighting conditions for close-up imaging of specific lunar features.</p>
-
-
-
-<p>The crew will record their observations in real time, as they take photos and videos – including when they lose communication with Earth for 30-50 minutes as they pass behind the Moon. That way, their observations can later be linked with the exact images they took.</p>
-
-
-
-<p><strong>Flight Day 7</strong></p>
-
-
-
-<p>Orion will exit the lunar sphere of influence the morning of flight day 7. Before the Artemis II crew gets too far away from the Moon, scientists on the ground, eager to hear from them while the experience is still fresh in their minds, will have time to speak with the crew.</p>
-
-
-
-<p>In the second half of the crew’s day, the Orion engine will fire again for the first of three return trajectory correction burns that will adjust Orion’s path home.</p>
-
-
-
-<p>The rest of the day will be largely off-duty for the crew, giving them a chance to rest before jumping back into their final tasks before their return to Earth.</p>
-
-
-
-<p><strong>Flight Day 8</strong></p>
-
-
-
-<p>The primary activities for flight day 8 include two Orion demonstrations.</p>
-
-
-
-<p>First, the crew will assess their ability to protect themselves from high radiation events like solar flares. They’ll use Orion’s supplies and equipment to build a shelter for cover if needed. Radiation will be an ongoing concern as humans venture into deep space, and <a href="https://www.nasa.gov/general/artemis-ii-crew-both-subjects-and-scientists-in-nasa-deep-space-research/#hds-sidebar-nav-5">multiple experiments</a> will be aimed at collecting data on the radiation levels inside Orion.</p>
-
-
-
-<p>At the end of the day, the crew will try out Orion’s manual piloting capability by steering the spacecraft through a variety of tasks. They’ll center a chosen target in Orion’s windows, move into a tail-to-Sun attitude, and perform attitude maneuvers comparing the craft’s six-degree-of-freedom and three-degree-of-freedom attitude control modes.</p>
-
-
-
-<p><strong>Flight Day 9</strong></p>
-
-
-
-<p>Artemis II’s last full day in space will kick off with prep for their return to Earth. The crew has time set aside to study their procedures for reentry and splashdown, and talk with the flight control team. Another return trajectory correction burn will ensure the spacecraft remains on target for that return.</p>
-
-
-
-<p>The crew will complete more demonstrations to check off their to-do list: waste collection systems in case the Orion toilet doesn’t function properly and orthostatic intolerance garment fit checks. Orthostatic intolerance – which can cause symptoms such as dizziness and lightheadedness while standing – is a possibility for astronauts when they return to Earth and their bodies must readapt to the pull of gravity on their blood supply. Compression garments, worn under spacesuits, can help.</p>
-
-
-
-<p>The crew members will try their garments on, take body circumference measurements, and complete a questionnaire on how it fits, and how easy it is to put on and take off.</p>
-
-
-
-<p><strong>Flight Day 10</strong></p>
-
-
-
-<p>The last day of the Artemis II mission is focused on getting the crew safely home. A final return trajectory correction burn will ensure Orion is on the right path for splashdown, and the crew will return their cabin to its original set up – with equipment stowed and seats in place – and get back into their spacesuits.</p>
-
-
-
-<p>The crew module will separate from the service module, whose engines have steered them around the Moon and back to Earth. This will expose the crew module’s heat shield, which will protect the spacecraft and crew as they make their way back through Earth’s atmosphere and temperatures of up about 3,000 degrees Fahrenheit. Once safely through the heat of reentry, the cover that protected the spacecraft’s forward bay will be jettisoned to make way for a series of parachutes to deploy – two drogue parachutes that will slow the capsule down to about 307 miles per hour, followed by three pilot parachutes that will pull out the final three main parachutes. These will slow Orion down to approximately 17 mph for a splashdown in the Pacific Ocean, where NASA and U.S. Navy personnel will be waiting for them, concluding the Artemis II mission.</p>
 ]]></content:encoded>
 					
 		
