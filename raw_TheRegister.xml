@@ -13,7 +13,31 @@
   <icon>https://www.theregister.com/Design/graphics/icons/favicon.png</icon>
   <subtitle>Biting the hand that feeds IT — Enterprise Technology News and Analysis</subtitle>
   <logo>https://www.theregister.com/Design/graphics/Reg_default/The_Register_r.png</logo>
-  <updated>2026-03-16T13:27:46.00Z</updated>
+  <updated>2026-03-16T14:35:23.00Z</updated>
+  <entry>
+    <id>tag:theregister.com,2005:story245123</id>
+    <published>2026-03-16T14:35:23.00Z</published>
+    <updated>2026-03-16T14:35:23.00Z</updated>
+    <author>
+      <name>Liam Proven</name>
+      <uri>https://search.theregister.com/?author=Liam%20Proven</uri>
+    </author>
+    <link rel="alternate" type="text/html" href="https://go.theregister.com/feed/www.theregister.com/2026/03/16/digital_fruit_fly_brain_model/"/>
+    <title type="html">Boffins hook fly brain map to virtual body, which starts looking for sugar</title>
+    <summary type="html" xml:base="https://www.theregister.com/">&lt;h4&gt;Early demo hints at a future sci-fi writers warned us about&lt;/h4&gt; &lt;p&gt;San Francisco startup Eon Systems claims that it has created the first digital simulation of a fruit fly brain that can control a virtual body and produce recognizable behaviors.…&lt;/p&gt;</summary>
+  </entry>
+  <entry>
+    <id>tag:theregister.com,2005:story245121</id>
+    <published>2026-03-16T14:19:33.00Z</published>
+    <updated>2026-03-16T14:19:33.00Z</updated>
+    <author>
+      <name>Richard Speed</name>
+      <uri>https://search.theregister.com/?author=Richard%20Speed</uri>
+    </author>
+    <link rel="alternate" type="text/html" href="https://go.theregister.com/feed/www.theregister.com/2026/03/16/free_software_foundation_urges_ai/"/>
+    <title type="html">Free Software Foundation calls for free-range LLMs rather than factory-farmed AI</title>
+    <summary type="html" xml:base="https://www.theregister.com/">&lt;h4&gt;F is for Free, FSF, and fat chance&lt;/h4&gt; &lt;p&gt;The Free Software Foundation (FSF) has rattled a saber at Anthropic over the use of its materials in training the AI vendor's models.…&lt;/p&gt; &lt;p&gt;&lt;!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --&gt;&lt;/p&gt;</summary>
+  </entry>
   <entry>
     <id>tag:theregister.com,2005:story245122</id>
     <published>2026-03-16T13:27:46.00Z</published>
@@ -293,7 +317,7 @@
   <entry>
     <id>tag:theregister.com,2005:story245101</id>
     <published>2026-03-13T13:44:57.00Z</published>
-    <updated>2026-03-13T13:44:57.00Z</updated>
+    <updated>2026-03-16T14:25:36.00Z</updated>
     <author>
       <name>Lindsay Clark</name>
       <uri>https://search.theregister.com/?author=Lindsay%20Clark</uri>
@@ -589,29 +613,5 @@
     <link rel="alternate" type="text/html" href="https://go.theregister.com/feed/www.theregister.com/2026/03/12/oracle_increases_restructuring_fund_for/"/>
     <title type="html">Oracle tops up restructuring fund for FY26 by $500M</title>
     <summary type="html" xml:base="https://www.theregister.com/">&lt;h4&gt;Pot of money grows to $2.1BN for fiscal '26, as Big Red exec says AI helping smaller engineering teams do more&lt;/h4&gt; &lt;p&gt;Oracle has increased funding for its restructuring plans for the current financial year by $500 million, with some observers anticipating a spate of job losses.…&lt;/p&gt; &lt;p&gt;&lt;!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --&gt;&lt;/p&gt;</summary>
-  </entry>
-  <entry>
-    <id>tag:theregister.com,2005:story245073</id>
-    <published>2026-03-12T15:33:07.00Z</published>
-    <updated>2026-03-13T09:32:55.00Z</updated>
-    <author>
-      <name>Richard Speed</name>
-      <uri>https://search.theregister.com/?author=Richard%20Speed</uri>
-    </author>
-    <link rel="alternate" type="text/html" href="https://go.theregister.com/feed/www.theregister.com/2026/03/12/musk_macrohard/"/>
-    <title type="html">Musk makes the Macrohard joke again</title>
-    <summary type="html" xml:base="https://www.theregister.com/">&lt;h4&gt;The idea being that fleets of AI agents could emulate the 'function of entire companies'&lt;/h4&gt; &lt;p&gt;Elon Musk wheeled out his "Macrohard" dad joke again in the form of a supposed fleet of "Digital Optimus" agents that he claims would be capable of "emulating the function of entire companies."…&lt;/p&gt;</summary>
-  </entry>
-  <entry>
-    <id>tag:theregister.com,2005:story245065</id>
-    <published>2026-03-12T14:36:14.00Z</published>
-    <updated>2026-03-12T14:36:14.00Z</updated>
-    <author>
-      <name>Tim Anderson</name>
-      <uri>https://search.theregister.com/?author=Tim%20Anderson</uri>
-    </author>
-    <link rel="alternate" type="text/html" href="https://go.theregister.com/feed/www.theregister.com/2026/03/12/users_protest_as_google_antigravity/"/>
-    <title type="html">Users protest as Google Antigravity price floats upward</title>
-    <summary type="html" xml:base="https://www.theregister.com/">&lt;h4&gt;Google evolves its pricing for agentic AI tool, pointing devs towards on-demand credits or $250 per month Ultra plan&lt;/h4&gt; &lt;p&gt;Developers using Google's Antigravity agentic AI coding tool are complaining about higher prices following an announcement yesterday that the company is evolving its AI plans.…&lt;/p&gt;</summary>
   </entry>
 </feed>

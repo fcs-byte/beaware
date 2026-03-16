@@ -4,7 +4,7 @@
         <atom:link href="https://arstechnica.com/feed/" rel="self" type="application/rss+xml"/>
         <link>https://arstechnica.com</link>
         <description>All Ars Technica stories</description>
-        <lastBuildDate>Mon, 16 Mar 2026 12:41:59 +0000</lastBuildDate>
+        <lastBuildDate>Mon, 16 Mar 2026 14:06:29 +0000</lastBuildDate>
         <language>en-US</language>
         <sy:updatePeriod>
             hourly        </sy:updatePeriod>
@@ -19,6 +19,40 @@
 	<height>32</height>
 </image> 
             <item>
+                <title>No accountability: Bills would ban liability lawsuits for climate change</title>
+                <link>https://arstechnica.com/tech-policy/2026/03/emerging-legislation-would-shield-polluters-from-liability-for-climate-change/</link>
+                                    <comments>https://arstechnica.com/tech-policy/2026/03/emerging-legislation-would-shield-polluters-from-liability-for-climate-change/#comments</comments>
+                
+                <dc:creator>
+                    <![CDATA[Dana Drugmand, Inside Climate News]]>
+                </dc:creator>
+                <pubDate>Mon, 16 Mar 2026 13:33:15 +0000</pubDate>
+                		<category><![CDATA[Policy]]></category>
+		<category><![CDATA[BP]]></category>
+		<category><![CDATA[climate change]]></category>
+		<category><![CDATA[fossil fuels]]></category>
+		<category><![CDATA[Republican party]]></category>
+                <guid isPermaLink="true">https://arstechnica.com/tech-policy/2026/03/emerging-legislation-would-shield-polluters-from-liability-for-climate-change/</guid>
+
+                                    <description>
+                        <![CDATA[This is the latest front in the battle over climate lawsuits.]]>
+                    </description>
+                                                                <content:encoded>
+                            <![CDATA[<p>Republican lawmakers in multiple states and Congress are advancing proposals to shield polluters from climate accountability and prevent any type of liability for climate change harms—even as these harms and their associated costs continue to mount.</p>
+<p>It’s the latest in a counter-offensive that has <a href="https://insideclimatenews.org/news/26102025/trump-republicans-big-oil-climate-liability/">unfolded on multiple fronts</a>, from the <a href="https://www.wsj.com/business/energy-oil/oil-companies-seek-trumps-help-to-thwart-climate-lawsuits-superfund-laws-7e332d0d?mod=climate-environment_news_article_pos3">halls of Congress and the White House</a> to courts and <a href="https://www.exxonknews.org/p/the-top-cops-working-to-shield-big">state attorneys general offices</a> across the country.</p>
+<p>Dozens of local communities, states, and individuals are suing major oil and gas companies and their trade associations over rising climate costs and for allegedly lying to consumers about climate change risks and solutions. At the same time, some states are enacting or considering laws modeled after the federal Superfund program that would impose retroactive liability on large fossil fuel producers and levy a one-time charge on them to help fund climate adaptation and resiliency measures.</p><p><a href="https://arstechnica.com/tech-policy/2026/03/emerging-legislation-would-shield-polluters-from-liability-for-climate-change/">Read full article</a></p>
+<p><a href="https://arstechnica.com/tech-policy/2026/03/emerging-legislation-would-shield-polluters-from-liability-for-climate-change/#comments">Comments</a></p>
+]]>
+                        </content:encoded>
+                                    
+                                    <slash:comments>16</slash:comments>
+                
+                
+                <media:content height="648" medium="image" type="image/jpeg" url="https://cdn.arstechnica.net/wp-content/uploads/2021/09/GettyImages-1297809831-1024x648.jpg" width="1024">
+<media:thumbnail height="500" url="https://cdn.arstechnica.net/wp-content/uploads/2021/09/GettyImages-1297809831-500x500.jpg" width="500"/>
+<media:credit>Education Images/Getty Images</media:credit><media:text>To reach our climate goals, we'll need to stop building these.</media:text></media:content>
+            </item>
+                    <item>
                 <title>The science of how fireflies stay in sync</title>
                 <link>https://arstechnica.com/science/2026/03/the-science-of-how-fireflies-stay-in-sync/</link>
                                     <comments>https://arstechnica.com/science/2026/03/the-science-of-how-fireflies-stay-in-sync/#comments</comments>
@@ -46,7 +80,7 @@
 ]]>
                         </content:encoded>
                                     
-                                    <slash:comments>2</slash:comments>
+                                    <slash:comments>7</slash:comments>
                 
                 
                 <media:content height="648" medium="image" type="image/jpeg" url="https://cdn.arstechnica.net/wp-content/uploads/2026/03/firefly1-1152x648-1773595049.jpg" width="1152">
@@ -83,7 +117,7 @@
 ]]>
                         </content:encoded>
                                     
-                                    <slash:comments>11</slash:comments>
+                                    <slash:comments>20</slash:comments>
                 
                 
                 <media:content height="648" medium="image" type="image/jpeg" url="https://cdn.arstechnica.net/wp-content/uploads/2026/03/GettyImages-480542603-1152x648.jpg" width="1152">
@@ -114,7 +148,7 @@
 ]]>
                         </content:encoded>
                                     
-                                    <slash:comments>114</slash:comments>
+                                    <slash:comments>121</slash:comments>
                 
                 
                 <media:content height="648" medium="image" type="image/jpeg" url="https://cdn.arstechnica.net/wp-content/uploads/2026/03/honda-prelude-ad-1152x648.jpg" width="1152">
@@ -148,7 +182,7 @@
 ]]>
                         </content:encoded>
                                     
-                                    <slash:comments>299</slash:comments>
+                                    <slash:comments>308</slash:comments>
                 
                 
                 <media:content height="648" medium="image" type="image/jpeg" url="https://cdn.arstechnica.net/wp-content/uploads/2023/11/getty-musk-1152x648.jpg" width="1152">
@@ -186,7 +220,7 @@
 ]]>
                         </content:encoded>
                                     
-                                    <slash:comments>148</slash:comments>
+                                    <slash:comments>149</slash:comments>
                 
                 
                 <media:content height="648" medium="image" type="image/jpeg" url="https://cdn.arstechnica.net/wp-content/uploads/2026/01/IMG_0397-1-1152x648-1773442516.jpg" width="1152">
@@ -215,13 +249,13 @@
                     </description>
                                                                 <content:encoded>
                             <![CDATA[<p>A 58-year-old woman in Greece appears to hold the record for growing a parasitic sheep bot fly in her nose the longest, almost creating a snot rocket that could literally fly.</p>
-<p>Usually, when the sheep bot fly accidentally nosedives into a human's schnoz, the first-stage larvae they deliver don’t actually develop. In contrast, in its normal target—a sheep's nose— the larvae would move up into the sinuses, feed, grow, and molt into second- and third-stage larvae. From there, the flies (<em>Oestrus ovis</em>) drip from the nose onto the ground, burrow into the soil, pupate, and emerge as adult flies.</p>
+<p>Usually, when the sheep bot fly accidentally nosedives into a human's schnoz, the first-stage larvae they deliver don’t actually develop. In contrast, in its normal target—a sheep's nose—the larvae would move up into the sinuses, feed, grow, and molt into second- and third-stage larvae. From there, the flies (<em>Oestrus ovis</em>) drip from the nose onto the ground, burrow into the soil, pupate, and emerge as adult flies.</p>
 <p>For a long time, experts thought that the flies couldn't complete their development in humans beyond the first larval stage. But a few human cases have been reported in recent decades involving the second- and third-stage larvae. The woman's case, <a href="https://wwwnc.cdc.gov/eid/article/32/3/25-1077_article">reported in the Journal of Emerging Infectious Diseases</a> by a medical entomologist and colleagues, goes the furthest yet, finding pupa and a puparium—the hard casing of a pupa—in the woman's nose.</p><p><a href="https://arstechnica.com/health/2026/03/woman-sneezes-out-maggots-after-fly-larvae-get-trapped-in-her-deviated-septum/">Read full article</a></p>
 <p><a href="https://arstechnica.com/health/2026/03/woman-sneezes-out-maggots-after-fly-larvae-get-trapped-in-her-deviated-septum/#comments">Comments</a></p>
 ]]>
                         </content:encoded>
                                     
-                                    <slash:comments>144</slash:comments>
+                                    <slash:comments>148</slash:comments>
                 
                 
                 <media:content height="648" medium="image" type="image/jpeg" url="https://cdn.arstechnica.net/wp-content/uploads/2018/01/GettyImages-515388062-1152x648.jpg" width="1152">
@@ -253,7 +287,7 @@
                             <![CDATA[
 <p>Do you remember the joyful satisfaction you felt when you really started to understand <i>Slay the Spire</i>?</p>
 <p>This isn’t a totally rhetorical question. If you’re reading this piece about <i>Slay the Spire 2</i>—published roughly a week into what promises to be <a href="https://www.megacrit.com/news/2026-02-19-release-date-trailer/">a lengthy Early Access period</a>—I have to assume you’ve put in dozens, if not hundreds (or thousands?) of hours with the original <i>Slay the Spire</i>. At this point, the game probably feels less like a game and more like a comfortable old pair of sneakers. You probably have a favorite character, a preferred set of card synergies to focus on building for that character, and a set of alternative strategies to aim for when the vagaries of chance make that preferred strategy impossible. The game’s plentiful randomization makes each run feel a bit different, but the contours of those runs start to feel a little common to anyone who has tinkered with the game for years.</p>
-<p>But think back, if you can, to when <i>Slay the Spire</i> was an exciting new challenge. Remember those first few runs, when you were still deep in the trial-and-error phase of your <i>Slay the Spire</i> journey. You still had to read each new card carefully as it appeared, developing potential strategies on the fly and weighing key deckbuilding and power-building decisions for minutes at a time to maximize your chance of survival. Sure, you failed a lot. But you got a little more confident each time, and a little farther every few sessions, and just a little more knowledgeable about and immersed in the game’s intricate, well-balanced systems.</p><p><a href="https://arstechnica.com/gaming/2026/03/slay-the-spire-2-is-a-bit-too-familiar-for-its-own-good/">Read full article</a></p>
+<p>But think back, if you can, to when <i>Slay the Spire</i> was an exciting new challenge. Remember those first few runs, when you were still deep in the trial-and-error phase of your <i>Slay the Spire</i> journey. You still had to read each new card carefully as it appeared, developing potential strategies on the fly and weighing key deckbuilding and power-building decisions for minutes at a time to maximize your chance of survival. Sure, you failed a lot. But you got a little more confident each time and a little farther every few sessions and just a little more knowledgeable about and immersed in the game’s intricate, well-balanced systems.</p><p><a href="https://arstechnica.com/gaming/2026/03/slay-the-spire-2-is-a-bit-too-familiar-for-its-own-good/">Read full article</a></p>
 <p><a href="https://arstechnica.com/gaming/2026/03/slay-the-spire-2-is-a-bit-too-familiar-for-its-own-good/#comments">Comments</a></p>
 ]]>
                         </content:encoded>
@@ -295,7 +329,7 @@
 ]]>
                         </content:encoded>
                                     
-                                    <slash:comments>77</slash:comments>
+                                    <slash:comments>81</slash:comments>
                 
                 
                 <media:content height="648" medium="image" type="image/jpeg" url="https://cdn.arstechnica.net/wp-content/uploads/2026/03/GettyImages-2230224523-1152x648.jpg" width="1152">
@@ -396,7 +430,7 @@
 ]]>
                         </content:encoded>
                                     
-                                    <slash:comments>78</slash:comments>
+                                    <slash:comments>81</slash:comments>
                 
                 
                 <media:content height="648" medium="image" type="image/jpeg" url="https://cdn.arstechnica.net/wp-content/uploads/2026/02/GettyImages-2217925353-1024x648.jpg" width="1024">
@@ -429,7 +463,7 @@
 ]]>
                         </content:encoded>
                                     
-                                    <slash:comments>164</slash:comments>
+                                    <slash:comments>172</slash:comments>
                 
                 
                 <media:content height="648" medium="image" type="image/jpeg" url="https://cdn.arstechnica.net/wp-content/uploads/2026/03/GettyImages-2208927984-1152x648.jpg" width="1152">
@@ -531,7 +565,7 @@
 ]]>
                         </content:encoded>
                                     
-                                    <slash:comments>150</slash:comments>
+                                    <slash:comments>157</slash:comments>
                 
                 
                 <media:content height="648" medium="image" type="image/jpeg" url="https://cdn.arstechnica.net/wp-content/uploads/2026/03/IMG_3717-1152x648.jpeg" width="1152">
@@ -678,48 +712,12 @@
 ]]>
                         </content:encoded>
                                     
-                                    <slash:comments>83</slash:comments>
+                                    <slash:comments>84</slash:comments>
                 
                 
                 <media:content height="648" medium="image" type="image/jpeg" url="https://cdn.arstechnica.net/wp-content/uploads/2026/03/disclosure2-1152x648-1773412698.jpg" width="1152">
 <media:thumbnail height="500" url="https://cdn.arstechnica.net/wp-content/uploads/2026/03/disclosure2-500x500-1773412687.jpg" width="500"/>
 <media:credit>YouTube/Universal</media:credit></media:content>
-            </item>
-                    <item>
-                <title>BYD's latest EVs can get close to full charge in just 12 minutes</title>
-                <link>https://arstechnica.com/cars/2026/03/byds-latest-evs-can-get-close-to-full-charge-in-just-12-minutes/</link>
-                                    <comments>https://arstechnica.com/cars/2026/03/byds-latest-evs-can-get-close-to-full-charge-in-just-12-minutes/#comments</comments>
-                
-                <dc:creator>
-                    <![CDATA[Kana Inagaki and Edward White, Financial Times]]>
-                </dc:creator>
-                <pubDate>Fri, 13 Mar 2026 14:20:57 +0000</pubDate>
-                		<category><![CDATA[Cars]]></category>
-		<category><![CDATA[bevs]]></category>
-		<category><![CDATA[BYD]]></category>
-		<category><![CDATA[electric car]]></category>
-		<category><![CDATA[EV]]></category>
-		<category><![CDATA[fast charging]]></category>
-		<category><![CDATA[syndication]]></category>
-                <guid isPermaLink="true">https://arstechnica.com/cars/2026/03/byds-latest-evs-can-get-close-to-full-charge-in-just-12-minutes/</guid>
-
-                                    <description>
-                        <![CDATA[Carmaker’s technology means EVs can be ready almost as quickly as filling a fuel tank.]]>
-                    </description>
-                                                                <content:encoded>
-                            <![CDATA[<p>China’s BYD will aim to take on Porsche and BMW in the European luxury car market with a premium electric vehicle that can be charged in just five minutes.</p>
-<p>BYD, which overtook Tesla as the world’s largest EV maker last year, first demonstrated its “flash charging” technology, which enables an EV to be charged almost as quickly as filling a car with petrol, a year ago.</p>
-<p>The Z9GT model, part of the premium Denza brand, can be 70 percent charged in five minutes and be almost full in 12 minutes, even in temperatures as low as -30° C.</p><p><a href="https://arstechnica.com/cars/2026/03/byds-latest-evs-can-get-close-to-full-charge-in-just-12-minutes/">Read full article</a></p>
-<p><a href="https://arstechnica.com/cars/2026/03/byds-latest-evs-can-get-close-to-full-charge-in-just-12-minutes/#comments">Comments</a></p>
-]]>
-                        </content:encoded>
-                                    
-                                    <slash:comments>188</slash:comments>
-                
-                
-                <media:content height="648" medium="image" type="image/jpeg" url="https://cdn.arstechnica.net/wp-content/uploads/2026/03/BYDZ9GT-1152x648.jpg" width="1152">
-<media:thumbnail height="500" url="https://cdn.arstechnica.net/wp-content/uploads/2026/03/BYDZ9GT-500x500.jpg" width="500"/>
-<media:credit>BYD</media:credit><media:text>The Z9GT model, part of the premium Denza brand, can be 70% charged in five minutes and be almost full in 12 minutes.</media:text></media:content>
             </item>
             </channel>
 </rss>
