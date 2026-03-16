@@ -13,7 +13,55 @@
   <icon>https://www.theregister.com/Design/graphics/icons/favicon.png</icon>
   <subtitle>Biting the hand that feeds IT — Enterprise Technology News and Analysis</subtitle>
   <logo>https://www.theregister.com/Design/graphics/Reg_default/The_Register_r.png</logo>
-  <updated>2026-03-16T09:30:09.00Z</updated>
+  <updated>2026-03-16T12:18:23.00Z</updated>
+  <entry>
+    <id>tag:theregister.com,2005:story245119</id>
+    <published>2026-03-16T12:18:23.00Z</published>
+    <updated>2026-03-16T12:18:23.00Z</updated>
+    <author>
+      <name>Connor Jones</name>
+      <uri>https://search.theregister.com/?author=Connor%20Jones</uri>
+    </author>
+    <link rel="alternate" type="text/html" href="https://go.theregister.com/feed/www.theregister.com/2026/03/16/companies_house_breach/"/>
+    <title type="html">Flaw in UK's corporate registry let directors rummage through rival records</title>
+    <summary type="html" xml:base="https://www.theregister.com/">&lt;h4&gt;Back button blunder in WebFiling service run by Companies House revealed confidential paperwork&lt;/h4&gt; &lt;p&gt;Companies House was forced to pull down its record-filing platform for the entire weekend to rectify a "security issue" that exposed the personal details of company directors and other data to any logged in users.…&lt;/p&gt;</summary>
+  </entry>
+  <entry>
+    <id>tag:theregister.com,2005:story245117</id>
+    <published>2026-03-16T11:37:24.00Z</published>
+    <updated>2026-03-16T11:37:24.00Z</updated>
+    <author>
+      <name>Richard Speed</name>
+      <uri>https://search.theregister.com/?author=Richard%20Speed</uri>
+    </author>
+    <link rel="alternate" type="text/html" href="https://go.theregister.com/feed/www.theregister.com/2026/03/16/samsung_c_drive_windows/"/>
+    <title type="html">Microsoft points at Samsung after Galaxy app bug locks users out of C:/</title>
+    <summary type="html" xml:base="https://www.theregister.com/">&lt;h4&gt;'Access denied' errors hit certain Windows 11 machines running vendor utility&lt;/h4&gt; &lt;p&gt;Microsoft has blamed Samsung for some devices suffering C:\ drive access problems coincidentally close to March's Patch Tuesday.…&lt;/p&gt; &lt;p&gt;&lt;!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --&gt;&lt;/p&gt;</summary>
+  </entry>
+  <entry>
+    <id>tag:theregister.com,2005:story245118</id>
+    <published>2026-03-16T11:05:06.00Z</published>
+    <updated>2026-03-16T11:05:06.00Z</updated>
+    <author>
+      <name>Carly Page</name>
+      <uri>https://search.theregister.com/?author=Carly%20Page</uri>
+    </author>
+    <link rel="alternate" type="text/html" href="https://go.theregister.com/feed/www.theregister.com/2026/03/16/uk_splurges_45m_on_ai/"/>
+    <title type="html">UK splashes £45M on AI supercomputer to help crack fusion power</title>
+    <summary type="html" xml:base="https://www.theregister.com/">&lt;h4&gt;'Sunrise' beast will run AI-heavy simulations of plasma behavior and reactor physics&lt;/h4&gt; &lt;p&gt;The UK government is splashing out £45 million (c $60 million) on a new AI-driven supercomputer designed to help scientists model the chaotic physics of nuclear fusion, with the system expected to come online this summer at the UK Atomic Energy Authority's (UKAEA) Culham campus.…&lt;/p&gt;</summary>
+  </entry>
+  <entry>
+    <id>tag:theregister.com,2005:story245116</id>
+    <published>2026-03-16T10:15:08.00Z</published>
+    <updated>2026-03-16T10:15:08.00Z</updated>
+    <author>
+      <name>Lindsay Clark</name>
+      <uri>https://search.theregister.com/?author=Lindsay%20Clark</uri>
+    </author>
+    <link rel="alternate" type="text/html" href="https://go.theregister.com/feed/www.theregister.com/2026/03/16/west_sussex_oracle/"/>
+    <title type="html">West Sussex's Oracle rollout pushed back again as costs balloon 15 times</title>
+    <summary type="html" xml:base="https://www.theregister.com/">&lt;h4&gt;Already five years late, project delayed another six months after price tag swells from £2.6M to £41M&lt;/h4&gt; &lt;p&gt;West Sussex County Council has once again delayed the implementation of Oracle Fusion for HR and payroll – set to replace an aging SAP system – following a series of setbacks that have seen expected costs swell to more than 15 times the original estimate.…&lt;/p&gt;</summary>
+  </entry>
   <entry>
     <id>tag:theregister.com,2005:story245105</id>
     <published>2026-03-16T09:30:09.00Z</published>
@@ -65,14 +113,14 @@
   <entry>
     <id>tag:theregister.com,2005:story245112</id>
     <published>2026-03-16T00:57:33.00Z</published>
-    <updated>2026-03-16T00:57:33.00Z</updated>
+    <updated>2026-03-16T09:46:52.00Z</updated>
     <author>
       <name>Simon Sharwood</name>
       <uri>https://search.theregister.com/?author=Simon%20Sharwood</uri>
     </author>
     <link rel="alternate" type="text/html" href="https://go.theregister.com/feed/www.theregister.com/2026/03/16/asia_tech_news_roundup/"/>
     <title type="html">India tests whether AI can stop trains hitting elephants</title>
-    <summary type="html" xml:base="https://www.theregister.com/">&lt;h4&gt;PLUS: SAP expands Japanese cloud; SK hynix close to shipping LPDDR6; Lenovo’s biggest ever IaaS deal; and more&lt;/h4&gt; &lt;p&gt;India’s Ministry of Environment, Forest and Climate Change last week staged a two-day national workshop titled “Policy Implementation for Minimizing Elephant Mortalities on Railway Track” – and one of the ideas discussed was using AI to protect the beasts and workers.…&lt;/p&gt;</summary>
+    <summary type="html" xml:base="https://www.theregister.com/">&lt;h4&gt;PLUS: SAP expands Japanese cloud; SK hynix close to shipping LPDDR6; Lenovo's biggest ever IaaS deal; and more&lt;/h4&gt; &lt;p&gt;&lt;strong&gt;Asia in brief&lt;/strong&gt;  India’s Ministry of Environment, Forest and Climate Change last week staged a two-day national workshop titled “Policy Implementation for Minimizing Elephant Mortalities on Railway Track” – and one of the ideas discussed was using AI to protect the beasts and workers.…&lt;/p&gt;</summary>
   </entry>
   <entry>
     <id>tag:theregister.com,2005:story245107</id>
@@ -565,53 +613,5 @@
     <link rel="alternate" type="text/html" href="https://go.theregister.com/feed/www.theregister.com/2026/03/12/cisa_n8n_rce/"/>
     <title type="html">CISA warns max-severity n8n bug is being exploited in the wild</title>
     <summary type="html" xml:base="https://www.theregister.com/">&lt;h4&gt;No rest for project maintainers battered by slew of vulnerability disclosures&lt;/h4&gt; &lt;p&gt;The US Cybersecurity and Infrastructure Security Agency (CISA) has confirmed that hackers are exploiting a max-severity remote code execution (RCE) vulnerability in workflow automation platform n8n.…&lt;/p&gt; &lt;p&gt;&lt;!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --&gt;&lt;/p&gt;</summary>
-  </entry>
-  <entry>
-    <id>tag:theregister.com,2005:story245070</id>
-    <published>2026-03-12T13:22:57.00Z</published>
-    <updated>2026-03-12T13:22:57.00Z</updated>
-    <author>
-      <name>Dan Robinson</name>
-      <uri>https://search.theregister.com/?author=Dan%20Robinson</uri>
-    </author>
-    <link rel="alternate" type="text/html" href="https://go.theregister.com/feed/www.theregister.com/2026/03/12/googles_fiber_biz_and_stonepeaks/"/>
-    <title type="html">Fresh indie broadband provider incoming as Google's fiber biz and Stonepeak’s Astound merge</title>
-    <summary type="html" xml:base="https://www.theregister.com/">&lt;h4&gt;Alphabet to remain 'significant minority shareholder'&lt;/h4&gt; &lt;p&gt;Alphabet is spinning out its US Google Fiber business and combining it with Astound Broadband as part of a joint venture with private equity investor Stonepeak.…&lt;/p&gt;</summary>
-  </entry>
-  <entry>
-    <id>tag:theregister.com,2005:story245069</id>
-    <published>2026-03-12T13:14:24.00Z</published>
-    <updated>2026-03-12T13:14:24.00Z</updated>
-    <author>
-      <name>Lindsay Clark</name>
-      <uri>https://search.theregister.com/?author=Lindsay%20Clark</uri>
-    </author>
-    <link rel="alternate" type="text/html" href="https://go.theregister.com/feed/www.theregister.com/2026/03/12/medact_palantir/"/>
-    <title type="html">Campaigners claim NHS Palantir system could be accessed by police and immigration</title>
-    <summary type="html" xml:base="https://www.theregister.com/">&lt;h4&gt;US spy-tech biz and platform provider retorts that this would be against the current law and a breach of its contract&lt;/h4&gt; &lt;p&gt;Medical and legal rights campaigners are warning that the Palantir data platform, designed to be at the heart of England's health system, risks enabling UK immigration and policing departments to access confidential patient information.…&lt;/p&gt;</summary>
-  </entry>
-  <entry>
-    <id>tag:theregister.com,2005:story245066</id>
-    <published>2026-03-12T11:50:41.00Z</published>
-    <updated>2026-03-12T13:03:30.00Z</updated>
-    <author>
-      <name>Connor Jones</name>
-      <uri>https://search.theregister.com/?author=Connor%20Jones</uri>
-    </author>
-    <link rel="alternate" type="text/html" href="https://go.theregister.com/feed/www.theregister.com/2026/03/12/lloyds_banking_group_glitch/"/>
-    <title type="html">Lloyds Banking Group apps play mix-and-match with customer transactions</title>
-    <summary type="html" xml:base="https://www.theregister.com/">&lt;h4&gt;Some account holders see names, salaries, and child benefit payments… just not their own&lt;/h4&gt; &lt;p&gt;&lt;strong&gt;Updated&lt;/strong&gt;  Customers of three major UK banks woke on Thursday to find incorrect transactions appearing in their apps, a problem later attributed to a technical glitch.…&lt;/p&gt;</summary>
-  </entry>
-  <entry>
-    <id>tag:theregister.com,2005:story244953</id>
-    <published>2026-03-12T11:32:13.00Z</published>
-    <updated>2026-03-12T11:32:13.00Z</updated>
-    <author>
-      <name>Richard Speed</name>
-      <uri>https://search.theregister.com/?author=Richard%20Speed</uri>
-    </author>
-    <link rel="alternate" type="text/html" href="https://go.theregister.com/feed/www.theregister.com/2026/03/12/smart_mirror_or_dumb_windows/"/>
-    <title type="html">Smart mirror shows dumb Windows in elevator</title>
-    <summary type="html" xml:base="https://www.theregister.com/">&lt;h4&gt;All aboard the elevator where only Microsoft knows where you're going&lt;/h4&gt; &lt;p&gt;&lt;strong&gt;Bork!Bork!Bork!&lt;/strong&gt;  Smart mirrors are all the rage. However, rather than a list of headlines and tasks to do today, an unhappy Windows installation can make a smart mirror seem very dumb indeed.…&lt;/p&gt;</summary>
   </entry>
 </feed>
