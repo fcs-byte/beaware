@@ -12,7 +12,7 @@
 	<atom:link href="https://www.nasa.gov/news-release/feed/" rel="self" type="application/rss+xml" />
 	<link>https://www.nasa.gov</link>
 	<description>Official National Aeronautics and Space Administration Website</description>
-	<lastBuildDate>Mon, 16 Mar 2026 20:11:01 +0000</lastBuildDate>
+	<lastBuildDate>Tue, 17 Mar 2026 04:01:00 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -20,6 +20,318 @@
 	1	</sy:updateFrequency>
 	<generator>https://wordpress.org/?v=6.8.5</generator>
 	<item>
+		<title>A Bit of Gray on an Emerald Isle</title>
+		<link>https://science.nasa.gov/earth/earth-observatory/a-bit-of-gray-in-an-emerald-isle/</link>
+		
+		<dc:creator><![CDATA[]]></dc:creator>
+		<pubDate>Tue, 17 Mar 2026 04:01:00 +0000</pubDate>
+				<category><![CDATA[Earth]]></category>
+		<category><![CDATA[Earth Observatory]]></category>
+		<category><![CDATA[Earth Science]]></category>
+		<category><![CDATA[Earth Surface & Interior]]></category>
+		<category><![CDATA[Landsat 8 / LDCM (Landsat Data Continuity Mission)]]></category>
+		<category><![CDATA[Life on Earth]]></category>
+		<category><![CDATA[Topography]]></category>
+		<category><![CDATA[Vegetation]]></category>
+		<guid isPermaLink="false">https://science.nasa.gov/earth/earth-observatory/a-bit-of-gray-in-an-emerald-isle/</guid>
+
+					<description><![CDATA[Ireland is best known for its many greens, but the striking grays of the island’s Burren region also stand out in satellite images.]]></description>
+										<content:encoded><![CDATA[<div id="" class=" hds-module hds-module-full alignfull wp-block-nasa-blocks-secondary-navigation">
+<div class="hds-secondary-navigation-wrapper z-top width-100 padding-0">
+<div id="" class="hds-secondary-navigation width-full border-bottom-1px text-center hds-color-mode-dark hds-module hds-module-full alignfull wp-block-nasa-blocks-hdsnav"><button type="button" class="hds-secondary-nav-mobile-button display-flex tablet:display-flex desktop:display-none width-full flex-align-center bg-carbon-90 border-color-carbon-80 color-spacesuit-white" aria-expanded="false" aria-controls="hds-secondary-nav-track"><span>Earth Observatory</span><svg width="16" height="16" alt="" enable-background="new 0 0 400 400" viewBox="0 0 400 400" xmlns="http://www.w3.org/2000/svg"><path d="m4.2 122.2 195.1 195.1 196.5-196.6-37.9-38-157.8 157.8-156.8-156.8z" /></svg></button></p>
+<div class="hds-secondary-nav-track grid-container grid-container-extrawide padding-0 tablet:padding-x-3 desktop:padding-x-2 hds-secondary-navigation-has-breadcrumbs">
+<div class="hds-secondary-navigation-breadcrumbs display-none tablet:display-none desktop:display-flex flex-align-center">
+<nav class="usa-breadcrumb" aria-label="Breadcrumbs">
+<ol class="usa-breadcrumb__list">
+<li class="usa-breadcrumb__list-item"><a href="https://science.nasa.gov/" class="usa-breadcrumb__link" rel="noopener"><span>Science</span></a></li>
+<li class="usa-breadcrumb__list-item"><a href="https://science.nasa.gov/earth/earth-observatory" class="usa-breadcrumb__link" rel="noopener"><span>Earth Observatory</span></a></li>
+<li class="usa-breadcrumb__list-item usa-current" aria-current="page"><span>A Bit of Gray on an Emerald Isle</span></li>
+</ol>
+</nav>
+</div>
+<div class="hds-secondary-navigation-menu-items">
+<nav>
+<ul class="usa-nav__primary usa-accordion flex-justify-center margin-0">
+<li class="usa-nav__primary-item "><a class="usa-nav__link" href="https://science.nasa.gov/earth" rel="noopener">Earth</a></li>
+<li class="usa-nav__primary-item "><a class="usa-nav__link" href="https://science.nasa.gov/earth/earth-observatory" rel="noopener">Earth Observatory</a></li>
+<li class="usa-nav__primary-item "><a class="usa-nav__link" href="https://science.nasa.gov/earth/earth-observatory/image-of-the-day/" rel="noopener">Image of the Day</a></li>
+<li class="usa-nav__primary-item "><a class="usa-nav__link" href="https://science.nasa.gov/earth/earth-observatory/explorer/" rel="noopener">EO Explorer</a></li>
+<li class="usa-nav__primary-item"><button type="button" class="usa-accordion__button usa-nav__link" aria-expanded="false" aria-controls="basic-nav-section-one"><span>Topics</span><svg class="hds-desktop-submenu-toggle-icon display-none tablet:display-none desktop:display-block" width="16" height="16" alt="" enable-background="new 0 0 400 400" viewBox="0 0 400 400" xmlns="http://www.w3.org/2000/svg"><path d="m4.2 122.2 195.1 195.1 196.5-196.6-37.9-38-157.8 157.8-156.8-156.8z" /></svg><svg class="hds-mobile-submenu-toggle-icon display-block tablet:display-block desktop:display-none" width="16" height="16" viewBox="0 0 16 16" fill="none" xmlns="http://www.w3.org/2000/svg"><circle cx="8" cy="8" r="7.5" fill="#0B3D91" stroke="white"/><rect x="4" y="7.6001" width="8" height="0.8" fill="white"/><rect class="hds-mobile-submenu-toggle-icon-line-vertical" x="7.59998" y="12" width="8" height="0.8" transform="rotate(-90 7.59998 12)" fill="white"/></svg></button>
+<ul id="basic-nav-section-one" class="usa-nav__submenu" hidden>
+<li class="usa-nav__submenu-item "><a class="usa-nav__link" target="_self" href="https://science.nasa.gov/earth/earth-observatory/topics/" rel="noopener">All Topics</a></li>
+<li class="usa-nav__submenu-item "><a class="usa-nav__link" target="_self" href="https://science.nasa.gov/earth/earth-observatory/topics/atmosphere/" rel="noopener">Atmosphere</a></li>
+<li class="usa-nav__submenu-item "><a class="usa-nav__link" target="_self" href="https://science.nasa.gov/earth/earth-observatory/topics/land/" rel="noopener">Land</a></li>
+<li class="usa-nav__submenu-item "><a class="usa-nav__link" target="_self" href="https://science.nasa.gov/earth/earth-observatory/topics/heat-radiation/" rel="noopener">Heat &#038; Radiation</a></li>
+<li class="usa-nav__submenu-item "><a class="usa-nav__link" target="_self" href="https://science.nasa.gov/earth/earth-observatory/topics/life-on-earth/" rel="noopener">Life on Earth</a></li>
+<li class="usa-nav__submenu-item "><a class="usa-nav__link" target="_self" href="https://science.nasa.gov/earth/earth-observatory/topics/human-dimensions/" rel="noopener">Human Dimensions</a></li>
+<li class="usa-nav__submenu-item "><a class="usa-nav__link" target="_self" href="https://science.nasa.gov/earth/earth-observatory/topics/natural-events/" rel="noopener">Natural Events</a></li>
+<li class="usa-nav__submenu-item "><a class="usa-nav__link" target="_self" href="https://science.nasa.gov/earth/earth-observatory/topics/oceans/" rel="noopener">Oceans</a></li>
+<li class="usa-nav__submenu-item "><a class="usa-nav__link" target="_self" href="https://science.nasa.gov/earth/earth-observatory/topics/remote-sensing-technology/" rel="noopener">Remote Sensing Technology</a></li>
+<li class="usa-nav__submenu-item "><a class="usa-nav__link" target="_self" href="https://science.nasa.gov/earth/earth-observatory/topics/snow-and-ice/" rel="noopener">Snow &#038; Ice</a></li>
+<li class="usa-nav__submenu-item "><a class="usa-nav__link" target="_self" href="https://science.nasa.gov/earth/earth-observatory/topics/water/" rel="noopener">Water</a></li>
+</ul>
+</li>
+<li class="usa-nav__primary-item"><button type="button" class="usa-accordion__button usa-nav__link" aria-expanded="false" aria-controls="basic-nav-section-one"><span>More Content</span><svg class="hds-desktop-submenu-toggle-icon display-none tablet:display-none desktop:display-block" width="16" height="16" alt="" enable-background="new 0 0 400 400" viewBox="0 0 400 400" xmlns="http://www.w3.org/2000/svg"><path d="m4.2 122.2 195.1 195.1 196.5-196.6-37.9-38-157.8 157.8-156.8-156.8z" /></svg><svg class="hds-mobile-submenu-toggle-icon display-block tablet:display-block desktop:display-none" width="16" height="16" viewBox="0 0 16 16" fill="none" xmlns="http://www.w3.org/2000/svg"><circle cx="8" cy="8" r="7.5" fill="#0B3D91" stroke="white"/><rect x="4" y="7.6001" width="8" height="0.8" fill="white"/><rect class="hds-mobile-submenu-toggle-icon-line-vertical" x="7.59998" y="12" width="8" height="0.8" transform="rotate(-90 7.59998 12)" fill="white"/></svg></button>
+<ul id="basic-nav-section-one" class="usa-nav__submenu" hidden>
+<li class="usa-nav__submenu-item "><a class="usa-nav__link" target="_self" href="https://science.nasa.gov/earth/earth-observatory/collections/" rel="noopener">Collections</a></li>
+<li class="usa-nav__submenu-item "><a class="usa-nav__link" target="_self" href="https://science.nasa.gov/earth/earth-observatory/global-maps/" rel="noopener">Global Maps</a></li>
+<li class="usa-nav__submenu-item "><a class="usa-nav__link" target="_self" href="https://science.nasa.gov/earth/earth-observatory/world-of-change/" rel="noopener">World of Change</a></li>
+<li class="usa-nav__submenu-item "><a class="usa-nav__link" target="_self" href="https://science.nasa.gov/earth/earth-observatory/feature-articles/" rel="noopener">Articles</a></li>
+<li class="usa-nav__submenu-item "><a class="usa-nav__link" target="_self" href="https://science.nasa.gov/blogs/notes-from-the-field/" rel="noopener">Notes from the Field Blog</a></li>
+<li class="usa-nav__submenu-item "><a class="usa-nav__link" target="_self" href="https://science.nasa.gov/blogs/earth-matters/" rel="noopener">Earth Matters Blog</a></li>
+<li class="usa-nav__submenu-item "><a class="usa-nav__link" target="_self" href="https://science.nasa.gov/earth/earth-observatory/blue-marble-next-generation/" rel="noopener">Blue Marble: Next Generation</a></li>
+<li class="usa-nav__submenu-item "><a class="usa-nav__link" target="_self" href="https://science.nasa.gov/kids/earth/eo-kids/" rel="noopener">EO Kids</a></li>
+<li class="usa-nav__submenu-item "><a class="usa-nav__link" target="_self" href="https://science.nasa.gov/kids/earth/mission-biomes/" rel="noopener">Mission: Biomes</a></li>
+</ul>
+</li>
+<li class="usa-nav__primary-item"><button type="button" class="usa-accordion__button usa-nav__link" aria-expanded="false" aria-controls="basic-nav-section-one"><span>About</span><svg class="hds-desktop-submenu-toggle-icon display-none tablet:display-none desktop:display-block" width="16" height="16" alt="" enable-background="new 0 0 400 400" viewBox="0 0 400 400" xmlns="http://www.w3.org/2000/svg"><path d="m4.2 122.2 195.1 195.1 196.5-196.6-37.9-38-157.8 157.8-156.8-156.8z" /></svg><svg class="hds-mobile-submenu-toggle-icon display-block tablet:display-block desktop:display-none" width="16" height="16" viewBox="0 0 16 16" fill="none" xmlns="http://www.w3.org/2000/svg"><circle cx="8" cy="8" r="7.5" fill="#0B3D91" stroke="white"/><rect x="4" y="7.6001" width="8" height="0.8" fill="white"/><rect class="hds-mobile-submenu-toggle-icon-line-vertical" x="7.59998" y="12" width="8" height="0.8" transform="rotate(-90 7.59998 12)" fill="white"/></svg></button>
+<ul id="basic-nav-section-one" class="usa-nav__submenu" hidden>
+<li class="usa-nav__submenu-item "><a class="usa-nav__link" target="_self" href="https://science.nasa.gov/earth/earth-observatory/about-the-eo/" rel="noopener">About Us</a></li>
+<li class="usa-nav__submenu-item "><a class="usa-nav__link" target="_self" href="https://science.nasa.gov/earth/earth-observatory/subscribe" rel="noopener">Subscribe</a></li>
+<li class="usa-nav__submenu-item "><a class="usa-nav__link" target="_self" href="https://science.nasa.gov/earth/earth-observatory/subscribe/feeds/" rel="noopener">🛜 RSS</a></li>
+<li class="usa-nav__submenu-item "><a class="usa-nav__link" target="_self" href="https://science.nasa.gov/earth/earth-observatory/contact-the-eo/" rel="noopener">Contact Us</a></li>
+</ul>
+</li>
+<li class="usa-nav__primary-item "><a class="usa-nav__link" href="https://science.nasa.gov/earth/earth-observatory/search/" rel="noopener">Search</a></li>
+</ul>
+</nav>
+</div>
+<div class="hds-secondary-navigation-menu-spacer"> </div>
+</div>
+</div>
+</div>
+</div>
+<div id="" class="hds-media hds-module wp-block-image">
+<div class="margin-left-auto margin-right-auto nasa-block-align-inline">
+<div class="hds-media-wrapper margin-left-auto margin-right-auto">
+<figure class="hds-media-inner hds-cover-wrapper hds-media-ratio-fit " style="--hds-image-contain-bg:#ffffff;"><a href="https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/a-bit-of-gray-in-an-emerald-isle/burrennpzm_oli_20250526.jpg?w=720&#038;h=480&#038;fit=clip&#038;crop=faces%2Cfocalpoint" rel="noopener"><img fetchpriority="high" decoding="async" width="720" height="480" src="https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/a-bit-of-gray-in-an-emerald-isle/burrennpzm_oli_20250526.jpg?w=720&#038;h=480&#038;fit=clip&#038;crop=faces%2Cfocalpoint" class="attachment-2048x2048 size-2048x2048" alt="A detailed view of folded limestone in the Burren. The limestone forms swirling, layered patterns of gray rock separated by thin green bands of vegetation." style="transform: scale(1); transform-origin: 50% 50%; object-position: 50% 50%; object-fit: cover;" block_context="nasa-block" loading="eager" srcset="https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/a-bit-of-gray-in-an-emerald-isle/burrennpzm_oli_20250526.jpg?w=720&#038;h=480&#038;fit=crop&#038;crop=faces%2Cfocalpoint 720w, https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/a-bit-of-gray-in-an-emerald-isle/burrennpzm_oli_20250526.jpg?w=300&#038;h=200&#038;fit=crop&#038;crop=faces%2Cfocalpoint 300w, https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/a-bit-of-gray-in-an-emerald-isle/burrennpzm_oli_20250526.jpg?w=400&#038;h=267&#038;fit=crop&#038;crop=faces%2Cfocalpoint 400w, https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/a-bit-of-gray-in-an-emerald-isle/burrennpzm_oli_20250526.jpg?w=600&#038;h=400&#038;fit=crop&#038;crop=faces%2Cfocalpoint 600w" sizes="auto, (max-width: 720px) 100vw, 720px" /></a></figure><figcaption class="hds-caption padding-y-2">
+<div class="hds-caption-text p-sm margin-0">May 16, 2025</div>
+</figcaption></div>
+</div>
+</div>
+<p><em>Today’s story is the answer to the </em><em><a href="https://science.nasa.gov/earth/earth-observatory/march-2026-satellite-puzzler/" rel="noopener"><em>March 2026 puzzler</em></a>. </em><em></em></p>
+</p>
+<p>Though Ireland is known for the many <a href="https://www.irishcentral.com/roots/forty-shades-of-green-ireland-explained" rel="noopener">shades of green</a> that grace its grassy pastoral landscapes, there’s one corner of the <a href="https://science.nasa.gov/earth/earth-observatory/ireland-49687/" rel="noopener">Emerald Isle</a> where gray reigns supreme. In the <a href="https://www.burrengeopark.ie/learn-engage/geology-of-the-burren/" rel="noopener">Burren region</a>, on the island’s west coast, what geologists describe as <a href="https://www.bbc.co.uk/scotland/education/int/geog/limestone/surface/limestone_pavement.html" rel="noopener">limestone pavement</a> covers much of the rocky, treeless landscape.</p>
+<p>The <a href="https://science.nasa.gov/mission/landsat/oli/" rel="noopener">OLI</a> (Operational Land Imager) on <a href="https://science.nasa.gov/mission/landsat-8/" rel="noopener">Landsat 8</a> captured this view of <a href="https://www.burrengeopark.ie/learn-engage/geology-of-the-burren/" rel="noopener">the Burren</a> on May 16, 2025. The fossil-rich <a href="https://www.britannica.com/science/limestone" rel="noopener">limestone</a> that makes up the gray outcrops was deposited about 325 million years ago during the <a href="https://ucmp.berkeley.edu/carboniferous/carboniferous.php" rel="noopener">Carboniferous Period</a>, when what is now Ireland lay near the equator beneath warm, shallow seas. Although the limestone was initially deposited in flat, horizontal layers on the seafloor, it later buckled into gentle arch- and trough-shaped folds as <a href="https://oceanservice.noaa.gov/facts/tectonics.html" rel="noopener">tectonic plates</a> collided during a mountain-building episode known as the <a href="https://www.geolsoc.org.uk/Plate-Tectonics/Chap4-Plate-Tectonics-of-the-UK/Variscan-Orogeny.html" rel="noopener">Variscan Orogeny</a>.</p>
+<p>These folds in the tilted rock layers and differences in their rate of erosion produced the terraced appearance that defines the Burren’s hills, with more erosion-resistant layers of rock persisting as ledges. Glacial activity also played a role in sculpting the landscape, scraping away soil and sediment to expose the limestone pavement and smoothing the region’s hills.</p>
+<div id="" class="hds-media hds-module wp-block-image">
+<div class="margin-left-auto margin-right-auto nasa-block-align-wide">
+<div class="hds-media-wrapper margin-left-auto margin-right-auto">
+<figure class="hds-media-inner hds-cover-wrapper hds-media-ratio-fit " style="--hds-image-contain-bg:#ffffff;"><a href="https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/a-bit-of-gray-in-an-emerald-isle/burrennpwide_oli_20250526.jpg?w=1440&#038;h=960&#038;fit=clip&#038;crop=faces%2Cfocalpoint" rel="noopener"><img decoding="async" width="1440" height="960" src="https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/a-bit-of-gray-in-an-emerald-isle/burrennpwide_oli_20250526.jpg?w=1440&#038;h=960&#038;fit=clip&#038;crop=faces%2Cfocalpoint" class="attachment-2048x2048 size-2048x2048" alt="A satellite view of the Burren in western Ireland shows gray limestone hills arranged in curved, concentric bands surrounded by green farmland and small towns." style="transform: scale(1); transform-origin: 50% 50%; object-position: 50% 50%; object-fit: cover;" block_context="nasa-block" loading="lazy" srcset="https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/a-bit-of-gray-in-an-emerald-isle/burrennpwide_oli_20250526.jpg?w=1440&#038;h=960&#038;fit=crop&#038;crop=faces%2Cfocalpoint 1440w, https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/a-bit-of-gray-in-an-emerald-isle/burrennpwide_oli_20250526.jpg?w=300&#038;h=200&#038;fit=crop&#038;crop=faces%2Cfocalpoint 300w, https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/a-bit-of-gray-in-an-emerald-isle/burrennpwide_oli_20250526.jpg?w=768&#038;h=512&#038;fit=crop&#038;crop=faces%2Cfocalpoint 768w, https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/a-bit-of-gray-in-an-emerald-isle/burrennpwide_oli_20250526.jpg?w=1024&#038;h=683&#038;fit=crop&#038;crop=faces%2Cfocalpoint 1024w, https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/a-bit-of-gray-in-an-emerald-isle/burrennpwide_oli_20250526.jpg?w=400&#038;h=267&#038;fit=crop&#038;crop=faces%2Cfocalpoint 400w, https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/a-bit-of-gray-in-an-emerald-isle/burrennpwide_oli_20250526.jpg?w=600&#038;h=400&#038;fit=crop&#038;crop=faces%2Cfocalpoint 600w, https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/a-bit-of-gray-in-an-emerald-isle/burrennpwide_oli_20250526.jpg?w=900&#038;h=600&#038;fit=crop&#038;crop=faces%2Cfocalpoint 900w, https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/a-bit-of-gray-in-an-emerald-isle/burrennpwide_oli_20250526.jpg?w=1200&#038;h=800&#038;fit=crop&#038;crop=faces%2Cfocalpoint 1200w" sizes="auto, (max-width: 1440px) 100vw, 1440px" /></a></figure><figcaption class="hds-caption padding-y-2">
+<div class="hds-caption-text p-sm margin-0">May 16, 2025</div>
+</figcaption></div>
+</div>
+</div>
+<p>Limestone is prone to <a href="https://www.geolsoc.org.uk/ks3/gsl/education/resources/rockcycle/page3564.html" rel="noopener">chemical weathering</a> that produces an irregular terrain known as <a href="https://education.nationalgeographic.org/resource/karst/" rel="noopener">karst</a>, pockmarked with sinkholes, caves, and fissures called <a href="https://www.burrengeopark.ie/wp-content/uploads/2013/04/limestone_pavement.pdf" rel="noopener">grikes</a>. Many grikes in the Burren collect soil and have become footholds where vegetation grows in the otherwise rocky landscape.</p>
+<p>Individual grikes are too small to see in Landsat imagery, but networks of them have aligned along the rock layers, contributing to the concentric vegetation patterns visible in the image. Among the plants that you might find growing in them is the <a href="https://carnegiemnh.org/what-is-a-shamrock/" rel="noopener">shamrock</a>, the three-leaved clover that has become a <a href="https://discoverandshare.org/2021/03/15/the-history-of-the-shamrock-in-ireland-and-how-to-grow-your-own-american-version/" rel="noopener">symbol of Ireland</a>.</p>
+<p>With some luck, <em>Trifolium dubium </em>or <em>Trifolium repens </em>may even be found amidst the shamrock-shaped contours of Moneen Mountain, a 262-meter (860-foot) limestone hill visible in the image above. While there’s <a href="https://www.smithsonianmag.com/arts-culture/no-one-really-knows-what-shamrock-180954578/" rel="noopener">hardly consensus</a> about what species is the true inspiration for shamrocks, these two clover species were among the favorites when Irish botanists were surveyed about the topic in the 1880s, according to the <a href="https://carnegiemnh.org/what-is-a-shamrock/" rel="noopener">Carnegie Museum of Natural History</a>.</p>
+<div style="height:30px" aria-hidden="true" class="wp-block-spacer"></div>
+<p> <em>NASA Earth Observatory images by Lauren Dauphin, using Landsat data from the </em><a href="http://earthexplorer.usgs.gov/" rel="noopener"><em>U.S. Geological Survey</em></a><em>.</em> <em>Story by Adam Voiland.</em></p>
+<div id="" class="hds-featured-file-list bg-spacesuit-white padding-x-2 tablet:padding-x-3 desktop:padding-x-4 padding-y-5 desktop:padding-y-6 hds-module align wp-block-nasa-blocks-file-list">
+<div class="grid-container grid-container-block padding-0">
+<div class="grid-row width-full margin-bottom-4">
+<div class="grid-col-12 desktop:grid-col-6 margin-bottom-2 desktop:margin-bottom-0">
+<h2 role="textbox" class="heading-22">
+					Downloads				</h2>
+</p></div>
+<div class="grid-col-12 desktop:grid-col-6">
+<div class="desktop:grid-col display-flex flex-align-center desktop:flex-justify-end">
+								<a href="https://science.nasa.gov/press-release/" target="_self" class="button-primary button-primary link-external-false" rel="noopener"><br />
+			<span class="line-height-alt-1 " ><br />
+				View All                			</span><br />
+			<svg viewBox="0 0 32 32" fill="none" xmlns="http://www.w3.org/2000/svg"><circle class="button-primary-circle" cx="16" cy="16" r="16"></circle><path d="M8 16.956h12.604l-3.844 4.106 1.252 1.338L24 16l-5.988-6.4-1.252 1.338 3.844 4.106H8v1.912z" class="color-spacesuit-white"></path></svg><br />
+		</a>
+						</div>
+</p></div>
+</p></div>
+<div class="hds-list-row hds-file-list-row">
+<div class="hds-list-thumbnail hds-file-list-thumbnail">
+<div class="hds-list-thumbnail-inner hds-file-list-thumbnail-inner hds-cover-wrapper">
+<figure class="hds-media-background  "><img decoding="async" width="2323" height="1549" src="https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/a-bit-of-gray-in-an-emerald-isle/burrennp_oli_20250526_lrg.jpg?w=2323&#038;h=1549&#038;fit=clip&#038;crop=faces%2Cfocalpoint" class="attachment-thumbnail size-thumbnail" alt="A satellite view of the Burren in western Ireland shows gray limestone hills arranged in curved, concentric bands surrounded by green farmland and small towns." style="transform: scale(1.2); transform-origin: 50% 50%; object-position: 50% 50%; object-fit: cover;" block_context="nasa-block" loading="lazy" data-video-loop="" srcset="https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/a-bit-of-gray-in-an-emerald-isle/burrennp_oli_20250526_lrg.jpg?w=2323&#038;h=1549&#038;fit=crop&#038;crop=faces%2Cfocalpoint 2323w, https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/a-bit-of-gray-in-an-emerald-isle/burrennp_oli_20250526_lrg.jpg?w=300&#038;h=200&#038;fit=crop&#038;crop=faces%2Cfocalpoint 300w, https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/a-bit-of-gray-in-an-emerald-isle/burrennp_oli_20250526_lrg.jpg?w=768&#038;h=512&#038;fit=crop&#038;crop=faces%2Cfocalpoint 768w, https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/a-bit-of-gray-in-an-emerald-isle/burrennp_oli_20250526_lrg.jpg?w=1024&#038;h=683&#038;fit=crop&#038;crop=faces%2Cfocalpoint 1024w, https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/a-bit-of-gray-in-an-emerald-isle/burrennp_oli_20250526_lrg.jpg?w=1536&#038;h=1024&#038;fit=crop&#038;crop=faces%2Cfocalpoint 1536w, https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/a-bit-of-gray-in-an-emerald-isle/burrennp_oli_20250526_lrg.jpg?w=2048&#038;h=1366&#038;fit=crop&#038;crop=faces%2Cfocalpoint 2048w, https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/a-bit-of-gray-in-an-emerald-isle/burrennp_oli_20250526_lrg.jpg?w=400&#038;h=267&#038;fit=crop&#038;crop=faces%2Cfocalpoint 400w, https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/a-bit-of-gray-in-an-emerald-isle/burrennp_oli_20250526_lrg.jpg?w=600&#038;h=400&#038;fit=crop&#038;crop=faces%2Cfocalpoint 600w, https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/a-bit-of-gray-in-an-emerald-isle/burrennp_oli_20250526_lrg.jpg?w=900&#038;h=600&#038;fit=crop&#038;crop=faces%2Cfocalpoint 900w, https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/a-bit-of-gray-in-an-emerald-isle/burrennp_oli_20250526_lrg.jpg?w=1200&#038;h=800&#038;fit=crop&#038;crop=faces%2Cfocalpoint 1200w, https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/a-bit-of-gray-in-an-emerald-isle/burrennp_oli_20250526_lrg.jpg?w=2000&#038;h=1334&#038;fit=crop&#038;crop=faces%2Cfocalpoint 2000w" sizes="auto, (max-width: 2323px) 100vw, 2323px" /></figure>
+</div></div>
+<div class="hds-list-details">
+<div class="hds-list-name hds-file-list-name">
+<h2 class="heading-22">May 16, 2025</h2>
+</p></div>
+<div class="hds-list-meta">
+<div class="hds-list-meta-item hds-list-date hds-file-list-date">
+<p class="p-sm">
+</p></div>
+<div class="hds-list-meta-item hds-file-list-filetype">
+<p class="p-sm">JPEG (3.01 MB)</p>
+</p></div>
+</p></div>
+</p></div>
+<div class="hds-list-cta hds-file-list-download">
+					<a href="https://assets.science.nasa.gov/content/dam/science/esd/eo/images/iotd/2026/a-bit-of-gray-in-an-emerald-isle/burrennp_oli_20250526_lrg.jpg" target="_blank" download rel="noopener"><br />
+						<svg width="32" height="32" viewBox="0 0 32 32" fill="none" xmlns="http://www.w3.org/2000/svg"><circle cx="16" cy="16.0001" r="16" fill="#1C67E3"/><path d="M15.2357 8.00007L15.2357 16.4829L11.9504 13.4078L10.8801 14.4094L16.0001 19.2001L21.1201 14.4094L20.0499 13.4078L16.7645 16.4829L16.7645 8.00007L15.2357 8.00007Z" fill="white"/><path fill-rule="evenodd" clip-rule="evenodd" d="M9.6 20.8001V18.4001H8V22.4001H24V18.4001H22.4V20.8001H9.6Z" fill="white"/></svg><br />
+					</a>
+				</div>
+</p></div>
+</p></div>
+</p></div>
+<h2 class="wp-block-heading">References &#038; Resources </h2>
+<ul class="wp-block-list">
+<li>Burren and Cliffs of Moher Geopark <a href="https://www.burrengeopark.ie/LEARN-ENGAGE/GEOLOGY-OF-THE-BURREN/" rel="noopener">The Story of the Burren</a>. Accessed March 16, 2026.</li>
+<li>Burren National Park <a href="https://www.nationalparks.ie/burren/nature-conservation/" rel="noopener">Nature &#038; Conservation</a>. Accessed March 16, 2026.</li>
+<li><em>Carnegie Museum of Natural History </em><a href="https://carnegiemnh.org/what-is-a-shamrock/" rel="noopener">What is a Shamrock?</a> Accessed March 16, 2026.</li>
+<li><em>Earth</em> (2018, June 7) <a href="https://www.earthmagazine.org/article/travels-geology-burren-irelands-great-rock-region/" rel="noopener">Travels in Geology: The Burren: Ireland’s “Great Rock” Region</a>. Accessed March 16, 2026.</li>
+<li>The Geological Society <a href="https://www.geolsoc.org.uk/science-and-policy/100-great-geosites/landscape/the-burren/" rel="noopener">The Burren</a>. Accessed March 16, 2026.</li>
+<li>International Commission on Geoheritage (2026) <a href="https://iugs-geoheritage.org/geoheritage_sites/carboniferous-evolution-of-the-burren-and-cliffs-of-moher/" rel="noopener">Carboniferous evolution of the Burren and Cliffs of Moher</a>. Accessed March 16, 2026.</li>
+<li><em>National Geographic</em> (2024, October 10) <a href="https://www.nationalgeographic.com/travel/article/burren-ireland-otherworldly-rock-formations" rel="noopener">Come to this Irish region for otherworldly rock formations</a>. Accessed March 16, 2026.</li>
+<li><em>Smithsonian</em> (2016, March 16) <a href="https://www.smithsonianmag.com/arts-culture/no-one-really-knows-what-shamrock-180954578/" rel="noopener">No One Really Knows What a Shamrock Is</a>. Accessed March 16, 2026.</li>
+</ul>
+<div id="" class="hds-content-lists-inner hds-module hds-module-full alignfull wp-block-nasa-blocks-content-lists">
+<div id="content-list-46b7204b-1dc4-416a-aa35-ab51654af635" class="hds-content-lists margin-y-3 padding-x-0 bg-spacesuit-white width-full maxw-full" data-starting-query="{"block_id":"content-list-46b7204b-1dc4-416a-aa35-ab51654af635","categories":"","content_categories":"","exclude_child_terms":false,"exclude_child_pages":false,"layout":"grid","listing_page":"no","listing_page_category_id":2151,"meta_fields":[],"news_tags":"","number_of_items":3,"order":"DESC","orderby":"date","current_page":1,"requesting_id":1165347,"science_only":false,"search_query":"","show_content_type_tags":"yes","show_excerpts":"yes","show_pagination":true,"show_publish_date":"no","show_readtime":"yes","show_thumbnails":"yes","science_org":"","content_science_orgs":"","internal_terms":"","mission_programs":"","mission_status":"","mission_target":"","mission_type":"","response_format":"html","show_drafts":false,"related_content":"1185870,1177605,1176121,1193726,1202314,1165376,1189006,1165458,1192393,1165354","use_content_term_filters":false,"filter_logic":"default","post_types":"any","base_terms":"{"category":"","science-org":"6478","internal-terms":"","news-tags":""}"}" data-current-query="{"block_id":"content-list-46b7204b-1dc4-416a-aa35-ab51654af635","categories":"","content_categories":"","exclude_child_terms":false,"exclude_child_pages":false,"layout":"grid","listing_page":"no","listing_page_category_id":2151,"meta_fields":[],"news_tags":"","number_of_items":3,"order":"DESC","orderby":"date","current_page":1,"requesting_id":1165347,"science_only":false,"search_query":"","show_content_type_tags":"yes","show_excerpts":"yes","show_pagination":true,"show_publish_date":"no","show_readtime":"yes","show_thumbnails":"yes","science_org":"","content_science_orgs":"","internal_terms":"","mission_programs":"","mission_status":"","mission_target":"","mission_type":"","response_format":"html","show_drafts":false,"related_content":"1185870,1177605,1176121,1193726,1202314,1165376,1189006,1165458,1192393,1165354","use_content_term_filters":false,"filter_logic":"default","post_types":"any","base_terms":"{"category":"","science-org":"6478","internal-terms":"","news-tags":""}"}">
+<div class="grid-container grid-container-widescreen padding-x-3">
+<div class="grid-row flex-align-start margin-bottom-3">
+<div class="desktop:grid-col-8 margin-bottom-2 desktop:margin-bottom-0">
+<h2 class="section-heading-sm line-height-sm">You may also be interested in:</h2>
+<p class="margin-top-0 margin-bottom-2 maxh-tablet">Stay up-to-date with the latest content from NASA as we explore the universe and discover more about our home planet.</p>
+</p></div>
+</p></div>
+<div class="grid-row grid-container grid-container-block padding-0 margin-0 flex-justify-center">
+<div class=" grid-col-12">
+<div class="grid-row grid-container grid-container-block padding-0" style="display: block">
+<div id="filter-tags" class="grid-col-12 filter-tags-container"></div>
+</p></div>
+<div class="smd-orbit-loader" role="status" aria-hidden="true">
+<div class="orbit-plane"><span class="orbit-dot"></span></div>
+</div>
+<div id="post-list-container" class="hds-content-items hds-content-items-grid margin-top-2" aria-live="polite" data-rest-url="https://science.nasa.gov/wp-json/smd/v1/content-list">
+<div class="hds-content-item content-list-item-post">
+                    <a href="https://science.nasa.gov/earth/earth-observatory/an-amphitheater-of-rock-at-cedar-breaks/" class="hds-content-item-thumbnail" rel="noopener"></p>
+<figure class="hds-media-background  content-list-thumbnail"><img decoding="async" loading="lazy" width="300px" height="300px" data-no-id="true" sizes="auto, (max-width: 300px) 100vw, 300px" srcset="https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2025/an-amphitheater-of-rock-at-cedar-breaks/utahcedarbreaks_oli2_20250618_th.jpg?fit=clip&#038;crop=faces%2Cfocalpoint&#038;w=300 300w" alt="" style="transform: scale(1); transform-origin: 50% 50%; object-position: 50% 50%; object-fit: cover;" src="https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2025/an-amphitheater-of-rock-at-cedar-breaks/utahcedarbreaks_oli2_20250618_th.jpg?fit=clip&#038;crop=faces%2Cfocalpoint&#038;w=300" ></figure>
+<p>            </a></p>
+<div class="hds-content-item-inner">
+            <a href="https://science.nasa.gov/earth/earth-observatory/an-amphitheater-of-rock-at-cedar-breaks/" class="hds-content-item-heading" rel="noopener"></p>
+<div class="hds-a11y-heading-22">An Amphitheater of Rock at Cedar Breaks</div>
+<p>            </a></p>
+<div class="hds-content-item-readtime label margin-bottom-1">
+                    4 min read                </div>
+<p class="margin-top-0 margin-bottom-1">The colorful formations found in this bowl-shaped escarpment in southwestern Utah are the centerpiece of Cedar Breaks National Monument.</p>
+<div class="display-flex flex-align-center label color-carbon-60 margin-bottom-auto"><svg version="1.1" class="square-2 margin-right-1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="16px" height="16px" viewBox="0 0 16 16" style="enable-background:new 0 0 16 16;" xml:space="preserve"><g><g><path d="M8,0C3.5,0-0.1,3.7,0,8.2C0.1,12.5,3.6,16,8,16c4.4,0,8-3.6,8-8C16,3.5,12.4,0,8,0z M8,15.2 C4,15.2,0.8,12,0.8,8C0.8,4,4,0.8,8,0.8c3.9,0,7.2,3.2,7.2,7.1C15.2,11.9,12,15.2,8,15.2z"/><path d="M5.6,12c0.8-0.8,1.6-1.6,2.4-2.4c0.8,0.8,1.6,1.6,2.4,2.4c0-2.7,0-5.3,0-8C8.8,4,7.2,4,5.6,4 C5.6,6.7,5.6,9.3,5.6,12z"/></g></g></svg><span>Article</span></div>
+</p></div>
+</p></div>
+<div class="hds-content-item content-list-item-post">
+                    <a href="https://science.nasa.gov/earth/earth-observatory/the-towers-of-trang-an/" class="hds-content-item-thumbnail" rel="noopener"></p>
+<figure class="hds-media-background  content-list-thumbnail"><img decoding="async" loading="lazy" width="300px" height="300px" data-no-id="true" sizes="auto, (max-width: 300px) 100vw, 300px" srcset="https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2025/the-towers-of-tràng-an/vietnam_trangan_oli2_20250602_th.jpg?fit=clip&#038;crop=faces%2Cfocalpoint&#038;w=300 300w" alt="" style="transform: scale(1); transform-origin: 50% 50%; object-position: 50% 50%; object-fit: cover;" src="https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2025/the-towers-of-tràng-an/vietnam_trangan_oli2_20250602_th.jpg?fit=clip&#038;crop=faces%2Cfocalpoint&#038;w=300" ></figure>
+<p>            </a></p>
+<div class="hds-content-item-inner">
+            <a href="https://science.nasa.gov/earth/earth-observatory/the-towers-of-trang-an/" class="hds-content-item-heading" rel="noopener"></p>
+<div class="hds-a11y-heading-22">The Towers of Tràng An</div>
+<p>            </a></p>
+<div class="hds-content-item-readtime label margin-bottom-1">
+                    3 min read                </div>
+<p class="margin-top-0 margin-bottom-1">Over millions of years, water has sculpted limestone in northern Vietnam into an extraordinary karst landscape full of towers, cones,…</p>
+<div class="display-flex flex-align-center label color-carbon-60 margin-bottom-auto"><svg version="1.1" class="square-2 margin-right-1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="16px" height="16px" viewBox="0 0 16 16" style="enable-background:new 0 0 16 16;" xml:space="preserve"><g><g><path d="M8,0C3.5,0-0.1,3.7,0,8.2C0.1,12.5,3.6,16,8,16c4.4,0,8-3.6,8-8C16,3.5,12.4,0,8,0z M8,15.2 C4,15.2,0.8,12,0.8,8C0.8,4,4,0.8,8,0.8c3.9,0,7.2,3.2,7.2,7.1C15.2,11.9,12,15.2,8,15.2z"/><path d="M5.6,12c0.8-0.8,1.6-1.6,2.4-2.4c0.8,0.8,1.6,1.6,2.4,2.4c0-2.7,0-5.3,0-8C8.8,4,7.2,4,5.6,4 C5.6,6.7,5.6,9.3,5.6,12z"/></g></g></svg><span>Article</span></div>
+</p></div>
+</p></div>
+<div class="hds-content-item content-list-item-post">
+                    <a href="https://science.nasa.gov/earth/earth-observatory/rewilding-south-africas-greater-kruger/" class="hds-content-item-thumbnail" rel="noopener"></p>
+<figure class="hds-media-background  content-list-thumbnail"><img decoding="async" loading="lazy" width="300px" height="300px" data-no-id="true" sizes="auto, (max-width: 300px) 100vw, 300px" srcset="https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2025/rewilding-south-africa's-greater-kruger/thornybush_gedi_oli_2021_th.jpg?fit=clip&#038;crop=faces%2Cfocalpoint&#038;w=300 300w" alt="" style="transform: scale(1); transform-origin: 50% 50%; object-position: 50% 50%; object-fit: cover;" src="https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2025/rewilding-south-africa's-greater-kruger/thornybush_gedi_oli_2021_th.jpg?fit=clip&#038;crop=faces%2Cfocalpoint&#038;w=300" ></figure>
+<p>            </a></p>
+<div class="hds-content-item-inner">
+            <a href="https://science.nasa.gov/earth/earth-observatory/rewilding-south-africas-greater-kruger/" class="hds-content-item-heading" rel="noopener"></p>
+<div class="hds-a11y-heading-22">Rewilding South Africa’s Greater Kruger</div>
+<p>            </a></p>
+<div class="hds-content-item-readtime label margin-bottom-1">
+                    5 min read                </div>
+<p class="margin-top-0 margin-bottom-1">Satellites are helping land managers track ecological shifts as reserves reconnect and landscapes return to a more natural state.</p>
+<div class="display-flex flex-align-center label color-carbon-60 margin-bottom-auto"><svg version="1.1" class="square-2 margin-right-1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="16px" height="16px" viewBox="0 0 16 16" style="enable-background:new 0 0 16 16;" xml:space="preserve"><g><g><path d="M8,0C3.5,0-0.1,3.7,0,8.2C0.1,12.5,3.6,16,8,16c4.4,0,8-3.6,8-8C16,3.5,12.4,0,8,0z M8,15.2 C4,15.2,0.8,12,0.8,8C0.8,4,4,0.8,8,0.8c3.9,0,7.2,3.2,7.2,7.1C15.2,11.9,12,15.2,8,15.2z"/><path d="M5.6,12c0.8-0.8,1.6-1.6,2.4-2.4c0.8,0.8,1.6,1.6,2.4,2.4c0-2.7,0-5.3,0-8C8.8,4,7.2,4,5.6,4 C5.6,6.7,5.6,9.3,5.6,12z"/></g></g></svg><span>Article</span></div>
+</p></div>
+</p></div>
+</p></div>
+<div id="pagination-container" class="pagination">
+<nav class="hds-pagination hds-pagination--content-lists" role="navigation" aria-label="Pagination Navigation" data-mid-size="2" data-end-size="1" data-max-pages="4" >
+<span aria-current="page" class="page-numbers current" aria-label="Current Page, Page 1" aria-current="true" data-page-number="1"><br />
+<span>1</span></span><br />
+<a class="page-numbers" href="#" aria-label="Goto Page 2" data-page-number="2"><br />
+<span>2</span></a><br />
+<a class="page-numbers" href="#" aria-label="Goto Page 3" data-page-number="3"><br />
+<span>3</span></a><br />
+<a class="page-numbers" href="#" aria-label="Goto Page 4" data-page-number="4"><br />
+<span>4</span></a><br />
+<a class="next page-numbers" href="#" aria-label="Goto Next Page" data-page-number="2">Next</a><br />
+</nav>
+</div></div>
+</p></div>
+</p></div>
+</p></div>
+</p></div>
+<div id="" class="hds-topic-cards nasa-gb-align-full maxw-full width-full padding-y-6 padding-x-3 color-mode-dark hds-module hds-module-full alignfull wp-block-nasa-blocks-topic-cards">
+<div class="grid-container grid-container-block-lg padding-x-0">
+<div class="grid-row flex-align-center margin-bottom-3">
+<div class="desktop:grid-col-8 margin-bottom-2 desktop:margin-bottom-0">
+<div class="label color-carbon-60 margin-bottom-2">Keep Exploring</div>
+<h2 class="heading-36 line-height-sm">Discover More from NASA Earth Science</h2>
+</p></div>
+</p></div>
+<div class="grid-row grid-gap-2 hds-topic-cards-wrapper">
+					<a href="https://science.nasa.gov/earth/earth-observatory/subscribe/" class="mobile:grid-col-12 tablet:grid-col-6 desktop:grid-col-3 topic-card margin-bottom-4 desktop:margin-bottom-0" rel="noopener"></p>
+<div class="hds-topic-card hds-cover-wrapper cover-hover-zoom bg-carbon-black">
+<div class="skrim-overlay skrim-overlay-dark skrim-left mobile-skrim-top padding-3 display-flex flex-align-end flex-justify-start z-200">
+<div>
+<h3 class="hds-topic-card-heading heading-29 color-spacesuit-white line-height-sm margin-top-0 margin-bottom-1">
+								<span>Subscribe to Earth Observatory Newsletters</span><br />
+								<svg viewBox="0 0 32 32" fill="none" xmlns="http://www.w3.org/2000/svg"><circle class="color-nasa-red" cx="16" cy="16" r="16"></circle><path d="M8 16.956h12.604l-3.844 4.106 1.252 1.338L24 16l-5.988-6.4-1.252 1.338 3.844 4.106H8v1.912z" class="color-spacesuit-white"></path></svg><br />
+							</h3>
+<p class="margin-bottom-0 margin-top-2 color-carbon-20-important">Subscribe to the Earth Observatory and get the Earth in your inbox.</p>
+</p></div>
+</p></div>
+<figure class="hds-media-background  "><img decoding="async" width="585" height="425" src="https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/about/NASA-EO-Logo-mediumBlue2016-stacked-mark.png?w=585&#038;h=425&#038;fit=clip&#038;crop=faces%2Cfocalpoint" class="attachment-1536x1536 size-1536x1536" alt="" style="transform: scale(1); transform-origin: 50% 50%; object-position: 50% 50%; object-fit: cover;" block_context="nasa-block" loading="lazy" srcset="https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/about/NASA-EO-Logo-mediumBlue2016-stacked-mark.png?w=585&#038;h=425&#038;fit=crop&#038;crop=faces%2Cfocalpoint 585w, https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/about/NASA-EO-Logo-mediumBlue2016-stacked-mark.png?w=300&#038;h=218&#038;fit=crop&#038;crop=faces%2Cfocalpoint 300w, https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/about/NASA-EO-Logo-mediumBlue2016-stacked-mark.png?w=400&#038;h=291&#038;fit=crop&#038;crop=faces%2Cfocalpoint 400w" sizes="auto, (max-width: 585px) 100vw, 585px" /></figure>
+</p></div>
+<p>			</a><br />
+					<a href="https://science.nasa.gov/earth/earth-observatory/image-of-the-day/" class="mobile:grid-col-12 tablet:grid-col-6 desktop:grid-col-3 topic-card margin-bottom-4 desktop:margin-bottom-0" rel="noopener"></p>
+<div class="hds-topic-card hds-cover-wrapper cover-hover-zoom bg-carbon-black">
+<div class="skrim-overlay skrim-overlay-dark skrim-left mobile-skrim-top padding-3 display-flex flex-align-end flex-justify-start z-200">
+<div>
+<h3 class="hds-topic-card-heading heading-29 color-spacesuit-white line-height-sm margin-top-0 margin-bottom-1">
+								<span>Earth Observatory Image of the Day</span><br />
+								<svg viewBox="0 0 32 32" fill="none" xmlns="http://www.w3.org/2000/svg"><circle class="color-nasa-red" cx="16" cy="16" r="16"></circle><path d="M8 16.956h12.604l-3.844 4.106 1.252 1.338L24 16l-5.988-6.4-1.252 1.338 3.844 4.106H8v1.912z" class="color-spacesuit-white"></path></svg><br />
+							</h3>
+<p class="margin-bottom-0 margin-top-2 color-carbon-20-important">NASA&#8217;s Earth Observatory brings you the Earth, every day, with in-depth stories and stunning imagery.</p>
+</p></div>
+</p></div>
+<figure class="hds-media-background  "><img decoding="async" width="2500" height="1407" src="https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/iotd-banner.jpg?w=2500&#038;h=1407&#038;fit=clip&#038;crop=faces%2Cfocalpoint" class="attachment-1536x1536 size-1536x1536" alt="" style="transform: scale(1); transform-origin: 50% 50%; object-position: 50% 50%; object-fit: cover;" block_context="nasa-block" loading="lazy" srcset="https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/iotd-banner.jpg?w=2500&#038;h=1407&#038;fit=crop&#038;crop=faces%2Cfocalpoint 2500w, https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/iotd-banner.jpg?w=300&#038;h=169&#038;fit=crop&#038;crop=faces%2Cfocalpoint 300w, https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/iotd-banner.jpg?w=768&#038;h=432&#038;fit=crop&#038;crop=faces%2Cfocalpoint 768w, https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/iotd-banner.jpg?w=1024&#038;h=576&#038;fit=crop&#038;crop=faces%2Cfocalpoint 1024w, https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/iotd-banner.jpg?w=1536&#038;h=864&#038;fit=crop&#038;crop=faces%2Cfocalpoint 1536w, https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/iotd-banner.jpg?w=2048&#038;h=1153&#038;fit=crop&#038;crop=faces%2Cfocalpoint 2048w, https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/iotd-banner.jpg?w=400&#038;h=225&#038;fit=crop&#038;crop=faces%2Cfocalpoint 400w, https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/iotd-banner.jpg?w=600&#038;h=338&#038;fit=crop&#038;crop=faces%2Cfocalpoint 600w, https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/iotd-banner.jpg?w=900&#038;h=507&#038;fit=crop&#038;crop=faces%2Cfocalpoint 900w, https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/iotd-banner.jpg?w=1200&#038;h=675&#038;fit=crop&#038;crop=faces%2Cfocalpoint 1200w, https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/iotd-banner.jpg?w=2000&#038;h=1126&#038;fit=crop&#038;crop=faces%2Cfocalpoint 2000w" sizes="auto, (max-width: 2500px) 100vw, 2500px" /></figure>
+</p></div>
+<p>			</a><br />
+					<a href="https://science.nasa.gov/earth/explore/" class="mobile:grid-col-12 tablet:grid-col-6 desktop:grid-col-3 topic-card margin-bottom-4 desktop:margin-bottom-0" rel="noopener"></p>
+<div class="hds-topic-card hds-cover-wrapper cover-hover-zoom bg-carbon-black">
+<div class="skrim-overlay skrim-overlay-dark skrim-left mobile-skrim-top padding-3 display-flex flex-align-end flex-justify-start z-200">
+<div>
+<p class="hds-topic-card-heading heading-29 color-spacesuit-white line-height-sm margin-top-0 margin-bottom-1">
+								<span>Explore Earth Science</span><br />
+								<svg viewBox="0 0 32 32" fill="none" xmlns="http://www.w3.org/2000/svg"><circle class="color-nasa-red" cx="16" cy="16" r="16"></circle><path d="M8 16.956h12.604l-3.844 4.106 1.252 1.338L24 16l-5.988-6.4-1.252 1.338 3.844 4.106H8v1.912z" class="color-spacesuit-white"></path></svg>
+							</p>
+</p></div>
+</p></div>
+<figure class="hds-media-background  "><img decoding="async" width="1920" height="1920" src="https://images-assets.nasa.gov/image/NHQ202212160009/NHQ202212160009~large.jpg?w=1920&#038;h=1920&#038;fit=clip&#038;crop=faces%2Cfocalpoint" class="attachment-1536x1536 size-1536x1536" alt="" style="transform: scale(1); transform-origin: 50% 50%; object-position: 50% 50%; object-fit: cover;" block_context="nasa-block" loading="lazy" srcset="https://images-assets.nasa.gov/image/NHQ202212160009/NHQ202212160009~large.jpg?w=1920&#038;h=1920&#038;fit=crop&#038;crop=faces%2Cfocalpoint 1920w, https://images-assets.nasa.gov/image/NHQ202212160009/NHQ202212160009~large.jpg?w=150&#038;h=150&#038;fit=crop&#038;crop=faces%2Cfocalpoint 150w, https://images-assets.nasa.gov/image/NHQ202212160009/NHQ202212160009~large.jpg?w=300&#038;h=300&#038;fit=crop&#038;crop=faces%2Cfocalpoint 300w, https://images-assets.nasa.gov/image/NHQ202212160009/NHQ202212160009~large.jpg?w=768&#038;h=768&#038;fit=crop&#038;crop=faces%2Cfocalpoint 768w, https://images-assets.nasa.gov/image/NHQ202212160009/NHQ202212160009~large.jpg?w=1024&#038;h=1024&#038;fit=crop&#038;crop=faces%2Cfocalpoint 1024w, https://images-assets.nasa.gov/image/NHQ202212160009/NHQ202212160009~large.jpg?w=1536&#038;h=1536&#038;fit=crop&#038;crop=faces%2Cfocalpoint 1536w, https://images-assets.nasa.gov/image/NHQ202212160009/NHQ202212160009~large.jpg?w=50&#038;h=50&#038;fit=crop&#038;crop=faces%2Cfocalpoint 50w, https://images-assets.nasa.gov/image/NHQ202212160009/NHQ202212160009~large.jpg?w=100&#038;h=100&#038;fit=crop&#038;crop=faces%2Cfocalpoint 100w, https://images-assets.nasa.gov/image/NHQ202212160009/NHQ202212160009~large.jpg?w=200&#038;h=200&#038;fit=crop&#038;crop=faces%2Cfocalpoint 200w, https://images-assets.nasa.gov/image/NHQ202212160009/NHQ202212160009~large.jpg?w=400&#038;h=400&#038;fit=crop&#038;crop=faces%2Cfocalpoint 400w, https://images-assets.nasa.gov/image/NHQ202212160009/NHQ202212160009~large.jpg?w=600&#038;h=600&#038;fit=crop&#038;crop=faces%2Cfocalpoint 600w, https://images-assets.nasa.gov/image/NHQ202212160009/NHQ202212160009~large.jpg?w=900&#038;h=900&#038;fit=crop&#038;crop=faces%2Cfocalpoint 900w, https://images-assets.nasa.gov/image/NHQ202212160009/NHQ202212160009~large.jpg?w=1200&#038;h=1200&#038;fit=crop&#038;crop=faces%2Cfocalpoint 1200w" sizes="auto, (max-width: 1920px) 100vw, 1920px" /></figure>
+</p></div>
+<p>			</a><br />
+					<a href="https://science.nasa.gov/earth/data/" class="mobile:grid-col-12 tablet:grid-col-6 desktop:grid-col-3 topic-card margin-bottom-4 desktop:margin-bottom-0" rel="noopener"></p>
+<div class="hds-topic-card hds-cover-wrapper cover-hover-zoom bg-carbon-black">
+<div class="skrim-overlay skrim-overlay-dark skrim-left mobile-skrim-top padding-3 display-flex flex-align-end flex-justify-start z-200">
+<div>
+<h3 class="hds-topic-card-heading heading-29 color-spacesuit-white line-height-sm margin-top-0 margin-bottom-1">
+								<span>Earth Science Data</span><br />
+								<svg viewBox="0 0 32 32" fill="none" xmlns="http://www.w3.org/2000/svg"><circle class="color-nasa-red" cx="16" cy="16" r="16"></circle><path d="M8 16.956h12.604l-3.844 4.106 1.252 1.338L24 16l-5.988-6.4-1.252 1.338 3.844 4.106H8v1.912z" class="color-spacesuit-white"></path></svg><br />
+							</h3>
+<p class="margin-bottom-0 margin-top-2 color-carbon-20-important">Open access to NASA’s archive of Earth science data</p>
+</p></div>
+</p></div>
+<figure class="hds-media-background  "><img decoding="async" width="1536" height="768" src="https://science.nasa.gov/wp-content/uploads/2023/10/biosphere-sea-2008-lrg.png?w=1536" class="attachment-1536x1536 size-1536x1536" alt="" style="transform: scale(1); transform-origin: 50% 50%; object-position: 50% 50%; object-fit: cover;" block_context="nasa-block" loading="lazy" srcset="https://science.nasa.gov/wp-content/uploads/2023/10/biosphere-sea-2008-lrg.png 3600w, https://science.nasa.gov/wp-content/uploads/2023/10/biosphere-sea-2008-lrg.png?resize=300,150 300w, https://science.nasa.gov/wp-content/uploads/2023/10/biosphere-sea-2008-lrg.png?resize=768,384 768w, https://science.nasa.gov/wp-content/uploads/2023/10/biosphere-sea-2008-lrg.png?resize=1024,512 1024w, https://science.nasa.gov/wp-content/uploads/2023/10/biosphere-sea-2008-lrg.png?resize=1536,768 1536w, https://science.nasa.gov/wp-content/uploads/2023/10/biosphere-sea-2008-lrg.png?resize=2048,1024 2048w, https://science.nasa.gov/wp-content/uploads/2023/10/biosphere-sea-2008-lrg.png?resize=400,200 400w, https://science.nasa.gov/wp-content/uploads/2023/10/biosphere-sea-2008-lrg.png?resize=600,300 600w, https://science.nasa.gov/wp-content/uploads/2023/10/biosphere-sea-2008-lrg.png?resize=900,450 900w, https://science.nasa.gov/wp-content/uploads/2023/10/biosphere-sea-2008-lrg.png?resize=1200,600 1200w, https://science.nasa.gov/wp-content/uploads/2023/10/biosphere-sea-2008-lrg.png?resize=2000,1000 2000w" sizes="auto, (max-width: 1536px) 100vw, 1536px" /></figure>
+</p></div>
+<p>			</a>
+				</div>
+</p></div>
+</p></div>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
 		<title>NASA Invites Media to Learn About Upcoming X-59 Test Flights</title>
 		<link>https://www.nasa.gov/news-release/nasa-invites-media-to-learn-about-upcoming-x-59-test-flights/</link>
 		
@@ -36,7 +348,7 @@
 		<guid isPermaLink="false">https://www.nasa.gov/?post_type=press-release&#038;p=974362</guid>
 
 					<description><![CDATA[NASA will hold a media teleconference at 5:30 p.m. EDT on Thursday, March 19 to highlight plans for its X-59 quiet supersonic aircraft’s upcoming flight tests. The teleconference is set to take place after the X-59 is scheduled to complete its second flight, in California. For the media call, NASA leadership will join representatives from [&#8230;]]]></description>
-										<content:encoded><![CDATA[<div id="" class="hds-media hds-module wp-block-image"><div class="margin-left-auto margin-right-auto nasa-block-align-inline"><div class="hds-media-wrapper margin-left-auto margin-right-auto"><figure class="hds-media-inner hds-cover-wrapper hds-media-ratio-cover "><a href="https://www.nasa.gov/wp-content/uploads/2026/03/x-59-afrc2026-0048-17.jpg"><img fetchpriority="high" decoding="async" width="2048" height="1365" src="https://www.nasa.gov/wp-content/uploads/2026/03/x-59-afrc2026-0048-17.jpg?w=2048" class="attachment-2048x2048 size-2048x2048" alt="An aircraft resting on a section of runway as seen from the side. The X-59 has a long, thin nose that accounts for nearly a third of its length, along with sleek wings and an engine mounted above its body, just below its tail. The early morning sky is dark in the background with the sunrise just starting to emerge." style="transform: scale(1); transform-origin: 50% 50%; object-position: 50% 50%; object-fit: cover;" block_context="nasa-block" loading="eager" srcset="https://www.nasa.gov/wp-content/uploads/2026/03/x-59-afrc2026-0048-17.jpg 7995w, https://www.nasa.gov/wp-content/uploads/2026/03/x-59-afrc2026-0048-17.jpg?resize=300,200 300w, https://www.nasa.gov/wp-content/uploads/2026/03/x-59-afrc2026-0048-17.jpg?resize=768,512 768w, https://www.nasa.gov/wp-content/uploads/2026/03/x-59-afrc2026-0048-17.jpg?resize=1024,683 1024w, https://www.nasa.gov/wp-content/uploads/2026/03/x-59-afrc2026-0048-17.jpg?resize=1536,1024 1536w, https://www.nasa.gov/wp-content/uploads/2026/03/x-59-afrc2026-0048-17.jpg?resize=2048,1365 2048w, https://www.nasa.gov/wp-content/uploads/2026/03/x-59-afrc2026-0048-17.jpg?resize=400,267 400w, https://www.nasa.gov/wp-content/uploads/2026/03/x-59-afrc2026-0048-17.jpg?resize=600,400 600w, https://www.nasa.gov/wp-content/uploads/2026/03/x-59-afrc2026-0048-17.jpg?resize=900,600 900w, https://www.nasa.gov/wp-content/uploads/2026/03/x-59-afrc2026-0048-17.jpg?resize=1200,800 1200w, https://www.nasa.gov/wp-content/uploads/2026/03/x-59-afrc2026-0048-17.jpg?resize=2000,1333 2000w" sizes="auto, (max-width: 2048px) 100vw, 2048px" /></a></figure><figcaption class="hds-caption padding-y-2"><div class="hds-caption-text p-sm margin-0">As its team prepared for second flight, NASA’s X-59 quiet supersonic aircraft underwent engine run testing on Thursday, March 12, 2026, at NASA’s Armstrong Flight Research Center in Edwards, California.</div><div class="hds-credits">Credit: NASA</div></figcaption></div></div></div>
+										<content:encoded><![CDATA[<div id="" class="hds-media hds-module wp-block-image"><div class="margin-left-auto margin-right-auto nasa-block-align-inline"><div class="hds-media-wrapper margin-left-auto margin-right-auto"><figure class="hds-media-inner hds-cover-wrapper hds-media-ratio-cover "><a href="https://www.nasa.gov/wp-content/uploads/2026/03/x-59-afrc2026-0048-17.jpg"><img decoding="async" width="2048" height="1365" src="https://www.nasa.gov/wp-content/uploads/2026/03/x-59-afrc2026-0048-17.jpg?w=2048" class="attachment-2048x2048 size-2048x2048" alt="An aircraft resting on a section of runway as seen from the side. The X-59 has a long, thin nose that accounts for nearly a third of its length, along with sleek wings and an engine mounted above its body, just below its tail. The early morning sky is dark in the background with the sunrise just starting to emerge." style="transform: scale(1); transform-origin: 50% 50%; object-position: 50% 50%; object-fit: cover;" block_context="nasa-block" loading="eager" srcset="https://www.nasa.gov/wp-content/uploads/2026/03/x-59-afrc2026-0048-17.jpg 7995w, https://www.nasa.gov/wp-content/uploads/2026/03/x-59-afrc2026-0048-17.jpg?resize=300,200 300w, https://www.nasa.gov/wp-content/uploads/2026/03/x-59-afrc2026-0048-17.jpg?resize=768,512 768w, https://www.nasa.gov/wp-content/uploads/2026/03/x-59-afrc2026-0048-17.jpg?resize=1024,683 1024w, https://www.nasa.gov/wp-content/uploads/2026/03/x-59-afrc2026-0048-17.jpg?resize=1536,1024 1536w, https://www.nasa.gov/wp-content/uploads/2026/03/x-59-afrc2026-0048-17.jpg?resize=2048,1365 2048w, https://www.nasa.gov/wp-content/uploads/2026/03/x-59-afrc2026-0048-17.jpg?resize=400,267 400w, https://www.nasa.gov/wp-content/uploads/2026/03/x-59-afrc2026-0048-17.jpg?resize=600,400 600w, https://www.nasa.gov/wp-content/uploads/2026/03/x-59-afrc2026-0048-17.jpg?resize=900,600 900w, https://www.nasa.gov/wp-content/uploads/2026/03/x-59-afrc2026-0048-17.jpg?resize=1200,800 1200w, https://www.nasa.gov/wp-content/uploads/2026/03/x-59-afrc2026-0048-17.jpg?resize=2000,1333 2000w" sizes="auto, (max-width: 2048px) 100vw, 2048px" /></a></figure><figcaption class="hds-caption padding-y-2"><div class="hds-caption-text p-sm margin-0">As its team prepared for second flight, NASA’s X-59 quiet supersonic aircraft underwent engine run testing on Thursday, March 12, 2026, at NASA’s Armstrong Flight Research Center in Edwards, California.</div><div class="hds-credits">Credit: NASA</div></figcaption></div></div></div>
 
 
 <p>NASA will hold a media teleconference at 5:30 p.m. EDT on Thursday, March 19 to highlight plans for its X-59 quiet supersonic aircraft’s upcoming flight tests. The teleconference is set to take place after the X-59 is scheduled to complete its second flight, in California.</p>
@@ -1772,164 +2084,6 @@
 </p></div>
 </section></div>
 ]]></content:encoded>
-					
-		
-		
-			</item>
-		<item>
-		<title>NASA Selects Finalists in Student Aircraft Maintenance Competition</title>
-		<link>https://www.nasa.gov/aeronautics/nasa-selects-finalists-in-student-aircraft-maintenance-competition/</link>
-		
-		<dc:creator><![CDATA[Bailey G. Light]]></dc:creator>
-		<pubDate>Fri, 13 Mar 2026 19:17:49 +0000</pubDate>
-				<category><![CDATA[Aeronautics]]></category>
-		<category><![CDATA[Aeronautics Research Mission Directorate]]></category>
-		<category><![CDATA[Flight Innovation]]></category>
-		<category><![CDATA[Prizes, Challenges, & Crowdsourcing News]]></category>
-		<category><![CDATA[Prizes, Challenges, and Crowdsourcing Program]]></category>
-		<category><![CDATA[Space Technology Mission Directorate]]></category>
-		<guid isPermaLink="false">https://www.nasa.gov/?p=973602</guid>
-
-					<description><![CDATA[NASA&#160;has&#160;selected&#160;eight&#160;student&#160;teams as finalists in the 2026 Gateways to Blue Skies&#160;Competition, giving them the resources to help address&#160;a critical challenge&#160;for&#160;U.S. aviation:&#160;maintenance.&#160; Challenges facing the commercial aviation industry include a shortage of qualified maintenance workers and increasing demands to keep complicated&#160;aircraft&#160;running for longer. With Gateways to Blue Skies,&#160;NASA&#160;taps into student innovation to address some of the biggest [&#8230;]]]></description>
-										<content:encoded><![CDATA[<div id="" class="hds-media hds-module wp-block-image"><div class="margin-left-auto margin-right-auto nasa-block-align-inline"><div class="hds-media-wrapper margin-left-auto margin-right-auto"><figure class="hds-media-inner hds-cover-wrapper hds-media-ratio-fit "><a href="https://www.nasa.gov/wp-content/uploads/2026/03/2026-blue-skies-competition-web-banner-1000-x-400-px.png"><img decoding="async" width="2048" height="455" src="https://www.nasa.gov/wp-content/uploads/2026/03/2026-blue-skies-competition-web-banner-1000-x-400-px.png?w=2048" class="attachment-2048x2048 size-2048x2048" alt="A photo collage showing aircraft and people for the Gateways to Blue Skies Competition with the 2026 topic RepAir: Advancing Aircraft Maintenance. The banner illustrates the story &quot;NASA Selects Finalists in Student Aircraft Maintenance Competition.&quot;" style="transform: scale(1); transform-origin: 50% 50%; object-position: 50% 50%; object-fit: cover;" block_context="nasa-block" loading="lazy" srcset="https://www.nasa.gov/wp-content/uploads/2026/03/2026-blue-skies-competition-web-banner-1000-x-400-px.png 2475w, https://www.nasa.gov/wp-content/uploads/2026/03/2026-blue-skies-competition-web-banner-1000-x-400-px.png?resize=300,67 300w, https://www.nasa.gov/wp-content/uploads/2026/03/2026-blue-skies-competition-web-banner-1000-x-400-px.png?resize=768,171 768w, https://www.nasa.gov/wp-content/uploads/2026/03/2026-blue-skies-competition-web-banner-1000-x-400-px.png?resize=1024,228 1024w, https://www.nasa.gov/wp-content/uploads/2026/03/2026-blue-skies-competition-web-banner-1000-x-400-px.png?resize=1536,341 1536w, https://www.nasa.gov/wp-content/uploads/2026/03/2026-blue-skies-competition-web-banner-1000-x-400-px.png?resize=2048,455 2048w, https://www.nasa.gov/wp-content/uploads/2026/03/2026-blue-skies-competition-web-banner-1000-x-400-px.png?resize=400,89 400w, https://www.nasa.gov/wp-content/uploads/2026/03/2026-blue-skies-competition-web-banner-1000-x-400-px.png?resize=600,133 600w, https://www.nasa.gov/wp-content/uploads/2026/03/2026-blue-skies-competition-web-banner-1000-x-400-px.png?resize=900,200 900w, https://www.nasa.gov/wp-content/uploads/2026/03/2026-blue-skies-competition-web-banner-1000-x-400-px.png?resize=1200,267 1200w, https://www.nasa.gov/wp-content/uploads/2026/03/2026-blue-skies-competition-web-banner-1000-x-400-px.png?resize=2000,444 2000w" sizes="auto, (max-width: 2048px) 100vw, 2048px" /></a></figure><figcaption class="hds-caption padding-y-2"><div class="hds-credits">Image Credit: National Institute of Aerospace</div></figcaption></div></div></div>
-
-
-<p>NASA&nbsp;has&nbsp;selected&nbsp;eight&nbsp;student&nbsp;teams as finalists in the 2026 Gateways to Blue Skies&nbsp;Competition, giving them the resources to help address&nbsp;a critical challenge&nbsp;for&nbsp;U.S. aviation:&nbsp;maintenance.&nbsp;</p>
-
-
-
-<p>Challenges facing the commercial aviation industry include a shortage of qualified maintenance workers and increasing demands to keep complicated&nbsp;aircraft&nbsp;running for longer. With Gateways to Blue Skies,&nbsp;NASA&nbsp;taps into student innovation to address some of the biggest topics in aviation, and the current competition,&nbsp;RepAir: Advancing Aircraft Maintenance, is looking for solutions that can have immediate impact.&nbsp;</p>
-
-
-
-<p>“Through this competition, students will learn about&nbsp;aviation&nbsp;maintenance and be empowered to change its future,”&nbsp;said Steven&nbsp;Holz,&nbsp;associate&nbsp;project&nbsp;manager for NASA’s University Innovation Project and judging panel co-chair for Gateways to Blue Skies. “By grounding innovative ideas in real operational needs and presenting them to NASA and industry experts, these teams demonstrate the kind of critical thinking, collaboration, and forward-looking problem solving that will shape&nbsp;a&nbsp;safer, more efficient aviation&nbsp;industry&nbsp;in the near future.”&nbsp;</p>
-
-
-
-<p>This competition challenged teams of&nbsp;postsecondary&nbsp;students to conceptualize innovative systems and practices that could advance current commercial&nbsp;aircraft&nbsp;maintenance and repair operations.&nbsp;It addresses dual goals&nbsp;for NASA: supporting&nbsp;innovative research&nbsp;and&nbsp;also&nbsp;stimulating the potential&nbsp;aviation workforce of tomorrow.&nbsp;</p>
-
-
-
-<p>The&nbsp;goal&nbsp;for&nbsp;RepAir:&nbsp;Advancing Aircraft Maintenance&nbsp;is to generate concepts to improve efficiency, safety, and costs for the&nbsp;aviation maintenance&nbsp;industry by 2035.&nbsp;That timeline&nbsp;differs from&nbsp;many NASA research competitions focused on&nbsp;long-term&nbsp;future technologies;&nbsp;RepAir&nbsp;seeks&nbsp;to address the maintenance issues of today.&nbsp;</p>
-
-
-
-<p>NASA made its&nbsp;selections&nbsp;based on a review of&nbsp;participants’&nbsp;proposals and accompanying videos summarizing the RepAir concepts.&nbsp;The eight finalist teams will receive a $9,000 prize and will advance to Phase 2 of the competition.&nbsp;&nbsp;</p>
-
-
-
-<p>Phase 2 includes a review of each team’s final paper, infographic, and presentation at&nbsp;the 2026 Gateways to Blue Skies Forum, held May 18&nbsp;at NASA Langley&nbsp;Research Center in Hampton, Virginia&nbsp;in May&nbsp;and&nbsp;<a href="https://vimeo.com/showcase/blueskies" target="_blank" rel="noreferrer noopener">livestreamed globally</a>.&nbsp;Following the forum, members of the winning team who fulfill eligibility criteria will be offered the opportunity to intern with NASA Aeronautics.&nbsp;&nbsp;&nbsp;</p>
-
-
-
-<p>The 2026 Gateways to Blue Skies Competition finalist projects represent an array of capabilities including&nbsp;robotic inspections, augmented reality smart glasses, and sensor and machine learning architectures:&nbsp;</p>
-
-
-
-<ul class="wp-block-list">
-<li><strong>Embry-Riddle Aeronautical University Daytona Beach with Cecil College Maryland</strong>&nbsp;<br><em>Advancing Aircraft Maintenance, Smart Mechanic Glasses</em>&nbsp;</li>
-
-
-
-<li><strong>Manhattan University&nbsp;</strong>&nbsp;<br><em>Aircraft Enhanced Resilience and Intelligence Systems&nbsp;(A.E.R.I.S)</em>&nbsp;</li>
-
-
-
-<li><strong>Michigan State University&nbsp;</strong>&nbsp;<br><em>Surface Evaluation Network for Tethered Inspection and Nondestructive Evaluation (SENTINEL)</em>&nbsp;</li>
-
-
-
-<li><strong>South Dakota State University&nbsp;</strong>&nbsp;<br><em>Surveying Platform and Inspection Device for Enclosed Regions (S.P.I.D.E.R.)</em>&nbsp;</li>
-
-
-
-<li><strong>South Dakota State University&nbsp;</strong>&nbsp;<br><em>WINGMAN,&nbsp;augmented&nbsp;reality data-logging and information-display system for improved efficiency in line maintenance inspections and reporting</em>&nbsp;</li>
-</ul>
-
-
-
-<ul class="wp-block-list">
-<li><strong>South Dakota State University&nbsp;</strong>&nbsp;<br><em>Surface Preservation and Rust Killer (</em><em>S.P.A.R.K.)&nbsp;Crawler</em>&nbsp;</li>
-</ul>
-
-
-
-<ul class="wp-block-list">
-<li><strong>University of California, Irvine&nbsp;</strong>&nbsp;<br><em>Aircraft Structural&nbsp;Health Intelligence for Evaluation and Lifecycle Detection&nbsp;(Air SHIELD)</em>&nbsp;</li>
-
-
-
-<li><strong>University of Maryland Eastern Shore</strong>&nbsp;<br><em>A Self-Supervised Learning Framework for&nbsp;Auxiliary Power Unit&nbsp;(APU)&nbsp;Fuel Control Unit Health Management in Aircraft&nbsp;known as APU Sentinel</em>&nbsp;</li>
-</ul>
-
-
-
-<p>The Gateways to Blue&nbsp;Skies Challenge is&nbsp;led&nbsp;through the Transformative Aeronautics Concepts Program in NASA’s&nbsp;<a href="https://www.nasa.gov/aeronautics/" target="_blank" rel="noreferrer noopener">Aeronautics Research Mission Directorate</a>.&nbsp;The NASA Tournament Lab, part of the&nbsp;<a href="https://www.nasa.gov/prizes-challenges-and-crowdsourcing/" target="_blank" rel="noreferrer noopener">Prizes, Challenges, and Crowdsourcing Program</a>&nbsp;in the Space Technology Mission Directorate, manages the challenge&nbsp;through&nbsp;the National Institute of Aerospace&nbsp;on behalf of&nbsp;<a href="https://www.nasa.gov/aeronautics/" target="_blank" rel="noreferrer noopener">NASA</a>.&nbsp;</p>
-
-
-
-<p>More on the Gateways to Blues Skies:&nbsp;RepAir:&nbsp;Advancing&nbsp;Aircraft&nbsp;Maintenance&nbsp;competition&nbsp;is available&nbsp;<a href="https://blueskies.nianet.org/" target="_blank" rel="noreferrer noopener">on the competition’s site</a>.&nbsp;</p>
-
-
-<div id="" class="hds-topic-cards nasa-gb-align-full maxw-full width-full padding-y-6 padding-x-3 color-mode-dark hds-module hds-module-full alignfull wp-block-nasa-blocks-topic-cards">		<div class="grid-container grid-container-block-lg padding-x-0">
-			<div class="grid-row flex-align-center margin-bottom-3">
-				<div class="desktop:grid-col-8 margin-bottom-2 desktop:margin-bottom-0">
-					<div class="label color-carbon-60 margin-bottom-2">Keep Exploring</div>
-					<h2 class="heading-36 line-height-sm">Discover More Topics From NASA</h2>
-				</div>
-			</div>
-				<div class="grid-row grid-gap-2 hds-topic-cards-wrapper">
-					<a href="https://www.nasa.gov/aeronautics/" class="mobile:grid-col-12 tablet:grid-col-6 desktop:grid-col-3 topic-card margin-bottom-4 desktop:margin-bottom-0">
-				<div class="hds-topic-card hds-cover-wrapper cover-hover-zoom bg-carbon-black">
-					<div class="skrim-overlay skrim-overlay-dark skrim-left mobile-skrim-top padding-3 display-flex flex-align-end flex-justify-start z-200">
-						<div>
-													<p class="hds-topic-card-heading heading-29 color-spacesuit-white line-height-sm margin-top-0 margin-bottom-1">
-								<span>Aeronautics</span>
-								<svg viewBox="0 0 32 32" fill="none" xmlns="http://www.w3.org/2000/svg"><circle class="color-nasa-red" cx="16" cy="16" r="16"></circle><path d="M8 16.956h12.604l-3.844 4.106 1.252 1.338L24 16l-5.988-6.4-1.252 1.338 3.844 4.106H8v1.912z" class="color-spacesuit-white"></path></svg>
-							</p>
-													</div>
-					</div>
-											<figure class="hds-media-background  "><img decoding="async" width="1536" height="1025" src="https://www.nasa.gov/wp-content/uploads/2025/05/p23-171-176.jpg?w=1536" class="attachment-1536x1536 size-1536x1536" alt="" style="transform: scale(1); transform-origin: 50% 50%; object-position: 50% 50%; object-fit: cover;" block_context="nasa-block" loading="lazy" srcset="https://www.nasa.gov/wp-content/uploads/2025/05/p23-171-176.jpg 3598w, https://www.nasa.gov/wp-content/uploads/2025/05/p23-171-176.jpg?resize=300,200 300w, https://www.nasa.gov/wp-content/uploads/2025/05/p23-171-176.jpg?resize=768,512 768w, https://www.nasa.gov/wp-content/uploads/2025/05/p23-171-176.jpg?resize=1024,683 1024w, https://www.nasa.gov/wp-content/uploads/2025/05/p23-171-176.jpg?resize=1536,1025 1536w, https://www.nasa.gov/wp-content/uploads/2025/05/p23-171-176.jpg?resize=2048,1366 2048w, https://www.nasa.gov/wp-content/uploads/2025/05/p23-171-176.jpg?resize=400,267 400w, https://www.nasa.gov/wp-content/uploads/2025/05/p23-171-176.jpg?resize=600,400 600w, https://www.nasa.gov/wp-content/uploads/2025/05/p23-171-176.jpg?resize=900,600 900w, https://www.nasa.gov/wp-content/uploads/2025/05/p23-171-176.jpg?resize=1200,800 1200w, https://www.nasa.gov/wp-content/uploads/2025/05/p23-171-176.jpg?resize=2000,1334 2000w" sizes="auto, (max-width: 1536px) 100vw, 1536px" /></figure>									</div>
-			</a>
-					<a href="https://www.nasa.gov/prizes-challenges-and-crowdsourcing/" class="mobile:grid-col-12 tablet:grid-col-6 desktop:grid-col-3 topic-card margin-bottom-4 desktop:margin-bottom-0">
-				<div class="hds-topic-card hds-cover-wrapper cover-hover-zoom bg-carbon-black">
-					<div class="skrim-overlay skrim-overlay-dark skrim-left mobile-skrim-top padding-3 display-flex flex-align-end flex-justify-start z-200">
-						<div>
-													<p class="hds-topic-card-heading heading-29 color-spacesuit-white line-height-sm margin-top-0 margin-bottom-1">
-								<span>NASA Prizes, Challenges, and Crowdsourcing</span>
-								<svg viewBox="0 0 32 32" fill="none" xmlns="http://www.w3.org/2000/svg"><circle class="color-nasa-red" cx="16" cy="16" r="16"></circle><path d="M8 16.956h12.604l-3.844 4.106 1.252 1.338L24 16l-5.988-6.4-1.252 1.338 3.844 4.106H8v1.912z" class="color-spacesuit-white"></path></svg>
-							</p>
-													</div>
-					</div>
-											<figure class="hds-media-background  "><img decoding="async" width="1152" height="1536" src="https://www.nasa.gov/wp-content/uploads/2023/03/img-0940.jpg?w=1152" class="attachment-1536x1536 size-1536x1536" alt="" style="transform: scale(1); transform-origin: 50% 50%; object-position: 50% 50%; object-fit: cover;" block_context="nasa-block" loading="lazy" srcset="https://www.nasa.gov/wp-content/uploads/2023/03/img-0940.jpg 1512w, https://www.nasa.gov/wp-content/uploads/2023/03/img-0940.jpg?resize=225,300 225w, https://www.nasa.gov/wp-content/uploads/2023/03/img-0940.jpg?resize=768,1024 768w, https://www.nasa.gov/wp-content/uploads/2023/03/img-0940.jpg?resize=1152,1536 1152w, https://www.nasa.gov/wp-content/uploads/2023/03/img-0940.jpg?resize=300,400 300w, https://www.nasa.gov/wp-content/uploads/2023/03/img-0940.jpg?resize=450,600 450w, https://www.nasa.gov/wp-content/uploads/2023/03/img-0940.jpg?resize=675,900 675w, https://www.nasa.gov/wp-content/uploads/2023/03/img-0940.jpg?resize=900,1200 900w, https://www.nasa.gov/wp-content/uploads/2023/03/img-0940.jpg?resize=1500,2000 1500w" sizes="auto, (max-width: 1152px) 100vw, 1152px" /></figure>									</div>
-			</a>
-					<a href="https://www.nasa.gov/space-technology-mission-directorate/" class="mobile:grid-col-12 tablet:grid-col-6 desktop:grid-col-3 topic-card margin-bottom-4 desktop:margin-bottom-0">
-				<div class="hds-topic-card hds-cover-wrapper cover-hover-zoom bg-carbon-black">
-					<div class="skrim-overlay skrim-overlay-dark skrim-left mobile-skrim-top padding-3 display-flex flex-align-end flex-justify-start z-200">
-						<div>
-													<p class="hds-topic-card-heading heading-29 color-spacesuit-white line-height-sm margin-top-0 margin-bottom-1">
-								<span>Space Technology Mission Directorate</span>
-								<svg viewBox="0 0 32 32" fill="none" xmlns="http://www.w3.org/2000/svg"><circle class="color-nasa-red" cx="16" cy="16" r="16"></circle><path d="M8 16.956h12.604l-3.844 4.106 1.252 1.338L24 16l-5.988-6.4-1.252 1.338 3.844 4.106H8v1.912z" class="color-spacesuit-white"></path></svg>
-							</p>
-													</div>
-					</div>
-											<figure class="hds-media-background  "><img decoding="async" width="525" height="800" src="https://www.nasa.gov/wp-content/uploads/2022/12/stmd.jpg?w=525" class="attachment-1536x1536 size-1536x1536" alt="" style="transform: scale(1); transform-origin: 50% 50%; object-position: 50% 50%; object-fit: cover;" block_context="nasa-block" loading="lazy" srcset="https://www.nasa.gov/wp-content/uploads/2022/12/stmd.jpg 525w, https://www.nasa.gov/wp-content/uploads/2022/12/stmd.jpg?resize=197,300 197w, https://www.nasa.gov/wp-content/uploads/2022/12/stmd.jpg?resize=263,400 263w, https://www.nasa.gov/wp-content/uploads/2022/12/stmd.jpg?resize=394,600 394w" sizes="auto, (max-width: 525px) 100vw, 525px" /></figure>									</div>
-			</a>
-					<a href="https://www.nasa.gov/get-involved/" class="mobile:grid-col-12 tablet:grid-col-6 desktop:grid-col-3 topic-card margin-bottom-4 desktop:margin-bottom-0">
-				<div class="hds-topic-card hds-cover-wrapper cover-hover-zoom bg-carbon-black">
-					<div class="skrim-overlay skrim-overlay-dark skrim-left mobile-skrim-top padding-3 display-flex flex-align-end flex-justify-start z-200">
-						<div>
-													<p class="hds-topic-card-heading heading-29 color-spacesuit-white line-height-sm margin-top-0 margin-bottom-1">
-								<span>Get Involved</span>
-								<svg viewBox="0 0 32 32" fill="none" xmlns="http://www.w3.org/2000/svg"><circle class="color-nasa-red" cx="16" cy="16" r="16"></circle><path d="M8 16.956h12.604l-3.844 4.106 1.252 1.338L24 16l-5.988-6.4-1.252 1.338 3.844 4.106H8v1.912z" class="color-spacesuit-white"></path></svg>
-							</p>
-													</div>
-					</div>
-											<figure class="hds-media-background  "><img decoding="async" width="1536" height="1025" src="https://www.nasa.gov/wp-content/uploads/2015/03/top-image.jpg?w=1536" class="attachment-1536x1536 size-1536x1536" alt="" style="transform: scale(1); transform-origin: 50% 50%; object-position: 50% 50%; object-fit: cover;" block_context="nasa-block" loading="lazy" srcset="https://www.nasa.gov/wp-content/uploads/2015/03/top-image.jpg 8192w, https://www.nasa.gov/wp-content/uploads/2015/03/top-image.jpg?resize=300,200 300w, https://www.nasa.gov/wp-content/uploads/2015/03/top-image.jpg?resize=768,512 768w, https://www.nasa.gov/wp-content/uploads/2015/03/top-image.jpg?resize=1024,683 1024w, https://www.nasa.gov/wp-content/uploads/2015/03/top-image.jpg?resize=1536,1025 1536w, https://www.nasa.gov/wp-content/uploads/2015/03/top-image.jpg?resize=2048,1366 2048w, https://www.nasa.gov/wp-content/uploads/2015/03/top-image.jpg?resize=400,267 400w, https://www.nasa.gov/wp-content/uploads/2015/03/top-image.jpg?resize=600,400 600w, https://www.nasa.gov/wp-content/uploads/2015/03/top-image.jpg?resize=900,600 900w, https://www.nasa.gov/wp-content/uploads/2015/03/top-image.jpg?resize=1200,800 1200w, https://www.nasa.gov/wp-content/uploads/2015/03/top-image.jpg?resize=2000,1334 2000w" sizes="auto, (max-width: 1536px) 100vw, 1536px" /></figure>									</div>
-			</a>
-				</div>
-			</div>
-		</div>]]></content:encoded>
 					
 		
 		

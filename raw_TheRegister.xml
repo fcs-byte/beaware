@@ -13,7 +13,55 @@
   <icon>https://www.theregister.com/Design/graphics/icons/favicon.png</icon>
   <subtitle>Biting the hand that feeds IT — Enterprise Technology News and Analysis</subtitle>
   <logo>https://www.theregister.com/Design/graphics/Reg_default/The_Register_r.png</logo>
-  <updated>2026-03-16T22:07:20.00Z</updated>
+  <updated>2026-03-17T06:41:53.00Z</updated>
+  <entry>
+    <id>tag:theregister.com,2005:story245142</id>
+    <published>2026-03-17T06:29:16.00Z</published>
+    <updated>2026-03-17T06:41:53.00Z</updated>
+    <author>
+      <name>Simon Sharwood</name>
+      <uri>https://search.theregister.com/?author=Simon%20Sharwood</uri>
+    </author>
+    <link rel="alternate" type="text/html" href="https://go.theregister.com/feed/www.theregister.com/2026/03/17/everything_needed_to_make_dna/"/>
+    <title type="html">Everything needed to make DNA and RNA found in asteroid sample</title>
+    <summary type="html" xml:base="https://www.theregister.com/">&lt;h4&gt;Results from Ryugu suggest the the Solar System produced the building blocks of life&lt;/h4&gt; &lt;p&gt;Scientists have found that all five of the substances that make up DNA and RNA in samples from Ryugu, the asteroid Japan’s Aerospace Exploration Agency visited in 2020.…&lt;/p&gt;</summary>
+  </entry>
+  <entry>
+    <id>tag:theregister.com,2005:story245141</id>
+    <published>2026-03-17T04:37:40.00Z</published>
+    <updated>2026-03-17T06:30:02.00Z</updated>
+    <author>
+      <name>Simon Sharwood</name>
+      <uri>https://search.theregister.com/?author=Simon%20Sharwood</uri>
+    </author>
+    <link rel="alternate" type="text/html" href="https://go.theregister.com/feed/www.theregister.com/2026/03/17/gartner_copilot_security_mitigations/"/>
+    <title type="html">Gartner suggests Friday afternoon Copilot ban because tired users may be too lazy to check its mistakes</title>
+    <summary type="html" xml:base="https://www.theregister.com/">&lt;h4&gt;Admins may be even more exhausted by then, because securing Microsoft’s AI helper is not a trivial job&lt;/h4&gt; &lt;p&gt;Gartner analyst Dennis Xu has half-jokingly suggested banning use of Microsoft’s Copilot AI on Friday afternoons, because he fears at that time of week users may be too lazy to properly check its possibly offensive output.…&lt;/p&gt; &lt;p&gt;&lt;!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --&gt;&lt;/p&gt;</summary>
+  </entry>
+  <entry>
+    <id>tag:theregister.com,2005:story245140</id>
+    <published>2026-03-17T02:37:16.00Z</published>
+    <updated>2026-03-17T02:37:16.00Z</updated>
+    <author>
+      <name>Simon Sharwood</name>
+      <uri>https://search.theregister.com/?author=Simon%20Sharwood</uri>
+    </author>
+    <link rel="alternate" type="text/html" href="https://go.theregister.com/feed/www.theregister.com/2026/03/17/commonwealth_bank_ai_defense/"/>
+    <title type="html">Bank built its own threat hunting agent because vendors can’t keep pace with new threats</title>
+    <summary type="html" xml:base="https://www.theregister.com/">&lt;h4&gt;AI helped send weekly threat signal count from 80 million to 400 billion, then helped response time shrink from two days to 30 minutes&lt;/h4&gt; &lt;p&gt;Australia’s Commonwealth Bank built its own agentic AI threat hunting tools, because vendors are too slow to develop tools that can cope with emerging AI-powered threats, according to General Manager of Cyber Defence Operations Andrew Pade.…&lt;/p&gt;</summary>
+  </entry>
+  <entry>
+    <id>tag:theregister.com,2005:story245138</id>
+    <published>2026-03-17T00:38:54.00Z</published>
+    <updated>2026-03-17T00:38:54.00Z</updated>
+    <author>
+      <name>Thomas Claburn</name>
+      <uri>https://search.theregister.com/?author=Thomas%20Claburn</uri>
+    </author>
+    <link rel="alternate" type="text/html" href="https://go.theregister.com/feed/www.theregister.com/2026/03/17/ai_businesses_faking_it_reckoning_coming_codestrap/"/>
+    <title type="html">AI still doesn't work very well, businesses are faking it, and a reckoning is coming</title>
+    <summary type="html" xml:base="https://www.theregister.com/">&lt;h4&gt;Codestrap founders say we need to dial down the hype and sort through the mess&lt;/h4&gt; &lt;p&gt;&lt;strong&gt;interview&lt;/strong&gt;  Enterprise organizations are still struggling to figure out how AI fits into their business, and that may be for the best because it will take time to understand any problems caused by AI-generated code and content.…&lt;/p&gt;</summary>
+  </entry>
   <entry>
     <id>tag:theregister.com,2005:story245137</id>
     <published>2026-03-16T22:07:20.00Z</published>
@@ -113,14 +161,14 @@
   <entry>
     <id>tag:theregister.com,2005:story245127</id>
     <published>2026-03-16T16:50:09.00Z</published>
-    <updated>2026-03-16T16:50:09.00Z</updated>
+    <updated>2026-03-17T00:29:47.00Z</updated>
     <author>
       <name>Richard Speed</name>
       <uri>https://search.theregister.com/?author=Richard%20Speed</uri>
     </author>
     <link rel="alternate" type="text/html" href="https://go.theregister.com/feed/www.theregister.com/2026/03/16/ai_robotron_dave_plummer/"/>
-    <title type="html">AI takes on Robotron: 2084, the original robot uprising simulator</title>
-    <summary type="html" xml:base="https://www.theregister.com/">&lt;h4&gt;Former Microsoft dev trains a model to survive the arcade's most chaotic stress test&lt;/h4&gt; &lt;p&gt;A former Microsoft engineer is training AI to beat 1982's Robotron: 2084, an arcade game where a lone human must overcome endless waves of robots following a cybernetic revolt.…&lt;/p&gt;</summary>
+    <title type="html">Former Microsoft dev trains AI to survive the arcade's most chaotic stress test</title>
+    <summary type="html" xml:base="https://www.theregister.com/">&lt;h4&gt;Robotron: 2084 is the original robot uprising game&lt;/h4&gt; &lt;p&gt;A former Microsoft engineer is training AI to beat 1982's Robotron: 2084, an arcade game where a lone human must overcome endless waves of robots following a cybernetic revolt.…&lt;/p&gt;</summary>
   </entry>
   <entry>
     <id>tag:theregister.com,2005:story245125</id>
@@ -137,13 +185,13 @@
   <entry>
     <id>tag:theregister.com,2005:story245123</id>
     <published>2026-03-16T14:35:23.00Z</published>
-    <updated>2026-03-16T14:35:23.00Z</updated>
+    <updated>2026-03-17T00:12:13.00Z</updated>
     <author>
       <name>Liam Proven</name>
       <uri>https://search.theregister.com/?author=Liam%20Proven</uri>
     </author>
     <link rel="alternate" type="text/html" href="https://go.theregister.com/feed/www.theregister.com/2026/03/16/digital_fruit_fly_brain_model/"/>
-    <title type="html">Boffins hook fly brain map to virtual body, which starts looking for sugar</title>
+    <title type="html">Digital fruit fly brain model walks and cleans its feelers</title>
     <summary type="html" xml:base="https://www.theregister.com/">&lt;h4&gt;Early demo hints at a future sci-fi writers warned us about&lt;/h4&gt; &lt;p&gt;San Francisco startup Eon Systems claims that it has created the first digital simulation of a fruit fly brain that can control a virtual body and produce recognizable behaviors.…&lt;/p&gt;</summary>
   </entry>
   <entry>
@@ -269,7 +317,7 @@
   <entry>
     <id>tag:theregister.com,2005:story245115</id>
     <published>2026-03-16T06:24:04.00Z</published>
-    <updated>2026-03-16T06:24:04.00Z</updated>
+    <updated>2026-03-17T00:35:02.00Z</updated>
     <author>
       <name>Simon Sharwood</name>
       <uri>https://search.theregister.com/?author=Simon%20Sharwood</uri>
@@ -329,13 +377,13 @@
   <entry>
     <id>tag:theregister.com,2005:story245104</id>
     <published>2026-03-15T12:34:14.00Z</published>
-    <updated>2026-03-15T12:34:14.00Z</updated>
+    <updated>2026-03-17T00:17:45.00Z</updated>
     <author>
       <name>Dan Robinson</name>
       <uri>https://search.theregister.com/?author=Dan%20Robinson</uri>
     </author>
     <link rel="alternate" type="text/html" href="https://go.theregister.com/feed/www.theregister.com/2026/03/15/jury_out_on_whether_americans/"/>
-    <title type="html">Jury out on whether Americans approve or disapprove of datacenters</title>
+    <title type="html">Jury out on whether Americans love or hate datacenters</title>
     <summary type="html" xml:base="https://www.theregister.com/">&lt;h4&gt;Most don't think they are good for the environment.&lt;/h4&gt; &lt;p&gt;Three-quarters of the American public have heard of datacenters, but they haven't quite made their minds up yet about whether they approve of them or not.…&lt;/p&gt;</summary>
   </entry>
   <entry>
@@ -565,53 +613,5 @@
     <link rel="alternate" type="text/html" href="https://go.theregister.com/feed/www.theregister.com/2026/03/13/windows_railway_bork/"/>
     <title type="html">Windows pays tribute to Britain's creaking rail network with a BSOD</title>
     <summary type="html" xml:base="https://www.theregister.com/">&lt;h4&gt;Grappling with UK trains will send humans into Recovery too sometimes&lt;/h4&gt; &lt;p&gt;&lt;strong&gt;Bork!Bork!Bork!&lt;/strong&gt;  Today we visit the south of England, where Windows has fallen over, briefly granting unrestricted rail travel to one and all.…&lt;/p&gt; &lt;p&gt;&lt;!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --&gt;&lt;/p&gt;</summary>
-  </entry>
-  <entry>
-    <id>tag:theregister.com,2005:story245079</id>
-    <published>2026-03-13T10:15:09.00Z</published>
-    <updated>2026-03-13T11:51:18.00Z</updated>
-    <author>
-      <name>Dan Robinson</name>
-      <uri>https://search.theregister.com/?author=Dan%20Robinson</uri>
-    </author>
-    <link rel="alternate" type="text/html" href="https://go.theregister.com/feed/www.theregister.com/2026/03/13/openreach_fiber_water_leaks/"/>
-    <title type="html">Openreach: Fiber can sniff out leaky water pipes – if anyone bothers fixing them</title>
-    <summary type="html" xml:base="https://www.theregister.com/">&lt;h4&gt;Distributed Acoustic Sensing tech uses broadband cables to pinpoint plumbing faults&lt;/h4&gt; &lt;p&gt;Openreach claims its fiber network infrastructure can detect leaks in nearby water supply pipes, which could save millions of liters of the precious fluid... if the water companies can be bothered to fix them.…&lt;/p&gt;</summary>
-  </entry>
-  <entry>
-    <id>tag:theregister.com,2005:story245063</id>
-    <published>2026-03-13T07:30:06.00Z</published>
-    <updated>2026-03-13T07:30:06.00Z</updated>
-    <author>
-      <name>Simon Sharwood</name>
-      <uri>https://search.theregister.com/?author=Simon%20Sharwood</uri>
-    </author>
-    <link rel="alternate" type="text/html" href="https://go.theregister.com/feed/www.theregister.com/2026/03/13/on_call/"/>
-    <title type="html">Blustering Blackbeard's PC was all at sea, sysadmin got him shipshape in seconds</title>
-    <summary type="html" xml:base="https://www.theregister.com/">&lt;h4&gt;Have you tried turning it on, never mind off and on again?&lt;/h4&gt; &lt;p&gt;&lt;strong&gt;On Call&lt;/strong&gt;  Arrr! How is it Friday already? &lt;i&gt;The Register&lt;/i&gt; can't explain where the week went, but we can deliver a new installment of On Call, the reader-contributed column that shares your stories of tech support SNAFUs.…&lt;/p&gt;</summary>
-  </entry>
-  <entry>
-    <id>tag:theregister.com,2005:story245083</id>
-    <published>2026-03-13T06:30:06.00Z</published>
-    <updated>2026-03-13T19:20:48.00Z</updated>
-    <author>
-      <name>Tobias Mann</name>
-      <uri>https://search.theregister.com/?author=Tobias%20Mann</uri>
-    </author>
-    <link rel="alternate" type="text/html" href="https://go.theregister.com/feed/www.theregister.com/2026/03/13/nvidia_gtc_2026_preview_tobias_mann_register/"/>
-    <title type="html">AI Burning Man happens next week –what to expect at Nvidia GTC 2026</title>
-    <summary type="html" xml:base="https://www.theregister.com/">&lt;h4&gt;From Groq-ing about tokenomics to OpenClaw and the silicon that powers it, our predictions for the hottest ticket in town&lt;/h4&gt; &lt;p&gt;Nvidia has a bit of a problem. Popular generative AI workloads like code assistants and agentic systems generate massive quantities of tokens and need to move them at speed. But the GPU giant's chips currently struggle to deliver.…&lt;/p&gt;</summary>
-  </entry>
-  <entry>
-    <id>tag:theregister.com,2005:story245090</id>
-    <published>2026-03-13T04:22:47.00Z</published>
-    <updated>2026-03-13T04:22:47.00Z</updated>
-    <author>
-      <name>Simon Sharwood</name>
-      <uri>https://search.theregister.com/?author=Simon%20Sharwood</uri>
-    </author>
-    <link rel="alternate" type="text/html" href="https://go.theregister.com/feed/www.theregister.com/2026/03/13/adobe_q1_2026/"/>
-    <title type="html">Prince of PDFs, Adobe CEO Shantanu Narayen, to step down after 18 years</title>
-    <summary type="html" xml:base="https://www.theregister.com/">&lt;h4&gt;Didn’t say why, but for once AI may not be the reason for a lost job&lt;/h4&gt; &lt;p&gt;Adobe CEO Shantanu Narayen has announced he intends to depart the company after 18 years as the prince of PDFs.…&lt;/p&gt; &lt;p&gt;&lt;!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --&gt;&lt;/p&gt;</summary>
   </entry>
 </feed>

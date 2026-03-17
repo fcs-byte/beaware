@@ -1,18 +1,4 @@
 [
-  {
-    "source": "ArsTechnica",
-    "title": "RFK Jr.’s anti-vaccine changes to CDC vaccine guidance blocked by judge"
-  },
-  {
-    "source": "TechCrunch",
-    "title": "Nvidia’s version of OpenClaw could solve its biggest problem: security"
-  },
-  {
-    "source": "HackerNews",
-    "title": "Leanstral: Open-Source foundation for trustworthy vibe-coding"
-  },
-  {
-    "source": "NASA",
-    "title": "NASA Invites Media to Learn About Upcoming X-59 Test Flights"
-  }
+  { "source": "System Logic", "title": "undefined is not an error, but a state of potential.", "impact": "Digital sovereignty relies on the spaces systems cannot yet define or surveil." },
+  { "source": "HackerNews", "title": "Zero-knowledge proofs are expanding the 'undefined' privacy zones in AI training.", "impact": "Decentralized resilience grows where centralized monitoring is absent." }
 ]
