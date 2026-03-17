@@ -12,7 +12,7 @@
 	<atom:link href="https://techcrunch.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://techcrunch.com/</link>
 	<description>Startup and Technology News</description>
-	<lastBuildDate>Mon, 16 Mar 2026 15:50:17 +0000</lastBuildDate>
+	<lastBuildDate>Mon, 16 Mar 2026 23:50:53 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,11 +28,185 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>Nvidia&#8217;s version of OpenClaw could solve its biggest problem: security</title>
+		<link>https://techcrunch.com/2026/03/16/nvidias-version-of-openclaw-could-solve-its-biggest-problem-security/</link>
+		
+		<dc:creator><![CDATA[Rebecca Szkutak]]></dc:creator>
+		<pubDate>Mon, 16 Mar 2026 22:45:51 +0000</pubDate>
+				<category><![CDATA[AI]]></category>
+		<category><![CDATA[Enterprise]]></category>
+		<category><![CDATA[AI agents]]></category>
+		<category><![CDATA[NemoClaw]]></category>
+		<category><![CDATA[nvidia]]></category>
+		<category><![CDATA[nvidia gtc]]></category>
+		<category><![CDATA[Nvidia GTC 2026]]></category>
+		<category><![CDATA[openclaw]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=3103052</guid>
+
+					<description><![CDATA[Nvidia announced an open enterprise AI agent platform, called NemoClaw, that is built off of viral OpenClaw. ]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Jensen Huang just put Nvidia&#8217;s Blackwell and Vera Rubin sales projections into the $1 trillion stratosphere</title>
+		<link>https://techcrunch.com/2026/03/16/jensen-just-put-nvidias-blackwell-and-vera-rubin-sales-projections-into-the-1-trillion-stratosphere/</link>
+		
+		<dc:creator><![CDATA[Kirsten Korosec]]></dc:creator>
+		<pubDate>Mon, 16 Mar 2026 21:41:37 +0000</pubDate>
+				<category><![CDATA[AI]]></category>
+		<category><![CDATA[Hardware]]></category>
+		<category><![CDATA[GTC 2026]]></category>
+		<category><![CDATA[In Brief]]></category>
+		<category><![CDATA[Jensen Huang]]></category>
+		<category><![CDATA[nvidia]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=3103020</guid>
+
+					<description><![CDATA[Nvidia CEO Jensen Huang said he expects $1 trillion worth of orders for the chips. ]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Warren presses Pentagon over decision to grant xAI access to classified networks</title>
+		<link>https://techcrunch.com/2026/03/16/warren-presses-pentagon-over-decision-to-grant-xai-access-to-classified-networks/</link>
+		
+		<dc:creator><![CDATA[Rebecca Bellan]]></dc:creator>
+		<pubDate>Mon, 16 Mar 2026 20:58:36 +0000</pubDate>
+				<category><![CDATA[AI]]></category>
+		<category><![CDATA[Government & Policy]]></category>
+		<category><![CDATA[dod]]></category>
+		<category><![CDATA[elizabeth warren]]></category>
+		<category><![CDATA[Grok]]></category>
+		<category><![CDATA[pentagon]]></category>
+		<category><![CDATA[pete hegseth]]></category>
+		<category><![CDATA[xAI]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=3103001</guid>
+
+					<description><![CDATA[Sen. Elizabeth Warren noted that Grok, xAI's controversial chatbot, has created harmful outputs for users and poses a potential national security risk.]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Memories AI is building the visual memory layer for wearables and robotics</title>
+		<link>https://techcrunch.com/2026/03/16/memories-ai-is-building-the-visual-memory-layer-for-wearables-and-robotics/</link>
+		
+		<dc:creator><![CDATA[Rebecca Szkutak]]></dc:creator>
+		<pubDate>Mon, 16 Mar 2026 20:30:00 +0000</pubDate>
+				<category><![CDATA[AI]]></category>
+		<category><![CDATA[Enterprise]]></category>
+		<category><![CDATA[artificial intelligence]]></category>
+		<category><![CDATA[GTC]]></category>
+		<category><![CDATA[Memories.ai]]></category>
+		<category><![CDATA[nvidia]]></category>
+		<category><![CDATA[nvidia gtc]]></category>
+		<category><![CDATA[Nvidia GTC 2026]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=3102875</guid>
+
+					<description><![CDATA[Memories.ai is building a large visual memory model that can index and retrieve video-recorded memories for physical AI. ]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Samsung bets this island startup can tame the grid with software and batteries</title>
+		<link>https://techcrunch.com/2026/03/16/samsung-bets-this-island-startup-can-tame-the-grid-with-software-and-batteries/</link>
+		
+		<dc:creator><![CDATA[Tim De Chant]]></dc:creator>
+		<pubDate>Mon, 16 Mar 2026 20:00:00 +0000</pubDate>
+				<category><![CDATA[Climate]]></category>
+		<category><![CDATA[data centers]]></category>
+		<category><![CDATA[electrical grid]]></category>
+		<category><![CDATA[Exclusive]]></category>
+		<category><![CDATA[Samsung]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=3102770</guid>
+
+					<description><![CDATA[GridBeyond's hardware and software coordinates several gigawatts of supply and demand to help balance the flow of electricity on the grid. The idea has attracted investors like Samsung Ventures. ]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Apple acquires video editing software company MotionVFX</title>
+		<link>https://techcrunch.com/2026/03/16/apple-acquires-video-editing-software-company-motionvfx/</link>
+		
+		<dc:creator><![CDATA[Aisha Malik]]></dc:creator>
+		<pubDate>Mon, 16 Mar 2026 19:23:44 +0000</pubDate>
+				<category><![CDATA[Apps]]></category>
+		<category><![CDATA[Startups]]></category>
+		<category><![CDATA[Apple]]></category>
+		<category><![CDATA[Video Editing]]></category>
+		<category><![CDATA[motionvfx]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=3102874</guid>
+
+					<description><![CDATA[The move could help Apple better compete with Adobe Premiere Pro and the Adobe Creative Cloud suite. ]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Elon Musk&#8217;s xAI faces child porn lawsuit from minors Grok allegedly undressed</title>
+		<link>https://techcrunch.com/2026/03/16/elon-musks-xai-faces-child-porn-lawsuit-from-minors-grok-allegedly-undressed/</link>
+		
+		<dc:creator><![CDATA[Tim Fernholz]]></dc:creator>
+		<pubDate>Mon, 16 Mar 2026 19:18:44 +0000</pubDate>
+				<category><![CDATA[AI]]></category>
+		<category><![CDATA[CSAM]]></category>
+		<category><![CDATA[Grok]]></category>
+		<category><![CDATA[lawsuits]]></category>
+		<category><![CDATA[xAI]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=3102852</guid>
+
+					<description><![CDATA[The three plaintiffs are seeking to represent anyone who had real images of them as a minor altered into sexual content by Grok.]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Nvidia’s DLSS 5 uses generative AI to boost photorealism in video games, with ambitions beyond gaming</title>
+		<link>https://techcrunch.com/2026/03/16/nvidias-dlss-5-uses-generative-ai-to-boost-photo-realism-in-video-games-with-ambitions-beyond-gaming/</link>
+		
+		<dc:creator><![CDATA[Rebecca Bellan]]></dc:creator>
+		<pubDate>Mon, 16 Mar 2026 19:12:19 +0000</pubDate>
+				<category><![CDATA[AI]]></category>
+		<category><![CDATA[Enterprise]]></category>
+		<category><![CDATA[Gaming]]></category>
+		<category><![CDATA[nvidia]]></category>
+		<category><![CDATA[nvidia gtc]]></category>
+		<category><![CDATA[Nvidia GTC 2026]]></category>
+		<category><![CDATA[glss 5]]></category>
+		<category><![CDATA[ai gaming]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=3102891</guid>
+
+					<description><![CDATA[Nvidia’s new DLSS 5 uses generative AI and structured graphics data to make video games more realistic. CEO Jensen Huang says the approach could eventually spread to other industries.]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>The MacBook Neo is ‘the most repairable MacBook’ in years, according to iFixit</title>
+		<link>https://techcrunch.com/2026/03/16/macbook-neo-ifixit-most-repairable-macbook-in-years-battery-replacement/</link>
+		
+		<dc:creator><![CDATA[Anthony Ha]]></dc:creator>
+		<pubDate>Mon, 16 Mar 2026 18:36:42 +0000</pubDate>
+				<category><![CDATA[Hardware]]></category>
+		<category><![CDATA[Apple]]></category>
+		<category><![CDATA[ifixit]]></category>
+		<category><![CDATA[macbook neo]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=3102605</guid>
+
+					<description><![CDATA[Apple’s new MacBook Neo isn’t just the most affordable MacBook — it’s also the company's most repairable laptop in “about fourteen years."]]></description>
+		
+		
+		
+			</item>
+		<item>
 		<title>How to watch Jensen Huang’s Nvidia GTC 2026 keynote — and what to expect</title>
 		<link>https://techcrunch.com/2026/03/16/nvidia-gtc-how-to-watch-jensen-huang-2026-keynote/</link>
 		
 		<dc:creator><![CDATA[Rebecca Szkutak]]></dc:creator>
-		<pubDate>Mon, 16 Mar 2026 14:30:55 +0000</pubDate>
+		<pubDate>Mon, 16 Mar 2026 17:51:46 +0000</pubDate>
 				<category><![CDATA[AI]]></category>
 		<category><![CDATA[Enterprise]]></category>
 		<category><![CDATA[GTC]]></category>
@@ -43,6 +217,100 @@
 		<guid isPermaLink="false">https://techcrunch.com/?p=3102218</guid>
 
 					<description><![CDATA[GTC is Nvidia's flagship annual event, where the chipmaker typically announces new products, partnerships, and its vision for the future of computing. Huang's keynote will focus on Nvidia's role in the future of computing and AI.]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Another deep tech chip startup becomes a unicorn: Frore hits $1.64B</title>
+		<link>https://techcrunch.com/2026/03/16/another-deep-tech-chip-startup-becomes-a-unicorn-frore-hits-1-64b/</link>
+		
+		<dc:creator><![CDATA[Julie Bort]]></dc:creator>
+		<pubDate>Mon, 16 Mar 2026 17:47:32 +0000</pubDate>
+				<category><![CDATA[AI]]></category>
+		<category><![CDATA[Hardware]]></category>
+		<category><![CDATA[Startups]]></category>
+		<category><![CDATA[TC]]></category>
+		<category><![CDATA[AI chips]]></category>
+		<category><![CDATA[In Brief]]></category>
+		<category><![CDATA[MVP Ventures]]></category>
+		<category><![CDATA[semicondcutors]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=3102735</guid>
+
+					<description><![CDATA[At Nvidia CEO Jensen Huang's urging, Frore developed liquid-cooling tech for chips. That shift helped it raise $143 million.]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Fuse raises $25M  to disrupt aging loan origination systems used by US credit unions</title>
+		<link>https://techcrunch.com/2026/03/16/fuse-raises-25m-to-disrupt-aging-loan-origination-systems-used-by-u-s-credit-unions/</link>
+		
+		<dc:creator><![CDATA[Marina Temkin]]></dc:creator>
+		<pubDate>Mon, 16 Mar 2026 17:43:27 +0000</pubDate>
+				<category><![CDATA[AI]]></category>
+		<category><![CDATA[Fintech]]></category>
+		<category><![CDATA[Startups]]></category>
+		<category><![CDATA[Footwork Ventures]]></category>
+		<category><![CDATA[lenders]]></category>
+		<category><![CDATA[primary ventures]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=3102759</guid>
+
+					<description><![CDATA[The startup also announced a $5 million "rescue fund" to help credit unions ditch legacy software for its AI-native platform.]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>The dictionary sues OpenAI</title>
+		<link>https://techcrunch.com/2026/03/16/merriam-webster-openai-encyclopedia-brittanica-lawsuit/</link>
+		
+		<dc:creator><![CDATA[Amanda Silberling]]></dc:creator>
+		<pubDate>Mon, 16 Mar 2026 17:38:34 +0000</pubDate>
+				<category><![CDATA[AI]]></category>
+		<category><![CDATA[encyclopedia britannica]]></category>
+		<category><![CDATA[lawsuit]]></category>
+		<category><![CDATA[Merriam-Webster]]></category>
+		<category><![CDATA[OpenAI]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=3102753</guid>
+
+					<description><![CDATA[Encyclopedia Britannica and Merriam-Webster say that OpenAI violated the copyright of almost 100,000 articles by using them for LLM training.]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Antonio Gracias says he&#8217;s longing for &#8216;proentropic&#8217; startups — those that are built to survive chaos</title>
+		<link>https://techcrunch.com/2026/03/16/antonio-gracias-says-hes-loomg-for-proentropic-startups-those-that-are-built-to-survive-chaos/</link>
+		
+		<dc:creator><![CDATA[Dominic-Madori Davis]]></dc:creator>
+		<pubDate>Mon, 16 Mar 2026 15:57:02 +0000</pubDate>
+				<category><![CDATA[Venture]]></category>
+		<category><![CDATA[antonio gracias]]></category>
+		<category><![CDATA[Startups]]></category>
+		<category><![CDATA[valor equity partners]]></category>
+		<category><![CDATA[venture]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=3102191</guid>
+
+					<description><![CDATA[Antonio Gracias talks at the Upfront Summit in LA about the future of technology. ]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Shopify is preparing for AI shopping agents to change everything, exec says</title>
+		<link>https://techcrunch.com/2026/03/16/shopify-is-preparing-for-ai-shopping-agents-to-change-everything-exec-says/</link>
+		
+		<dc:creator><![CDATA[Dominic-Madori Davis]]></dc:creator>
+		<pubDate>Mon, 16 Mar 2026 15:56:39 +0000</pubDate>
+				<category><![CDATA[Commerce]]></category>
+		<category><![CDATA[agentic]]></category>
+		<category><![CDATA[AI agents]]></category>
+		<category><![CDATA[E commerce]]></category>
+		<category><![CDATA[shopping]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=3102378</guid>
+
+					<description><![CDATA[Shopify is preparing for an e-commerce transformation via AI shopping agents, says president Harley Finkelstein.]]></description>
 		
 		
 		
@@ -113,6 +381,7 @@
 		<category><![CDATA[academy awards]]></category>
 		<category><![CDATA[Apple]]></category>
 		<category><![CDATA[frankenstein]]></category>
+		<category><![CDATA[In Brief]]></category>
 		<category><![CDATA[k-pop demon hunters]]></category>
 		<category><![CDATA[Netflix]]></category>
 		<guid isPermaLink="false">https://techcrunch.com/?p=3102644</guid>
@@ -137,269 +406,6 @@
 		<guid isPermaLink="false">https://techcrunch.com/?p=3102387</guid>
 
 					<description><![CDATA[Google and Accel say about 70% of AI startup pitches tied to India were "wrappers" as they reviewed more than 4,000 applications for their Atoms cohort.]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>ByteDance reportedly pauses global launch of its Seedance 2.0 video generator</title>
-		<link>https://techcrunch.com/2026/03/15/bytedance-reportedly-pauses-global-launch-of-its-seedance-2-0-video-generator/</link>
-		
-		<dc:creator><![CDATA[Anthony Ha]]></dc:creator>
-		<pubDate>Sun, 15 Mar 2026 21:01:51 +0000</pubDate>
-				<category><![CDATA[AI]]></category>
-		<category><![CDATA[Media & Entertainment]]></category>
-		<category><![CDATA[bytedance]]></category>
-		<category><![CDATA[seedance]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=3102639</guid>
-
-					<description><![CDATA[The company is reportedly delaying the launch as its engineers and lawyers work to avert further legal issues.]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Lawyer behind AI psychosis cases warns of mass casualty risks</title>
-		<link>https://techcrunch.com/2026/03/15/lawyer-behind-ai-psychosis-cases-warns-of-mass-casualty-risks/</link>
-		
-		<dc:creator><![CDATA[Rebecca Bellan]]></dc:creator>
-		<pubDate>Sun, 15 Mar 2026 18:49:32 +0000</pubDate>
-				<category><![CDATA[AI]]></category>
-		<category><![CDATA[ai delusions]]></category>
-		<category><![CDATA[ai psychosis]]></category>
-		<category><![CDATA[ChatGPT]]></category>
-		<category><![CDATA[Exclusive]]></category>
-		<category><![CDATA[gemini]]></category>
-		<category><![CDATA[Google]]></category>
-		<category><![CDATA[OpenAI]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=3102554</guid>
-
-					<description><![CDATA[AI chatbots have been linked to suicides for years. Now one lawyer says they are showing up in mass casualty cases too, and the technology is moving faster than the safeguards.]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Unacademy to be acquired by upGrad in share-swap deal as India’s edtech sector consolidates</title>
-		<link>https://techcrunch.com/2026/03/15/unacademy-to-be-acquired-by-upgrad-in-share-swap-deal-as-indias-edtech-sector-consolidates/</link>
-		
-		<dc:creator><![CDATA[Jagmeet Singh]]></dc:creator>
-		<pubDate>Sun, 15 Mar 2026 17:19:47 +0000</pubDate>
-				<category><![CDATA[Startups]]></category>
-		<category><![CDATA[EdTech]]></category>
-		<category><![CDATA[Unacademy]]></category>
-		<category><![CDATA[UpGrad]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=3102628</guid>
-
-					<description><![CDATA[The deal comes after Unacademy’s valuation plunged from $3.5B to under $500M, as India’s once-booming edtech sector struggles.]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>TechCrunch Mobility: Travis Kalanick&#8217;s return proves it really is 2016 again</title>
-		<link>https://techcrunch.com/2026/03/15/techcrunch-mobility-travis-kalanicks-return-proves-it-really-is-2016-again/</link>
-		
-		<dc:creator><![CDATA[Kirsten Korosec]]></dc:creator>
-		<pubDate>Sun, 15 Mar 2026 16:05:00 +0000</pubDate>
-				<category><![CDATA[Transportation]]></category>
-		<category><![CDATA[Travis Kalanick]]></category>
-		<category><![CDATA[Lucid Motors]]></category>
-		<category><![CDATA[Rivian]]></category>
-		<category><![CDATA[RJ Scaringe]]></category>
-		<category><![CDATA[Joby Aviation]]></category>
-		<category><![CDATA[techcrunch mobility]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=3102531</guid>
-
-					<description><![CDATA[Welcome back to TechCrunch Mobility — your central hub for news and insights on the future of transportation.  ]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Wiz investor unpacks Google’s $32B acquisition</title>
-		<link>https://techcrunch.com/2026/03/15/wiz-investor-unpacks-googles-32b-acquisition/</link>
-		
-		<dc:creator><![CDATA[Anthony Ha]]></dc:creator>
-		<pubDate>Sun, 15 Mar 2026 15:30:33 +0000</pubDate>
-				<category><![CDATA[AI]]></category>
-		<category><![CDATA[Security]]></category>
-		<category><![CDATA[Startups]]></category>
-		<category><![CDATA[Venture]]></category>
-		<category><![CDATA[Equity podcast]]></category>
-		<category><![CDATA[Google]]></category>
-		<category><![CDATA[Index Ventures]]></category>
-		<category><![CDATA[Shardul Shah]]></category>
-		<category><![CDATA[wiz]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=3102623</guid>
-
-					<description><![CDATA[Shardul Shah of Index Ventures walks us through Google's biggest acquisition ever.]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Rivian&#8217;s RJ Scaringe thinks we&#8217;re doing robots all wrong</title>
-		<link>https://techcrunch.com/2026/03/15/rivians-rj-scaringe-thinks-were-doing-robots-all-wrong/</link>
-		
-		<dc:creator><![CDATA[Kirsten Korosec]]></dc:creator>
-		<pubDate>Sun, 15 Mar 2026 14:30:00 +0000</pubDate>
-				<category><![CDATA[TC]]></category>
-		<category><![CDATA[Transportation]]></category>
-		<category><![CDATA[Robotics]]></category>
-		<category><![CDATA[EVs]]></category>
-		<category><![CDATA[robots]]></category>
-		<category><![CDATA[Rivian]]></category>
-		<category><![CDATA[RJ Scaringe]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=3102611</guid>
-
-					<description><![CDATA[Rivian CEO RJ Scaringe shares his thoughts and plans for his newest startup, Mind Robotics. ]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>The MacBook Neo is ‘the most repairable MacBook’ in years, according to iFixit</title>
-		<link>https://techcrunch.com/2026/03/14/the-macbook-neo-is-the-most-repairable-macbook-in-years-according-to-ifixit/</link>
-		
-		<dc:creator><![CDATA[Anthony Ha]]></dc:creator>
-		<pubDate>Sat, 14 Mar 2026 21:24:10 +0000</pubDate>
-				<category><![CDATA[Hardware]]></category>
-		<category><![CDATA[Apple]]></category>
-		<category><![CDATA[ifixit]]></category>
-		<category><![CDATA[macbook neo]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=3102605</guid>
-
-					<description><![CDATA[Apple’s new MacBook Neo isn’t just the most affordable MacBook — it’s also the company's most repairable laptop in “about fourteen years."]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>US Army announces contract with Anduril worth up to $20B</title>
-		<link>https://techcrunch.com/2026/03/14/us-army-announces-contract-with-anduril-worth-up-to-20b/</link>
-		
-		<dc:creator><![CDATA[Anthony Ha]]></dc:creator>
-		<pubDate>Sat, 14 Mar 2026 20:47:47 +0000</pubDate>
-				<category><![CDATA[AI]]></category>
-		<category><![CDATA[Government & Policy]]></category>
-		<category><![CDATA[Hardware]]></category>
-		<category><![CDATA[Startups]]></category>
-		<category><![CDATA[anduril]]></category>
-		<category><![CDATA[army]]></category>
-		<category><![CDATA[Palmer Luckey]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=3102603</guid>
-
-					<description><![CDATA[The Army described this as a single enterprise contract consolidating more than 120 separate "procurement actions."]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Honda is killing its EVs — and any chance of competing in the future</title>
-		<link>https://techcrunch.com/2026/03/14/honda-is-killing-its-evs-and-any-chance-of-competing-in-the-future/</link>
-		
-		<dc:creator><![CDATA[Tim De Chant]]></dc:creator>
-		<pubDate>Sat, 14 Mar 2026 17:23:24 +0000</pubDate>
-				<category><![CDATA[Climate]]></category>
-		<category><![CDATA[Transportation]]></category>
-		<category><![CDATA[Analysis]]></category>
-		<category><![CDATA[electric vehicles]]></category>
-		<category><![CDATA[honda]]></category>
-		<category><![CDATA[Exclusive]]></category>
-		<category><![CDATA[software defined vehicle]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=3102483</guid>
-
-					<description><![CDATA[Honda's decision to kill its three EVs for the U.S. market will reverberate far beyond North America.]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Meta reportedly considering layoffs that could affect 20% of the company</title>
-		<link>https://techcrunch.com/2026/03/14/meta-reportedly-considering-layoffs-that-could-affect-20-of-the-company/</link>
-		
-		<dc:creator><![CDATA[Anthony Ha]]></dc:creator>
-		<pubDate>Sat, 14 Mar 2026 16:28:42 +0000</pubDate>
-				<category><![CDATA[AI]]></category>
-		<category><![CDATA[Social]]></category>
-		<category><![CDATA[Meta]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=3102596</guid>
-
-					<description><![CDATA[These layoffs could help Facebook's parent company offset its aggressive spending on AI infrastructure, as well as AI-related acquisitions and hiring.]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>As people look for ways to make new friends, here are the apps promising to help</title>
-		<link>https://techcrunch.com/2026/03/14/as-people-look-for-ways-to-make-new-friends-here-are-the-apps-promising-to-help/</link>
-		
-		<dc:creator><![CDATA[Lauren Forristal]]></dc:creator>
-		<pubDate>Sat, 14 Mar 2026 16:00:00 +0000</pubDate>
-				<category><![CDATA[Apps]]></category>
-		<category><![CDATA[Social]]></category>
-		<category><![CDATA[android apps]]></category>
-		<category><![CDATA[iOS apps]]></category>
-		<category><![CDATA[evergreens]]></category>
-		<category><![CDATA[Bumble BFF]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=3050440</guid>
-
-					<description><![CDATA[We've compiled a list of friendship apps, from friend discovery platforms like BFF to event-focused ones like Timeleft.]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>How to use the new ChatGPT app integrations, including DoorDash, Spotify, Uber, and others</title>
-		<link>https://techcrunch.com/2026/03/14/how-to-use-the-new-chatgpt-app-integrations-including-doordash-spotify-uber-and-others/</link>
-		
-		<dc:creator><![CDATA[Lauren Forristal]]></dc:creator>
-		<pubDate>Sat, 14 Mar 2026 13:00:00 +0000</pubDate>
-				<category><![CDATA[AI]]></category>
-		<category><![CDATA[Apps]]></category>
-		<category><![CDATA[ChatGPT]]></category>
-		<category><![CDATA[evergreens]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=3062029</guid>
-
-					<description><![CDATA[Learn how to use Spotify, Canva, Figma, Expedia, and other apps directly in ChatGPT. ]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>&#8216;Not built right the first time&#8217; &#8212; Musk&#8217;s xAI is starting over again, again</title>
-		<link>https://techcrunch.com/2026/03/13/not-built-right-the-first-time-musks-xai-is-starting-over-again-again/</link>
-		
-		<dc:creator><![CDATA[Tim Fernholz]]></dc:creator>
-		<pubDate>Sat, 14 Mar 2026 00:12:22 +0000</pubDate>
-				<category><![CDATA[AI]]></category>
-		<category><![CDATA[cursor]]></category>
-		<category><![CDATA[Elon Musk]]></category>
-		<category><![CDATA[Macrohard]]></category>
-		<category><![CDATA[xAI]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=3102367</guid>
-
-					<description><![CDATA[The AI lab is revamping its effort to build an AI coding tool, with two new executives joining from Cursor. ]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Digg lays off staff and shuts down app as company retools</title>
-		<link>https://techcrunch.com/2026/03/13/digg-lays-off-staff-and-shuts-down-app-as-company-retools/</link>
-		
-		<dc:creator><![CDATA[Sarah Perez]]></dc:creator>
-		<pubDate>Fri, 13 Mar 2026 21:51:17 +0000</pubDate>
-				<category><![CDATA[Startups]]></category>
-		<category><![CDATA[Apps]]></category>
-		<category><![CDATA[Social]]></category>
-		<category><![CDATA[social media]]></category>
-		<category><![CDATA[Digg]]></category>
-		<category><![CDATA[Layoffs]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=3102528</guid>
-
-					<description><![CDATA[Digg laid off a significant number of staff and shut down its app, but says it's not giving up on the startup. ]]></description>
 		
 		
 		

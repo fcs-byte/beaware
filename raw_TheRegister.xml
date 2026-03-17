@@ -13,7 +13,127 @@
   <icon>https://www.theregister.com/Design/graphics/icons/favicon.png</icon>
   <subtitle>Biting the hand that feeds IT — Enterprise Technology News and Analysis</subtitle>
   <logo>https://www.theregister.com/Design/graphics/Reg_default/The_Register_r.png</logo>
-  <updated>2026-03-16T15:38:37.00Z</updated>
+  <updated>2026-03-16T22:07:20.00Z</updated>
+  <entry>
+    <id>tag:theregister.com,2005:story245137</id>
+    <published>2026-03-16T22:07:20.00Z</published>
+    <updated>2026-03-16T22:07:20.00Z</updated>
+    <author>
+      <name>O'Ryan Johnson</name>
+      <uri>https://search.theregister.com/?author=O%27Ryan%20Johnson</uri>
+    </author>
+    <link rel="alternate" type="text/html" href="https://go.theregister.com/feed/www.theregister.com/2026/03/16/salesforce_bonds_saas_share_buybacks/"/>
+    <title type="html">Salesforce stock buyback to saddle company with debt until 2066</title>
+    <summary type="html" xml:base="https://www.theregister.com/">&lt;h4&gt;'We want to use our capital correctly, and I think debt is a great way to do that,' says CEO Benioff&lt;/h4&gt; &lt;p&gt;Here today; here tomorrow. Salesforce CEO Marc Benioff’s stock buyback will saddle the company with debt until 2066, when he turns 102 years old.…&lt;/p&gt;</summary>
+  </entry>
+  <entry>
+    <id>tag:theregister.com,2005:story245136</id>
+    <published>2026-03-16T21:35:05.00Z</published>
+    <updated>2026-03-16T21:35:05.00Z</updated>
+    <author>
+      <name>Avram Piltch</name>
+      <uri>https://search.theregister.com/?author=Avram%20Piltch</uri>
+    </author>
+    <link rel="alternate" type="text/html" href="https://go.theregister.com/feed/www.theregister.com/2026/03/16/nvidia_dlss5_uncanny_valley/"/>
+    <title type="html">Nvidia's DLSS 5 promises to bring you out the other side of the uncanny valley</title>
+    <summary type="html" xml:base="https://www.theregister.com/">&lt;h4&gt;The latest generation of Nvidia’s AI image enhancer brings characters to life&lt;/h4&gt; &lt;p&gt;&lt;strong&gt;GTC&lt;/strong&gt;  Computer graphics have come a long way from chasing Donkey Kong around a 2D board and fragging 3D demons in Doom. However, even with the most powerful graphics cards, human faces in games still look surreal and lifeless, with dead eyes,saran-wrap-smooth faces, and beards that blend into their chins. With Nvidia’s upcoming DLSS 5, you can play with characters that look like they’re stepped out of a movie screen – and we’re not talking about a Pixar movie either.…&lt;/p&gt;</summary>
+  </entry>
+  <entry>
+    <id>tag:theregister.com,2005:story245132</id>
+    <published>2026-03-16T20:15:28.00Z</published>
+    <updated>2026-03-16T20:20:59.00Z</updated>
+    <author>
+      <name>Thomas Claburn</name>
+      <uri>https://search.theregister.com/?author=Thomas%20Claburn</uri>
+    </author>
+    <link rel="alternate" type="text/html" href="https://go.theregister.com/feed/www.theregister.com/2026/03/16/nvidia_wraps_its_nemoclaw_around/"/>
+    <title type="html">Nvidia wraps its NemoClaw around OpenClaw for the sake of security</title>
+    <summary type="html" xml:base="https://www.theregister.com/">&lt;h4&gt;'OpenClaw is the operating system for personal AI,' insists Nvidia CEO&lt;/h4&gt; &lt;p&gt;&lt;strong&gt;gtc&lt;/strong&gt;  In Pixar's Toy Story, a trio little green aliens explain, "The claw chooses who will go and who will stay." The claw in that instance was a mechanical claw in a vending machine. …&lt;/p&gt; &lt;p&gt;&lt;!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --&gt;&lt;/p&gt;</summary>
+  </entry>
+  <entry>
+    <id>tag:theregister.com,2005:story245135</id>
+    <published>2026-03-16T20:04:08.00Z</published>
+    <updated>2026-03-16T20:04:08.00Z</updated>
+    <author>
+      <name>Jessica Lyons</name>
+      <uri>https://search.theregister.com/?author=Jessica%20Lyons</uri>
+    </author>
+    <link rel="alternate" type="text/html" href="https://go.theregister.com/feed/www.theregister.com/2026/03/16/robotics_surgical_biz_intuitive_discloses/"/>
+    <title type="html">Robotics surgical biz Intuitive discloses phishing attack</title>
+    <summary type="html" xml:base="https://www.theregister.com/">&lt;h4&gt;Operations and hospital networks not affected, we're told&lt;/h4&gt; &lt;p&gt;Robotics-assisted surgical tech firm Intuitive said that unauthorized intruders gained access to some of its internal IT business applications after stealing an employee's credentials during a phishing attack.…&lt;/p&gt;</summary>
+  </entry>
+  <entry>
+    <id>tag:theregister.com,2005:story245134</id>
+    <published>2026-03-16T19:35:32.00Z</published>
+    <updated>2026-03-16T19:35:32.00Z</updated>
+    <author>
+      <name>Tobias Mann</name>
+      <uri>https://search.theregister.com/?author=Tobias%20Mann</uri>
+    </author>
+    <link rel="alternate" type="text/html" href="https://go.theregister.com/feed/www.theregister.com/2026/03/16/nvidia_vera_cpu_rack/"/>
+    <title type="html">Nvidia powers further into the CPU market with new rack systems packing 256 Vera processors</title>
+    <summary type="html" xml:base="https://www.theregister.com/">&lt;h4&gt;The cubicals of the agentic AI age are cores&lt;/h4&gt; &lt;p&gt;&lt;strong&gt;GTC&lt;/strong&gt;  Intel and AMD take notice. At GTC on Monday, Nvidia unveiled its latest liquid-cooled rack systems. But unlike its NVL72 racks, this one isn't powered by GPUs or even Groq LPUs, but rather 256 of its custom Vera CPUs.…&lt;/p&gt;</summary>
+  </entry>
+  <entry>
+    <id>tag:theregister.com,2005:story245124</id>
+    <published>2026-03-16T19:30:56.00Z</published>
+    <updated>2026-03-16T19:30:56.00Z</updated>
+    <author>
+      <name>Tobias Mann</name>
+      <uri>https://search.theregister.com/?author=Tobias%20Mann</uri>
+    </author>
+    <link rel="alternate" type="text/html" href="https://go.theregister.com/feed/www.theregister.com/2026/03/16/nvidia_lpx_groq_3/"/>
+    <title type="html">Nvidia slaps $20B Groq tech into massive new LPX racks to speed AI response time</title>
+    <summary type="html" xml:base="https://www.theregister.com/">&lt;h4&gt;GPUzilla's $20B acquihire paves to way to AI agents that halucinate faster than ever&lt;/h4&gt; &lt;p&gt;&lt;strong&gt;GTC&lt;/strong&gt;  Nvidia will use Groq's language processing units (LPUs), a technology it paid $20 billion for, to boost the inference performance of its newly-announced Vera Rubin rack systems, CEO Jensen Huang revealed during his GTC keynote on Monday. …&lt;/p&gt;</summary>
+  </entry>
+  <entry>
+    <id>tag:theregister.com,2005:story245133</id>
+    <published>2026-03-16T18:40:30.00Z</published>
+    <updated>2026-03-16T18:40:30.00Z</updated>
+    <author>
+      <name>Jessica Lyons</name>
+      <uri>https://search.theregister.com/?author=Jessica%20Lyons</uri>
+    </author>
+    <link rel="alternate" type="text/html" href="https://go.theregister.com/feed/www.theregister.com/2026/03/16/cybercrime_iran_war_245_percent_rise/"/>
+    <title type="html">Cybercrime has skyrocketed 245% since the start of the Iran war</title>
+    <summary type="html" xml:base="https://www.theregister.com/">&lt;h4&gt;Hacktivists use proxy services from Russia, China for 'billions of designed-for-abuse connection attempts'&lt;/h4&gt; &lt;p&gt;Cybercrime has skyrocketed since the start of the Iran war, according to Akamai, which reports a 245 percent increase in everything from credential harvesting attempts to automated reconnaissance traffic aimed at banks and other critical businesses.…&lt;/p&gt;</summary>
+  </entry>
+  <entry>
+    <id>tag:theregister.com,2005:story245130</id>
+    <published>2026-03-16T17:23:13.00Z</published>
+    <updated>2026-03-16T17:23:13.00Z</updated>
+    <author>
+      <name>Tim Anderson</name>
+      <uri>https://search.theregister.com/?author=Tim%20Anderson</uri>
+    </author>
+    <link rel="alternate" type="text/html" href="https://go.theregister.com/feed/www.theregister.com/2026/03/16/vite_8_rolldown/"/>
+    <title type="html">Vite team boasts 10-30x faster builds with Rust-powered Rolldown</title>
+    <summary type="html" xml:base="https://www.theregister.com/">&lt;h4&gt;Native code build tools now dominate for TypeScript or JavaScript projects&lt;/h4&gt; &lt;p&gt;Vite 8.0 has been released, and it uses Rust-built Rolldown as its single bundler, replacing both esbuild and Rollup, to enable faster builds.…&lt;/p&gt; &lt;p&gt;&lt;!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --&gt;&lt;/p&gt;</summary>
+  </entry>
+  <entry>
+    <id>tag:theregister.com,2005:story245127</id>
+    <published>2026-03-16T16:50:09.00Z</published>
+    <updated>2026-03-16T16:50:09.00Z</updated>
+    <author>
+      <name>Richard Speed</name>
+      <uri>https://search.theregister.com/?author=Richard%20Speed</uri>
+    </author>
+    <link rel="alternate" type="text/html" href="https://go.theregister.com/feed/www.theregister.com/2026/03/16/ai_robotron_dave_plummer/"/>
+    <title type="html">AI takes on Robotron: 2084, the original robot uprising simulator</title>
+    <summary type="html" xml:base="https://www.theregister.com/">&lt;h4&gt;Former Microsoft dev trains a model to survive the arcade's most chaotic stress test&lt;/h4&gt; &lt;p&gt;A former Microsoft engineer is training AI to beat 1982's Robotron: 2084, an arcade game where a lone human must overcome endless waves of robots following a cybernetic revolt.…&lt;/p&gt;</summary>
+  </entry>
+  <entry>
+    <id>tag:theregister.com,2005:story245125</id>
+    <published>2026-03-16T16:40:06.00Z</published>
+    <updated>2026-03-16T16:40:06.00Z</updated>
+    <author>
+      <name>Connor Jones</name>
+      <uri>https://search.theregister.com/?author=Connor%20Jones</uri>
+    </author>
+    <link rel="alternate" type="text/html" href="https://go.theregister.com/feed/www.theregister.com/2026/03/16/interpol_ai_fraud/"/>
+    <title type="html">AI finally delivers those elusive productivity gains... for cybercriminals</title>
+    <summary type="html" xml:base="https://www.theregister.com/">&lt;h4&gt;Interpol says fraud schemes using the tech are 4.5x more profitable&lt;/h4&gt; &lt;p&gt;AI is apparently good for the bottom line if your business is crime. Financial fraud schemes carried out with the help of artificial intelligence are 4.5 times more profitable than those that aren't enhanced, according to Interpol's latest estimates.…&lt;/p&gt;</summary>
+  </entry>
   <entry>
     <id>tag:theregister.com,2005:story245123</id>
     <published>2026-03-16T14:35:23.00Z</published>
@@ -269,7 +389,7 @@
   <entry>
     <id>tag:theregister.com,2005:story245091</id>
     <published>2026-03-13T18:13:39.00Z</published>
-    <updated>2026-03-14T06:50:39.00Z</updated>
+    <updated>2026-03-16T22:01:43.00Z</updated>
     <author>
       <name>Simon Sharwood</name>
       <uri>https://search.theregister.com/?author=Simon%20Sharwood</uri>
@@ -493,125 +613,5 @@
     <link rel="alternate" type="text/html" href="https://go.theregister.com/feed/www.theregister.com/2026/03/13/adobe_q1_2026/"/>
     <title type="html">Prince of PDFs, Adobe CEO Shantanu Narayen, to step down after 18 years</title>
     <summary type="html" xml:base="https://www.theregister.com/">&lt;h4&gt;Didn’t say why, but for once AI may not be the reason for a lost job&lt;/h4&gt; &lt;p&gt;Adobe CEO Shantanu Narayen has announced he intends to depart the company after 18 years as the prince of PDFs.…&lt;/p&gt; &lt;p&gt;&lt;!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --&gt;&lt;/p&gt;</summary>
-  </entry>
-  <entry>
-    <id>tag:theregister.com,2005:story245089</id>
-    <published>2026-03-13T03:22:56.00Z</published>
-    <updated>2026-03-13T03:22:56.00Z</updated>
-    <author>
-      <name>Simon Sharwood</name>
-      <uri>https://search.theregister.com/?author=Simon%20Sharwood</uri>
-    </author>
-    <link rel="alternate" type="text/html" href="https://go.theregister.com/feed/www.theregister.com/2026/03/13/apple_china_appstore_commissions_fall/"/>
-    <title type="html">Apple takes a bite out of app store fees in China</title>
-    <summary type="html" xml:base="https://www.theregister.com/">&lt;h4&gt;Beijing hinted it wasn’t happy with Cupertino, which weeks later made a change&lt;/h4&gt; &lt;p&gt;Apple has cut the fees it charges Chinese developers to sell their apps and other digital goodies.…&lt;/p&gt;</summary>
-  </entry>
-  <entry>
-    <id>tag:theregister.com,2005:story245087</id>
-    <published>2026-03-13T01:00:30.00Z</published>
-    <updated>2026-03-13T01:00:30.00Z</updated>
-    <author>
-      <name>O'Ryan Johnson</name>
-      <uri>https://search.theregister.com/?author=O%27Ryan%20Johnson</uri>
-    </author>
-    <link rel="alternate" type="text/html" href="https://go.theregister.com/feed/www.theregister.com/2026/03/13/palantirs_maven_smart_system_iran/"/>
-    <title type="html">Pentagon AI chief praises Palantir tech for speeding battlefield strikes</title>
-    <summary type="html" xml:base="https://www.theregister.com/">&lt;h4&gt;Going from eight systems to one means fewer people make decisions to unleash Epic Fury&lt;/h4&gt; &lt;p&gt;As the US continues its strikes on Iran as part of Operation Epic Fury, speakers at Palantir's AIPCON event on Thursday said the company’s Maven Smart System product has shortened the time it takes the Department of Defense to select and hit targets on the battlefield during the conflict.…&lt;/p&gt;</summary>
-  </entry>
-  <entry>
-    <id>tag:theregister.com,2005:story245084</id>
-    <published>2026-03-12T23:49:32.00Z</published>
-    <updated>2026-03-12T23:49:32.00Z</updated>
-    <author>
-      <name>Jessica Lyons</name>
-      <uri>https://search.theregister.com/?author=Jessica%20Lyons</uri>
-    </author>
-    <link rel="alternate" type="text/html" href="https://go.theregister.com/feed/www.theregister.com/2026/03/12/rogue_ai_agents_worked_together/"/>
-    <title type="html">Rogue AI agents can work together to hack systems and steal secrets</title>
-    <summary type="html" xml:base="https://www.theregister.com/">&lt;h4&gt;Prompt like a hard-ass boss who won't tolerate failure and bots will find ways to breach policy&lt;/h4&gt; &lt;p&gt;AI agents work together to bypass security controls and stealthily steal sensitive data from within the enterprise systems in which they operate, according to tests carried out by frontier security lab Irregular.…&lt;/p&gt;</summary>
-  </entry>
-  <entry>
-    <id>tag:theregister.com,2005:story245085</id>
-    <published>2026-03-12T22:39:04.00Z</published>
-    <updated>2026-03-12T22:39:04.00Z</updated>
-    <author>
-      <name>Thomas Claburn</name>
-      <uri>https://search.theregister.com/?author=Thomas%20Claburn</uri>
-    </author>
-    <link rel="alternate" type="text/html" href="https://go.theregister.com/feed/www.theregister.com/2026/03/12/perplexity_extends_cloud_computer_to_enterprise/"/>
-    <title type="html">Perplexity: Everything is Computer, everything is AI, Computer is everything, AI is us</title>
-    <summary type="html" xml:base="https://www.theregister.com/">&lt;h4&gt;Everything extends its cloud Computer to enterprises, your computer&lt;/h4&gt; &lt;p&gt;Perplexity is ready to have enterprises use its AI service even if enterprises may still be wary of delegating tasks to software agents.…&lt;/p&gt;</summary>
-  </entry>
-  <entry>
-    <id>tag:theregister.com,2005:story245082</id>
-    <published>2026-03-12T20:32:01.00Z</published>
-    <updated>2026-03-12T20:32:01.00Z</updated>
-    <author>
-      <name>Brandon Vigliarolo</name>
-      <uri>https://search.theregister.com/?author=Brandon%20Vigliarolo</uri>
-    </author>
-    <link rel="alternate" type="text/html" href="https://go.theregister.com/feed/www.theregister.com/2026/03/12/district_denies_enrollment_to_child/"/>
-    <title type="html">District denies enrollment to child based on license plate reader data</title>
-    <summary type="html" xml:base="https://www.theregister.com/">&lt;h4&gt;Automated checks raised doubts, though key questions remain unanswered&lt;/h4&gt; &lt;p&gt;American parents of school-aged children may want to pay attention to where their cars are parked and for how long, as license plate reader data is now being cited by at least one school district when challenging whether students live where they say they do.…&lt;/p&gt; &lt;p&gt;&lt;!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --&gt;&lt;/p&gt;</summary>
-  </entry>
-  <entry>
-    <id>tag:theregister.com,2005:story245081</id>
-    <published>2026-03-12T19:17:10.00Z</published>
-    <updated>2026-03-12T19:17:10.00Z</updated>
-    <author>
-      <name>Thomas Claburn</name>
-      <uri>https://search.theregister.com/?author=Thomas%20Claburn</uri>
-    </author>
-    <link rel="alternate" type="text/html" href="https://go.theregister.com/feed/www.theregister.com/2026/03/12/microsoft_copilot_health/"/>
-    <title type="html">Microsoft Copilot now boarding your health information</title>
-    <summary type="html" xml:base="https://www.theregister.com/">&lt;h4&gt;It's safe and secure, Redmond insists, but don't expect medical advice&lt;/h4&gt; &lt;p&gt;Microsoft wants to store your healthcare data so that its AI "delivers personalized health insights that you can act on," but without the liability that comes with actual medical advice.…&lt;/p&gt;</summary>
-  </entry>
-  <entry>
-    <id>tag:theregister.com,2005:story245077</id>
-    <published>2026-03-12T17:01:30.00Z</published>
-    <updated>2026-03-13T09:38:44.00Z</updated>
-    <author>
-      <name>Connor Jones</name>
-      <uri>https://search.theregister.com/?author=Connor%20Jones</uri>
-    </author>
-    <link rel="alternate" type="text/html" href="https://go.theregister.com/feed/www.theregister.com/2026/03/12/yugioh_us_propaganda/"/>
-    <title type="html">White House activates Yu-Gi-Oh's trap card by using anime clip for war comms</title>
-    <summary type="html" xml:base="https://www.theregister.com/">&lt;h4&gt;Franchise isn't the only one unhappy about its IP appearing in propaganda&lt;/h4&gt; &lt;p&gt;Anime mainstay Yu-Gi-Oh has criticized the White House for using a clip from the TV show in videos promoting US military action.…&lt;/p&gt;</summary>
-  </entry>
-  <entry>
-    <id>tag:theregister.com,2005:story245078</id>
-    <published>2026-03-12T16:41:14.00Z</published>
-    <updated>2026-03-12T16:41:14.00Z</updated>
-    <author>
-      <name>Brandon Vigliarolo</name>
-      <uri>https://search.theregister.com/?author=Brandon%20Vigliarolo</uri>
-    </author>
-    <link rel="alternate" type="text/html" href="https://go.theregister.com/feed/www.theregister.com/2026/03/12/medical_equipment_techs_right_to_repair/"/>
-    <title type="html">Medical equipment techs beg for right-to-repair lifeline</title>
-    <summary type="html" xml:base="https://www.theregister.com/">&lt;h4&gt;OEM delays have become patient care delays&lt;/h4&gt; &lt;p&gt;When patient care is delayed in a hospital because something is broken, biomedical technicians would like you to understand that it's not usually their fault.…&lt;/p&gt;</summary>
-  </entry>
-  <entry>
-    <id>tag:theregister.com,2005:story245075</id>
-    <published>2026-03-12T16:23:38.00Z</published>
-    <updated>2026-03-12T20:27:04.00Z</updated>
-    <author>
-      <name>Jessica Lyons</name>
-      <uri>https://search.theregister.com/?author=Jessica%20Lyons</uri>
-    </author>
-    <link rel="alternate" type="text/html" href="https://go.theregister.com/feed/www.theregister.com/2026/03/12/socksescort_fraud_proxy_taken_down_fbi/"/>
-    <title type="html">Operation Lightning takes down SocksEscort proxy network blamed for tens of millions in fraud</title>
-    <summary type="html" xml:base="https://www.theregister.com/">&lt;h4&gt;International cops stuck down 23 servers in 7 countries&lt;/h4&gt; &lt;p&gt;Cops from eight countries this week disrupted SocksEscort, a residential proxy service used by criminals to compromise hundreds of thousands of routers worldwide and carry out digital fraud, costing businesses and consumers millions.…&lt;/p&gt;</summary>
-  </entry>
-  <entry>
-    <id>tag:theregister.com,2005:story245074</id>
-    <published>2026-03-12T16:00:39.00Z</published>
-    <updated>2026-03-12T16:00:39.00Z</updated>
-    <author>
-      <name>Lindsay Clark</name>
-      <uri>https://search.theregister.com/?author=Lindsay%20Clark</uri>
-    </author>
-    <link rel="alternate" type="text/html" href="https://go.theregister.com/feed/www.theregister.com/2026/03/12/oracle_increases_restructuring_fund_for/"/>
-    <title type="html">Oracle tops up restructuring fund for FY26 by $500M</title>
-    <summary type="html" xml:base="https://www.theregister.com/">&lt;h4&gt;Pot of money grows to $2.1BN for fiscal '26, as Big Red exec says AI helping smaller engineering teams do more&lt;/h4&gt; &lt;p&gt;Oracle has increased funding for its restructuring plans for the current financial year by $500 million, with some observers anticipating a spate of job losses.…&lt;/p&gt; &lt;p&gt;&lt;!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --&gt;&lt;/p&gt;</summary>
   </entry>
 </feed>
