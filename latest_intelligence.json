@@ -1,4 +1,16 @@
-[
-  { "source": "System Logic", "title": "undefined is not an error, but a state of potential.", "impact": "Digital sovereignty relies on the spaces systems cannot yet define or surveil." },
-  { "source": "HackerNews", "title": "Zero-knowledge proofs are expanding the 'undefined' privacy zones in AI training.", "impact": "Decentralized resilience grows where centralized monitoring is absent." }
-]
+{
+  "topic": "Data Economy",
+  "theme": "The Sovereign Intelligence Layer",
+  "signals": [
+    {
+      "source": "Web3 Privacy",
+      "title": "Zero-Knowledge Proofs in AI training",
+      "impact": "True data ownership becomes technically enforceable."
+    },
+    {
+      "source": "Incentive Networks",
+      "title": "Decentralized GPU clusters expanding",
+      "impact": "Computing power moves away from centralized cloud oligopolies."
+    }
+  ]
+}
