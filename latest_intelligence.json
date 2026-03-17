@@ -1,16 +1,18 @@
-{
-  "topic": "Data Economy",
-  "theme": "The Sovereign Intelligence Layer",
-  "signals": [
-    {
-      "source": "Web3 Privacy",
-      "title": "Zero-Knowledge Proofs in AI training",
-      "impact": "True data ownership becomes technically enforceable."
-    },
-    {
-      "source": "Incentive Networks",
-      "title": "Decentralized GPU clusters expanding",
-      "impact": "Computing power moves away from centralized cloud oligopolies."
-    }
-  ]
-}
+[
+  {
+    "source": "ArsTechnica",
+    "title": "RFK Jr.’s anti-vaccine changes to CDC vaccine guidance blocked by judge"
+  },
+  {
+    "source": "TechCrunch",
+    "title": "Amazon adds 1-hour and 3-hour delivery options in the US"
+  },
+  {
+    "source": "HackerNews",
+    "title": "Kagi Small Web"
+  },
+  {
+    "source": "NASA",
+    "title": "A Bit of Gray on an Emerald Isle"
+  }
+]
