@@ -12,7 +12,7 @@
 	<atom:link href="https://techcrunch.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://techcrunch.com/</link>
 	<description>Startup and Technology News</description>
-	<lastBuildDate>Tue, 17 Mar 2026 04:01:00 +0000</lastBuildDate>
+	<lastBuildDate>Wed, 18 Mar 2026 15:46:34 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,380 +28,388 @@
 	<height>32</height>
 </image> 
 	<item>
-		<title>Picsart now allows creators to &#8216;hire&#8217; AI assistants through agent marketplace</title>
-		<link>https://techcrunch.com/2026/03/16/picsart-now-allows-creators-to-hire-ai-assistants-through-agent-marketplace/</link>
+		<title>Microsoft hires the team of Sequioa-backed AI collaboration platform, Cove</title>
+		<link>https://techcrunch.com/2026/03/18/microsoft-hires-the-team-of-sequioa-backed-ai-collaboration-platform-cove/</link>
 		
-		<dc:creator><![CDATA[Amanda Silberling]]></dc:creator>
-		<pubDate>Tue, 17 Mar 2026 04:01:00 +0000</pubDate>
-				<category><![CDATA[AI]]></category>
+		<dc:creator><![CDATA[Ivan Mehta]]></dc:creator>
+		<pubDate>Wed, 18 Mar 2026 15:33:49 +0000</pubDate>
+				<category><![CDATA[Startups]]></category>
+		<category><![CDATA[AI]]></category>
 		<category><![CDATA[Apps]]></category>
-		<category><![CDATA[Exclusive]]></category>
-		<category><![CDATA[Picsart]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=3102893</guid>
+		<category><![CDATA[Microsoft]]></category>
+		<category><![CDATA[collaboration]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=3103527</guid>
 
-					<description><![CDATA[Picsart's AI agent marketplace will launch with four agents, then add more agents each week.]]></description>
+					<description><![CDATA[AI collaboration startup Cove is shutting down after its team joined Microsoft, with service ending April 1 and customer data set for deletion.]]></description>
 		
 		
 		
 			</item>
 		<item>
-		<title>SEC eyes shift to twice-yearly earnings reports</title>
-		<link>https://techcrunch.com/2026/03/16/sec-eyes-shift-to-twice-yearly-earnings-reports/</link>
+		<title>Marquis says over 672,000 people had personal and financial data stolen in ransomware attack</title>
+		<link>https://techcrunch.com/2026/03/18/marquis-says-over-672000-people-had-personal-and-financial-data-stolen-in-ransomware-attack/</link>
 		
-		<dc:creator><![CDATA[Dominic-Madori Davis]]></dc:creator>
-		<pubDate>Tue, 17 Mar 2026 00:27:10 +0000</pubDate>
-				<category><![CDATA[Government & Policy]]></category>
-		<category><![CDATA[big tech]]></category>
-		<category><![CDATA[public companies]]></category>
-		<category><![CDATA[public markets]]></category>
-		<category><![CDATA[stocks]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=3103148</guid>
-
-					<description><![CDATA[The SEC is working on a proposal to allow public companies to release earnings reports twice a year instead of quarterly, per the WSJ. ]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Nvidia&#8217;s version of OpenClaw could solve its biggest problem: security</title>
-		<link>https://techcrunch.com/2026/03/16/nvidias-version-of-openclaw-could-solve-its-biggest-problem-security/</link>
-		
-		<dc:creator><![CDATA[Rebecca Szkutak]]></dc:creator>
-		<pubDate>Mon, 16 Mar 2026 22:45:51 +0000</pubDate>
-				<category><![CDATA[AI]]></category>
-		<category><![CDATA[Enterprise]]></category>
-		<category><![CDATA[AI agents]]></category>
-		<category><![CDATA[NemoClaw]]></category>
-		<category><![CDATA[nvidia]]></category>
-		<category><![CDATA[nvidia gtc]]></category>
-		<category><![CDATA[Nvidia GTC 2026]]></category>
-		<category><![CDATA[openclaw]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=3103052</guid>
-
-					<description><![CDATA[Nvidia announced an open enterprise AI agent platform, called NemoClaw, that is built off of viral OpenClaw. ]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Jensen Huang just put Nvidia&#8217;s Blackwell and Vera Rubin sales projections into the $1 trillion stratosphere</title>
-		<link>https://techcrunch.com/2026/03/16/jensen-just-put-nvidias-blackwell-and-vera-rubin-sales-projections-into-the-1-trillion-stratosphere/</link>
-		
-		<dc:creator><![CDATA[Kirsten Korosec]]></dc:creator>
-		<pubDate>Mon, 16 Mar 2026 21:41:37 +0000</pubDate>
-				<category><![CDATA[AI]]></category>
-		<category><![CDATA[Hardware]]></category>
-		<category><![CDATA[GTC 2026]]></category>
+		<dc:creator><![CDATA[Zack Whittaker]]></dc:creator>
+		<pubDate>Wed, 18 Mar 2026 14:37:15 +0000</pubDate>
+				<category><![CDATA[Security]]></category>
+		<category><![CDATA[Banking]]></category>
+		<category><![CDATA[cybersecurity]]></category>
+		<category><![CDATA[data breach]]></category>
 		<category><![CDATA[In Brief]]></category>
-		<category><![CDATA[Jensen Huang]]></category>
-		<category><![CDATA[nvidia]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=3103020</guid>
+		<category><![CDATA[marquis]]></category>
+		<category><![CDATA[ransomware]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=3103560</guid>
 
-					<description><![CDATA[Nvidia CEO Jensen Huang said he expects $1 trillion worth of orders for the chips. ]]></description>
+					<description><![CDATA[Fintech company Marquis is notifying hundreds of thousands of people that hackers stole their personal and financial information, including their Social Security numbers.]]></description>
 		
 		
 		
 			</item>
 		<item>
-		<title>Warren presses Pentagon over decision to grant xAI access to classified networks</title>
-		<link>https://techcrunch.com/2026/03/16/warren-presses-pentagon-over-decision-to-grant-xai-access-to-classified-networks/</link>
+		<title>Russians caught stealing personal data from Ukrainians with new advanced iPhone hacking tools</title>
+		<link>https://techcrunch.com/2026/03/18/russians-caught-stealing-personal-data-from-ukrainians-with-new-advanced-iphone-hacking-tools/</link>
+		
+		<dc:creator><![CDATA[Lorenzo Franceschi-Bicchierai]]></dc:creator>
+		<pubDate>Wed, 18 Mar 2026 14:00:00 +0000</pubDate>
+				<category><![CDATA[Security]]></category>
+		<category><![CDATA[Apple]]></category>
+		<category><![CDATA[Coruna]]></category>
+		<category><![CDATA[cybercrime]]></category>
+		<category><![CDATA[cybersecurity]]></category>
+		<category><![CDATA[Darksword]]></category>
+		<category><![CDATA[espionage]]></category>
+		<category><![CDATA[Google]]></category>
+		<category><![CDATA[hackers]]></category>
+		<category><![CDATA[hacking]]></category>
+		<category><![CDATA[iverify]]></category>
+		<category><![CDATA[russia]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=3103040</guid>
+
+					<description><![CDATA[A suspected group of Russian government hackers was caught targeting Ukrainians with new iPhone hacking tools designed for espionage and potentially to steal crypto. ]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>DOD says Anthropic’s ‘red lines’ make it an ‘unacceptable risk to national security’</title>
+		<link>https://techcrunch.com/2026/03/18/dod-says-anthropics-red-lines-make-it-an-unacceptable-risk-to-national-security/</link>
 		
 		<dc:creator><![CDATA[Rebecca Bellan]]></dc:creator>
-		<pubDate>Mon, 16 Mar 2026 20:58:36 +0000</pubDate>
+		<pubDate>Wed, 18 Mar 2026 13:40:43 +0000</pubDate>
 				<category><![CDATA[AI]]></category>
 		<category><![CDATA[Government & Policy]]></category>
+		<category><![CDATA[Anthropic]]></category>
+		<category><![CDATA[anthropic lawsuit]]></category>
 		<category><![CDATA[dod]]></category>
-		<category><![CDATA[elizabeth warren]]></category>
-		<category><![CDATA[Grok]]></category>
-		<category><![CDATA[pentagon]]></category>
+		<category><![CDATA[Exclusive]]></category>
 		<category><![CDATA[pete hegseth]]></category>
-		<category><![CDATA[xAI]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=3103001</guid>
+		<category><![CDATA[supply chain risk]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=3103537</guid>
 
-					<description><![CDATA[Sen. Elizabeth Warren noted that Grok, xAI's controversial chatbot, has created harmful outputs for users and poses a potential national security risk.]]></description>
+					<description><![CDATA[The Defense Department said concerns that Anthropic might "attempt to disable its technology" during "warfighting operations" validate its decision to label the AI firm a supply chain risk. ]]></description>
 		
 		
 		
 			</item>
 		<item>
-		<title>Memories AI is building the visual memory layer for wearables and robotics</title>
-		<link>https://techcrunch.com/2026/03/16/memories-ai-is-building-the-visual-memory-layer-for-wearables-and-robotics/</link>
+		<title>Mave Health aims to improve attention and mood with its brain-stimulating headset</title>
+		<link>https://techcrunch.com/2026/03/18/mave-health-aims-to-improve-attention-and-mood-with-its-brain-stimulating-headset/</link>
 		
-		<dc:creator><![CDATA[Rebecca Szkutak]]></dc:creator>
-		<pubDate>Mon, 16 Mar 2026 20:30:00 +0000</pubDate>
+		<dc:creator><![CDATA[Ivan Mehta]]></dc:creator>
+		<pubDate>Wed, 18 Mar 2026 12:54:43 +0000</pubDate>
+				<category><![CDATA[Biotech & Health]]></category>
+		<category><![CDATA[Fundraising]]></category>
+		<category><![CDATA[Gadgets]]></category>
+		<category><![CDATA[Mave Health]]></category>
+		<category><![CDATA[mental health]]></category>
+		<category><![CDATA[tdcs]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=3095562</guid>
+
+					<description><![CDATA[Mave Health is listing the headset at $495 for pre-orders. It aims to ship devices to users in the U.S. and India in April 2026.]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Kalshi&#8217;s legal troubles pile up, as Arizona files first ever criminal charges over &#8216;illegal gambling business&#8217;</title>
+		<link>https://techcrunch.com/2026/03/17/kalshis-legal-troubles-pile-up-as-arizona-files-first-ever-criminal-charges-over-illegal-gambling-business/</link>
+		
+		<dc:creator><![CDATA[Lucas Ropek]]></dc:creator>
+		<pubDate>Tue, 17 Mar 2026 21:39:17 +0000</pubDate>
+				<category><![CDATA[Fintech]]></category>
+		<category><![CDATA[arizona]]></category>
+		<category><![CDATA[Kalshi]]></category>
+		<category><![CDATA[prediction markets]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=3103344</guid>
+
+					<description><![CDATA[It's the latest salvo in an escalating battle between state regulators and an industry that claims it's not beholden to them.  ]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Mistral bets on ‘build-your-own AI’ as it takes on OpenAI, Anthropic in the enterprise</title>
+		<link>https://techcrunch.com/2026/03/17/mistral-forge-nvidia-gtc-build-your-own-ai-enterprise/</link>
+		
+		<dc:creator><![CDATA[Anna Heim, Rebecca Bellan]]></dc:creator>
+		<pubDate>Tue, 17 Mar 2026 21:00:00 +0000</pubDate>
 				<category><![CDATA[AI]]></category>
 		<category><![CDATA[Enterprise]]></category>
-		<category><![CDATA[artificial intelligence]]></category>
-		<category><![CDATA[GTC]]></category>
-		<category><![CDATA[Memories.ai]]></category>
-		<category><![CDATA[nvidia]]></category>
-		<category><![CDATA[nvidia gtc]]></category>
-		<category><![CDATA[Nvidia GTC 2026]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=3102875</guid>
+		<category><![CDATA[ai models]]></category>
+		<category><![CDATA[Exclusive]]></category>
+		<category><![CDATA[LLMs]]></category>
+		<category><![CDATA[Mistral AI]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=3103168</guid>
 
-					<description><![CDATA[Memories.ai is building a large visual memory model that can index and retrieve video-recorded memories for physical AI. ]]></description>
+					<description><![CDATA[Mistral Forge lets enterprises train custom AI models from scratch on their own data, challenging rivals that rely on fine-tuning and retrieval-based approaches.]]></description>
 		
 		
 		
 			</item>
 		<item>
-		<title>Samsung bets this island startup can tame the grid with software and batteries</title>
-		<link>https://techcrunch.com/2026/03/16/samsung-bets-this-island-startup-can-tame-the-grid-with-software-and-batteries/</link>
+		<title>Why Garry Tan&#8217;s Claude Code setup has gotten so much love, and hate</title>
+		<link>https://techcrunch.com/2026/03/17/why-garry-tans-claude-code-setup-has-gotten-so-much-love-and-hate/</link>
+		
+		<dc:creator><![CDATA[Julie Bort]]></dc:creator>
+		<pubDate>Tue, 17 Mar 2026 20:50:04 +0000</pubDate>
+				<category><![CDATA[AI]]></category>
+		<category><![CDATA[Startups]]></category>
+		<category><![CDATA[TC]]></category>
+		<category><![CDATA[garry tan]]></category>
+		<category><![CDATA[sxsw 2026]]></category>
+		<category><![CDATA[Y Combinator]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=3103004</guid>
+
+					<description><![CDATA[Thousands of people are trying Garry Tan's Claude Code setup, which was shared on GitHub. And everyone has an opinion: even Claude, ChatGPT, and Gemini.]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Apple rolls out first &#8216;background security&#8217; update for iPhones, iPads, and Macs to fix Safari bug</title>
+		<link>https://techcrunch.com/2026/03/17/apple-rolls-out-first-background-security-update-for-iphones-ipads-and-macs-to-fix-safari-bug/</link>
+		
+		<dc:creator><![CDATA[Zack Whittaker]]></dc:creator>
+		<pubDate>Tue, 17 Mar 2026 20:10:45 +0000</pubDate>
+				<category><![CDATA[Security]]></category>
+		<category><![CDATA[Apple]]></category>
+		<category><![CDATA[cybersecurity]]></category>
+		<category><![CDATA[In Brief]]></category>
+		<category><![CDATA[iOS]]></category>
+		<category><![CDATA[iPad]]></category>
+		<category><![CDATA[iPhone]]></category>
+		<category><![CDATA[mac]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=3103389</guid>
+
+					<description><![CDATA[Apple's first-ever "background security improvement" fixes a vulnerability in its Safari browser running its latest software.]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Kagi brings its &#8216;small web&#8217; of a human-only internet to mobile devices</title>
+		<link>https://techcrunch.com/2026/03/17/kagi-small-web-human-authored-indie-internet-mobile-ios-android-devices/</link>
+		
+		<dc:creator><![CDATA[Sarah Perez]]></dc:creator>
+		<pubDate>Tue, 17 Mar 2026 20:03:26 +0000</pubDate>
+				<category><![CDATA[Apps]]></category>
+		<category><![CDATA[indie web]]></category>
+		<category><![CDATA[kagi]]></category>
+		<category><![CDATA[Search]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=3103326</guid>
+
+					<description><![CDATA[Kagi's "Small Web" offers a handpicked collection of more than 30,000 non-commercial, human-authored websites, including personal blogs, webcomics, and independent videos.]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>The Pentagon is developing alternatives to Anthropic, report says</title>
+		<link>https://techcrunch.com/2026/03/17/the-pentagon-is-developing-alternatives-to-anthropic-report-says/</link>
+		
+		<dc:creator><![CDATA[Amanda Silberling]]></dc:creator>
+		<pubDate>Tue, 17 Mar 2026 18:20:15 +0000</pubDate>
+				<category><![CDATA[AI]]></category>
+		<category><![CDATA[Government & Policy]]></category>
+		<category><![CDATA[Anthropic]]></category>
+		<category><![CDATA[Elon Musk]]></category>
+		<category><![CDATA[Grok]]></category>
+		<category><![CDATA[In Brief]]></category>
+		<category><![CDATA[OpenAI]]></category>
+		<category><![CDATA[pentagon]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=3103334</guid>
+
+					<description><![CDATA[After their dramatic falling-out, it doesn't seem as though Anthropic and the Pentagon are getting back together.]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>BuzzFeed debuts AI slop apps in bid for new revenue</title>
+		<link>https://techcrunch.com/2026/03/17/buzzfeed-ai-slop-apps-sxsw-bf-island-conjure/</link>
+		
+		<dc:creator><![CDATA[Sarah Perez]]></dc:creator>
+		<pubDate>Tue, 17 Mar 2026 17:17:15 +0000</pubDate>
+				<category><![CDATA[AI]]></category>
+		<category><![CDATA[Apps]]></category>
+		<category><![CDATA[Media & Entertainment]]></category>
+		<category><![CDATA[ai apps]]></category>
+		<category><![CDATA[Buzzfeed]]></category>
+		<category><![CDATA[digital]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=3103244</guid>
+
+					<description><![CDATA[BuzzFeed unveiled new AI-powered social apps at SXSW, but its demos drew muted reactions. ]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Google’s data center power playbook comes into focus</title>
+		<link>https://techcrunch.com/2026/03/17/googles-data-center-power-playbook-comes-into-focus/</link>
 		
 		<dc:creator><![CDATA[Tim De Chant]]></dc:creator>
-		<pubDate>Mon, 16 Mar 2026 20:00:00 +0000</pubDate>
+		<pubDate>Tue, 17 Mar 2026 16:46:02 +0000</pubDate>
 				<category><![CDATA[Climate]]></category>
 		<category><![CDATA[data centers]]></category>
 		<category><![CDATA[electrical grid]]></category>
-		<category><![CDATA[Exclusive]]></category>
-		<category><![CDATA[Samsung]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=3102770</guid>
+		<category><![CDATA[Google]]></category>
+		<category><![CDATA[utilities]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=3103257</guid>
 
-					<description><![CDATA[GridBeyond's hardware and software coordinates several gigawatts of supply and demand to help balance the flow of electricity on the grid. The idea has attracted investors like Samsung Ventures. ]]></description>
+					<description><![CDATA[Google has long procured clean power for its operations and data centers, but recent deals show the company is changing tactics.]]></description>
 		
 		
 		
 			</item>
 		<item>
-		<title>Apple acquires video editing software company MotionVFX</title>
-		<link>https://techcrunch.com/2026/03/16/apple-acquires-video-editing-software-company-motionvfx/</link>
+		<title>Meet Vurt, the mobile-first streaming platform for indie filmmakers embracing vertical video</title>
+		<link>https://techcrunch.com/2026/03/17/vurt-mobile-first-vertical-video-streaming-platform-indie-filmmakers/</link>
+		
+		<dc:creator><![CDATA[Lauren Forristal]]></dc:creator>
+		<pubDate>Tue, 17 Mar 2026 16:00:00 +0000</pubDate>
+				<category><![CDATA[Apps]]></category>
+		<category><![CDATA[Media & Entertainment]]></category>
+		<category><![CDATA[android app]]></category>
+		<category><![CDATA[filmmakers]]></category>
+		<category><![CDATA[iOS app]]></category>
+		<category><![CDATA[microdrama]]></category>
+		<category><![CDATA[short form video app]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=3102846</guid>
+
+					<description><![CDATA[Micro-drama apps make billions in consumer spending, so VURT launched its streaming app to allow indie filmmakers to capitalize on the vertical video trend.]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Google&#8217;s Personal Intelligence feature is expanding to all US users</title>
+		<link>https://techcrunch.com/2026/03/17/googles-personal-intelligence-feature-is-expanding-to-all-us-users/</link>
 		
 		<dc:creator><![CDATA[Aisha Malik]]></dc:creator>
-		<pubDate>Mon, 16 Mar 2026 19:23:44 +0000</pubDate>
-				<category><![CDATA[Apps]]></category>
-		<category><![CDATA[Startups]]></category>
-		<category><![CDATA[Apple]]></category>
-		<category><![CDATA[Video Editing]]></category>
-		<category><![CDATA[motionvfx]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=3102874</guid>
-
-					<description><![CDATA[The move could help Apple better compete with Adobe Premiere Pro and the Adobe Creative Cloud suite. ]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Elon Musk&#8217;s xAI faces child porn lawsuit from minors Grok allegedly undressed</title>
-		<link>https://techcrunch.com/2026/03/16/elon-musks-xai-faces-child-porn-lawsuit-from-minors-grok-allegedly-undressed/</link>
-		
-		<dc:creator><![CDATA[Tim Fernholz]]></dc:creator>
-		<pubDate>Mon, 16 Mar 2026 19:18:44 +0000</pubDate>
+		<pubDate>Tue, 17 Mar 2026 16:00:00 +0000</pubDate>
 				<category><![CDATA[AI]]></category>
-		<category><![CDATA[CSAM]]></category>
-		<category><![CDATA[Grok]]></category>
-		<category><![CDATA[lawsuits]]></category>
-		<category><![CDATA[xAI]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=3102852</guid>
+		<category><![CDATA[Apps]]></category>
+		<category><![CDATA[Chrome]]></category>
+		<category><![CDATA[Google]]></category>
+		<category><![CDATA[gemini]]></category>
+		<category><![CDATA[personal intelligence]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=3103200</guid>
 
-					<description><![CDATA[The three plaintiffs are seeking to represent anyone who had real images of them as a minor altered into sexual content by Grok.]]></description>
+					<description><![CDATA[Personal Intelligence allows Google's AI assistant to tap into your Google ecosystem, such as Gmail and Google Photos, to provide more tailored responses.]]></description>
 		
 		
 		
 			</item>
 		<item>
-		<title>Nvidia’s DLSS 5 uses generative AI to boost photorealism in video games, with ambitions beyond gaming</title>
-		<link>https://techcrunch.com/2026/03/16/nvidias-dlss-5-uses-generative-ai-to-boost-photo-realism-in-video-games-with-ambitions-beyond-gaming/</link>
+		<title>Stryker says it&#8217;s restoring systems after pro-Iran hackers wiped thousands of employee devices</title>
+		<link>https://techcrunch.com/2026/03/17/stryker-says-its-restoring-systems-after-pro-iran-hackers-wiped-thousands-of-employee-devices/</link>
+		
+		<dc:creator><![CDATA[Zack Whittaker]]></dc:creator>
+		<pubDate>Tue, 17 Mar 2026 15:52:50 +0000</pubDate>
+				<category><![CDATA[Security]]></category>
+		<category><![CDATA[cyberattack]]></category>
+		<category><![CDATA[cybersecurity]]></category>
+		<category><![CDATA[iran]]></category>
+		<category><![CDATA[Stryker]]></category>
+		<category><![CDATA[Wiper]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=3103249</guid>
+
+					<description><![CDATA[The hack, which brought ongoing widespread disruption to the company's operations, is thought to be the first major cyberattack in the United States in response to the Trump administration's war in Iran.]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>OpenAI expands government footprint with AWS deal, report says</title>
+		<link>https://techcrunch.com/2026/03/17/openai-expands-government-footprint-with-aws-deal/</link>
 		
 		<dc:creator><![CDATA[Rebecca Bellan]]></dc:creator>
-		<pubDate>Mon, 16 Mar 2026 19:12:19 +0000</pubDate>
-				<category><![CDATA[Enterprise]]></category>
-		<category><![CDATA[AI]]></category>
-		<category><![CDATA[Gaming]]></category>
-		<category><![CDATA[nvidia]]></category>
-		<category><![CDATA[nvidia gtc]]></category>
-		<category><![CDATA[Nvidia GTC 2026]]></category>
-		<category><![CDATA[glss 5]]></category>
-		<category><![CDATA[ai gaming]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=3102891</guid>
-
-					<description><![CDATA[Nvidia’s new DLSS 5 uses generative AI and structured graphics data to make video games more realistic. CEO Jensen Huang says the approach could eventually spread to other industries.]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>The MacBook Neo is ‘the most repairable MacBook’ in years, according to iFixit</title>
-		<link>https://techcrunch.com/2026/03/16/macbook-neo-ifixit-most-repairable-macbook-in-years-battery-replacement/</link>
-		
-		<dc:creator><![CDATA[Anthony Ha]]></dc:creator>
-		<pubDate>Mon, 16 Mar 2026 18:36:42 +0000</pubDate>
-				<category><![CDATA[Hardware]]></category>
-		<category><![CDATA[Apple]]></category>
-		<category><![CDATA[ifixit]]></category>
-		<category><![CDATA[macbook neo]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=3102605</guid>
-
-					<description><![CDATA[Apple’s new MacBook Neo isn’t just the most affordable MacBook — it’s also the company's most repairable laptop in “about fourteen years."]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>How to watch Jensen Huang’s Nvidia GTC 2026 keynote — and what to expect</title>
-		<link>https://techcrunch.com/2026/03/16/nvidia-gtc-how-to-watch-jensen-huang-2026-keynote/</link>
-		
-		<dc:creator><![CDATA[Rebecca Szkutak]]></dc:creator>
-		<pubDate>Mon, 16 Mar 2026 17:51:46 +0000</pubDate>
+		<pubDate>Tue, 17 Mar 2026 15:37:03 +0000</pubDate>
 				<category><![CDATA[AI]]></category>
-		<category><![CDATA[Enterprise]]></category>
-		<category><![CDATA[GTC]]></category>
-		<category><![CDATA[Jensen Huang]]></category>
-		<category><![CDATA[nvidia]]></category>
-		<category><![CDATA[nvidia gtc]]></category>
-		<category><![CDATA[Nvidia GTC 2026]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=3102218</guid>
-
-					<description><![CDATA[GTC is Nvidia's flagship annual event, where the chipmaker typically announces new products, partnerships, and its vision for the future of computing. Huang's keynote will focus on Nvidia's role in the future of computing and AI.]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Another deep tech chip startup becomes a unicorn: Frore hits $1.64B</title>
-		<link>https://techcrunch.com/2026/03/16/another-deep-tech-chip-startup-becomes-a-unicorn-frore-hits-1-64b/</link>
-		
-		<dc:creator><![CDATA[Julie Bort]]></dc:creator>
-		<pubDate>Mon, 16 Mar 2026 17:47:32 +0000</pubDate>
-				<category><![CDATA[AI]]></category>
-		<category><![CDATA[Hardware]]></category>
-		<category><![CDATA[Startups]]></category>
-		<category><![CDATA[TC]]></category>
-		<category><![CDATA[AI chips]]></category>
-		<category><![CDATA[In Brief]]></category>
-		<category><![CDATA[MVP Ventures]]></category>
-		<category><![CDATA[semicondcutors]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=3102735</guid>
-
-					<description><![CDATA[At Nvidia CEO Jensen Huang's urging, Frore developed liquid-cooling tech for chips. That shift helped it raise $143 million.]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Fuse raises $25M  to disrupt aging loan origination systems used by US credit unions</title>
-		<link>https://techcrunch.com/2026/03/16/fuse-raises-25m-to-disrupt-aging-loan-origination-systems-used-by-u-s-credit-unions/</link>
-		
-		<dc:creator><![CDATA[Marina Temkin]]></dc:creator>
-		<pubDate>Mon, 16 Mar 2026 17:43:27 +0000</pubDate>
-				<category><![CDATA[AI]]></category>
-		<category><![CDATA[Fintech]]></category>
-		<category><![CDATA[Startups]]></category>
-		<category><![CDATA[Footwork Ventures]]></category>
-		<category><![CDATA[lenders]]></category>
-		<category><![CDATA[primary ventures]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=3102759</guid>
-
-					<description><![CDATA[The startup also announced a $5 million "rescue fund" to help credit unions ditch legacy software for its AI-native platform.]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>The dictionary sues OpenAI</title>
-		<link>https://techcrunch.com/2026/03/16/merriam-webster-openai-encyclopedia-brittanica-lawsuit/</link>
-		
-		<dc:creator><![CDATA[Amanda Silberling]]></dc:creator>
-		<pubDate>Mon, 16 Mar 2026 17:38:34 +0000</pubDate>
-				<category><![CDATA[AI]]></category>
-		<category><![CDATA[encyclopedia britannica]]></category>
-		<category><![CDATA[lawsuit]]></category>
-		<category><![CDATA[Merriam-Webster]]></category>
+		<category><![CDATA[Government & Policy]]></category>
+		<category><![CDATA[Anthropic]]></category>
+		<category><![CDATA[AWS]]></category>
+		<category><![CDATA[defense]]></category>
 		<category><![CDATA[OpenAI]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=3102753</guid>
+		<guid isPermaLink="false">https://techcrunch.com/?p=3103207</guid>
 
-					<description><![CDATA[Encyclopedia Britannica and Merriam-Webster say that OpenAI violated the copyright of almost 100,000 articles by using them for LLM training.]]></description>
+					<description><![CDATA[OpenAI has reportedly signed a partnership with AWS to sell its AI systems to the U.S. government for classified and unclassified work, marking an expansion beyond its Pentagon deal last month.]]></description>
 		
 		
 		
 			</item>
 		<item>
-		<title>Antonio Gracias says he&#8217;s longing for &#8216;proentropic&#8217; startups — those that are built to survive chaos</title>
-		<link>https://techcrunch.com/2026/03/16/antonio-gracias-says-hes-loomg-for-proentropic-startups-those-that-are-built-to-survive-chaos/</link>
+		<title>AI&#8217;s &#8216;boys&#8217; club&#8217; could widen the wealth gap for women, says Rana el Kaliouby</title>
+		<link>https://techcrunch.com/2026/03/17/ais-boys-club-could-widen-the-wealth-gap-for-women-says-rana-el-kaliouby/</link>
 		
-		<dc:creator><![CDATA[Dominic-Madori Davis]]></dc:creator>
-		<pubDate>Mon, 16 Mar 2026 15:57:02 +0000</pubDate>
-				<category><![CDATA[Venture]]></category>
-		<category><![CDATA[antonio gracias]]></category>
-		<category><![CDATA[Startups]]></category>
-		<category><![CDATA[valor equity partners]]></category>
-		<category><![CDATA[venture]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=3102191</guid>
+		<dc:creator><![CDATA[Sarah Perez]]></dc:creator>
+		<pubDate>Tue, 17 Mar 2026 15:16:21 +0000</pubDate>
+				<category><![CDATA[AI]]></category>
+		<category><![CDATA[Venture]]></category>
+		<category><![CDATA[Dr. Rana el Kaliouby]]></category>
+		<category><![CDATA[investing]]></category>
+		<category><![CDATA[SXSW]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=3103203</guid>
 
-					<description><![CDATA[Antonio Gracias talks at the Upfront Summit in LA about the future of technology. ]]></description>
+					<description><![CDATA[AI investor Rana el Kaliouby warns that if women are shut out of AI funding and leadership, the consequences will be grim.]]></description>
 		
 		
 		
 			</item>
 		<item>
-		<title>Shopify is preparing for AI shopping agents to change everything, exec says</title>
-		<link>https://techcrunch.com/2026/03/16/shopify-is-preparing-for-ai-shopping-agents-to-change-everything-exec-says/</link>
-		
-		<dc:creator><![CDATA[Dominic-Madori Davis]]></dc:creator>
-		<pubDate>Mon, 16 Mar 2026 15:56:39 +0000</pubDate>
-				<category><![CDATA[Commerce]]></category>
-		<category><![CDATA[agentic]]></category>
-		<category><![CDATA[AI agents]]></category>
-		<category><![CDATA[E commerce]]></category>
-		<category><![CDATA[shopping]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=3102378</guid>
-
-					<description><![CDATA[Shopify is preparing for an e-commerce transformation via AI shopping agents, says president Harley Finkelstein.]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Apple quietly launches AirPods Max 2</title>
-		<link>https://techcrunch.com/2026/03/16/apple-quietly-launches-airpods-max-2/</link>
-		
-		<dc:creator><![CDATA[Aisha Malik]]></dc:creator>
-		<pubDate>Mon, 16 Mar 2026 14:12:50 +0000</pubDate>
-				<category><![CDATA[Gadgets]]></category>
-		<category><![CDATA[Hardware]]></category>
-		<category><![CDATA[AirPods]]></category>
-		<category><![CDATA[airpods max 2]]></category>
-		<category><![CDATA[Apple]]></category>
-		<category><![CDATA[headphones]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=3102688</guid>
-
-					<description><![CDATA[The successor to its premium headphones cost $549 and are launching with enhanced active noise cancellation, the H2 chip, live translation, better sound quality, and more. ]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Walmart-backed PhonePe shelves IPO as global tensions rattle markets</title>
-		<link>https://techcrunch.com/2026/03/16/walmart-backed-phonepe-shelves-ipo-as-global-tensions-rattle-markets/</link>
+		<title>Oura enters India&#8217;s smart ring market with the Ring 4</title>
+		<link>https://techcrunch.com/2026/03/17/oura-enters-indias-smart-ring-market-with-the-ring-4/</link>
 		
 		<dc:creator><![CDATA[Jagmeet Singh]]></dc:creator>
-		<pubDate>Mon, 16 Mar 2026 13:02:47 +0000</pubDate>
-				<category><![CDATA[Fintech]]></category>
-		<category><![CDATA[Startups]]></category>
-		<category><![CDATA[IPO]]></category>
-		<category><![CDATA[PhonePe]]></category>
-		<category><![CDATA[Walmart]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=3102672</guid>
+		<pubDate>Tue, 17 Mar 2026 15:14:22 +0000</pubDate>
+				<category><![CDATA[Biotech & Health]]></category>
+		<category><![CDATA[Gadgets]]></category>
+		<category><![CDATA[Hardware]]></category>
+		<category><![CDATA[oura]]></category>
+		<category><![CDATA[oura ring 4]]></category>
+		<category><![CDATA[ultrahuman]]></category>
+		<category><![CDATA[wearables]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=3103201</guid>
 
-					<description><![CDATA[PhonePe has paused its planned IPO, delaying a major liquidity event for investors including Tiger Global and Microsoft.]]></description>
+					<description><![CDATA[Finnish smart ring maker Oura is finally launching in India, taking on local rivals such as Ultrahuman in a relatively young smart ring market that is becoming price-sensitive thanks to an influx of low-cost options.]]></description>
 		
 		
 		
 			</item>
 		<item>
-		<title>The billionaires made a promise — now some want out</title>
-		<link>https://techcrunch.com/2026/03/15/the-billionaires-made-a-promise-now-some-want-out/</link>
+		<title>World launches tool to verify humans behind AI shopping agents</title>
+		<link>https://techcrunch.com/2026/03/17/world-launches-tool-to-verify-humans-behind-ai-shopping-agents/</link>
 		
-		<dc:creator><![CDATA[Connie Loizos]]></dc:creator>
-		<pubDate>Mon, 16 Mar 2026 04:40:24 +0000</pubDate>
-				<category><![CDATA[Government & Policy]]></category>
-		<category><![CDATA[Venture]]></category>
-		<category><![CDATA[Bill Gates]]></category>
-		<category><![CDATA[Giving Pledge]]></category>
-		<category><![CDATA[Peter Thiel]]></category>
-		<category><![CDATA[warren buffett]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=3102647</guid>
+		<dc:creator><![CDATA[Lucas Ropek]]></dc:creator>
+		<pubDate>Tue, 17 Mar 2026 15:00:00 +0000</pubDate>
+				<category><![CDATA[AI]]></category>
+		<category><![CDATA[World]]></category>
+		<category><![CDATA[sam altman]]></category>
+		<category><![CDATA[tools for humanity]]></category>
+		<category><![CDATA[agentic commerce]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=3102797</guid>
 
-					<description><![CDATA[An increasing number of billionaires are turning away from Bill Gates and Warren Buffett's Giving Pledge as wealth once again concentrates at the top.]]></description>
+					<description><![CDATA[As AI agents take the reins for online shoppers, Sam Altman's unconventional startup is looking to expand its verification offerings to support agentic commerce.  ]]></description>
 		
 		
 		
