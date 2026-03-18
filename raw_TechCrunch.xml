@@ -12,7 +12,7 @@
 	<atom:link href="https://techcrunch.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://techcrunch.com/</link>
 	<description>Startup and Technology News</description>
-	<lastBuildDate>Wed, 18 Mar 2026 16:36:27 +0000</lastBuildDate>
+	<lastBuildDate>Wed, 18 Mar 2026 16:46:59 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,27 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>The Gemini-powered features in Google Workspace that are worth using</title>
+		<link>https://techcrunch.com/2026/03/18/the-gemini-powered-features-in-google-workspace-that-are-worth-using/</link>
+		
+		<dc:creator><![CDATA[Lauren Forristal]]></dc:creator>
+		<pubDate>Wed, 18 Mar 2026 16:43:18 +0000</pubDate>
+				<category><![CDATA[AI]]></category>
+		<category><![CDATA[Apps]]></category>
+		<category><![CDATA[evergreens]]></category>
+		<category><![CDATA[gmail]]></category>
+		<category><![CDATA[Google]]></category>
+		<category><![CDATA[google docs]]></category>
+		<category><![CDATA[google gemini]]></category>
+		<category><![CDATA[Google Workspace]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=3103221</guid>
+
+					<description><![CDATA[From summarizing emails, drafting content, organizing data, and tracking meetings, here are all the best Gemini features in Google Workspace.]]></description>
+		
+		
+		
+			</item>
+		<item>
 		<title>Apps to distract you from the endless cycle of doomscrolling</title>
 		<link>https://techcrunch.com/2026/03/18/apps-to-distract-you-from-the-endless-cycle-of-doomscrolling/</link>
 		
@@ -392,25 +413,6 @@
 		<guid isPermaLink="false">https://techcrunch.com/?p=3102846</guid>
 
 					<description><![CDATA[Micro-drama apps make billions in consumer spending, so VURT launched its streaming app to allow indie filmmakers to capitalize on the vertical video trend.]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Google&#8217;s Personal Intelligence feature is expanding to all US users</title>
-		<link>https://techcrunch.com/2026/03/17/googles-personal-intelligence-feature-is-expanding-to-all-us-users/</link>
-		
-		<dc:creator><![CDATA[Aisha Malik]]></dc:creator>
-		<pubDate>Tue, 17 Mar 2026 16:00:00 +0000</pubDate>
-				<category><![CDATA[AI]]></category>
-		<category><![CDATA[Apps]]></category>
-		<category><![CDATA[Chrome]]></category>
-		<category><![CDATA[Google]]></category>
-		<category><![CDATA[gemini]]></category>
-		<category><![CDATA[personal intelligence]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=3103200</guid>
-
-					<description><![CDATA[Personal Intelligence allows Google's AI assistant to tap into your Google ecosystem, such as Gmail and Google Photos, to provide more tailored responses.]]></description>
 		
 		
 		
