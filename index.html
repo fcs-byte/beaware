@@ -5,28 +5,38 @@
     <title>BEAWARE | 數位智庫門戶</title>
     <link rel="stylesheet" href="STYLE_GUIDE.css">
     <style>
-        body { background: #fff; color: #000; font-family: sans-serif; padding: 20px; }
-        .portal-header { border: 10px solid #000; padding: 20px; background: #FFD700; margin-bottom: 20px; }
-        .archive-list { list-style: none; padding: 0; }
-        .archive-item { border: 5px solid #000; margin: 10px 0; padding: 15px; transition: 0.3s; }
-        .archive-item:hover { background: #ffff00; transform: translate(-5px, -5px); box-shadow: 5px 5px 0 #000; }
-        a { color: #000; text-decoration: none; font-weight: bold; }
+        body { background: #fff; color: #000; font-family: sans-serif; padding: 40px; }
+        .portal-container { max-width: 1000px; margin: auto; }
+        .header { border: 10px solid #000; padding: 40px; background: #FFD700; margin-bottom: 40px; box-shadow: 20px 20px 0 #000; }
+        .grid { display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 30px; }
+        .card { border: 8px solid #000; padding: 25px; transition: 0.2s; cursor: pointer; position: relative; background: #fff; }
+        .card:hover { transform: translate(-10px, -10px); box-shadow: 10px 10px 0 #000; }
+        .card .date { font-weight: bold; font-family: monospace; text-transform: uppercase; margin-bottom: 10px; display: block; }
+        .card h2 { margin: 0; font-size: 1.5rem; line-height: 1.2; }
+        .card a { text-decoration: none; color: inherit; stretched-link::after { content: ""; position: absolute; left: 0; top: 0; right: 0; bottom: 0; } }
     </style>
 </head>
 <body>
-    <div class="portal-header">
-        <h1>📊 BEAWARE 智庫總覽</h1>
-        <p>當前週期：2026-03-18 數據經濟</p>
+    <div class="portal-container">
+        <header class="header">
+            <h1 style="margin:0; font-size: 3rem;">📊 BEAWARE SCOUT</h1>
+            <p style="font-weight:bold; margin-top:10px;">數位研究雜誌：數據、隱私與 AI 的交叉觀測</p>
+        </header>
+        <main class="grid">
+            
+            <div class="card" style="border-color: #00D1FF;">
+                <span class="date">[ 2026-03-18 ]</span>
+                <h2><a href="2026-03-18-data-economy.html">數據經濟：資產化與主權重塑</a></h2>
+            </div>
+            <div class="card" style="border-color: #FF3131;">
+                <span class="date">[ 2026-03-17 ]</span>
+                <h2><a href="2026-03-17-ai-evolution.html">AI 進化論：監控浪潮下的技術覺醒</a></h2>
+            </div>
+            <div class="card" style="border-color: #FFD700;">
+                <span class="date">[ 2026-03-16 ]</span>
+                <h2><a href="monday_tech.html">週一技術觀測：自動化邊界與工藝</a></h2>
+            </div>
+        </main>
     </div>
-    <main>
-        <h2>🗄️ 專題存檔紀錄</h2>
-        <ul class="archive-list">
-            <li class="archive-item"><a href="2026-03-17-ai-evolution.html">📅 2026-03-17 | AI 進化論：本地推理革命</a></li>
-            <li class="archive-item"><a href="monday_tech.html">📅 2026-03-16 | 週一技術觀測：自動化邊界</a></li>
-        </ul>
-    </main>
-    <footer>
-        <p>© 2026 BEAWARE Scout Service | System Status: Active</p>
-    </footer>
 </body>
 </html>
