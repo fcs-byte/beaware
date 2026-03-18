@@ -12,7 +12,7 @@
 	<atom:link href="https://techcrunch.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://techcrunch.com/</link>
 	<description>Startup and Technology News</description>
-	<lastBuildDate>Wed, 18 Mar 2026 15:46:34 +0000</lastBuildDate>
+	<lastBuildDate>Wed, 18 Mar 2026 16:36:27 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,16 +28,110 @@
 	<height>32</height>
 </image> 
 	<item>
-		<title>Microsoft hires the team of Sequioa-backed AI collaboration platform, Cove</title>
+		<title>Apps to distract you from the endless cycle of doomscrolling</title>
+		<link>https://techcrunch.com/2026/03/18/apps-to-distract-you-from-the-endless-cycle-of-doomscrolling/</link>
+		
+		<dc:creator><![CDATA[Aisha Malik]]></dc:creator>
+		<pubDate>Wed, 18 Mar 2026 16:34:42 +0000</pubDate>
+				<category><![CDATA[Apps]]></category>
+		<category><![CDATA[doomscrolling]]></category>
+		<category><![CDATA[Elevate]]></category>
+		<category><![CDATA[nyt games]]></category>
+		<category><![CDATA[radio garden]]></category>
+		<category><![CDATA[seterra]]></category>
+		<category><![CDATA[vocabulary]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=3102406</guid>
+
+					<description><![CDATA[It's hard to break the cycle of doomscrolling, but there are plenty of apps that can help you spend more time on content that’s engaging and productive.]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>The leaderboard “you can&#8217;t game,” funded by the companies it ranks</title>
+		<link>https://techcrunch.com/video/the-leaderboard-you-cant-game-funded-by-the-companies-it-ranks/</link>
+		
+		<dc:creator><![CDATA[Theresa Loconsolo]]></dc:creator>
+		<pubDate>Wed, 18 Mar 2026 16:30:00 +0000</pubDate>
+				<category><![CDATA[Startups]]></category>
+		<category><![CDATA[AI]]></category>
+		<category><![CDATA[Benchmark]]></category>
+		<category><![CDATA[chatbot arena]]></category>
+		<category><![CDATA[Equity Video]]></category>
+		<category><![CDATA[AI benchmarking]]></category>
+		<category><![CDATA[LMArena]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?post_type=tc_video&#038;p=3103461</guid>
+
+					<description><![CDATA[Artificial intelligence&#160;models are multiplying fast, and competition is stiff. With so many players crowding the space, which one will be the best&#160;— and who decides that?&#160;Arena, formerly LM Arena, has&#160;emerged&#160;as the de facto public leaderboard for frontier LLMs, influencing funding, launches, and PR cycles. In just seven months, the startup went from a&#160;UC&#160;Berkeley PhD research [&#8230;]]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>This startup wants to make enterprise software look more like a prompt</title>
+		<link>https://techcrunch.com/2026/03/18/this-startup-wants-to-make-enterprise-software-look-more-like-a-prompt/</link>
+		
+		<dc:creator><![CDATA[Tim Fernholz]]></dc:creator>
+		<pubDate>Wed, 18 Mar 2026 16:00:00 +0000</pubDate>
+				<category><![CDATA[AI]]></category>
+		<category><![CDATA[Startups]]></category>
+		<category><![CDATA[enterprise software]]></category>
+		<category><![CDATA[Eragon]]></category>
+		<category><![CDATA[Exclusive]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=3103363</guid>
+
+					<description><![CDATA[The company has raised $12 million in seed funding to build an AI operating system for enterprise. ]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Facebook launches a new monetization program to attract popular creators from TikTok, YouTube</title>
+		<link>https://techcrunch.com/2026/03/18/facebook-launches-a-new-monetization-program-to-attract-popular-creators-from-tiktok-youtube/</link>
+		
+		<dc:creator><![CDATA[Aisha Malik]]></dc:creator>
+		<pubDate>Wed, 18 Mar 2026 16:00:00 +0000</pubDate>
+				<category><![CDATA[Apps]]></category>
+		<category><![CDATA[Social]]></category>
+		<category><![CDATA[Facebook]]></category>
+		<category><![CDATA[Meta]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=3103552</guid>
+
+					<description><![CDATA[Facebook says it paid creators nearly $3 billion through its monetization programs in 2025, a 35% increase from the previous year and its highest annual total to date. ]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Sequen snags $16M to bring TikTok-style personalization tech to any consumer company</title>
+		<link>https://techcrunch.com/2026/03/18/sequen-snags-16m-to-bring-tiktok-style-personalization-tech-to-any-consumer-company/</link>
+		
+		<dc:creator><![CDATA[Sarah Perez]]></dc:creator>
+		<pubDate>Wed, 18 Mar 2026 15:58:50 +0000</pubDate>
+				<category><![CDATA[AI]]></category>
+		<category><![CDATA[Fundraising]]></category>
+		<category><![CDATA[Startups]]></category>
+		<category><![CDATA[Venture]]></category>
+		<category><![CDATA[personalization]]></category>
+		<category><![CDATA[sequen]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=3103554</guid>
+
+					<description><![CDATA[With its Series A, Sequen is bringing its proprietary AI ranking and personalization technology to large consumer business. ]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Microsoft hires the team of Sequoia-backed AI collaboration platform, Cove</title>
 		<link>https://techcrunch.com/2026/03/18/microsoft-hires-the-team-of-sequioa-backed-ai-collaboration-platform-cove/</link>
 		
 		<dc:creator><![CDATA[Ivan Mehta]]></dc:creator>
 		<pubDate>Wed, 18 Mar 2026 15:33:49 +0000</pubDate>
-				<category><![CDATA[Startups]]></category>
-		<category><![CDATA[AI]]></category>
+				<category><![CDATA[AI]]></category>
 		<category><![CDATA[Apps]]></category>
-		<category><![CDATA[Microsoft]]></category>
+		<category><![CDATA[Startups]]></category>
 		<category><![CDATA[collaboration]]></category>
+		<category><![CDATA[Microsoft]]></category>
 		<guid isPermaLink="false">https://techcrunch.com/?p=3103527</guid>
 
 					<description><![CDATA[AI collaboration startup Cove is shutting down after its team joined Microsoft, with service ending April 1 and customer data set for deletion.]]></description>
@@ -102,11 +196,12 @@
 		<category><![CDATA[anthropic lawsuit]]></category>
 		<category><![CDATA[dod]]></category>
 		<category><![CDATA[Exclusive]]></category>
+		<category><![CDATA[In Brief]]></category>
 		<category><![CDATA[pete hegseth]]></category>
 		<category><![CDATA[supply chain risk]]></category>
 		<guid isPermaLink="false">https://techcrunch.com/?p=3103537</guid>
 
-					<description><![CDATA[The Defense Department said concerns that Anthropic might "attempt to disable its technology" during "warfighting operations" validate its decision to label the AI firm a supply chain risk. ]]></description>
+					<description><![CDATA[The Defense Department said concerns that Anthropic might "attempt to disable its technology" during "warfighting operations" validate its decision to label the AI firm a supply-chain risk. ]]></description>
 		
 		
 		
@@ -120,12 +215,12 @@
 				<category><![CDATA[Biotech & Health]]></category>
 		<category><![CDATA[Fundraising]]></category>
 		<category><![CDATA[Gadgets]]></category>
-		<category><![CDATA[Mave Health]]></category>
 		<category><![CDATA[mental health]]></category>
+		<category><![CDATA[Mave Health]]></category>
 		<category><![CDATA[tdcs]]></category>
 		<guid isPermaLink="false">https://techcrunch.com/?p=3095562</guid>
 
-					<description><![CDATA[Mave Health is listing the headset at $495 for pre-orders. It aims to ship devices to users in the U.S. and India in April 2026.]]></description>
+					<description><![CDATA[Mave Health is listing the headset at $495 for preorders. It aims to ship devices to users in the U.S. and India in April 2026.]]></description>
 		
 		
 		
@@ -316,100 +411,6 @@
 		<guid isPermaLink="false">https://techcrunch.com/?p=3103200</guid>
 
 					<description><![CDATA[Personal Intelligence allows Google's AI assistant to tap into your Google ecosystem, such as Gmail and Google Photos, to provide more tailored responses.]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Stryker says it&#8217;s restoring systems after pro-Iran hackers wiped thousands of employee devices</title>
-		<link>https://techcrunch.com/2026/03/17/stryker-says-its-restoring-systems-after-pro-iran-hackers-wiped-thousands-of-employee-devices/</link>
-		
-		<dc:creator><![CDATA[Zack Whittaker]]></dc:creator>
-		<pubDate>Tue, 17 Mar 2026 15:52:50 +0000</pubDate>
-				<category><![CDATA[Security]]></category>
-		<category><![CDATA[cyberattack]]></category>
-		<category><![CDATA[cybersecurity]]></category>
-		<category><![CDATA[iran]]></category>
-		<category><![CDATA[Stryker]]></category>
-		<category><![CDATA[Wiper]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=3103249</guid>
-
-					<description><![CDATA[The hack, which brought ongoing widespread disruption to the company's operations, is thought to be the first major cyberattack in the United States in response to the Trump administration's war in Iran.]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>OpenAI expands government footprint with AWS deal, report says</title>
-		<link>https://techcrunch.com/2026/03/17/openai-expands-government-footprint-with-aws-deal/</link>
-		
-		<dc:creator><![CDATA[Rebecca Bellan]]></dc:creator>
-		<pubDate>Tue, 17 Mar 2026 15:37:03 +0000</pubDate>
-				<category><![CDATA[AI]]></category>
-		<category><![CDATA[Government & Policy]]></category>
-		<category><![CDATA[Anthropic]]></category>
-		<category><![CDATA[AWS]]></category>
-		<category><![CDATA[defense]]></category>
-		<category><![CDATA[OpenAI]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=3103207</guid>
-
-					<description><![CDATA[OpenAI has reportedly signed a partnership with AWS to sell its AI systems to the U.S. government for classified and unclassified work, marking an expansion beyond its Pentagon deal last month.]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>AI&#8217;s &#8216;boys&#8217; club&#8217; could widen the wealth gap for women, says Rana el Kaliouby</title>
-		<link>https://techcrunch.com/2026/03/17/ais-boys-club-could-widen-the-wealth-gap-for-women-says-rana-el-kaliouby/</link>
-		
-		<dc:creator><![CDATA[Sarah Perez]]></dc:creator>
-		<pubDate>Tue, 17 Mar 2026 15:16:21 +0000</pubDate>
-				<category><![CDATA[AI]]></category>
-		<category><![CDATA[Venture]]></category>
-		<category><![CDATA[Dr. Rana el Kaliouby]]></category>
-		<category><![CDATA[investing]]></category>
-		<category><![CDATA[SXSW]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=3103203</guid>
-
-					<description><![CDATA[AI investor Rana el Kaliouby warns that if women are shut out of AI funding and leadership, the consequences will be grim.]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Oura enters India&#8217;s smart ring market with the Ring 4</title>
-		<link>https://techcrunch.com/2026/03/17/oura-enters-indias-smart-ring-market-with-the-ring-4/</link>
-		
-		<dc:creator><![CDATA[Jagmeet Singh]]></dc:creator>
-		<pubDate>Tue, 17 Mar 2026 15:14:22 +0000</pubDate>
-				<category><![CDATA[Biotech & Health]]></category>
-		<category><![CDATA[Gadgets]]></category>
-		<category><![CDATA[Hardware]]></category>
-		<category><![CDATA[oura]]></category>
-		<category><![CDATA[oura ring 4]]></category>
-		<category><![CDATA[ultrahuman]]></category>
-		<category><![CDATA[wearables]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=3103201</guid>
-
-					<description><![CDATA[Finnish smart ring maker Oura is finally launching in India, taking on local rivals such as Ultrahuman in a relatively young smart ring market that is becoming price-sensitive thanks to an influx of low-cost options.]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>World launches tool to verify humans behind AI shopping agents</title>
-		<link>https://techcrunch.com/2026/03/17/world-launches-tool-to-verify-humans-behind-ai-shopping-agents/</link>
-		
-		<dc:creator><![CDATA[Lucas Ropek]]></dc:creator>
-		<pubDate>Tue, 17 Mar 2026 15:00:00 +0000</pubDate>
-				<category><![CDATA[AI]]></category>
-		<category><![CDATA[World]]></category>
-		<category><![CDATA[sam altman]]></category>
-		<category><![CDATA[tools for humanity]]></category>
-		<category><![CDATA[agentic commerce]]></category>
-		<guid isPermaLink="false">https://techcrunch.com/?p=3102797</guid>
-
-					<description><![CDATA[As AI agents take the reins for online shoppers, Sam Altman's unconventional startup is looking to expand its verification offerings to support agentic commerce.  ]]></description>
 		
 		
 		

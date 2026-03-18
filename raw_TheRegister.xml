@@ -13,7 +13,7 @@
   <icon>https://www.theregister.com/Design/graphics/icons/favicon.png</icon>
   <subtitle>Biting the hand that feeds IT — Enterprise Technology News and Analysis</subtitle>
   <logo>https://www.theregister.com/Design/graphics/Reg_default/The_Register_r.png</logo>
-  <updated>2026-03-18T15:15:10.00Z</updated>
+  <updated>2026-03-18T16:26:21.00Z</updated>
   <entry>
     <id>tag:theregister.com,2005:story245175</id>
     <published>2026-03-18T15:15:10.00Z</published>
@@ -53,7 +53,7 @@
   <entry>
     <id>tag:theregister.com,2005:story245170</id>
     <published>2026-03-18T12:53:14.00Z</published>
-    <updated>2026-03-18T12:53:14.00Z</updated>
+    <updated>2026-03-18T16:26:21.00Z</updated>
     <author>
       <name>Tim Anderson</name>
       <uri>https://search.theregister.com/?author=Tim%20Anderson</uri>
@@ -245,13 +245,13 @@
   <entry>
     <id>tag:theregister.com,2005:story245152</id>
     <published>2026-03-17T17:11:44.00Z</published>
-    <updated>2026-03-18T03:00:39.00Z</updated>
+    <updated>2026-03-18T16:10:35.00Z</updated>
     <author>
       <name>Brandon Vigliarolo</name>
       <uri>https://search.theregister.com/?author=Brandon%20Vigliarolo</uri>
     </author>
     <link rel="alternate" type="text/html" href="https://go.theregister.com/feed/www.theregister.com/2026/03/17/nvidia_chips_in_spaaaaaace/"/>
-    <title type="html">Chips...in...spaaaace - courtesy of Nvidia</title>
+    <title type="html">Chips... in spaaaace – courtesy of Nvidia</title>
     <summary type="html" xml:base="https://www.theregister.com/">&lt;h4&gt;The Space-1 Vera Rubin Module will solve all your in-space computing needs&lt;/h4&gt; &lt;p&gt;&lt;strong&gt;gtc&lt;/strong&gt;  Space could be the final frontier for datacenters. Never mind that some analysts have described orbital bit barns as "peak insanity" - Nvidia has designed a new Vera Rubin module specifically to operate above the Earth's atmosphere.…&lt;/p&gt; &lt;p&gt;&lt;!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --&gt;&lt;/p&gt;</summary>
   </entry>
   <entry>
